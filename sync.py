@@ -70,7 +70,7 @@ THUMBNAIL_WIDTH = 400
 # 한 번 실행에서 최대 이만큼(초)만 다운로드하고 스스로 정상 종료.
 # PDF가 아주 많아도 이 시간 안에서 끊고 나가야, 다음 GitHub Actions 스텝(git commit/push)이
 # 정상적으로 이어서 실행됨. 남은 파일은 다음 실행(스케줄/수동)에서 이어받음.
-MAX_RUNTIME_SECONDS = 20 * 60  # 20분
+MAX_RUNTIME_SECONDS = 1200 * 60  # 20분
 
 SITE_DIR = Path("sites")
 FILES_DIR = SITE_DIR / "files"
