@@ -1,0 +1,7 @@
+# 절대 커밋하면 안 되는 파일들
+.env
+telegram_session.session
+telegram_session.session-journal
+downloads/
+__pycache__/
+*.pyc
