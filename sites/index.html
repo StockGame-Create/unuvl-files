@@ -468,14 +468,15 @@
     const SOCIAL_SUBJECTS = new Set([
       "세계지리", "생활과윤리", "사회문화", "윤리와사상", "동아시아사",
       "세계사", "경제", "정치와법", "한국지리", "통합사회", "사회탐구",
-    ]);
+      "윤사", "생윤", "사문", "동사", "세사", "정법", "지리", "사회",
+    "쌍윤", "쌍사", "쌍지", "한지", "세지", "통사"]);
 
     const SCIENCE_SUBJECTS = new Set([
       "지구과학", "지구과학1", "지구과학2",
       "생명과학", "생명과학1", "생명과학2",
-      "물리학", "물리학1", "물리학2",
-      "화학", "화학1", "화학2",
-      "통합과학", "과학탐구",
+      "물리학", "물리학1", "물리학2", "물리", "지구1", "지구2", "생명", "물리1", "물리2",
+"생명1", "생명2", "화1", "화2"   ,"생1", "지1","생2","지2", "물1", "물2",   "화학", "화학1", "화학2",
+      "통합과학", "과학탐구", "통과", "과탐", "과학"
     ]);
 
     function subjectCategory(subject) {
@@ -511,7 +512,11 @@
     function resolveCategory(f) {
       const bySubject = subjectCategory(f.subject);
       if (bySubject !== "other") return bySubject;
-      const byKeyword = categoryFromKeywords([f.filename, f.title].filter(Boolean).join(" "));
+      // subject 필드가 세트와 정확히 일치하지 않아도(예: "국어A형", 오탈자 등),
+      // 과목/제목/파일명 어디든 키워드가 포함만 되어 있으면 무조건 인식한다.
+      const byKeyword = categoryFromKeywords(
+        [f.subject, f.title, f.filename].filter(Boolean).join(" ")
+      );
       return byKeyword || "other";
     }
 
