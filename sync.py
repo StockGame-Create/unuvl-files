@@ -30,6 +30,7 @@
 """
 
 import asyncio
+import hashlib
 import json
 import os
 import re
@@ -133,6 +134,15 @@ def parse_caption(caption: str | None) -> dict:
     return result
 
 
+def compute_sha256(path: Path) -> str:
+    """파일 내용의 SHA-256 해시. 같은 내용의 파일(이름은 달라도)을 잡아내는 데 사용."""
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1024 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
 def make_thumbnail(pdf_path: Path, thumb_path: Path) -> bool:
     """PDF 첫 페이지를 이미지로 렌더링해서 thumb_path에 저장. 성공하면 True."""
     try:
@@ -203,7 +213,15 @@ def save_manifest(manifest: dict) -> None:
 
 async def sync():
     manifest = load_manifest()
+    manifest.setdefault("duplicate_message_ids", [])
+
     known_message_ids = {f["message_id"] for f in manifest["files"]}
+    known_message_ids |= set(manifest["duplicate_message_ids"])
+
+    # 1단계(다운로드 전) 중복 검사용: 파일명+용량이 완전히 같으면 십중팔구 재업로드.
+    known_name_size = {(f["filename"].lower(), f["size_bytes"]) for f in manifest["files"]}
+    # 2단계(다운로드 후) 중복 검사용: 이름이 달라도 내용이 같은 파일을 잡아냄.
+    known_hashes = {f["sha256"]: f for f in manifest["files"] if f.get("sha256")}
 
     if AUTO_GIT_PUSH:
         # 파일마다 즉시 커밋하려면 git 사용자 정보가 필요.
@@ -261,93 +279,146 @@ async def sync():
     print(f"'{getattr(entity, 'title', CHAT)}' 방에서 PDF를 찾는 중... (기준일: {CUTOFF.date()} 이후, {MAX_SIZE_BYTES // (1024*1024)}MB 이하)", flush=True)
 
     new_count = 0
-    skipped_too_old = 0
     skipped_too_big = 0
     checked_count = 0
     start_time = time.monotonic()
     stopped_early = False
 
+    # 파일 하나를 받을 때마다 "최신 메시지부터" 순회를 처음부터 다시 시작한다.
+    # 이렇게 해야, 오래된 파일을 내려받는 도중에 새로 올라온 파일이 있으면
+    # 다음 바퀴에서 바로(=이번 실행 안에서) 그 최신 파일을 먼저 잡아낼 수 있다.
+    # 한 바퀴를 끝까지 돌았는데도 새로 받은 파일이 하나도 없으면, 더 이상
+    # 받을 게 없다는 뜻이므로 그때 종료한다.
     print("메시지 순회 시작...", flush=True)
-    async for message in client.iter_messages(entity):
-        checked_count += 1
-        if checked_count % 20 == 0:
-            print(f"  ...지금까지 {checked_count}개 메시지 확인함 (마지막 확인 날짜: {message.date})", flush=True)
+    while True:
+        found_new_this_pass = False
 
-        elapsed = time.monotonic() - start_time
-        if elapsed > MAX_RUNTIME_SECONDS:
-            print(
-                f"실행 시간 제한({MAX_RUNTIME_SECONDS // 60}분) 도달, "
-                "여기서 정상 종료하고 나머지는 다음 실행에서 이어받습니다.",
-                flush=True,
-            )
-            stopped_early = True
+        async for message in client.iter_messages(entity):
+            checked_count += 1
+            if checked_count % 20 == 0:
+                print(f"  ...지금까지 {checked_count}개 메시지 확인함 (마지막 확인 날짜: {message.date})", flush=True)
+
+            elapsed = time.monotonic() - start_time
+            if elapsed > MAX_RUNTIME_SECONDS:
+                print(
+                    f"실행 시간 제한({MAX_RUNTIME_SECONDS // 60}분) 도달, "
+                    "여기서 정상 종료하고 나머지는 다음 실행에서 이어받습니다.",
+                    flush=True,
+                )
+                stopped_early = True
+                break
+
+            if message.date < CUTOFF:
+                print(f"기준일({CUTOFF.date()})보다 오래된 메시지 발견({message.date.date()}), 이번 바퀴 순회 중단", flush=True)
+                break
+
+            ok, filename = is_pdf(message)
+            if not ok or message.id in known_message_ids:
+                continue
+
+            file_size = message.document.size
+            if file_size > MAX_SIZE_BYTES:
+                print(f"  건너뜀 (용량 초과 {file_size / (1024*1024):.1f}MB): {filename}", flush=True)
+                skipped_too_big += 1
+                continue
+
+            # 1단계 중복 검사 (다운로드 전): 파일명+용량이 기존 파일과 완전히
+            # 같으면 재업로드로 간주하고 다운로드 자체를 건너뜀 (대역폭 절약).
+            if (filename.lower(), file_size) in known_name_size:
+                print(f"  건너뜀 (파일명+용량이 동일한 기존 파일 있음, 중복으로 추정): {filename}", flush=True)
+                manifest["duplicate_message_ids"].append(message.id)
+                known_message_ids.add(message.id)
+                save_manifest(manifest)
+                if AUTO_GIT_PUSH:
+                    git_commit_and_push(f"chore: 중복 파일 스킵 - {filename} [skip ci]")
+                continue
+
+            # 파일명이 중복될 수 있으니 메시지 ID를 접두어로 붙여 저장
+            safe_filename = f"{message.id}_{filename}"
+            local_path = FILES_DIR / safe_filename
+
+            print(f"  내려받는 중 ({file_size / (1024*1024):.1f}MB): {filename}", flush=True)
+
+            last_pct = [-10]
+
+            def _progress(current, total):
+                pct = int(current / total * 100) if total else 0
+                if pct - last_pct[0] >= 10:
+                    last_pct[0] = pct
+                    print(f"    ...{pct}% ({current / (1024*1024):.1f}/{total / (1024*1024):.1f}MB)", flush=True)
+
+            await client.download_media(message, file=str(local_path), progress_callback=_progress)
+            print(f"  완료: {filename}", flush=True)
+
+            # 2단계 중복 검사 (다운로드 후): 파일명은 다르지만 내용이 완전히
+            # 같은 경우(리네임된 재업로드)를 해시로 잡아냄. 대역폭은 이미 썼지만
+            # 해싱 자체는 매우 빨라서(150MB도 1~2초) 추가 시간 부담은 미미함.
+            file_hash = compute_sha256(local_path)
+            if file_hash in known_hashes:
+                original = known_hashes[file_hash]
+                print(f"  중복 파일 감지 (기존 '{original['filename']}'와 내용 동일), 저장하지 않고 삭제: {filename}", flush=True)
+                local_path.unlink(missing_ok=True)
+                manifest["duplicate_message_ids"].append(message.id)
+                known_message_ids.add(message.id)
+                save_manifest(manifest)
+                if AUTO_GIT_PUSH:
+                    git_commit_and_push(f"chore: 중복 파일 스킵 - {filename} [skip ci]")
+                # 다운로드에 시간을 썼으니, 그 사이 새 파일이 올라왔을 수 있음 -> 재스캔
+                found_new_this_pass = True
+                break
+
+            # 캡션(메시지 본문)에서 년도/강사/과목/제목 파싱. 형식이 없거나 달라도
+            # 에러 없이 빈 값으로 채워지고, 제목이 없으면 파일명으로 대체.
+            meta = parse_caption(message.message)
+            title = meta["title"] or Path(filename).stem
+
+            # PDF 첫 페이지 썸네일 생성 (실패해도 목록 자체는 계속 진행)
+            thumb_filename = f"{message.id}.png"
+            thumb_path = THUMBS_DIR / thumb_filename
+            thumbnail_ok = make_thumbnail(local_path, thumb_path)
+
+            new_entry = {
+                "message_id": message.id,
+                "filename": filename,          # 사람이 보는 원래 파일명
+                "stored_as": safe_filename,     # 실제 저장된 파일명 (다운로드 링크에 사용)
+                "size_bytes": local_path.stat().st_size,
+                "telegram_date": message.date.isoformat(),
+                "title": title,
+                "year": meta["year"],
+                "instructor": meta["instructor"],
+                "subject": meta["subject"],
+                "thumbnail": f"thumbnails/{thumb_filename}" if thumbnail_ok else None,
+                "sha256": file_hash,
+            }
+            manifest["files"].append(new_entry)
+            new_count += 1
+            known_message_ids.add(message.id)
+            known_name_size.add((filename.lower(), new_entry["size_bytes"]))
+            known_hashes[file_hash] = new_entry
+            found_new_this_pass = True
+
+            # 파일 하나 받을 때마다 바로 manifest를 저장.
+            # (끝까지 안 기다리고 timeout 등으로 중간에 멈춰도, 그때까지 받은
+            #  파일은 manifest에 확실히 남도록 하기 위함)
+            manifest["files"].sort(key=lambda f: f["telegram_date"], reverse=True)
+            save_manifest(manifest)
+
+            # 파일 하나 받을 때마다 바로 git commit + push까지 끝냄.
+            # (전체 다운로드가 다 끝날 때까지 기다리지 않고, 받는 즉시 웹사이트에 반영되게)
+            if AUTO_GIT_PUSH:
+                git_commit_and_push(f"chore: PDF 자동 동기화 - {filename} [skip ci]")
+
+            # 방금 파일을 하나 받았으니, 그 사이 더 최신 파일이 올라왔을 수도 있다.
+            # 안쪽 순회를 끊고 바깥쪽 while 루프에서 최신 메시지부터 다시 시작한다.
             break
 
-        if message.date < CUTOFF:
-            print(f"기준일({CUTOFF.date()})보다 오래된 메시지 발견({message.date.date()}), 순회 중단", flush=True)
+        if stopped_early:
             break
 
-        ok, filename = is_pdf(message)
-        if not ok or message.id in known_message_ids:
-            continue
-
-        file_size = message.document.size
-        if file_size > MAX_SIZE_BYTES:
-            print(f"  건너뜀 (용량 초과 {file_size / (1024*1024):.1f}MB): {filename}", flush=True)
-            skipped_too_big += 1
-            continue
-
-        # 파일명이 중복될 수 있으니 메시지 ID를 접두어로 붙여 저장
-        safe_filename = f"{message.id}_{filename}"
-        local_path = FILES_DIR / safe_filename
-
-        print(f"  내려받는 중 ({file_size / (1024*1024):.1f}MB): {filename}", flush=True)
-
-        last_pct = [-10]
-
-        def _progress(current, total):
-            pct = int(current / total * 100) if total else 0
-            if pct - last_pct[0] >= 10:
-                last_pct[0] = pct
-                print(f"    ...{pct}% ({current / (1024*1024):.1f}/{total / (1024*1024):.1f}MB)", flush=True)
-
-        await client.download_media(message, file=str(local_path), progress_callback=_progress)
-        print(f"  완료: {filename}", flush=True)
-
-        # 캡션(메시지 본문)에서 년도/강사/과목/제목 파싱. 형식이 없거나 달라도
-        # 에러 없이 빈 값으로 채워지고, 제목이 없으면 파일명으로 대체.
-        meta = parse_caption(message.message)
-        title = meta["title"] or Path(filename).stem
-
-        # PDF 첫 페이지 썸네일 생성 (실패해도 목록 자체는 계속 진행)
-        thumb_filename = f"{message.id}.png"
-        thumb_path = THUMBS_DIR / thumb_filename
-        thumbnail_ok = make_thumbnail(local_path, thumb_path)
-
-        manifest["files"].append({
-            "message_id": message.id,
-            "filename": filename,          # 사람이 보는 원래 파일명
-            "stored_as": safe_filename,     # 실제 저장된 파일명 (다운로드 링크에 사용)
-            "size_bytes": local_path.stat().st_size,
-            "telegram_date": message.date.isoformat(),
-            "title": title,
-            "year": meta["year"],
-            "instructor": meta["instructor"],
-            "subject": meta["subject"],
-            "thumbnail": f"thumbnails/{thumb_filename}" if thumbnail_ok else None,
-        })
-        new_count += 1
-
-        # 파일 하나 받을 때마다 바로 manifest를 저장.
-        # (끝까지 안 기다리고 timeout 등으로 중간에 멈춰도, 그때까지 받은
-        #  파일은 manifest에 확실히 남도록 하기 위함)
-        manifest["files"].sort(key=lambda f: f["telegram_date"], reverse=True)
-        save_manifest(manifest)
-
-        # 파일 하나 받을 때마다 바로 git commit + push까지 끝냄.
-        # (전체 다운로드가 다 끝날 때까지 기다리지 않고, 받는 즉시 웹사이트에 반영되게)
-        if AUTO_GIT_PUSH:
-            git_commit_and_push(f"chore: PDF 자동 동기화 - {filename} [skip ci]")
+        if not found_new_this_pass:
+            # 이번 바퀴를 끝까지(또는 cutoff까지) 돌았는데 새로 받은 파일이
+            # 하나도 없었다는 뜻 -> 더 받을 게 없으므로 종료.
+            break
 
     # 혹시 모를 마지막 정렬/저장 (이미 매 다운로드마다 저장되지만 안전하게 한 번 더)
     manifest["files"].sort(key=lambda f: f["telegram_date"], reverse=True)
