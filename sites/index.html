@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>unvul-files</title>
+<title>Unvul Files</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
@@ -186,20 +186,57 @@
     background: #E4DBC6;
     overflow: hidden;
     border: 3px solid var(--rule);
+    transition: box-shadow 0.4s ease, transform 0.4s ease, border-color 0.4s ease;
   }
 
-  .thumb.cat-korean { border-color: var(--cat-korean); }
-  .thumb.cat-math { border-color: var(--cat-math); }
-  .thumb.cat-english { border-color: var(--cat-english); }
-  .thumb.cat-social { border-color: var(--cat-social); }
-  .thumb.cat-science { border-color: var(--cat-science); }
-  .thumb.cat-other { border-color: var(--cat-other); }
+  /* 과목별 테두리 색 + 은은하게 숨쉬는 글로우 애니메이션 */
+  .thumb.cat-korean { border-color: var(--cat-korean); --glow: var(--cat-korean); }
+  .thumb.cat-math { border-color: var(--cat-math); --glow: var(--cat-math); }
+  .thumb.cat-english { border-color: var(--cat-english); --glow: var(--cat-english); }
+  .thumb.cat-social { border-color: var(--cat-social); --glow: var(--cat-social); }
+  .thumb.cat-science { border-color: var(--cat-science); --glow: var(--cat-science); }
+  .thumb.cat-other { border-color: var(--cat-other); --glow: var(--cat-other); }
+
+  .thumb[class*="cat-"] {
+    animation: thumbGlow 3.6s ease-in-out infinite;
+  }
+
+  @keyframes thumbGlow {
+    0%, 100% {
+      box-shadow:
+        0 0 0 0 color-mix(in srgb, var(--glow) 0%, transparent),
+        inset 0 0 0 0 color-mix(in srgb, var(--glow) 0%, transparent);
+    }
+    50% {
+      box-shadow:
+        0 0 16px 1px color-mix(in srgb, var(--glow) 55%, transparent),
+        0 0 0 4px color-mix(in srgb, var(--glow) 16%, transparent),
+        inset 0 0 10px 0 color-mix(in srgb, var(--glow) 12%, transparent);
+    }
+  }
+
+  li.file-card:hover .thumb {
+    animation-play-state: paused;
+    transform: translateY(-3px);
+    box-shadow:
+      0 0 20px 2px color-mix(in srgb, var(--glow, var(--rule)) 65%, transparent),
+      0 0 0 4px color-mix(in srgb, var(--glow, var(--rule)) 22%, transparent);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .thumb[class*="cat-"] { animation: none; }
+  }
 
   .thumb img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
+    transition: transform 0.5s ease;
+  }
+
+  li.file-card:hover .thumb img {
+    transform: scale(1.045);
   }
 
   .thumb .thumb-fallback {
@@ -452,6 +489,32 @@
       return "other";
     }
 
+    // ---- subject 필드가 비어있거나 "기타"로 분류될 때, 파일명/제목에 섞인
+    //      과목 키워드를 보고 한 번 더 추정한다 (예: "2024_수학_모의고사.pdf") ----
+    function categoryFromKeywords(text) {
+      const norm = stripSpace(text);
+      if (!norm) return null;
+      if (norm.includes("국어")) return "korean";
+      if (norm.includes("수학")) return "math";
+      if (norm.includes("영어")) return "english";
+      if (norm.includes("사회탐구") || norm.includes("사탐")) return "social";
+      for (const subj of SOCIAL_SUBJECTS) {
+        if (subj !== "사회탐구" && norm.includes(subj)) return "social";
+      }
+      if (norm.includes("과학탐구") || norm.includes("과탐")) return "science";
+      for (const subj of SCIENCE_SUBJECTS) {
+        if (subj !== "과학탐구" && norm.includes(subj)) return "science";
+      }
+      return null;
+    }
+
+    function resolveCategory(f) {
+      const bySubject = subjectCategory(f.subject);
+      if (bySubject !== "other") return bySubject;
+      const byKeyword = categoryFromKeywords([f.filename, f.title].filter(Boolean).join(" "));
+      return byKeyword || "other";
+    }
+
     function formatSize(bytes) {
       if (bytes < 1024) return bytes + " B";
       if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(0) + " KB";
@@ -523,7 +586,7 @@
         li.className = "file-card";
 
         const displayTitle = f.title || f.filename;
-        const category = subjectCategory(f.subject);
+        const category = resolveCategory(f);
 
         const tagParts = [];
         if (f.subject) tagParts.push(f.subject);
@@ -570,7 +633,7 @@
       const checkedCats = getCheckedCategories();
 
       const filtered = allFiles.filter(f => {
-        if (checkedCats.length > 0 && !checkedCats.includes(subjectCategory(f.subject))) {
+        if (checkedCats.length > 0 && !checkedCats.includes(resolveCategory(f))) {
           return false;
         }
         if (!q) return true;
