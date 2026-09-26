@@ -463,7 +463,7 @@
 
     // ---- 과목 -> 카테고리 분류 ----
     // 띄어쓰기 유무가 섞여 있을 수 있어서, 공백을 다 지운 뒤 비교한다.
-    const stripSpace = (s) => (s || "").replace(/\s+/g, "");
+    const stripSpace = (s) => (s || "").normalize("NFC").replace(/\s+/g, "");
 
     const SOCIAL_SUBJECTS = new Set([
       "세계지리", "생활과윤리", "사회문화", "윤리와사상", "동아시아사",
@@ -500,11 +500,13 @@
       if (norm.includes("영어")) return "english";
       if (norm.includes("사회탐구") || norm.includes("사탐")) return "social";
       for (const subj of SOCIAL_SUBJECTS) {
-        if (subj !== "사회탐구" && norm.includes(subj)) return "social";
+        const subjNorm = subj.normalize("NFC");
+        if (subjNorm !== "사회탐구" && norm.includes(subjNorm)) return "social";
       }
       if (norm.includes("과학탐구") || norm.includes("과탐")) return "science";
       for (const subj of SCIENCE_SUBJECTS) {
-        if (subj !== "과학탐구" && norm.includes(subj)) return "science";
+        const subjNorm = subj.normalize("NFC");
+        if (subjNorm !== "과학탐구" && norm.includes(subjNorm)) return "science";
       }
       return null;
     }
