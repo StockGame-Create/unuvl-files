@@ -194,7 +194,13 @@ async def sync():
         })
         new_count += 1
 
-    # 최신순으로 정렬해서 저장 (텔레그램 날짜 기준)
+        # 파일 하나 받을 때마다 바로 manifest를 저장.
+        # (끝까지 안 기다리고 timeout 등으로 중간에 멈춰도, 그때까지 받은
+        #  파일은 manifest에 확실히 남도록 하기 위함)
+        manifest["files"].sort(key=lambda f: f["telegram_date"], reverse=True)
+        save_manifest(manifest)
+
+    # 혹시 모를 마지막 정렬/저장 (이미 매 다운로드마다 저장되지만 안전하게 한 번 더)
     manifest["files"].sort(key=lambda f: f["telegram_date"], reverse=True)
     save_manifest(manifest)
 
