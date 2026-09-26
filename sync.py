@@ -146,10 +146,16 @@ async def sync():
     new_count = 0
     skipped_too_old = 0
     skipped_too_big = 0
+    checked_count = 0
 
+    print("메시지 순회 시작...", flush=True)
     async for message in client.iter_messages(entity):
+        checked_count += 1
+        if checked_count % 20 == 0:
+            print(f"  ...지금까지 {checked_count}개 메시지 확인함 (마지막 확인 날짜: {message.date})", flush=True)
+
         if message.date < CUTOFF:
-            # 메시지는 최신순으로 오므로, 기준일보다 오래된 게 나오면 더 볼 필요 없음
+            print(f"기준일({CUTOFF.date()})보다 오래된 메시지 발견({message.date.date()}), 순회 중단", flush=True)
             break
 
         ok, filename = is_pdf(message)
@@ -158,7 +164,7 @@ async def sync():
 
         file_size = message.document.size
         if file_size > MAX_SIZE_BYTES:
-            print(f"  건너뜀 (용량 초과 {file_size / (1024*1024):.1f}MB): {filename}")
+            print(f"  건너뜀 (용량 초과 {file_size / (1024*1024):.1f}MB): {filename}", flush=True)
             skipped_too_big += 1
             continue
 
@@ -166,8 +172,18 @@ async def sync():
         safe_filename = f"{message.id}_{filename}"
         local_path = FILES_DIR / safe_filename
 
-        print(f"  내려받는 중: {filename}")
-        await client.download_media(message, file=str(local_path))
+        print(f"  내려받는 중 ({file_size / (1024*1024):.1f}MB): {filename}", flush=True)
+
+        last_pct = [-10]
+
+        def _progress(current, total):
+            pct = int(current / total * 100) if total else 0
+            if pct - last_pct[0] >= 10:
+                last_pct[0] = pct
+                print(f"    ...{pct}% ({current / (1024*1024):.1f}/{total / (1024*1024):.1f}MB)", flush=True)
+
+        await client.download_media(message, file=str(local_path), progress_callback=_progress)
+        print(f"  완료: {filename}", flush=True)
 
         manifest["files"].append({
             "message_id": message.id,
