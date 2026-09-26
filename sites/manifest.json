@@ -71,6 +71,18 @@
       "instructor": null,
       "subject": null,
       "thumbnail": "thumbnails/24720.png"
+    },
+    {
+      "message_id": 24719,
+      "filename": "27 세지 파브 6회.pdf",
+      "stored_as": "24719_27 세지 파브 6회.pdf",
+      "size_bytes": 3994247,
+      "telegram_date": "2026-09-26T08:33:15+00:00",
+      "title": "27 세지 파브 6회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24719.png"
     }
   ]
 }
