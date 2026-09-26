@@ -46,7 +46,7 @@ PHONE = os.environ["TELEGRAM_PHONE"]
 _chat_raw = os.environ["TELEGRAM_CHAT"]  # 채널/그룹 username(@없이) 또는 숫자 ID
 CHAT = int(_chat_raw) if _chat_raw.lstrip("-").isdigit() else _chat_raw
 
-SESSION_STRING = os.environ.get("TELEGRAM_SESSION")  # GitHub Secrets 등, 없으면 로컬 파일 세션 사용
+SESSION_STRING = os.environ.get("TELEGRAM_SESSION", "").strip() or None  # GitHub Secrets 등, 없으면 로컬 파일 세션 사용
 
 # ---- 동기화 조건 --------------------------------------------------------
 # 이 날짜 이후에 올라온 메시지만 동기화 (하드코딩: 2026-09-04부터)
@@ -93,12 +93,16 @@ async def sync():
     manifest = load_manifest()
     known_message_ids = {f["message_id"] for f in manifest["files"]}
 
+    print(f"세션 문자열 존재 여부: {bool(SESSION_STRING)}, 길이: {len(SESSION_STRING) if SESSION_STRING else 0}", flush=True)
+
     if SESSION_STRING:
         client = TelegramClient(StringSession(SESSION_STRING), API_ID, API_HASH)
     else:
         client = TelegramClient("telegram_session", API_ID, API_HASH)  # 로컬 fallback
 
+    print("로그인 시도 시작...", flush=True)
     await client.start(phone=PHONE)
+    print("로그인 성공!", flush=True)
 
     entity = await client.get_entity(CHAT)
     print(f"'{getattr(entity, 'title', CHAT)}' 방에서 PDF를 찾는 중... (기준일: {CUTOFF.date()} 이후, {MAX_SIZE_BYTES // (1024*1024)}MB 이하)")
