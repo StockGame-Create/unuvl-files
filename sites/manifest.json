@@ -116,6 +116,19 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24716.png",
       "sha256": "fe19669263838d59f9be3fa17b91f33d011cba99e0f32a6494e430ca53cee05e"
+    },
+    {
+      "message_id": 24715,
+      "filename": "2027학년도_서바이벌_C_단독_모의고사_물리학I_10부터_12회_답지.pdf",
+      "stored_as": "24715_2027학년도_서바이벌_C_단독_모의고사_물리학I_10부터_12회_답지.pdf",
+      "size_bytes": 9948194,
+      "telegram_date": "2026-09-26T08:33:08+00:00",
+      "title": "2027학년도_서바이벌_C_단독_모의고사_물리학I_10부터_12회_답지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24715.png",
+      "sha256": "601be1f5d366c2744b660626ec5553acf9100c05a48b8b774126902160030f9e"
     }
   ],
   "duplicate_message_ids": []
