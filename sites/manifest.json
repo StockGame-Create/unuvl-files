@@ -143,6 +143,18 @@
       "instructor": null,
       "subject": "사회문화",
       "thumbnail": "thumbnails/24711.png"
+    },
+    {
+      "message_id": 24709,
+      "filename": "코드넘버3 해설.pdf",
+      "stored_as": "24709_코드넘버3 해설.pdf",
+      "size_bytes": 46269025,
+      "telegram_date": "2026-09-26T08:33:05+00:00",
+      "title": "화1 김준 CODE NO.3",
+      "year": "2027",
+      "instructor": "김준",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/24709.png"
     }
   ]
 }
