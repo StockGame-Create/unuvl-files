@@ -1,46 +1,42 @@
-name: 텔레그램 PDF 동기화
+name: Sync Telegram PDFs
 
 on:
   schedule:
-    # 매일 한국시간 09:00에 실행 (UTC 기준 00:00). 필요에 맞게 수정하세요.
-    - cron: "0 0 * * *"
-  workflow_dispatch: {} # Actions 탭에서 수동으로도 실행 가능
+    # 30분마다 실행 (cron은 UTC 기준, 필요하면 주기 조정)
+    - cron: "*/30 * * * *"
+  workflow_dispatch: # Actions 탭에서 수동 실행도 가능
 
 permissions:
-  contents: write # 이 워크플로우가 레포에 커밋/푸시하려면 필요
+  contents: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: 레포 체크아웃
+      - name: 저장소 체크아웃
         uses: actions/checkout@v4
 
       - name: Python 설치
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.13"
 
       - name: 의존성 설치
         run: pip install -r requirements.txt
 
-      - name: 텔레그램 로그인 세션 복원
-        run: echo "${{ secrets.TELEGRAM_SESSION_B64 }}" | base64 -d > telegram_session.session
-
-      - name: 동기화 실행
-        id: sync
+      - name: sync.py 실행
         env:
           TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_PHONE: ${{ secrets.TELEGRAM_PHONE }}
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+          TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
         run: python sync.py
 
       - name: 변경사항 커밋 & 푸시
-        if: steps.sync.outputs.new_count != '0'
         run: |
-          git config user.name "telegram-pdf-sync-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add site/
-          git commit -m "sync: 새 PDF ${{ steps.sync.outputs.new_count }}개 추가"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sites/
+          git diff --staged --quiet || git commit -m "chore: PDF 자동 동기화 [skip ci]"
           git push
