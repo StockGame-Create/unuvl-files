@@ -47,6 +47,18 @@
       "instructor": "최적",
       "subject": "사회문화",
       "thumbnail": "thumbnails/24723.png"
+    },
+    {
+      "message_id": 24721,
+      "filename": "세지 파브 7회 해설.pdf",
+      "stored_as": "24721_세지 파브 7회 해설.pdf",
+      "size_bytes": 2139489,
+      "telegram_date": "2026-09-26T08:33:17+00:00",
+      "title": "세지 시대인재 Final 브릿지 모의고사 6, 7회 #파브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/24721.png"
     }
   ]
 }
