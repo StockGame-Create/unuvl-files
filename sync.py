@@ -119,8 +119,29 @@ async def sync():
 
     print("로그인 성공!", flush=True)
 
-    entity = await client.get_entity(CHAT)
-    print(f"'{getattr(entity, 'title', CHAT)}' 방에서 PDF를 찾는 중... (기준일: {CUTOFF.date()} 이후, {MAX_SIZE_BYTES // (1024*1024)}MB 이하)")
+    print(f"CHAT 값: {CHAT!r} (타입: {type(CHAT).__name__})", flush=True)
+    print("entity 조회 시도...", flush=True)
+    try:
+        entity = await asyncio.wait_for(client.get_entity(CHAT), timeout=30)
+    except (ValueError, asyncio.TimeoutError) as e:
+        # 숫자 ID인 경우, 새로 만든 세션에는 이 대화방의 entity 캐시가 없어서
+        # get_entity가 바로 못 찾는 경우가 흔함. dialogs 목록을 먼저 불러와
+        # 캐시를 채운 뒤 다시 시도.
+        print(f"entity 바로 조회 실패({e}), dialogs 목록으로 재시도...", flush=True)
+        dialogs = await asyncio.wait_for(client.get_dialogs(), timeout=60)
+        print(f"대화방 {len(dialogs)}개 로드됨", flush=True)
+        entity = None
+        for d in dialogs:
+            if d.id == CHAT or str(d.id) == str(CHAT):
+                entity = d.entity
+                break
+        if entity is None:
+            raise RuntimeError(
+                f"TELEGRAM_CHAT={CHAT!r} 에 해당하는 대화방을 찾을 수 없습니다. "
+                "list_chats.py로 정확한 ID를 다시 확인하세요."
+            )
+    print(f"entity 조회 성공: {getattr(entity, 'title', CHAT)}", flush=True)
+    print(f"'{getattr(entity, 'title', CHAT)}' 방에서 PDF를 찾는 중... (기준일: {CUTOFF.date()} 이후, {MAX_SIZE_BYTES // (1024*1024)}MB 이하)", flush=True)
 
     new_count = 0
     skipped_too_old = 0
