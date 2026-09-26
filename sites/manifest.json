@@ -103,6 +103,19 @@
       "subject": null,
       "thumbnail": "thumbnails/24718.png",
       "sha256": "011254bb1ddcdcc4fec3a74fd3f74b8a6680c4656a411b3580db8e24d74be6c0"
+    },
+    {
+      "message_id": 24716,
+      "filename": "2027학년도_서바이벌_C_단독_모의고사_물리학I_10부터_12회.pdf",
+      "stored_as": "24716_2027학년도_서바이벌_C_단독_모의고사_물리학I_10부터_12회.pdf",
+      "size_bytes": 8713902,
+      "telegram_date": "2026-09-26T08:33:14+00:00",
+      "title": "물1 시대인재 서바이벌 C 단독 모의고사 10~12회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/24716.png",
+      "sha256": "fe19669263838d59f9be3fa17b91f33d011cba99e0f32a6494e430ca53cee05e"
     }
   ],
   "duplicate_message_ids": []
