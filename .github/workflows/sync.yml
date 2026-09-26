@@ -12,6 +12,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 45 # PDF가 많으면 시간이 걸릴 수 있어 넉넉하게 설정
     steps:
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
@@ -25,6 +26,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: sync.py 실행
+        timeout-minutes: 35 # job 타임아웃(45분)보다 짧게 잡아서, 여기서 끊겨도 아래 커밋 스텝은 실행될 시간을 확보
         env:
           TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
@@ -32,8 +34,10 @@ jobs:
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
           TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
         run: python sync.py
+        continue-on-error: true # 이 스텝이 타임아웃/에러로 죽어도 아래 커밋 스텝은 꼭 실행되게 함
 
       - name: 변경사항 커밋 & 푸시
+        if: always() # sync.py가 실패/타임아웃 했어도, 그때까지 받은 파일은 무조건 커밋 시도
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
