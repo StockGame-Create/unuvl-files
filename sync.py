@@ -100,8 +100,23 @@ async def sync():
     else:
         client = TelegramClient("telegram_session", API_ID, API_HASH)  # 로컬 fallback
 
-    print("로그인 시도 시작...", flush=True)
-    await client.start(phone=PHONE)
+    print("연결 시도...", flush=True)
+    await asyncio.wait_for(client.connect(), timeout=30)
+    print("연결 성공. 인증 상태 확인 중...", flush=True)
+
+    authorized = await asyncio.wait_for(client.is_user_authorized(), timeout=30)
+    print(f"인증 여부: {authorized}", flush=True)
+
+    if not authorized:
+        # 세션이 유효하지 않으면 여기서 즉시 실패시킴.
+        # (client.start()에 맡기면 인증코드 입력을 무한정 기다려서
+        #  GitHub Actions에서는 그냥 멈춰있는 것처럼 보이게 됨)
+        raise RuntimeError(
+            "TELEGRAM_SESSION이 유효하지 않습니다. "
+            "로컬에서 generate_session.py를 다시 실행해 새 세션 문자열을 뽑고 "
+            "GitHub Secret의 TELEGRAM_SESSION 값을 갱신하세요."
+        )
+
     print("로그인 성공!", flush=True)
 
     entity = await client.get_entity(CHAT)
