@@ -7,11 +7,15 @@
   이미 그 방의 멤버로 초대되어 있다면 관리자 권한 없이도 방에 올라온
   모든 메시지/파일을 그대로 읽을 수 있습니다.
 - 방의 메시지를 순회하면서 PDF 첨부파일만 찾아 sites/files/ 폴더에 내려받습니다.
+- 첨부파일과 함께 올라온 메시지 본문(캡션)에서 "년도 / 강사 / 과목" 같은
+  메타데이터와 제목을 최대한 파싱해서 함께 기록합니다. 형식이 없거나
+  다른 파일도 있을 수 있으므로, 각 항목은 있으면 채우고 없으면 비워둡니다.
+- PDF 첫 페이지를 이미지로 렌더링해서 썸네일로 저장합니다 (sites/thumbnails/).
 - 2026-09-04 이후에 올라온 메시지만 대상으로 하며, 그보다 오래된 메시지가
   나오면 그 자리에서 순회를 중단합니다 (메시지는 최신순으로 오므로 효율적).
 - 파일 크기가 150MB를 초과하는 PDF는 건너뜁니다.
-- sites/manifest.json에 파일 목록(이름, 크기, 날짜)을 기록합니다.
-  웹사이트(index.html)는 이 manifest.json을 읽어서 목록을 보여줍니다.
+- sites/manifest.json에 파일 목록(이름, 크기, 날짜, 메타데이터, 썸네일 경로)을
+  기록합니다. 웹사이트(index.html)는 이 manifest.json을 읽어서 목록을 보여줍니다.
 - 이미 내려받은 파일(manifest에 message_id 존재)은 건너뛰어 중복 다운로드하지 않습니다.
 - Firebase, Firestore, 외부 클라우드 API를 전혀 호출하지 않습니다.
   이 스크립트가 하는 일은 "sites/" 폴더를 최신 상태로 만드는 것까지입니다.
@@ -28,11 +32,13 @@
 import asyncio
 import json
 import os
+import re
 import subprocess
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 
+import pymupdf
 from dotenv import load_dotenv
 from telethon import TelegramClient
 from telethon.sessions import StringSession
@@ -57,6 +63,9 @@ CUTOFF = datetime(2026, 9, 4, tzinfo=timezone.utc)
 # 이 크기(바이트)를 초과하는 PDF는 건너뜀 (150MB)
 MAX_SIZE_BYTES = 150 * 1024 * 1024
 
+# 썸네일 이미지의 가로 폭 (px). PDF 첫 페이지를 이 폭에 맞춰 렌더링함.
+THUMBNAIL_WIDTH = 400
+
 # 한 번 실행에서 최대 이만큼(초)만 다운로드하고 스스로 정상 종료.
 # PDF가 아주 많아도 이 시간 안에서 끊고 나가야, 다음 GitHub Actions 스텝(git commit/push)이
 # 정상적으로 이어서 실행됨. 남은 파일은 다음 실행(스케줄/수동)에서 이어받음.
@@ -64,13 +73,82 @@ MAX_RUNTIME_SECONDS = 20 * 60  # 20분
 
 SITE_DIR = Path("sites")
 FILES_DIR = SITE_DIR / "files"
+THUMBS_DIR = SITE_DIR / "thumbnails"
 MANIFEST_PATH = SITE_DIR / "manifest.json"
 
 FILES_DIR.mkdir(parents=True, exist_ok=True)
+THUMBS_DIR.mkdir(parents=True, exist_ok=True)
 
 # GitHub Actions 안에서 실행 중일 때만, 파일 하나 받을 때마다 즉시 git commit + push.
 # (로컬에서 그냥 테스트 삼아 돌릴 때는 자동으로 커밋/푸시하지 않도록 방지)
 AUTO_GIT_PUSH = os.environ.get("GITHUB_ACTIONS") == "true"
+
+# ---- 캡션 메타데이터 파싱 ------------------------------------------------
+# 텔레그램 메시지 본문(캡션)에 아래처럼 붙어있는 경우가 많음:
+#
+#   극어 부록 매체 N제
+#   년도 : 2027
+#   강사 : 방동진
+#   과목 : 국어
+#   @yubin_MPGA
+#
+# 하지만 모든 파일이 이 형식을 따르는 건 아니므로, 각 라벨(년도/강사/과목)은
+# 줄 단위로 독립적으로 찾고, 없으면 그냥 비워둔다. 제목은 라벨이 아니고
+# @로 시작하지 않는 첫 줄로 추정하고, 그마저 없으면 나중에 파일명으로 대체한다.
+_LABEL_PATTERNS = {
+    "year": re.compile(r"^[^\w가-힣]*년도\s*[:：]\s*(.+)$"),
+    "instructor": re.compile(r"^[^\w가-힣]*강사\s*[:：]\s*(.+)$"),
+    "subject": re.compile(r"^[^\w가-힣]*과목\s*[:：]\s*(.+)$"),
+}
+
+
+def parse_caption(caption: str | None) -> dict:
+    """메시지 캡션에서 title/year/instructor/subject를 최대한 뽑아낸다.
+    형식이 다르거나 캡션이 아예 없어도 에러 없이 빈 값으로 채워 반환한다."""
+    result = {"title": None, "year": None, "instructor": None, "subject": None}
+    if not caption:
+        return result
+
+    for raw_line in caption.splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
+
+        matched = False
+        for key, pattern in _LABEL_PATTERNS.items():
+            m = pattern.match(line)
+            if m and result[key] is None:
+                result[key] = m.group(1).strip()
+                matched = True
+                break
+        if matched:
+            continue
+
+        if line.startswith("@"):
+            continue  # 텔레그램 아이디 언급 줄은 제목 후보에서 제외
+
+        if result["title"] is None:
+            result["title"] = line
+
+    return result
+
+
+def make_thumbnail(pdf_path: Path, thumb_path: Path) -> bool:
+    """PDF 첫 페이지를 이미지로 렌더링해서 thumb_path에 저장. 성공하면 True."""
+    try:
+        with pymupdf.open(pdf_path) as doc:
+            if doc.page_count == 0:
+                return False
+            page = doc[0]
+            if page.rect.width <= 0:
+                return False
+            zoom = THUMBNAIL_WIDTH / page.rect.width
+            pix = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom))
+            pix.save(thumb_path)
+        return True
+    except Exception as e:
+        print(f"    [썸네일 생성 실패] {pdf_path.name}: {e}", flush=True)
+        return False
 
 
 def _run_git(*args) -> subprocess.CompletedProcess:
@@ -236,12 +314,27 @@ async def sync():
         await client.download_media(message, file=str(local_path), progress_callback=_progress)
         print(f"  완료: {filename}", flush=True)
 
+        # 캡션(메시지 본문)에서 년도/강사/과목/제목 파싱. 형식이 없거나 달라도
+        # 에러 없이 빈 값으로 채워지고, 제목이 없으면 파일명으로 대체.
+        meta = parse_caption(message.message)
+        title = meta["title"] or Path(filename).stem
+
+        # PDF 첫 페이지 썸네일 생성 (실패해도 목록 자체는 계속 진행)
+        thumb_filename = f"{message.id}.png"
+        thumb_path = THUMBS_DIR / thumb_filename
+        thumbnail_ok = make_thumbnail(local_path, thumb_path)
+
         manifest["files"].append({
             "message_id": message.id,
             "filename": filename,          # 사람이 보는 원래 파일명
             "stored_as": safe_filename,     # 실제 저장된 파일명 (다운로드 링크에 사용)
             "size_bytes": local_path.stat().st_size,
             "telegram_date": message.date.isoformat(),
+            "title": title,
+            "year": meta["year"],
+            "instructor": meta["instructor"],
+            "subject": meta["subject"],
+            "thumbnail": f"thumbnails/{thumb_filename}" if thumbnail_ok else None,
         })
         new_count += 1
 

@@ -30,7 +30,7 @@
   }
 
   .wrap {
-    max-width: 720px;
+    max-width: 1080px;
     margin: 0 auto;
     padding: 4rem 1.5rem 6rem;
   }
@@ -50,7 +50,7 @@
     margin: 0;
     color: var(--ink-soft);
     font-size: 1rem;
-    max-width: 46ch;
+    max-width: 52ch;
   }
 
   .rule {
@@ -90,54 +90,118 @@
     margin-top: 0.5rem;
   }
 
-  ul.file-list {
+  ul.file-grid {
     list-style: none;
     margin: 0;
     padding: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.6rem 1.4rem;
   }
 
   li.file-card {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 1.2rem;
-    padding: 1.15rem 0;
+    flex-direction: column;
+    border: 1px solid var(--rule);
+    background: var(--paper-raised);
+  }
+
+  .thumb {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    background: #E4DBC6;
+    overflow: hidden;
     border-bottom: 1px solid var(--rule);
   }
 
-  li.file-card:first-child {
-    border-top: 1px solid var(--rule);
+  .thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
   }
 
-  .file-main {
-    min-width: 0;
+  .thumb .thumb-fallback {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Source Serif 4", Georgia, serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--ink-soft);
   }
 
-  .file-name {
-    font-size: 1.05rem;
-    font-weight: 500;
+  .year-badge {
+    position: absolute;
+    top: 0.6rem;
+    right: 0.6rem;
+    background: var(--teal);
+    color: var(--paper);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.72rem;
+    padding: 0.22rem 0.5rem;
+    letter-spacing: 0.02em;
+  }
+
+  .card-body {
+    padding: 1rem 1.1rem 1.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+    flex: 1;
+  }
+
+  .file-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+    line-height: 1.35;
     word-break: break-word;
-    margin: 0 0 0.35rem;
+  }
+
+  .file-tags {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.78rem;
+    color: var(--leather);
+    margin: 0;
+  }
+
+  .file-name-sub {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.74rem;
+    color: var(--ink-soft);
+    word-break: break-word;
+    margin: 0;
   }
 
   .file-meta {
     font-family: "IBM Plex Mono", monospace;
-    font-size: 0.78rem;
+    font-size: 0.74rem;
     color: var(--ink-soft);
     display: flex;
-    gap: 1.1rem;
+    gap: 0.9rem;
+    margin: 0;
   }
 
   .download-btn {
-    flex-shrink: 0;
+    margin-top: auto;
+    padding-top: 0.75rem;
+    text-align: center;
     font-family: "IBM Plex Mono", monospace;
     font-size: 0.78rem;
     text-decoration: none;
     color: var(--ink);
-    border: 1px solid var(--ink);
-    padding: 0.5rem 0.9rem;
-    white-space: nowrap;
+    border-top: 1px solid var(--rule);
+    padding-top: 0.75rem;
+    display: block;
     transition: background-color 0.15s ease, color 0.15s ease;
+  }
+
+  .download-btn::before {
+    content: "다운로드 ↓";
   }
 
   .download-btn:hover {
@@ -146,6 +210,7 @@
   }
 
   .empty-state, .loading-state {
+    grid-column: 1 / -1;
     font-family: "IBM Plex Mono", monospace;
     font-size: 0.9rem;
     color: var(--ink-soft);
@@ -162,11 +227,14 @@
     color: var(--ink-soft);
   }
 
-  @media (max-width: 480px) {
+  @media (max-width: 860px) {
+    ul.file-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  @media (max-width: 560px) {
     .wrap { padding: 2.5rem 1.1rem 4rem; }
     header.masthead h1 { font-size: 1.6rem; }
-    li.file-card { flex-direction: column; align-items: flex-start; gap: 0.7rem; }
-    .download-btn { align-self: flex-start; }
+    ul.file-grid { grid-template-columns: 1fr; }
   }
 </style>
 </head>
@@ -179,11 +247,11 @@
     </header>
 
     <div class="search-row">
-      <input type="text" id="searchInput" placeholder="파일명으로 찾기" autocomplete="off" />
+      <input type="text" id="searchInput" placeholder="제목, 강사, 과목, 파일명으로 찾기" autocomplete="off" />
       <div class="count-line" id="countLine"></div>
     </div>
 
-    <ul class="file-list" id="fileList">
+    <ul class="file-grid" id="fileList">
       <li class="loading-state">목록을 불러오는 중...</li>
     </ul>
 
@@ -213,6 +281,12 @@
       }).format(d);
     }
 
+    function escapeHtml(str) {
+      const div = document.createElement("div");
+      div.textContent = str ?? "";
+      return div.innerHTML;
+    }
+
     function render(files) {
       fileListEl.innerHTML = "";
 
@@ -228,33 +302,37 @@
         const li = document.createElement("li");
         li.className = "file-card";
 
-        const main = document.createElement("div");
-        main.className = "file-main";
+        const displayTitle = f.title || f.filename;
 
-        const name = document.createElement("p");
-        name.className = "file-name";
-        name.textContent = f.filename;
+        // 과목/강사 라인 (있는 것만 이어붙임)
+        const tagParts = [];
+        if (f.subject) tagParts.push(f.subject);
+        if (f.instructor) tagParts.push(f.instructor);
+        const tagLine = tagParts.join(" · ");
 
-        const meta = document.createElement("div");
-        meta.className = "file-meta";
-        const dateSpan = document.createElement("span");
-        dateSpan.textContent = formatDate(f.telegram_date);
-        const sizeSpan = document.createElement("span");
-        sizeSpan.textContent = formatSize(f.size_bytes);
-        meta.appendChild(dateSpan);
-        meta.appendChild(sizeSpan);
+        const thumbHtml = f.thumbnail
+          ? `<img src="${escapeHtml(f.thumbnail)}" alt="" loading="lazy" />`
+          : `<div class="thumb-fallback">PDF</div>`;
 
-        main.appendChild(name);
-        main.appendChild(meta);
+        const yearBadge = f.year ? `<span class="year-badge">${escapeHtml(f.year)}</span>` : "";
 
-        const btn = document.createElement("a");
-        btn.className = "download-btn";
-        btn.href = `files/${encodeURIComponent(f.stored_as)}`;
-        btn.download = f.filename;
-        btn.textContent = "다운로드";
+        li.innerHTML = `
+          <div class="thumb">
+            ${thumbHtml}
+            ${yearBadge}
+          </div>
+          <div class="card-body">
+            <p class="file-title">${escapeHtml(displayTitle)}</p>
+            ${tagLine ? `<p class="file-tags">${escapeHtml(tagLine)}</p>` : ""}
+            <p class="file-name-sub">${escapeHtml(f.filename)}</p>
+            <div class="file-meta">
+              <span>${formatDate(f.telegram_date)}</span>
+              <span>${formatSize(f.size_bytes)}</span>
+            </div>
+            <a class="download-btn" href="files/${encodeURIComponent(f.stored_as)}" download="${escapeHtml(f.filename)}"></a>
+          </div>
+        `;
 
-        li.appendChild(main);
-        li.appendChild(btn);
         fileListEl.appendChild(li);
       }
     }
@@ -262,7 +340,13 @@
     function applyFilter() {
       const q = searchInput.value.trim().toLowerCase();
       const filtered = q
-        ? allFiles.filter(f => f.filename.toLowerCase().includes(q))
+        ? allFiles.filter(f => {
+            const haystack = [f.filename, f.title, f.instructor, f.subject, f.year]
+              .filter(Boolean)
+              .join(" ")
+              .toLowerCase();
+            return haystack.includes(q);
+          })
         : allFiles;
       render(filtered);
     }
