@@ -34,9 +34,10 @@ load_dotenv()
 API_ID = int(os.environ["TELEGRAM_API_ID"])
 API_HASH = os.environ["TELEGRAM_API_HASH"]
 PHONE = os.environ["TELEGRAM_PHONE"]
-CHAT = os.environ["TELEGRAM_CHAT"]  # 채널/그룹 username(@없이) 또는 숫자 ID
+_chat_raw = os.environ["TELEGRAM_CHAT"]  # 채널/그룹 username(@없이) 또는 숫자 ID
+CHAT = int(_chat_raw) if _chat_raw.lstrip("-").isdigit() else _chat_raw # 채널/그룹 username(@없이) 또는 숫자 ID
 
-SITE_DIR = Path("site")
+SITE_DIR = Path("sites")
 FILES_DIR = SITE_DIR / "files"
 MANIFEST_PATH = SITE_DIR / "manifest.json"
 
