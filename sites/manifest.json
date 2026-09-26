@@ -181,6 +181,19 @@
       "subject": null,
       "thumbnail": "thumbnails/24708.png",
       "sha256": "8c19ba53bb41cefb50f3bcc74781b763b6463bcd72e5470aa66a645954befd05"
+    },
+    {
+      "message_id": 24706,
+      "filename": "2027학년도_시대인재_서바이벌_모의고사_6회_문제지국어_1.pdf",
+      "stored_as": "24706_2027학년도_시대인재_서바이벌_모의고사_6회_문제지국어_1.pdf",
+      "size_bytes": 33314195,
+      "telegram_date": "2026-09-26T04:52:19+00:00",
+      "title": "국어 서바이벌 모의고사 6회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24706.png",
+      "sha256": "11a3e90630975d4ce1e00dfd2bf3da237adbcf4140c8fa6d95bd98531131a506"
     }
   ],
   "duplicate_message_ids": []
