@@ -59,7 +59,7 @@ SESSION_STRING = os.environ.get("TELEGRAM_SESSION", "").strip() or None  # GitHu
 
 # ---- 동기화 조건 --------------------------------------------------------
 # 이 날짜 이후에 올라온 메시지만 동기화 (하드코딩: 2026-09-04부터)
-CUTOFF = datetime(2026, 9, 4, tzinfo=timezone.utc)
+CUTOFF = datetime(2026, 8, 15, tzinfo=timezone.utc)
 
 # 이 크기(바이트)를 초과하는 PDF는 건너뜀 (150MB)
 MAX_SIZE_BYTES = 150 * 1024 * 1024
