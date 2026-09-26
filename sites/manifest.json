@@ -194,6 +194,19 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24706.png",
       "sha256": "11a3e90630975d4ce1e00dfd2bf3da237adbcf4140c8fa6d95bd98531131a506"
+    },
+    {
+      "message_id": 24705,
+      "filename": "2027학년도_시대인재_서바이벌_모의고사_6회_정답_및_해설국어.pdf",
+      "stored_as": "24705_2027학년도_시대인재_서바이벌_모의고사_6회_정답_및_해설국어.pdf",
+      "size_bytes": 36557737,
+      "telegram_date": "2026-09-26T04:52:19+00:00",
+      "title": "2027학년도_시대인재_서바이벌_모의고사_6회_정답_및_해설국어",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24705.png",
+      "sha256": "aea92a319daa85fe58e61578664cca2c08b7052fb1c44c8f35a9d75ca371dbd9"
     }
   ],
   "duplicate_message_ids": []
