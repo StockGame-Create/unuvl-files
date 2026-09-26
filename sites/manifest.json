@@ -25,6 +25,19 @@
       "subject": null,
       "thumbnail": "thumbnails/24727.png",
       "sha256": "b1013329f54b854e98cf4460cf57d81e4e6c31737c49ae9e2944cd5339365833"
+    },
+    {
+      "message_id": 24726,
+      "filename": "TalkFile_매체 N제.pdf.pdf",
+      "stored_as": "24726_TalkFile_매체 N제.pdf.pdf",
+      "size_bytes": 63722735,
+      "telegram_date": "2026-09-26T08:33:23+00:00",
+      "title": "극어 부록 매체 N제",
+      "year": "2027",
+      "instructor": "방동진",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24726.png",
+      "sha256": "b55dda16097e35af5e228aa49b38add2402626b8389e5ac4a5d49dd6fe0c0bf9"
     }
   ],
   "duplicate_message_ids": []
