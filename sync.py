@@ -28,6 +28,8 @@
 import asyncio
 import json
 import os
+import subprocess
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -55,11 +57,43 @@ CUTOFF = datetime(2026, 9, 4, tzinfo=timezone.utc)
 # 이 크기(바이트)를 초과하는 PDF는 건너뜀 (150MB)
 MAX_SIZE_BYTES = 150 * 1024 * 1024
 
+# 한 번 실행에서 최대 이만큼(초)만 다운로드하고 스스로 정상 종료.
+# PDF가 아주 많아도 이 시간 안에서 끊고 나가야, 다음 GitHub Actions 스텝(git commit/push)이
+# 정상적으로 이어서 실행됨. 남은 파일은 다음 실행(스케줄/수동)에서 이어받음.
+MAX_RUNTIME_SECONDS = 20 * 60  # 20분
+
 SITE_DIR = Path("sites")
 FILES_DIR = SITE_DIR / "files"
 MANIFEST_PATH = SITE_DIR / "manifest.json"
 
 FILES_DIR.mkdir(parents=True, exist_ok=True)
+
+# GitHub Actions 안에서 실행 중일 때만, 파일 하나 받을 때마다 즉시 git commit + push.
+# (로컬에서 그냥 테스트 삼아 돌릴 때는 자동으로 커밋/푸시하지 않도록 방지)
+AUTO_GIT_PUSH = os.environ.get("GITHUB_ACTIONS") == "true"
+
+
+def _run_git(*args) -> subprocess.CompletedProcess:
+    return subprocess.run(["git", *args], capture_output=True, text=True)
+
+
+def git_commit_and_push(commit_message: str) -> None:
+    """sites/ 폴더의 변경사항을 즉시 커밋하고 push. 변경사항 없으면 조용히 넘어감."""
+    _run_git("add", "sites/")
+
+    diff = _run_git("diff", "--staged", "--quiet")
+    if diff.returncode == 0:
+        # 스테이징된 변경사항 없음 (이미 커밋된 상태 등)
+        return
+
+    commit = _run_git("commit", "-m", commit_message)
+    print(f"    [git commit] {commit.stdout.strip()}{commit.stderr.strip()}", flush=True)
+
+    push = _run_git("push")
+    if push.returncode != 0:
+        print(f"    [git push 실패] {push.stderr.strip()}", flush=True)
+    else:
+        print(f"    [git push 성공]", flush=True)
 
 
 def is_pdf(message) -> tuple[bool, str | None]:
@@ -92,6 +126,11 @@ def save_manifest(manifest: dict) -> None:
 async def sync():
     manifest = load_manifest()
     known_message_ids = {f["message_id"] for f in manifest["files"]}
+
+    if AUTO_GIT_PUSH:
+        # 파일마다 즉시 커밋하려면 git 사용자 정보가 필요.
+        _run_git("config", "user.name", "github-actions[bot]")
+        _run_git("config", "user.email", "github-actions[bot]@users.noreply.github.com")
 
     print(f"세션 문자열 존재 여부: {bool(SESSION_STRING)}, 길이: {len(SESSION_STRING) if SESSION_STRING else 0}", flush=True)
 
@@ -147,12 +186,24 @@ async def sync():
     skipped_too_old = 0
     skipped_too_big = 0
     checked_count = 0
+    start_time = time.monotonic()
+    stopped_early = False
 
     print("메시지 순회 시작...", flush=True)
     async for message in client.iter_messages(entity):
         checked_count += 1
         if checked_count % 20 == 0:
             print(f"  ...지금까지 {checked_count}개 메시지 확인함 (마지막 확인 날짜: {message.date})", flush=True)
+
+        elapsed = time.monotonic() - start_time
+        if elapsed > MAX_RUNTIME_SECONDS:
+            print(
+                f"실행 시간 제한({MAX_RUNTIME_SECONDS // 60}분) 도달, "
+                "여기서 정상 종료하고 나머지는 다음 실행에서 이어받습니다.",
+                flush=True,
+            )
+            stopped_early = True
+            break
 
         if message.date < CUTOFF:
             print(f"기준일({CUTOFF.date()})보다 오래된 메시지 발견({message.date.date()}), 순회 중단", flush=True)
@@ -200,6 +251,11 @@ async def sync():
         manifest["files"].sort(key=lambda f: f["telegram_date"], reverse=True)
         save_manifest(manifest)
 
+        # 파일 하나 받을 때마다 바로 git commit + push까지 끝냄.
+        # (전체 다운로드가 다 끝날 때까지 기다리지 않고, 받는 즉시 웹사이트에 반영되게)
+        if AUTO_GIT_PUSH:
+            git_commit_and_push(f"chore: PDF 자동 동기화 - {filename} [skip ci]")
+
     # 혹시 모를 마지막 정렬/저장 (이미 매 다운로드마다 저장되지만 안전하게 한 번 더)
     manifest["files"].sort(key=lambda f: f["telegram_date"], reverse=True)
     save_manifest(manifest)
@@ -207,6 +263,8 @@ async def sync():
     print(
         f"완료. 새로 내려받은 PDF: {new_count}개 "
         f"(전체 {len(manifest['files'])}개, 용량초과 스킵 {skipped_too_big}개)"
+        + (" [시간 제한으로 중간에 종료, 다음 실행에서 이어받음]" if stopped_early else ""),
+        flush=True,
     )
     await client.disconnect()
     return new_count
