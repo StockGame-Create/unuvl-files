@@ -16,6 +16,14 @@
     --leather: #8B5E3C;
     --teal: #3F5D5B;
     --rule: #D9CFBB;
+
+    /* 과목 분류별 색상 (썸네일 테두리 + 필터 칩) */
+    --cat-korean: #C79A2E;   /* 국어: 노랑 */
+    --cat-math: #4C7A44;     /* 수학: 초록 */
+    --cat-english: #D0602F; /* 영어: 주홍 */
+    --cat-social: #7A5A9E;   /* 사회탐구: 보라 */
+    --cat-science: #4B93B8;  /* 과학탐구: 하늘색 */
+    --cat-other: #9C948A;    /* 기타: 회색 */
   }
 
   * { box-sizing: border-box; }
@@ -90,6 +98,71 @@
     margin-top: 0.5rem;
   }
 
+  /* ---- 과목 카테고리 필터 칩 ---- */
+  .filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+
+  .filter-pill { position: relative; }
+
+  .filter-pill input {
+    position: absolute;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    cursor: pointer;
+  }
+
+  .filter-pill label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.78rem;
+    padding: 0.4rem 0.8rem;
+    border: 1.5px solid var(--rule);
+    color: var(--ink-soft);
+    background: var(--paper-raised);
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+    white-space: nowrap;
+  }
+
+  .filter-pill .dot {
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 50%;
+    flex-shrink: 0;
+    background: var(--cat-color, var(--ink-soft));
+  }
+
+  .filter-pill input:checked + label {
+    background: var(--cat-color, var(--ink));
+    border-color: var(--cat-color, var(--ink));
+    color: var(--paper);
+  }
+
+  .filter-pill input:checked + label .dot {
+    background: var(--paper);
+  }
+
+  .filter-pill input:focus-visible + label {
+    outline: 2px solid var(--ink);
+    outline-offset: 2px;
+  }
+
+  .filter-pill[data-cat="korean"] { --cat-color: var(--cat-korean); }
+  .filter-pill[data-cat="math"] { --cat-color: var(--cat-math); }
+  .filter-pill[data-cat="english"] { --cat-color: var(--cat-english); }
+  .filter-pill[data-cat="social"] { --cat-color: var(--cat-social); }
+  .filter-pill[data-cat="science"] { --cat-color: var(--cat-science); }
+  .filter-pill[data-cat="other"] { --cat-color: var(--cat-other); }
+
   ul.file-grid {
     list-style: none;
     margin: 0;
@@ -112,8 +185,15 @@
     aspect-ratio: 3 / 4;
     background: #E4DBC6;
     overflow: hidden;
-    border-bottom: 1px solid var(--rule);
+    border: 3px solid var(--rule);
   }
+
+  .thumb.cat-korean { border-color: var(--cat-korean); }
+  .thumb.cat-math { border-color: var(--cat-math); }
+  .thumb.cat-english { border-color: var(--cat-english); }
+  .thumb.cat-social { border-color: var(--cat-social); }
+  .thumb.cat-science { border-color: var(--cat-science); }
+  .thumb.cat-other { border-color: var(--cat-other); }
 
   .thumb img {
     width: 100%;
@@ -167,6 +247,16 @@
     font-size: 0.78rem;
     color: var(--leather);
     margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .file-tags .dot {
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    flex-shrink: 0;
   }
 
   .file-name-sub {
@@ -188,19 +278,21 @@
 
   .download-btn {
     margin-top: auto;
-    padding-top: 0.75rem;
     text-align: center;
     font-family: "IBM Plex Mono", monospace;
     font-size: 0.78rem;
-    text-decoration: none;
     color: var(--ink);
+    border: none;
+    background: transparent;
     border-top: 1px solid var(--rule);
     padding-top: 0.75rem;
     display: block;
+    width: 100%;
+    cursor: pointer;
     transition: background-color 0.15s ease, color 0.15s ease;
   }
 
-  .download-btn::before {
+  .download-btn::after {
     content: "다운로드 ↓";
   }
 
@@ -208,6 +300,9 @@
     background: var(--ink);
     color: var(--paper);
   }
+
+  .download-btn[data-state="loading"]::after { content: "받는 중..."; }
+  .download-btn[data-state="error"]::after { content: "다시 시도"; }
 
   .empty-state, .loading-state {
     grid-column: 1 / -1;
@@ -227,6 +322,34 @@
     color: var(--ink-soft);
   }
 
+  /* ---- 다운로드 완료 토스트 ---- */
+  .toast {
+    position: fixed;
+    left: 50%;
+    bottom: 1.5rem;
+    transform: translate(-50%, 0.5rem);
+    background: var(--ink);
+    color: var(--paper);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.82rem;
+    padding: 0.75rem 1.2rem;
+    max-width: calc(100% - 2rem);
+    text-align: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    z-index: 100;
+  }
+
+  .toast.show {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+
+  .toast.error {
+    background: var(--cat-english);
+  }
+
   @media (max-width: 860px) {
     ul.file-grid { grid-template-columns: repeat(2, 1fr); }
   }
@@ -235,6 +358,7 @@
     .wrap { padding: 2.5rem 1.1rem 4rem; }
     header.masthead h1 { font-size: 1.6rem; }
     ul.file-grid { grid-template-columns: 1fr; }
+    .filter-pill label { padding: 0.45rem 0.7rem; font-size: 0.74rem; }
   }
 </style>
 </head>
@@ -248,6 +372,34 @@
 
     <div class="search-row">
       <input type="text" id="searchInput" placeholder="제목, 강사, 과목, 파일명으로 찾기" autocomplete="off" />
+
+      <div class="filter-row" id="filterRow">
+        <span class="filter-pill" data-cat="korean">
+          <input type="checkbox" id="filter-korean" value="korean" />
+          <label for="filter-korean"><span class="dot"></span>국어</label>
+        </span>
+        <span class="filter-pill" data-cat="math">
+          <input type="checkbox" id="filter-math" value="math" />
+          <label for="filter-math"><span class="dot"></span>수학</label>
+        </span>
+        <span class="filter-pill" data-cat="english">
+          <input type="checkbox" id="filter-english" value="english" />
+          <label for="filter-english"><span class="dot"></span>영어</label>
+        </span>
+        <span class="filter-pill" data-cat="social">
+          <input type="checkbox" id="filter-social" value="social" />
+          <label for="filter-social"><span class="dot"></span>사탐</label>
+        </span>
+        <span class="filter-pill" data-cat="science">
+          <input type="checkbox" id="filter-science" value="science" />
+          <label for="filter-science"><span class="dot"></span>과탐</label>
+        </span>
+        <span class="filter-pill" data-cat="other">
+          <input type="checkbox" id="filter-other" value="other" />
+          <label for="filter-other"><span class="dot"></span>기타</label>
+        </span>
+      </div>
+
       <div class="count-line" id="countLine"></div>
     </div>
 
@@ -260,12 +412,45 @@
     </footer>
   </div>
 
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
   <script>
     const fileListEl = document.getElementById("fileList");
     const searchInput = document.getElementById("searchInput");
     const countLine = document.getElementById("countLine");
+    const filterRow = document.getElementById("filterRow");
+    const toastEl = document.getElementById("toast");
 
     let allFiles = [];
+    let toastTimer = null;
+
+    // ---- 과목 -> 카테고리 분류 ----
+    // 띄어쓰기 유무가 섞여 있을 수 있어서, 공백을 다 지운 뒤 비교한다.
+    const stripSpace = (s) => (s || "").replace(/\s+/g, "");
+
+    const SOCIAL_SUBJECTS = new Set([
+      "세계지리", "생활과윤리", "사회문화", "윤리와사상", "동아시아사",
+      "세계사", "경제", "정치와법", "한국지리", "통합사회", "사회탐구",
+    ]);
+
+    const SCIENCE_SUBJECTS = new Set([
+      "지구과학", "지구과학1", "지구과학2",
+      "생명과학", "생명과학1", "생명과학2",
+      "물리학", "물리학1", "물리학2",
+      "화학", "화학1", "화학2",
+      "통합과학", "과학탐구",
+    ]);
+
+    function subjectCategory(subject) {
+      const norm = stripSpace(subject);
+      if (!norm) return "other";
+      if (norm === "국어") return "korean";
+      if (norm === "수학") return "math";
+      if (norm === "영어") return "english";
+      if (SOCIAL_SUBJECTS.has(norm)) return "social";
+      if (SCIENCE_SUBJECTS.has(norm)) return "science";
+      return "other";
+    }
 
     function formatSize(bytes) {
       if (bytes < 1024) return bytes + " B";
@@ -287,11 +472,46 @@
       return div.innerHTML;
     }
 
+    function showToast(message, isError = false) {
+      toastEl.textContent = message;
+      toastEl.classList.toggle("error", isError);
+      toastEl.classList.add("show");
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => toastEl.classList.remove("show"), 3200);
+    }
+
+    // fetch로 파일을 완전히 받은 뒤(=진짜 다운로드 완료 시점) 저장을 트리거하고
+    // 감사 토스트를 띄운다. 실패하면 새 탭에서 직접 열기로 대체한다.
+    async function handleDownload(btn, url, filename) {
+      if (btn.dataset.state === "loading") return;
+      btn.dataset.state = "loading";
+      try {
+        const res = await fetch(url);
+        if (!res.ok) throw new Error("응답 오류");
+        const blob = await res.blob();
+        const blobUrl = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = blobUrl;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        setTimeout(() => URL.revokeObjectURL(blobUrl), 4000);
+        btn.dataset.state = "";
+        showToast("unvul-files를 사용해주셔서 감사합니다");
+      } catch (err) {
+        btn.dataset.state = "error";
+        showToast("다운로드에 실패했어요. 다시 시도해주세요.", true);
+        window.open(url, "_blank");
+        setTimeout(() => { btn.dataset.state = ""; }, 1500);
+      }
+    }
+
     function render(files) {
       fileListEl.innerHTML = "";
 
       if (files.length === 0) {
-        fileListEl.innerHTML = '<li class="empty-state">아직 등록된 자료가 없습니다.</li>';
+        fileListEl.innerHTML = '<li class="empty-state">조건에 맞는 자료가 없습니다.</li>';
         countLine.textContent = "";
         return;
       }
@@ -303,8 +523,8 @@
         li.className = "file-card";
 
         const displayTitle = f.title || f.filename;
+        const category = subjectCategory(f.subject);
 
-        // 과목/강사 라인 (있는 것만 이어붙임)
         const tagParts = [];
         if (f.subject) tagParts.push(f.subject);
         if (f.instructor) tagParts.push(f.instructor);
@@ -317,41 +537,55 @@
         const yearBadge = f.year ? `<span class="year-badge">${escapeHtml(f.year)}</span>` : "";
 
         li.innerHTML = `
-          <div class="thumb">
+          <div class="thumb cat-${category}">
             ${thumbHtml}
             ${yearBadge}
           </div>
           <div class="card-body">
             <p class="file-title">${escapeHtml(displayTitle)}</p>
-            ${tagLine ? `<p class="file-tags">${escapeHtml(tagLine)}</p>` : ""}
+            ${tagLine ? `<p class="file-tags"><span class="dot" style="background: var(--cat-${category})"></span>${escapeHtml(tagLine)}</p>` : ""}
             <p class="file-name-sub">${escapeHtml(f.filename)}</p>
             <div class="file-meta">
               <span>${formatDate(f.telegram_date)}</span>
               <span>${formatSize(f.size_bytes)}</span>
             </div>
-            <a class="download-btn" href="files/${encodeURIComponent(f.stored_as)}" download="${escapeHtml(f.filename)}"></a>
+            <button type="button" class="download-btn" data-state=""></button>
           </div>
         `;
+
+        const btn = li.querySelector(".download-btn");
+        const downloadUrl = `files/${encodeURIComponent(f.stored_as)}`;
+        btn.addEventListener("click", () => handleDownload(btn, downloadUrl, f.filename));
 
         fileListEl.appendChild(li);
       }
     }
 
+    function getCheckedCategories() {
+      return Array.from(filterRow.querySelectorAll("input[type=checkbox]:checked")).map(el => el.value);
+    }
+
     function applyFilter() {
       const q = searchInput.value.trim().toLowerCase();
-      const filtered = q
-        ? allFiles.filter(f => {
-            const haystack = [f.filename, f.title, f.instructor, f.subject, f.year]
-              .filter(Boolean)
-              .join(" ")
-              .toLowerCase();
-            return haystack.includes(q);
-          })
-        : allFiles;
+      const checkedCats = getCheckedCategories();
+
+      const filtered = allFiles.filter(f => {
+        if (checkedCats.length > 0 && !checkedCats.includes(subjectCategory(f.subject))) {
+          return false;
+        }
+        if (!q) return true;
+        const haystack = [f.filename, f.title, f.instructor, f.subject, f.year]
+          .filter(Boolean)
+          .join(" ")
+          .toLowerCase();
+        return haystack.includes(q);
+      });
+
       render(filtered);
     }
 
     searchInput.addEventListener("input", applyFilter);
+    filterRow.addEventListener("change", applyFilter);
 
     fetch("manifest.json", { cache: "no-store" })
       .then(res => {
