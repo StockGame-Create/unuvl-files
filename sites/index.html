@@ -822,7 +822,7 @@
 
     <div class="tab-nav">
       <button type="button" class="tab-btn active" id="tabBtnFiles">파일 보관함</button>
-      <button type="button" class="tab-btn" id="tabBtnAi">AI에게 물어보기</button>
+      <button type="button" class="tab-btn" id="tabBtnAi">Unvul AI에게 물어보기</button>
     </div>
 
     <section class="tab-panel" id="tabFiles">
@@ -1342,7 +1342,7 @@
       clearChatEmptyState();
       const wrap = document.createElement("div");
       wrap.className = "msg assistant";
-      wrap.innerHTML = `<span class="msg-role">AI</span><div class="msg-bubble"><span class="thinking-bubble"><span></span><span></span><span></span></span></div>`;
+      wrap.innerHTML = `<span class="msg-role">Unvul AI (unv-f3)</span><div class="msg-bubble"><span class="thinking-bubble"><span></span><span></span><span></span></span></div>`;
       chatWindow.appendChild(wrap);
       scrollChatToBottom();
       return wrap.querySelector(".msg-bubble");
