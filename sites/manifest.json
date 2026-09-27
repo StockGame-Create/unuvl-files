@@ -6187,6 +6187,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24082.png",
       "sha256": "2dd80b095a9f33372ad165056b2d8c622030b69a991cc841daa8dc7f86181d0a"
+    },
+    {
+      "message_id": 24080,
+      "filename": "또선생 매뉴얼 3 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24080_.3.1.pdf",
+      "size_bytes": 78899380,
+      "telegram_date": "2026-09-12T03:53:56+00:00",
+      "title": "영어 또선생 Manual 3",
+      "year": "2027",
+      "instructor": "또선생",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24080.png",
+      "sha256": "281fa2e65628493380f9ba4a3090a4085b6c26da0225c94ba202062de69976da"
     }
   ],
   "duplicate_message_ids": [
