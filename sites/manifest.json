@@ -1436,6 +1436,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/24561.png",
       "sha256": "b588cf6c6f332fc7c006778c3cf7a3d3978c21760520761877eddd8ff4555e56"
+    },
+    {
+      "message_id": 24560,
+      "filename": "적생모_사문_시즌_3_7회.pdf",
+      "stored_as": "24560_적생모_사문_시즌_3_7회.pdf",
+      "download_url": null,
+      "size_bytes": 9030156,
+      "telegram_date": "2026-09-22T14:42:31+00:00",
+      "title": "사문 적자생존 모의고사 시즌3 7회 #적생모",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24560.png",
+      "sha256": "9e9a76c52fff9dfe003e1cf6fc1ad2a3f709ae46656512ac2a92a3c3ff5e5088"
     }
   ],
   "duplicate_message_ids": []
