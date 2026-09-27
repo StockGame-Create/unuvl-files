@@ -454,6 +454,19 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24666.png",
       "sha256": "b70902eef30e3fa2c4d541b7553fa423a6d5bf93460b2a3ad8dc2b6f3027829e"
+    },
+    {
+      "message_id": 24665,
+      "filename": "2027 시대인재 국어 서바이벌 10회 해설.pdf",
+      "stored_as": "24665_2027 시대인재 국어 서바이벌 10회 해설.pdf",
+      "size_bytes": 20004069,
+      "telegram_date": "2026-09-24T13:58:16+00:00",
+      "title": "2027 시대인재 국어 서바이벌 10회 해설",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24665.png",
+      "sha256": "61aa54115d8bfdac7f5168d66dda9a58d3416e5333661709a7cc6c9b2fdeed41"
     }
   ],
   "duplicate_message_ids": []
