@@ -4731,6 +4731,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/24227.png",
       "sha256": "ebce082252342791fd2909938601b59e6db933844ba3f3175edfba4a516cf5b7"
+    },
+    {
+      "message_id": 24225,
+      "filename": "2027 시대 국어 Acclerator 13회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24225_2027.Acclerator.13.pdf",
+      "size_bytes": 19052668,
+      "telegram_date": "2026-09-14T14:47:05+00:00",
+      "title": "국어 2027 엑셀러레이터 13호",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24225.png",
+      "sha256": "11705bb7b4a69ddaeca4713dd973905eccc3cc956bc2b28e3031dadc6161e58d"
     }
   ],
   "duplicate_message_ids": []
