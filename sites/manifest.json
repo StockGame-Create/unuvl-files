@@ -259,6 +259,19 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24694.png",
       "sha256": "c12a38820cf87d45dda1be55c82e850232a0ea44925b775cbb72d7ce78991d07"
+    },
+    {
+      "message_id": 24693,
+      "filename": "TDYD 시즌0 합본.pdf",
+      "stored_as": "24693_TDYD 시즌0 합본.pdf",
+      "size_bytes": 14037346,
+      "telegram_date": "2026-09-25T12:06:11+00:00",
+      "title": "TDYD 시즌0 합본",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24693.png",
+      "sha256": "0840852db3afc22c234fea16437584c7fa45f091faed6374c3a7ab01f3e6f915"
     }
   ],
   "duplicate_message_ids": []
