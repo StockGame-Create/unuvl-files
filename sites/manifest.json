@@ -5879,6 +5879,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24111.png",
       "sha256": "f660d15700a3920a03c99eac2998f5bebed34c2963853ac2424551c8781747a3"
+    },
+    {
+      "message_id": 24110,
+      "filename": "2027 리바이벌2 물리학I.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24110_2027.2.I.pdf",
+      "size_bytes": 17117383,
+      "telegram_date": "2026-09-12T14:39:14+00:00",
+      "title": "물1 시대인재 REVIVAL 2권 #리바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/24110.png",
+      "sha256": "666546e721943e13b73aec2c4f38b9fcc1a087fe546dedf89afe263c8cc39d6f"
     }
   ],
   "duplicate_message_ids": [
