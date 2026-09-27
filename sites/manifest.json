@@ -376,6 +376,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24680.png",
       "sha256": "0522578599daeef934117227e958eb687afe39ae49613127cba128c16433a95a"
+    },
+    {
+      "message_id": 24677,
+      "filename": "기본 폴더_260924_225332.pdf",
+      "stored_as": "24677_기본 폴더_260924_225332.pdf",
+      "size_bytes": 26908186,
+      "telegram_date": "2026-09-25T12:05:54+00:00",
+      "title": "사문 윤성훈 HOT7 핫세븐",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24677.png",
+      "sha256": "87e35e0a6795c4cdd62dd2b8978391f8a45c4cebe7c846ac14997cb9a00241f3"
     }
   ],
   "duplicate_message_ids": []
