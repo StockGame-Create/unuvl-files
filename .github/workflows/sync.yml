@@ -2,17 +2,31 @@ name: Sync Telegram PDFs
 
 on:
   schedule:
-    # 30분마다 실행 (cron은 UTC 기준, 필요하면 주기 조정)
-    - cron: "*/30 * * * *"
+    # 이건 어디까지나 "보험"용이다. 평상시엔 sync.py가 종료 직전에 GitHub API로
+    # 스스로 다음 실행을 예약해서(workflow_dispatch) 체인을 이어가기 때문에
+    # (cron이 아니라 API 직접 호출이라 GitHub의 schedule 지연/드롭 문제와 무관함),
+    # 이 스케줄은 그 체인이 어쩌다 끊겼을 때만 다시 살려주는 역할을 한다.
+    # sync.py 한 번 실행은 최대 5시간 30분이므로 6시간 주기면 충분하다.
+    - cron: "0 */6 * * *"
   workflow_dispatch: # Actions 탭에서 수동 실행도 가능
 
 permissions:
   contents: write
+  actions: write # sync.py가 스스로 다음 실행을 예약(workflow_dispatch)하려면 필요
+
+concurrency:
+  group: sync-telegram-pdfs
+  cancel-in-progress: false # 이미 리스너가 돌고 있으면 새 실행은 대기시킴
+  # (동시에 같은 TELEGRAM_SESSION으로 두 프로세스가 붙어서
+  #  AuthKeyDuplicatedError로 세션이 파기되는 걸 막는 핵심 설정)
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 45 # PDF가 많으면 시간이 걸릴 수 있어 넉넉하게 설정
+    # GitHub Actions 호스티드 러너의 절대 상한은 Job당 6시간(360분).
+    # sync.py 자체는 5시간 30분에서 스스로 종료하므로, 그 뒤 마지막 커밋/푸시와
+    # "다음 실행 예약" API 호출까지 처리할 여유를 30분 남겨둔다.
+    timeout-minutes: 355
     steps:
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
@@ -25,14 +39,18 @@ jobs:
       - name: 의존성 설치
         run: pip install -r requirements.txt
 
-      - name: sync.py 실행
-        timeout-minutes: 35 # job 타임아웃(45분)보다 짧게 잡아서, 여기서 끊겨도 아래 커밋 스텝은 실행될 시간을 확보
+      - name: sync.py 실행 (최대 약 5시간 30분간 텔레그램에 계속 붙어서 새 파일을 실시간으로 받음)
+        timeout-minutes: 350 # job timeout-minutes(355)보다 짧게 잡아서, 여기서 끊겨도 커밋 스텝은 실행될 시간을 확보
         env:
           TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_PHONE: ${{ secrets.TELEGRAM_PHONE }}
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
           TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
+          # sync.py가 스스로 다음 실행을 예약할 때 쓰는 토큰. 별도 Secret을
+          # 새로 만들 필요 없이, 위의 permissions.actions=write 로 권한이
+          # 부여된 기본 GITHUB_TOKEN을 그대로 넘겨준다.
+          GH_DISPATCH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python sync.py
         continue-on-error: true # 이 스텝이 타임아웃/에러로 죽어도 아래 커밋 스텝은 꼭 실행되게 함
 
