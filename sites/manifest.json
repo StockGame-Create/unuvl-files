@@ -6215,6 +6215,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24078.png",
       "sha256": "38465e5c53a4001ddd1078fa1da566127469e2dc05b817c9be1606e994a42208"
+    },
+    {
+      "message_id": 24076,
+      "filename": "TalkFile_대수.pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24076_TalkFile_.pdf.pdf",
+      "size_bytes": 90647187,
+      "telegram_date": "2026-09-12T00:11:34+00:00",
+      "title": "수학 각 필수유형서 대수",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24076.png",
+      "sha256": "a2c98e83b53e4452c8931d86a740645d0439b661eb2ec08a696f653ddde49f70"
     }
   ],
   "duplicate_message_ids": [
