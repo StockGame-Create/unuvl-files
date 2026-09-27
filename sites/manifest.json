@@ -1030,6 +1030,20 @@
       "subject": null,
       "thumbnail": "thumbnails/24606.png",
       "sha256": "b4fe8eb172d378b6db06dfda8ba040408014e9a8b9d414ac2cd3cd801027a58f"
+    },
+    {
+      "message_id": 24604,
+      "filename": "3.pdf",
+      "stored_as": "24604_3.pdf",
+      "download_url": null,
+      "size_bytes": 4203233,
+      "telegram_date": "2026-09-24T02:31:26+00:00",
+      "title": "생윤 임정환 HARD TRAINING 2~4회",
+      "year": "2027",
+      "instructor": "임정환",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/24604.png",
+      "sha256": "a5c5393e48304d82c00f4504dc977ffa75a8b658a4919b25debce601757b80af"
     }
   ],
   "duplicate_message_ids": []
