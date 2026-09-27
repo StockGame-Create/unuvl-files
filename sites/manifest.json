@@ -2953,6 +2953,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/24404.png",
       "sha256": "cb670dbc14d9fccec6c61270713ce84796e59c629db9ec089fcc0f073d4ad4c7"
+    },
+    {
+      "message_id": 24402,
+      "filename": "나르샤_사회문화_실전분석서3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24402_._._.3.pdf",
+      "size_bytes": 144407529,
+      "telegram_date": "2026-09-17T15:17:54+00:00",
+      "title": "사문 나르샤 실전분석서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24402.png",
+      "sha256": "5ad31e92991b1e78b932798da1bea2eb34e7f5d2b175f6ec4806111e41bfc79d"
     }
   ],
   "duplicate_message_ids": []
