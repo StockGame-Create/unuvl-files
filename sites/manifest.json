@@ -1959,6 +1959,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24514.png",
       "sha256": "832cc3e8eb318f5c540e4907de93fcd1f6dde7c835ca49802cf3b5fcee4bea5d"
+    },
+    {
+      "message_id": 24513,
+      "filename": "2027_시대_국어_모의_14해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24513_2027_._._._14.pdf",
+      "size_bytes": 100337833,
+      "telegram_date": "2026-09-21T12:55:07+00:00",
+      "title": "국어 시대인재 서바이벌 C 단독 모의고사 1~4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24513.png",
+      "sha256": "5ca4cfdc2dff85c14ee6e4943ecc6ee5ed92f3ab389c9b70d1b2b467f291de88"
     }
   ],
   "duplicate_message_ids": []
