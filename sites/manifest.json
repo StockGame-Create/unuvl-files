@@ -6859,6 +6859,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23982.png",
       "sha256": "873c129a432a76eaa04c26df3fbb56329b2dfcc6c90fc4dcc22bfe75685e0e2e"
+    },
+    {
+      "message_id": 23980,
+      "filename": "IMG_1921.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23980_IMG_1921.pdf",
+      "size_bytes": 18416384,
+      "telegram_date": "2026-09-08T14:40:06+00:00",
+      "title": "수학 설맞이 모의고사 시즌1 2회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23980.png",
+      "sha256": "18110ada42bd1db67daafc695cf70edab6decd4de8c2eb63c3c205be6133afaf"
     }
   ],
   "duplicate_message_ids": [
