@@ -1506,6 +1506,20 @@
       "subject": null,
       "thumbnail": "thumbnails/24554.png",
       "sha256": "91bba3a0d813cbcae99edb227c8cc60c3b8007b089f253514094c04eb85bf88d"
+    },
+    {
+      "message_id": 24552,
+      "filename": "강대K_수학_20회_해설600dpi.pdf",
+      "stored_as": "24552_강대K_수학_20회_해설600dpi.pdf",
+      "download_url": null,
+      "size_bytes": 45274142,
+      "telegram_date": "2026-09-22T14:42:21+00:00",
+      "title": "수학 강대모의고사K 19, 20회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24552.png",
+      "sha256": "7e71dc2c0d82cc78eaa09a55789a5ec8100f18053d4e1543658007cf9034a6cb"
     }
   ],
   "duplicate_message_ids": []
