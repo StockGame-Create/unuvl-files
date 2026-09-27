@@ -32,6 +32,9 @@
    문제가 있어서, PDF 다운로드 트래픽을 전부 GitHub 쪽으로 옮기기로 했다.)
 - sites/manifest.json에 파일 목록(이름, 크기, 날짜, 메타데이터, 썸네일 경로)을
   기록합니다. 웹사이트(index.html)는 이 manifest.json을 읽어서 목록을 보여줍니다.
+  (vercel.json으로 Vercel 자동 배포를 꺼뒀기 때문에, index.html은 이 파일을
+   Vercel 배포 결과물이 아니라 raw.githubusercontent.com에서 직접 fetch한다.
+   즉 git push만 되면 되고, 배포가 몇 번 일어나는지는 더 이상 신경 쓸 필요 없다.)
 - 이미 내려받은 파일(manifest에 message_id 존재)은 건너뛰어 중복 다운로드하지 않습니다.
 - Firebase, Firestore, 외부 클라우드 API를 전혀 호출하지 않습니다. (GitHub 자체
   API 호출은 "다음 실행 예약" 용도로만 사용합니다.)
@@ -112,6 +115,8 @@ THUMBS_DIR.mkdir(parents=True, exist_ok=True)
 
 # GitHub Actions 안에서 실행 중일 때만, 파일 하나 받을 때마다 즉시 git commit + push.
 # (로컬에서 그냥 테스트 삼아 돌릴 때는 자동으로 커밋/푸시하지 않도록 방지)
+# 파일마다 push해도 Vercel 배포가 매번 새로 생기지 않도록 vercel.json에서
+# git.deploymentEnabled를 껐으므로, 배치로 묶을 필요 없이 즉시 push하는 게 가장 단순하다.
 AUTO_GIT_PUSH = os.environ.get("GITHUB_ACTIONS") == "true"
 
 # ---- 다음 실행을 스스로 예약하기 위한 GitHub API 설정 ----------------------
