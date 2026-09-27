@@ -246,6 +246,19 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/24699.png",
       "sha256": "955d66fd4f34ebf3d9f226ea9366f0b90cacd2c20379f25b997dabff6e83ee64"
+    },
+    {
+      "message_id": 24694,
+      "filename": "TDYD 시즌0 해설.pdf",
+      "stored_as": "24694_TDYD 시즌0 해설.pdf",
+      "size_bytes": 22115041,
+      "telegram_date": "2026-09-25T12:06:12+00:00",
+      "title": "영어 조정식 The Day is Your Day! 시즌0 1, 2회 #더데유데",
+      "year": "2027",
+      "instructor": "조정식",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24694.png",
+      "sha256": "c12a38820cf87d45dda1be55c82e850232a0ea44925b775cbb72d7ce78991d07"
     }
   ],
   "duplicate_message_ids": []
