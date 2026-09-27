@@ -134,13 +134,52 @@
     background: var(--paper-raised);
   }
 
-  .update-log h2 {
+  .update-log-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     margin: 0 0 0.5rem;
+  }
+
+  .update-log h2 {
+    margin: 0;
     font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.74rem;
     letter-spacing: 0.04em;
     color: var(--ink-soft);
     text-transform: uppercase;
+  }
+
+  .update-log-nav {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .log-nav-btn {
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
+    font-size: 0.85rem;
+    line-height: 1;
+    color: var(--ink);
+    background: var(--paper);
+    border: 1.5px solid var(--rule);
+    padding: 0.25rem 0.6rem;
+    cursor: pointer;
+  }
+
+  .log-nav-btn:hover:not(:disabled) {
+    border-color: var(--leather);
+    color: var(--leather);
+  }
+
+  .log-nav-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+
+  .log-nav-btn:focus-visible {
+    outline: 2px solid var(--ink);
+    outline-offset: 2px;
   }
 
   .update-log ul {
@@ -827,7 +866,13 @@
 
     <section class="tab-panel" id="tabFiles">
       <div class="update-log" id="updateLog" hidden>
-        <h2>최근 업데이트</h2>
+        <div class="update-log-head">
+          <h2>최근 업데이트</h2>
+          <div class="update-log-nav" id="updateLogNav" hidden>
+            <button type="button" id="updateLogPrev" class="log-nav-btn" aria-label="이전 업데이트">‹</button>
+            <button type="button" id="updateLogNext" class="log-nav-btn" aria-label="다음 업데이트">›</button>
+          </div>
+        </div>
         <ul id="updateLogList"></ul>
       </div>
 
@@ -924,6 +969,9 @@
     const toastEl = document.getElementById("toast");
     const updateLogEl = document.getElementById("updateLog");
     const updateLogListEl = document.getElementById("updateLogList");
+    const updateLogNavEl = document.getElementById("updateLogNav");
+    const updateLogPrevBtn = document.getElementById("updateLogPrev");
+    const updateLogNextBtn = document.getElementById("updateLogNext");
     const paginationEl = document.getElementById("pagination");
 
     const PAGE_SIZE = 15; // 한 페이지에 15개(5열 x 3행)까지만 표시
@@ -1044,18 +1092,37 @@
         g.count += 1;
         if (g.titles.length < 5) g.titles.push(f.title || f.filename);
       }
+      // 최근 업데이트는 이제 위쪽 6개만 그대로 보여주고, 그 뒤(7번째)부터는
+      // <> 버튼으로 넘겨볼 수 있게 해서 여기서는 넉넉히 (최대 60개) 남겨둔다.
       return Array.from(groups.values())
         .sort((a, b) => new Date(b.date) - new Date(a.date))
-        .slice(0, 5);
+        .slice(0, 60);
     }
 
+    const UPDATE_LOG_PAGE_SIZE = 6; // 한 번에 6개까지 보여주고, 7번째부터는 다음 페이지로
+    let updateLogEntries = [];
+    let updateLogPage = 1;
+
     function renderUpdateLog(log) {
-      if (!log || log.length === 0) {
+      updateLogEntries = log || [];
+      updateLogPage = 1;
+      renderUpdateLogPage();
+    }
+
+    function renderUpdateLogPage() {
+      if (updateLogEntries.length === 0) {
         updateLogEl.hidden = true;
         return;
       }
+
+      const totalPages = Math.max(1, Math.ceil(updateLogEntries.length / UPDATE_LOG_PAGE_SIZE));
+      if (updateLogPage > totalPages) updateLogPage = totalPages;
+
+      const start = (updateLogPage - 1) * UPDATE_LOG_PAGE_SIZE;
+      const pageEntries = updateLogEntries.slice(start, start + UPDATE_LOG_PAGE_SIZE);
+
       updateLogListEl.innerHTML = "";
-      for (const entry of log) {
+      for (const entry of pageEntries) {
         const li = document.createElement("li");
         const shown = entry.titles || [];
         const extra = entry.count > shown.length ? ` 외 ${entry.count - shown.length}개` : "";
@@ -1063,8 +1130,31 @@
         li.innerHTML = `<span class="log-date">${escapeHtml(formatDate(entry.date))}</span>새 파일 ${entry.count}개${titles ? ` — ${escapeHtml(titles)}${escapeHtml(extra)}` : ""}`;
         updateLogListEl.appendChild(li);
       }
+
+      const showNav = updateLogEntries.length > UPDATE_LOG_PAGE_SIZE;
+      updateLogNavEl.hidden = !showNav;
+      if (showNav) {
+        updateLogPrevBtn.disabled = updateLogPage <= 1;
+        updateLogNextBtn.disabled = updateLogPage >= totalPages;
+      }
+
       updateLogEl.hidden = false;
     }
+
+    updateLogPrevBtn.addEventListener("click", () => {
+      if (updateLogPage > 1) {
+        updateLogPage -= 1;
+        renderUpdateLogPage();
+      }
+    });
+
+    updateLogNextBtn.addEventListener("click", () => {
+      const totalPages = Math.max(1, Math.ceil(updateLogEntries.length / UPDATE_LOG_PAGE_SIZE));
+      if (updateLogPage < totalPages) {
+        updateLogPage += 1;
+        renderUpdateLogPage();
+      }
+    });
 
     function formatSize(bytes) {
       if (bytes < 1024) return bytes + " B";
