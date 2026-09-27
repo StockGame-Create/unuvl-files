@@ -857,6 +857,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24630.png",
       "sha256": "9f36791d2e3e31598396c57ba8874f799a123ad1dd9e37f859ed40328fcec31d"
+    },
+    {
+      "message_id": 24628,
+      "filename": "이감 국어.pdf",
+      "stored_as": "24628_이감 국어.pdf",
+      "size_bytes": 35114008,
+      "telegram_date": "2026-09-24T13:32:05+00:00",
+      "title": "국어 이감 제4, 5차 예비평가",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24628.png",
+      "sha256": "e33d272308f5b26760578d4b9efb55c24a06c2febc083d5df97a099dced2391e"
     }
   ],
   "duplicate_message_ids": []
