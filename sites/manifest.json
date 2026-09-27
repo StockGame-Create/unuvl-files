@@ -3233,6 +3233,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24369.png",
       "sha256": "fb59fb69edd35c75e9c26f344db8f2a3652e502f912f33c6c32b6bd87edcd82e"
+    },
+    {
+      "message_id": 24366,
+      "filename": "이지영_재택_모의고사_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24366_._._._1.pdf",
+      "size_bytes": 3395072,
+      "telegram_date": "2026-09-16T13:32:55+00:00",
+      "title": "생윤 이지영 전범위 재택 모의고사 1회",
+      "year": "2027",
+      "instructor": "이지영",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/24366.png",
+      "sha256": "9eba1fdafc3689d3a4a52396a55c5a38b99d6faff19e88e78c6b2e313003174c"
     }
   ],
   "duplicate_message_ids": []
