@@ -2323,6 +2323,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24472.png",
       "sha256": "1aa556fb6887078b28b33aa734f566780981863bbe8cd3d6cc6f4da918d6f8dc"
+    },
+    {
+      "message_id": 24471,
+      "filename": "하트 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24471_.4.pdf",
+      "size_bytes": 20425391,
+      "telegram_date": "2026-09-19T00:23:35+00:00",
+      "title": "사문 임정환 HARD TRAINING 2~4회",
+      "year": "2027",
+      "instructor": "임정환",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24471.png",
+      "sha256": "1a5c9216f1c84cda985ca5e1c9bd40e181d58dc9ce146b33ddbd3c01bc6ddc29"
     }
   ],
   "duplicate_message_ids": []
