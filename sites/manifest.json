@@ -1945,6 +1945,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24516.png",
       "sha256": "a905a15070151ebb01feadcf92d6b313cd328c900caad5c67084a6ff85e25cf7"
+    },
+    {
+      "message_id": 24514,
+      "filename": "2027 시대 국어 모의 1~4.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24514_2027.1.4.pdf",
+      "size_bytes": 147029205,
+      "telegram_date": "2026-09-21T12:55:07+00:00",
+      "title": "국어 시대인재 서바이벌 C 단독 모의고사 1~4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24514.png",
+      "sha256": "832cc3e8eb318f5c540e4907de93fcd1f6dde7c835ca49802cf3b5fcee4bea5d"
     }
   ],
   "duplicate_message_ids": []
