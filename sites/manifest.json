@@ -753,6 +753,19 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/24642.png",
       "sha256": "5228874ff4c0f3d6032ee9f7e6288c066ac6b0dc8b8284b67220596f0428f3d9"
+    },
+    {
+      "message_id": 24641,
+      "filename": "2027학년도_화학2_시대_전국.pdf",
+      "stored_as": "24641_2027학년도_화학2_시대_전국.pdf",
+      "size_bytes": 15898499,
+      "telegram_date": "2026-09-24T13:57:49+00:00",
+      "title": "2027학년도_화학2_시대_전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/24641.png",
+      "sha256": "1edd78f40e50ea7d31e84010f4ae13acca8ec93e5c5ea96250b336cccbe0b1ae"
     }
   ],
   "duplicate_message_ids": []
