@@ -389,6 +389,19 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24677.png",
       "sha256": "87e35e0a6795c4cdd62dd2b8978391f8a45c4cebe7c846ac14997cb9a00241f3"
+    },
+    {
+      "message_id": 24674,
+      "filename": "자이스토리_통합과학2_문제.pdf",
+      "stored_as": "24674_자이스토리_통합과학2_문제.pdf",
+      "size_bytes": 92076724,
+      "telegram_date": "2026-09-25T05:32:13+00:00",
+      "title": "통과 자이스토리 통합과학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/24674.png",
+      "sha256": "90842f0f2fdd421a8d66d2721994e9af944dcdfe0305e55d2b39349b7e3ee072"
     }
   ],
   "duplicate_message_ids": []
