@@ -3877,6 +3877,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24305.png",
       "sha256": "82e8237c52278fc6bae133f30d1397b0302df6043d26cddd58ace95eb04e76d7"
+    },
+    {
+      "message_id": 24303,
+      "filename": "2027 국어 Accelerator 18회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24303_2027.Accelerator.18.pdf",
+      "size_bytes": 53881298,
+      "telegram_date": "2026-09-15T12:16:36+00:00",
+      "title": "국어 2027 엑셀러레이터 18호",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24303.png",
+      "sha256": "263b0b93b344b3dfda893e9214e618c33ca8d164ad3b11968b80213ce7c572b4"
     }
   ],
   "duplicate_message_ids": []
