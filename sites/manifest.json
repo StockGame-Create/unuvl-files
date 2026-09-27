@@ -4437,6 +4437,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24257.png",
       "sha256": "2b1075d5734b73899b6f49e6916ae84bd813e157edce4ada990376ebb2cfe384"
+    },
+    {
+      "message_id": 24255,
+      "filename": "2027 강대모의고사K+ 물리학1 4회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24255_2027.K%2B.1.4.pdf",
+      "size_bytes": 753812,
+      "telegram_date": "2026-09-14T14:47:41+00:00",
+      "title": "물1 강대모의고사K+ 4회 #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/24255.png",
+      "sha256": "e48a7a9e6dd7fffcab70733ede8a76f57066027b65366d2b323d657ec661f010"
     }
   ],
   "duplicate_message_ids": []
