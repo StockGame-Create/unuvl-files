@@ -43,6 +43,20 @@
       "sha256": "147b0cf89684b4145c3a40ac58d629b7b65d76573bb518dc4e38b1caebfa5040"
     },
     {
+      "message_id": 24730,
+      "filename": "이감 언어와 매체_260724_110211_260811_222147.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24730_._260724_110211_260811_222147.pdf",
+      "size_bytes": 492792406,
+      "telegram_date": "2026-09-27T08:06:42+00:00",
+      "title": "국어 2027 이감 언어와 매체 N제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24730.png",
+      "sha256": "a5193414ee4babcacce6fbf1835e2a326368cbfbd5d2bb0c8377ac60e12fd74c"
+    },
+    {
       "message_id": 24728,
       "filename": "한지 파브 1회 해설.pdf",
       "stored_as": null,
