@@ -6243,6 +6243,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/24074.png",
       "sha256": "b62937027177e8f3e207981073c6ef2b15c51ddbe47d1dcad21677ef3e48a96e"
+    },
+    {
+      "message_id": 24073,
+      "filename": "2027 생1 DCAF ADAPTER.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24073_2027.1.DCAF.ADAPTER.pdf",
+      "size_bytes": 189510350,
+      "telegram_date": "2026-09-12T00:11:27+00:00",
+      "title": "생1 ADAPTER N제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/24073.png",
+      "sha256": "479db8b10d5e56cce7b6fae901c5755394d138dd5f8d2ffee922e435df37c566"
     }
   ],
   "duplicate_message_ids": [
