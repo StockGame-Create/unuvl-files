@@ -363,6 +363,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24681.png",
       "sha256": "41c5e9de58aa380ba6dfc0bfcc9d06aa87506967bf3ecfec39fc3cc099e9bee5"
+    },
+    {
+      "message_id": 24680,
+      "filename": "이해원 트렌드.pdf",
+      "stored_as": "24680_이해원 트렌드.pdf",
+      "size_bytes": 83228364,
+      "telegram_date": "2026-09-25T12:05:55+00:00",
+      "title": "이해원 트렌드",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24680.png",
+      "sha256": "0522578599daeef934117227e958eb687afe39ae49613127cba128c16433a95a"
     }
   ],
   "duplicate_message_ids": []
