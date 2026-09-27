@@ -5221,6 +5221,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24179.png",
       "sha256": "76dc171f432cdfb3200dc3970755fa411000e8e529720e5ea578363aa9ee20f3"
+    },
+    {
+      "message_id": 24175,
+      "filename": "손끝 모의고사3 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24175_.3.2.pdf",
+      "size_bytes": 5409922,
+      "telegram_date": "2026-09-13T15:49:13+00:00",
+      "title": "사문 손끝 모의고사 시즌3 1, 2회",
+      "year": "2027",
+      "instructor": "손고운",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24175.png",
+      "sha256": "27bf44a36ea6c5d8bdda3134e479f50bab4fdf2a628d2634ef212f1dbe4f0d06"
     }
   ],
   "duplicate_message_ids": [
