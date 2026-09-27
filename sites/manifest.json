@@ -2701,6 +2701,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24430.png",
       "sha256": "ce0ae11233ca057d99a718537d1bc4da3db8f5cf0291bcd0dc5eed94cfd24a5b"
+    },
+    {
+      "message_id": 24429,
+      "filename": "27_나르샤_시즌1_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24429_27_._.1_.pdf",
+      "size_bytes": 56581241,
+      "telegram_date": "2026-09-17T15:18:23+00:00",
+      "title": "사문 나르샤 실전 모의고사 1~4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24429.png",
+      "sha256": "6bca91f8f852a2d176f8252075f3eafd930a20e8f0a25f148b06e1c2e99cedc6"
     }
   ],
   "duplicate_message_ids": []
