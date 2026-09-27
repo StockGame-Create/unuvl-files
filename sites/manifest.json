@@ -2085,6 +2085,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24502.png",
       "sha256": "5952bb67e901505dfbede0bbe8f90e05b3b7759d713ce6255afddf7abda6adbc"
+    },
+    {
+      "message_id": 24501,
+      "filename": "2027_리바_지구과학I_3권_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24501_2027_._.I_3._.pdf",
+      "size_bytes": 26933386,
+      "telegram_date": "2026-09-19T14:19:08+00:00",
+      "title": "지1 REVIVAL 1~3권 #리바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24501.png",
+      "sha256": "59819748d76397d9ae0d983a210774834a46f6d4939fa5ad9641215a3ded0bf7"
     }
   ],
   "duplicate_message_ids": []
