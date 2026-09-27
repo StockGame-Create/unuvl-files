@@ -2799,6 +2799,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24423.png",
       "sha256": "743e88e32109de335f5b76a90b325f1b16e3aa07484b9c604643e8d7a91bd079"
+    },
+    {
+      "message_id": 24422,
+      "filename": "사문 강k+ 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24422_.k%2B.7.pdf",
+      "size_bytes": 58826502,
+      "telegram_date": "2026-09-17T15:18:15+00:00",
+      "title": "사문 강대모의고사K+ 7회 #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24422.png",
+      "sha256": "b7bb8b83b9ad6df49c97f2a015178360eae7c63294355884e8510e504442e316"
     }
   ],
   "duplicate_message_ids": []
