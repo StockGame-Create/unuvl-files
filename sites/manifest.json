@@ -1198,6 +1198,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24586.png",
       "sha256": "372be0b152e5a33f95adf677c63ebcaf5cced38d93631b2c0ce6a494014db381"
+    },
+    {
+      "message_id": 24584,
+      "filename": "2027 이형수 1회.pdf",
+      "stored_as": "24584_2027 이형수 1회.pdf",
+      "download_url": null,
+      "size_bytes": 10007387,
+      "telegram_date": "2026-09-23T08:11:58+00:00",
+      "title": "사문 이형수 실전 모의고사 1회",
+      "year": "2027",
+      "instructor": "이형수",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24584.png",
+      "sha256": "d2907035397a1c2a7935b1e0d95544d2432ad16f4c04728b7e184bf5ddbd330c"
     }
   ],
   "duplicate_message_ids": []
