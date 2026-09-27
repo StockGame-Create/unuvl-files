@@ -4409,6 +4409,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24263.png",
       "sha256": "f44c6ca8c89617f0d711d1e5807976ca565ef4f5e54563e45db2b8cb71190447"
+    },
+    {
+      "message_id": 24260,
+      "filename": "2027_수학_박종민_Limit_X_30회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24260_2027_._._Limit_X_30.pdf",
+      "size_bytes": 2276508,
+      "telegram_date": "2026-09-14T14:47:44+00:00",
+      "title": "수학 박종민 Limit X 모의고사 30회",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24260.png",
+      "sha256": "77505f0779e42e099f74e010ff8f24b4d8ed65bc5ff9d3559e41ed10774c0988"
     }
   ],
   "duplicate_message_ids": []
