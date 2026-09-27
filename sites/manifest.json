@@ -1492,6 +1492,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24555.png",
       "sha256": "f5f1cc3ac32bd3e3e245dfcef20885f51a8248f3620f14182f80ce9ae60fe020"
+    },
+    {
+      "message_id": 24554,
+      "filename": "2027_사문_서바이벌_해설지_1_9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24554_2027_._._._1_9.pdf",
+      "size_bytes": 158792086,
+      "telegram_date": "2026-09-22T14:42:27+00:00",
+      "title": "2027_사문_서바이벌_해설지_1_9회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24554.png",
+      "sha256": "91bba3a0d813cbcae99edb227c8cc60c3b8007b089f253514094c04eb85bf88d"
     }
   ],
   "duplicate_message_ids": []
