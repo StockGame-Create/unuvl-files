@@ -2743,6 +2743,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24427.png",
       "sha256": "1633e36ea933fc9f66bbab51f82c746a0f39241d8873be17c57fb5fa4a3b6101"
+    },
+    {
+      "message_id": 24426,
+      "filename": "27 사문 전국서바 8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24426_27.8.pdf",
+      "size_bytes": 35273486,
+      "telegram_date": "2026-09-17T15:18:21+00:00",
+      "title": "사문 시대인재 서바이벌 전국 모의고사 6~8회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24426.png",
+      "sha256": "5c369710d3e318f924154cddacff13de176fddefeb2c623a42243cb96b1367c4"
     }
   ],
   "duplicate_message_ids": []
