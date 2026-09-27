@@ -1973,6 +1973,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24513.png",
       "sha256": "5ca4cfdc2dff85c14ee6e4943ecc6ee5ed92f3ab389c9b70d1b2b467f291de88"
+    },
+    {
+      "message_id": 24511,
+      "filename": "오지모_시즌3_3_4회_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24511_._.3_3_4._.pdf",
+      "size_bytes": 4344503,
+      "telegram_date": "2026-09-21T12:55:05+00:00",
+      "title": "지1 오지훈 OZ 모의고사 시즌3 3, 4회",
+      "year": "2027",
+      "instructor": "오지훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24511.png",
+      "sha256": "77df74dd2ad387b009d32a2198ea693fdb2303593702ed5f01ded54a7cb2b5d3"
     }
   ],
   "duplicate_message_ids": []
