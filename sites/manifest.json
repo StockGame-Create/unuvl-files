@@ -3597,6 +3597,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24332.png",
       "sha256": "16034c7b3cea8120f350dc039b5295f51ec7a73ebe5a75e15c1e3683a636ad54"
+    },
+    {
+      "message_id": 24331,
+      "filename": "전국서바 10회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24331_.10.pdf",
+      "size_bytes": 13174406,
+      "telegram_date": "2026-09-15T12:51:15+00:00",
+      "title": "지1 시대인재 서바이벌 전국 모의고사 10회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24331.png",
+      "sha256": "6c06a505b71724523e91b965f1e74e7c0b7db9584f626778e5a9107d9f09af93"
     }
   ],
   "duplicate_message_ids": []
