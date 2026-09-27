@@ -4899,6 +4899,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24209.png",
       "sha256": "4a1d94ece9496574af5893795df13dc6a90a7ceb638dce14bd2e5dac773740fd"
+    },
+    {
+      "message_id": 24208,
+      "filename": "2027_HOLYDAY_신박해_공통_4주차_2026_07_25_18_33_20_260725_183324.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24208_2027_HOLYDAY_._._4._2026_07_25_18_33_20_260725_183324.pdf",
+      "size_bytes": 3859234,
+      "telegram_date": "2026-09-14T10:55:13+00:00",
+      "title": "수학 신성규 HOLYDAY 신박해 공통 1~4주차",
+      "year": "2027",
+      "instructor": "신성규",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24208.png",
+      "sha256": "d065e99e9dbe45356cfb3c2fc255fc691499112664f20088c568e2117580337e"
     }
   ],
   "duplicate_message_ids": [
