@@ -431,8 +431,8 @@
     border-top: 1px solid var(--rule);
   }
 
-  .download-btn,
-  .share-btn {
+  .view-btn,
+  .quick-download-btn {
     text-align: center;
     font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.78rem;
@@ -440,33 +440,42 @@
     border: none;
     background: transparent;
     padding: 0.75rem 0.4rem;
-    flex: 1;
     cursor: pointer;
     transition: background-color 0.15s ease, color 0.15s ease;
   }
 
-  .share-btn {
+  .view-btn {
+    flex: 1;
+  }
+
+  .quick-download-btn {
     border-left: 1px solid var(--rule);
     flex: 0 0 32%;
   }
 
-  .download-btn::after {
+  .view-btn::after {
+    content: "파일 보기";
+  }
+
+  .quick-download-btn::after {
     content: "다운로드 ↓";
   }
 
-  .share-btn::after {
-    content: "링크 복사";
-  }
-
-  .download-btn:hover,
-  .share-btn:hover {
+  .view-btn:hover,
+  .quick-download-btn:hover {
     background: var(--ink);
     color: var(--paper);
   }
 
-  .download-btn[data-state="loading"]::after { content: "받는 중..."; }
-  .download-btn[data-state="error"]::after { content: "다시 시도"; }
-  .share-btn[data-state="copied"]::after { content: "복사됨 ✓"; }
+  .quick-download-btn[data-state="loading"]::after { content: "받는 중..."; }
+  .quick-download-btn[data-state="error"]::after { content: "다시 시도"; }
+
+  /* 텍스트가 ::after content가 아니라 그냥 textContent로 들어가는 버튼들
+     (파일 관리 탭의 다운로드 버튼 등)도 로딩 중엔 동일하게 흐릿해 보이게. */
+  button[data-state="loading"] {
+    opacity: 0.6;
+    cursor: default;
+  }
 
 
   .empty-state, .loading-state {
@@ -624,6 +633,41 @@
     font-size: 0.76rem;
     color: var(--ink-soft);
     font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
+  }
+
+  /* ---- 파일 관리 탭: 자료 선택 바의 버튼들(새 탭에서 열기/다운로드/다른 파일) ---- */
+  .view-toolbar-actions {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+  }
+
+  /* ---- 파일 관리 탭: PDF 뷰어 ---- */
+  .pdf-viewer-shell {
+    position: relative;
+    height: min(78vh, 900px);
+    border: 1px solid var(--rule);
+    background: var(--paper-raised);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .pdf-viewer-shell iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+    background: var(--paper);
+  }
+
+  .pdf-viewer-shell .chat-empty {
+    padding: 0 1.5rem;
+  }
+
+  @media (max-width: 560px) {
+    .pdf-viewer-shell { height: min(70vh, 620px); }
   }
 
   /* ---- AI 탭: 대화창 ---- */
@@ -873,6 +917,7 @@
 
     <div class="tab-nav">
       <button type="button" class="tab-btn active" id="tabBtnFiles">파일 보관함</button>
+      <button type="button" class="tab-btn" id="tabBtnView">파일 관리</button>
       <button type="button" class="tab-btn" id="tabBtnAi">Unvul AI에게 물어보기</button>
     </div>
 
@@ -936,6 +981,32 @@
       </ul>
 
       <div class="pagination" id="pagination"></div>
+    </section>
+
+    <section class="tab-panel" id="tabView" hidden>
+      <div class="ai-toolbar">
+        <div id="viewFileSection">
+          <label class="ai-field-label" for="viewFileSearch">볼 자료를 골라주세요</label>
+          <input type="text" id="viewFileSearch" placeholder="제목, 강사, 과목, 파일명으로 찾기" autocomplete="off" />
+          <ul class="ai-results" id="viewFileResults"></ul>
+        </div>
+
+        <div class="ai-selected" id="viewSelected" hidden>
+          <span id="viewSelectedName"></span>
+          <span class="view-toolbar-actions">
+            <button type="button" id="viewOpenNewTabBtn">새 탭에서 열기</button>
+            <button type="button" id="viewDownloadBtn">다운로드</button>
+            <button type="button" id="viewResetBtn">다른 파일 선택</button>
+          </span>
+        </div>
+
+        <p class="ai-note">100MB가 넘는 큰 자료는 바로보기 대신 다운로드로 받아서 열어주세요. 브라우저에 따라 PDF가 안에서 안 보이면 "새 탭에서 열기"를 눌러보세요.</p>
+      </div>
+
+      <div class="pdf-viewer-shell" id="pdfViewerShell">
+        <p class="chat-empty" id="pdfViewerEmpty">위에서 자료를 먼저 선택하면<br />여기서 바로 PDF를 볼 수 있어요.</p>
+        <iframe id="pdfViewerFrame" title="PDF 미리보기" hidden></iframe>
+      </div>
     </section>
 
     <section class="tab-panel" id="tabAi" hidden>
@@ -1078,31 +1149,6 @@
     function sortFiles(files) {
       const sorter = SORTERS[sortSelect.value] || SORTERS.newest;
       return files.slice().sort(sorter);
-    }
-
-    // 링크 복사: 절대 URL로 변환해서 클립보드에 담는다. clipboard API를 못 쓰는
-    // 환경(비-https 등)이면 임시 textarea + execCommand로 대체한다.
-    async function handleShare(btn, url) {
-      const absoluteUrl = new URL(url, window.location.href).href;
-      try {
-        if (navigator.clipboard && window.isSecureContext) {
-          await navigator.clipboard.writeText(absoluteUrl);
-        } else {
-          const ta = document.createElement("textarea");
-          ta.value = absoluteUrl;
-          ta.style.position = "fixed";
-          ta.style.opacity = "0";
-          document.body.appendChild(ta);
-          ta.select();
-          document.execCommand("copy");
-          ta.remove();
-        }
-        btn.dataset.state = "copied";
-        showToast("링크가 복사되었습니다");
-        setTimeout(() => { btn.dataset.state = ""; }, 1500);
-      } catch (err) {
-        showToast("링크 복사에 실패했어요.", true);
-      }
     }
 
     // 업데이트 로그: sync.py를 건드리지 않고, 이미 있는 files[].telegram_date만
@@ -1285,20 +1331,22 @@
             </div>
           </div>
           <div class="btn-row">
-            <button type="button" class="download-btn" data-state=""></button>
-            <button type="button" class="share-btn" data-state=""></button>
+            <button type="button" class="view-btn" data-state=""></button>
+            <button type="button" class="quick-download-btn" data-state="" title="다운로드" aria-label="다운로드"></button>
           </div>
         `;
 
-        const btn = li.querySelector(".download-btn");
-        // download_url이 있으면 GitHub Release 자산(대용량 파일)이고,
-        // 없으면 git 저장소에 올라간 파일 경로를 그대로 쓴다.
+        // download_url이 있으면 GitHub Release 자산(대부분의 파일)이고,
+        // 없으면 아직 마이그레이션 전이라 git 저장소에 올라간 파일 경로를
+        // 그대로 쓴다 (migrate_to_release.py 참고).
         const isExternal = Boolean(f.download_url);
         const downloadUrl = f.download_url || `files/${encodeURIComponent(f.stored_as)}`;
-        btn.addEventListener("click", () => handleDownload(btn, downloadUrl, f.filename, isExternal));
 
-        const shareBtn = li.querySelector(".share-btn");
-        shareBtn.addEventListener("click", () => handleShare(shareBtn, downloadUrl));
+        const viewBtn = li.querySelector(".view-btn");
+        viewBtn.addEventListener("click", () => openInFileManager(f));
+
+        const quickDownloadBtn = li.querySelector(".quick-download-btn");
+        quickDownloadBtn.addEventListener("click", () => handleDownload(quickDownloadBtn, downloadUrl, f.filename, isExternal));
 
         fileListEl.appendChild(li);
       }
@@ -1412,23 +1460,141 @@
     filterRow.addEventListener("change", applyFilter);
     sortSelect.addEventListener("change", applyFilter);
 
-    // ---- 탭 전환 (파일 보관함 / AI에게 물어보기) ----
+    // ---- 탭 전환 (파일 보관함 / 파일 관리 / AI에게 물어보기) ----
     const tabBtnFiles = document.getElementById("tabBtnFiles");
+    const tabBtnView = document.getElementById("tabBtnView");
     const tabBtnAi = document.getElementById("tabBtnAi");
     const tabFiles = document.getElementById("tabFiles");
+    const tabView = document.getElementById("tabView");
     const tabAi = document.getElementById("tabAi");
 
     function showTab(name) {
-      const isFiles = name === "files";
-      tabFiles.hidden = !isFiles;
-      tabAi.hidden = isFiles;
-      tabBtnFiles.classList.toggle("active", isFiles);
-      tabBtnAi.classList.toggle("active", !isFiles);
-      if (!isFiles) aiFileSearch.focus();
+      tabFiles.hidden = name !== "files";
+      tabView.hidden = name !== "view";
+      tabAi.hidden = name !== "ai";
+      tabBtnFiles.classList.toggle("active", name === "files");
+      tabBtnView.classList.toggle("active", name === "view");
+      tabBtnAi.classList.toggle("active", name === "ai");
+      if (name === "ai") aiFileSearch.focus();
+      if (name === "view" && !viewSelectedFile) viewFileSearch.focus();
     }
 
     tabBtnFiles.addEventListener("click", () => showTab("files"));
+    tabBtnView.addEventListener("click", () => showTab("view"));
     tabBtnAi.addEventListener("click", () => showTab("ai"));
+
+    // ---- 파일 관리 (웹사이트 안에서 PDF 바로 보기) ----
+    // GitHub Release 자산 URL은 Content-Disposition: attachment가 붙어서
+    // <iframe>에 그대로 넣으면 다운로드가 시작돼버리고, fetch()로 직접
+    // 받으려 해도 CORS에 막힌다 (ask.js 상단 설명과 같은 문제). 그래서
+    // 서버 쪽 프록시(api/view.js)를 거쳐서 Content-Disposition을 inline으로
+    // 바꿔 받아오고, 그 프록시 주소를 그대로 iframe에 넣는다.
+    const viewFileSearch = document.getElementById("viewFileSearch");
+    const viewFileResults = document.getElementById("viewFileResults");
+    const viewFileSection = document.getElementById("viewFileSection");
+    const viewSelected = document.getElementById("viewSelected");
+    const viewSelectedName = document.getElementById("viewSelectedName");
+    const viewResetBtn = document.getElementById("viewResetBtn");
+    const viewOpenNewTabBtn = document.getElementById("viewOpenNewTabBtn");
+    const viewDownloadBtn = document.getElementById("viewDownloadBtn");
+    const pdfViewerFrame = document.getElementById("pdfViewerFrame");
+    const pdfViewerEmpty = document.getElementById("pdfViewerEmpty");
+
+    const PDF_VIEWER_DEFAULT_EMPTY_HTML = pdfViewerEmpty.innerHTML;
+
+    // api/view.js의 MAX_VIEWABLE_BYTES와 반드시 동일하게 유지 - 서버까지
+    // 요청을 보내지 않고 미리 안내 메시지를 보여주기 위한 프론트 쪽 사본.
+    const MAX_VIEWABLE_BYTES = 100 * 1024 * 1024;
+
+    let viewSelectedFile = null;
+
+    function viewUrlFor(f) {
+      return `/api/view?message_id=${encodeURIComponent(f.message_id)}`;
+    }
+
+    function selectViewFile(f) {
+      viewSelectedFile = f;
+      viewSelectedName.textContent = f.title || f.filename;
+      viewSelected.hidden = false;
+      viewFileSection.hidden = true;
+      viewFileResults.innerHTML = "";
+      viewFileSearch.value = "";
+
+      if (f.size_bytes && f.size_bytes > MAX_VIEWABLE_BYTES) {
+        pdfViewerFrame.hidden = true;
+        pdfViewerFrame.src = "";
+        pdfViewerEmpty.innerHTML = `"${escapeHtml(f.title || f.filename)}"은(는) ${formatSize(f.size_bytes)}로 너무 커서 바로보기를 지원하지 않아요.<br />위의 "다운로드" 버튼으로 받아서 열어주세요.`;
+        pdfViewerEmpty.hidden = false;
+        return;
+      }
+
+      pdfViewerEmpty.hidden = true;
+      pdfViewerFrame.hidden = false;
+      pdfViewerFrame.src = viewUrlFor(f);
+    }
+
+    function resetView() {
+      viewSelectedFile = null;
+      viewSelected.hidden = true;
+      viewFileSection.hidden = false;
+      viewFileSearch.value = "";
+      viewFileResults.innerHTML = "";
+      pdfViewerFrame.hidden = true;
+      pdfViewerFrame.src = "";
+      pdfViewerEmpty.innerHTML = PDF_VIEWER_DEFAULT_EMPTY_HTML;
+      pdfViewerEmpty.hidden = false;
+      viewFileSearch.focus();
+    }
+
+    // 파일 보관함 카드의 "파일 보기" 버튼에서 호출: 파일 관리 탭으로 전환하고
+    // 그 파일을 바로 선택된 상태로 만든다.
+    function openInFileManager(f) {
+      showTab("view");
+      selectViewFile(f);
+      document.querySelector(".tab-nav").scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+
+    viewFileSearch.addEventListener("input", () => {
+      const q = viewFileSearch.value.trim().toLowerCase().normalize("NFC");
+      viewFileResults.innerHTML = "";
+      if (!q) return;
+
+      const matches = allFiles
+        .filter(f => {
+          const haystack = [f.filename, f.title, f.instructor, f.subject, f.year]
+            .filter(Boolean)
+            .join(" ")
+            .toLowerCase()
+            .normalize("NFC");
+          return haystack.includes(q);
+        })
+        .slice(0, 8);
+
+      for (const f of matches) {
+        const li = document.createElement("li");
+        li.textContent = `${f.title || f.filename} · ${formatDate(f.telegram_date)}`;
+        li.addEventListener("click", () => selectViewFile(f));
+        viewFileResults.appendChild(li);
+      }
+    });
+
+    viewResetBtn.addEventListener("click", resetView);
+
+    viewOpenNewTabBtn.addEventListener("click", () => {
+      if (!viewSelectedFile) return;
+      window.open(viewUrlFor(viewSelectedFile), "_blank");
+    });
+
+    viewDownloadBtn.addEventListener("click", () => {
+      if (!viewSelectedFile) return;
+      const f = viewSelectedFile;
+      // 이 버튼은 프록시(api/view)를 거치지 않고, 파일 보관함의 다운로드
+      // 버튼과 동일하게 원본 URL로 바로 받는다 (대역폭 절약 - view.js 상단
+      // 설명 참고).
+      const isExternal = Boolean(f.download_url);
+      const downloadUrl = f.download_url || `files/${encodeURIComponent(f.stored_as)}`;
+      handleDownload(viewDownloadBtn, downloadUrl, f.filename, isExternal);
+    });
 
     // ---- AI에게 물어보기 (대화형, 멀티턴) ----
     const aiFileSearch = document.getElementById("aiFileSearch");
