@@ -5823,6 +5823,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24121.png",
       "sha256": "5706e95010b5ff236ed8e2c1a0d8b2e46599f5b91ade5db948d04f130ab88541"
+    },
+    {
+      "message_id": 24119,
+      "filename": "성균.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24119_.pdf",
+      "size_bytes": 108727633,
+      "telegram_date": "2026-09-13T00:17:56+00:00",
+      "title": "수학 시대인재 우주설 성균관대학교 논술",
+      "year": "2027",
+      "instructor": "우주설",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24119.png",
+      "sha256": "019de3d63a79f37a7ba44f9601959a51df194ca859ef94db535645fe2ca3d701"
     }
   ],
   "duplicate_message_ids": [
