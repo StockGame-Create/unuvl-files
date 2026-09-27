@@ -6341,6 +6341,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24061.png",
       "sha256": "bfac286e0c2c6e2802a5037767118ae0357c279eb681a6573d1b783cff1e16ba"
+    },
+    {
+      "message_id": 24060,
+      "filename": "지구 파브05.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24060_.05.pdf",
+      "size_bytes": 16759393,
+      "telegram_date": "2026-09-11T16:05:09+00:00",
+      "title": "지1 파이널 브릿지 전국 모의고사 5회 #파브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24060.png",
+      "sha256": "ca319a651d0de1837c6357744309a3fae5b581ec820b0a536391ec67c9149b62"
     }
   ],
   "duplicate_message_ids": [
