@@ -6537,6 +6537,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24036.png",
       "sha256": "c3936b229b86676b65c29a23ff565f1d064b3db8e2c0470d4b8f715a6fa6f6b9"
+    },
+    {
+      "message_id": 24034,
+      "filename": "2027학년도+9월+모의평가+해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24034_2027.%2B9.%2B.%2B.pdf",
+      "size_bytes": 2459960,
+      "telegram_date": "2026-09-10T10:47:23+00:00",
+      "title": "수학 김현우T 2027 9월 모평 해설",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24034.png",
+      "sha256": "9d2d2f8bb460d050a62bdec5e93d423db1fa38f5a0f4f6e9c24e0a40465faf2a"
     }
   ],
   "duplicate_message_ids": [
