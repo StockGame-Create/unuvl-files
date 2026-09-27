@@ -3569,6 +3569,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24335.png",
       "sha256": "778e4673cf786448c76447cedbfa9f3862d29b06cf1abd5fb5bdfae49d5b49fe"
+    },
+    {
+      "message_id": 24334,
+      "filename": "사문 리바 02.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24334_.02.pdf",
+      "size_bytes": 172735976,
+      "telegram_date": "2026-09-15T12:51:20+00:00",
+      "title": "사문 시대인재 REVIVAL 2~4권 #리바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24334.png",
+      "sha256": "f2825919bb86c10815383a401c3871ce3264e8fa14c342af401b54e90c45ee8e"
     }
   ],
   "duplicate_message_ids": []
