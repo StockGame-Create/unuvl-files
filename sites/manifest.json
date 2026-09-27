@@ -6411,6 +6411,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24051.png",
       "sha256": "071f5ee48f901a24dc13c157e8439b1895b78167291dffb36c8fc5309ced157a"
+    },
+    {
+      "message_id": 24050,
+      "filename": "범모 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24050_.5.pdf",
+      "size_bytes": 3492066,
+      "telegram_date": "2026-09-11T15:59:18+00:00",
+      "title": "수학 김범준 모의고사 5회",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24050.png",
+      "sha256": "014d945f0997a9ac5add6ff2242f52dbad3d8de1b4e1a89e5cf1927c886f1b5d"
     }
   ],
   "duplicate_message_ids": [
