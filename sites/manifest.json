@@ -6439,6 +6439,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24048.png",
       "sha256": "e72cb6166d90985621e8050494941fd4ae24bab1503273cf5069f779245cd7ec"
+    },
+    {
+      "message_id": 24047,
+      "filename": "2027_리바이벌_물리학I_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24047_2027_._.I_.pdf",
+      "size_bytes": 377471,
+      "telegram_date": "2026-09-11T15:58:20+00:00",
+      "title": "세지 REVIVAL 01 #리바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/24047.png",
+      "sha256": "b0080710f4605b6dae77f9a7d4c6bcd01a5829395a0e4d438b10ac758ab8993a"
     }
   ],
   "duplicate_message_ids": [
