@@ -988,6 +988,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24612.png",
       "sha256": "4e9fddde5ea69923b36db3363261da2bc7462715084a86870d01d1373bda7c43"
+    },
+    {
+      "message_id": 24610,
+      "filename": "적중예감_파이널_3회차_13회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24610_._._3._13.pdf",
+      "size_bytes": 107000680,
+      "telegram_date": "2026-09-24T12:38:29+00:00",
+      "title": "사문 적중예감 FINAL 실전모의고사 3회 ~ 13회",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24610.png",
+      "sha256": "9436e2b95e1d077bc80f3e76bf3bb3c0ef98fd9f21168864f213a024eb912c02"
     }
   ],
   "duplicate_message_ids": []
