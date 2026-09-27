@@ -1,0 +1,42 @@
+name: 기존 PDF를 GitHub Release로 이전 (일회성, 수동 실행)
+
+on:
+  workflow_dispatch: # Actions 탭에서 수동으로만 실행. 스케줄 없음.
+
+permissions:
+  contents: write
+
+concurrency:
+  # sync.yml과 같은 그룹으로 묶어서 동시에 git push가 겹치지 않게 한다.
+  group: sync-telegram-pdfs
+  cancel-in-progress: false
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: migrate_to_release.py 실행
+        env:
+          # release 생성/업로드에 필요한 권한(contents:write)은 위 permissions로
+          # 부여되므로, 별도 Secret 없이 기본 GITHUB_TOKEN을 그대로 넘긴다.
+          # GITHUB_REPOSITORY는 Actions가 자동으로 설정해준다.
+          GH_DISPATCH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python migrate_to_release.py
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # -A로 삭제된 파일(git에서 빠진 PDF)까지 같이 스테이징
+          git add -A sites/
+          git diff --staged --quiet || git commit -m "chore: 기존 PDF를 GitHub Release로 이전 [skip ci]"
+          git push
