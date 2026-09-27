@@ -441,6 +441,19 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24667.png",
       "sha256": "2ccf640c8d5d7fe4a3de08b0e9c8c7787743569f76a4e991c9f7af3e145562c1"
+    },
+    {
+      "message_id": 24666,
+      "filename": "2027 시대인재 국어 서바이벌 11회.pdf",
+      "stored_as": "24666_2027 시대인재 국어 서바이벌 11회.pdf",
+      "size_bytes": 11970986,
+      "telegram_date": "2026-09-24T13:58:17+00:00",
+      "title": "2027 시대인재 국어 서바이벌 11회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24666.png",
+      "sha256": "b70902eef30e3fa2c4d541b7553fa423a6d5bf93460b2a3ad8dc2b6f3027829e"
     }
   ],
   "duplicate_message_ids": []
