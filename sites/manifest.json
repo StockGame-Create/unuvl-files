@@ -2015,6 +2015,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24508.png",
       "sha256": "aa587b1a9507a9063326533ce4cfc06227f948b3f72b284a89b9d026e3df3f93"
+    },
+    {
+      "message_id": 24507,
+      "filename": "2027_김지영_V모의고사_시즌2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24507_2027_._V._.2.pdf",
+      "size_bytes": 56484040,
+      "telegram_date": "2026-09-20T11:54:56+00:00",
+      "title": "영어 V모의고사 시즌 2",
+      "year": "2027",
+      "instructor": "김지영",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24507.png",
+      "sha256": "d6943a7406c3a42ff371b37fb0071be89a89af6d8922592bc79246a3a1f78c70"
     }
   ],
   "duplicate_message_ids": []
