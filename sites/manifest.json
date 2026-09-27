@@ -6285,6 +6285,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/24069.png",
       "sha256": "2a6c2e56a107066e0075d2f0edfbf448c521682ae964dfeaab5c5d89c316c0b7"
+    },
+    {
+      "message_id": 24066,
+      "filename": "27 강k 수학 16회-1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24066_27.k.16.-1.pdf",
+      "size_bytes": 7660806,
+      "telegram_date": "2026-09-12T00:11:23+00:00",
+      "title": "수학 강대모의고사K 16회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24066.png",
+      "sha256": "1ef13088e9467f2bc82547af68fdea32c95e6d7ea9833c6bfe3858656439802c"
     }
   ],
   "duplicate_message_ids": [
