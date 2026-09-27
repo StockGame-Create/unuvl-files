@@ -2029,6 +2029,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24507.png",
       "sha256": "d6943a7406c3a42ff371b37fb0071be89a89af6d8922592bc79246a3a1f78c70"
+    },
+    {
+      "message_id": 24505,
+      "filename": "2027 서바이벌C 사회문화 1~8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24505_2027.C.1.8.pdf",
+      "size_bytes": 97748836,
+      "telegram_date": "2026-09-19T14:19:15+00:00",
+      "title": "사문 시대인재 서바이벌 C 단독 모의고사 1~8회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24505.png",
+      "sha256": "33f2b39ea6cb632825dabd01dd4f226b55a3deb16829d5c346cd123d908ab5a8"
     }
   ],
   "duplicate_message_ids": []
