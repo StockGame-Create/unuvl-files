@@ -2631,6 +2631,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24435.png",
       "sha256": "19aa3254d574f031fee072671abf03a09913d2f6b3f6b1d519a5fd78b9d563c3"
+    },
+    {
+      "message_id": 24434,
+      "filename": "27 사문 파브 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24434_27.9.pdf",
+      "size_bytes": 33470110,
+      "telegram_date": "2026-09-17T15:18:31+00:00",
+      "title": "사문 시대인재 Final 브릿지 전국 모의고사 9회 #파브전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24434.png",
+      "sha256": "b3a48d94dbc6587f31f698ec70dbd3057e9fea893f06867bbe94bb7fb8228607"
     }
   ],
   "duplicate_message_ids": []
