@@ -5809,6 +5809,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24124.png",
       "sha256": "3c845660cdee7b9e26c84d608e941886e22ab71ac404827deeb1d4a807034266"
+    },
+    {
+      "message_id": 24121,
+      "filename": "적생모_정치와법_시즌2_5회4쪽포함.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24121_._._.2_5.4.pdf",
+      "size_bytes": 7885585,
+      "telegram_date": "2026-09-13T00:17:57+00:00",
+      "title": "사문 적자생존 모의고사 시즌2 5회 #적생모",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24121.png",
+      "sha256": "5706e95010b5ff236ed8e2c1a0d8b2e46599f5b91ade5db948d04f130ab88541"
     }
   ],
   "duplicate_message_ids": [
