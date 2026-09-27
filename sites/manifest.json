@@ -298,6 +298,19 @@
       "subject": null,
       "thumbnail": "thumbnails/24688.png",
       "sha256": "73e712d5e4e5c6a4fd338ef96fe73b93dab7d1a79142b02a903b2c166f2f8ca8"
+    },
+    {
+      "message_id": 24687,
+      "filename": "2027 양승진 모의고사 시즌1 해설.pdf",
+      "stored_as": "24687_2027 양승진 모의고사 시즌1 해설.pdf",
+      "size_bytes": 4119587,
+      "telegram_date": "2026-09-25T12:06:04+00:00",
+      "title": "수학 양승진 모의고사 8~11회",
+      "year": "2027",
+      "instructor": "양승진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24687.png",
+      "sha256": "a33fe1d926a1522669169f7b5e70edb3e35ad6a63f83f3498acbee56b76d977b"
     }
   ],
   "duplicate_message_ids": []
