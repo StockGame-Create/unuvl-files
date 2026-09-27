@@ -493,6 +493,19 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24663.png",
       "sha256": "26b077dbc5161fb4b7cbd3380a748a3de1b2af7accc02dc82ed6737e967b5904"
+    },
+    {
+      "message_id": 24662,
+      "filename": "이감 6-4 문제.pdf",
+      "stored_as": "24662_이감 6-4 문제.pdf",
+      "size_bytes": 37932017,
+      "telegram_date": "2026-09-24T13:58:14+00:00",
+      "title": "이감 6-4 문제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24662.png",
+      "sha256": "d8deb3753bda514299cd82a93b1c42b405f340701f44e373f47e32ba05e7ada4"
     }
   ],
   "duplicate_message_ids": []
