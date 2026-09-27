@@ -3093,6 +3093,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24387.png",
       "sha256": "d99ea5012956fb4d2cca9abe938ace3f92049d6bc7ecab652a7d2718e65c54ba"
+    },
+    {
+      "message_id": 24384,
+      "filename": "2027학년도_9월_모의평가_공통과목_해설지_by_피램_국어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24384_2027._9._._._._by_._.pdf",
+      "size_bytes": 2140849,
+      "telegram_date": "2026-09-16T14:17:17+00:00",
+      "title": "국어 P.I.R.A.M 피램 2027 9월 모평 해설지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24384.png",
+      "sha256": "3103b18bbad62c8fff7c82358205dcce884633accb9e76ba00e3dbecdb6fa711"
     }
   ],
   "duplicate_message_ids": []
