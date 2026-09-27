@@ -7153,6 +7153,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23947.png",
       "sha256": "564f07509d7802e069cb579d4548d0773552cc08ca4593bf738cc9453ee6a347"
+    },
+    {
+      "message_id": 23945,
+      "filename": "2027_강은양_화작특강_4권_실전모의_N제_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23945_2027_._._4._._N._.pdf",
+      "size_bytes": 59726833,
+      "telegram_date": "2026-09-05T17:51:24+00:00",
+      "title": "국어 강은양 화작 특강 4권 실전모의 N제",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23945.png",
+      "sha256": "807f8f29148b06c125db6dd2099aa4c32db78ae76839c6be8db87966c1c04eef"
     }
   ],
   "duplicate_message_ids": [
