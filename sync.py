@@ -22,7 +22,9 @@
 - PDF 첫 페이지를 이미지로 렌더링해서 썸네일로 저장합니다 (sites/thumbnails/).
 - 2026-09-04 이후에 올라온 메시지만 대상으로 하며, 그보다 오래된 메시지가
   나오면 캐치업 스캔을 그 자리에서 중단합니다.
-- 파일 크기가 150MB를 초과하는 PDF는 건너뜁니다.
+- 95MB 이하 PDF는 git commit으로 저장하고, 95MB 초과 ~ 1.9GB 이하 PDF는
+  git push 100MB 제한을 피하기 위해 GitHub Release 자산(asset)으로 업로드한
+  뒤 그 다운로드 URL만 manifest.json에 기록합니다. 1.9GB를 초과하면 건너뜁니다.
 - sites/manifest.json에 파일 목록(이름, 크기, 날짜, 메타데이터, 썸네일 경로)을
   기록합니다. 웹사이트(index.html)는 이 manifest.json을 읽어서 목록을 보여줍니다.
 - 이미 내려받은 파일(manifest에 message_id 존재)은 건너뛰어 중복 다운로드하지 않습니다.
@@ -50,6 +52,7 @@ import re
 import subprocess
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -76,8 +79,24 @@ SESSION_STRING = os.environ.get("TELEGRAM_SESSION", "").strip() or None  # GitHu
 # 이 날짜 이후에 올라온 메시지만 동기화 (하드코딩: 2026-09-04부터)
 CUTOFF = datetime(2026, 9, 4, tzinfo=timezone.utc)
 
-# 이 크기(바이트)를 초과하는 PDF는 건너뜀 (150MB)
-MAX_SIZE_BYTES = 150 * 1024 * 1024
+# ---- 파일 크기 구간별 저장 방식 ------------------------------------------
+# GitHub는 git push 시 파일 하나당 100MB(104,857,600바이트)를 넘으면 무조건
+# 거부한다(LFS 미사용 시 하드 제한, 재시도로도 우회 불가). 그래서 두 단계로 나눈다:
+#
+#   1) GIT_SAFE_BYTES 이하 -> 예전처럼 git commit으로 sites/files/에 저장.
+#   2) GIT_SAFE_BYTES 초과 ~ MAX_SIZE_BYTES 이하 -> git에는 안 올리고, 대신
+#      GitHub "Releases"의 첨부파일(release asset)로 업로드한다. Release asset은
+#      git 저장소 용량/100MB 제한과 무관하게 파일당 2GB까지 허용되고, Git LFS처럼
+#      별도 과금되는 대역폭 쿼터도 없다. manifest.json에는 이 경우 로컬 경로 대신
+#      다운로드 URL만 기록한다 (index.html이 이를 보고 분기해서 다운로드 링크를 만듦).
+#   3) MAX_SIZE_BYTES 초과 -> 그냥 건너뜀.
+#
+# (예전에는 150MB로 잡혀 있었는데, 그러면 100MB~150MB 사이 파일이 다운로드/커밋
+#  까지는 되고 push에서만 계속 실패해서 커밋이 로컬에 쌓인 채 컨테이너 종료로
+#  유실되고, 다음 실행에서 같은 파일을 또 받는 무한 루프에 빠지는 문제가 있었다.)
+GIT_SAFE_BYTES = 95 * 1024 * 1024        # 이 이하: git commit
+RELEASE_TAG = "large-files"              # 대용량 파일을 모아두는 release 태그(1개만 사용, 없으면 자동 생성)
+MAX_SIZE_BYTES = 1900 * 1024 * 1024      # GitHub release asset 한도(2GB)에 여유를 둔 최종 상한
 
 # 썸네일 이미지의 가로 폭 (px). PDF 첫 페이지를 이 폭에 맞춰 렌더링함.
 THUMBNAIL_WIDTH = 400
@@ -318,6 +337,108 @@ def trigger_next_run() -> None:
         print(f"[다음 실행 예약 실패] {e}", flush=True)
 
 
+# ---- GitHub Release 자산 업로드 (95MB~1.9GB 대용량 PDF 전용) ----------------
+_release_cache: dict = {"id": None}
+
+
+def _github_headers() -> dict:
+    return {
+        "Authorization": f"Bearer {GH_DISPATCH_TOKEN}",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
+    }
+
+
+def _get_or_create_release_id() -> int | None:
+    """대용량 파일을 모아둘 release 하나를(RELEASE_TAG) 찾아서 id를 반환.
+    없으면 새로 만든다. 한 실행 안에서는 캐시해서 API를 반복 호출하지 않는다."""
+    if _release_cache["id"] is not None:
+        return _release_cache["id"]
+
+    api_base = f"https://api.github.com/repos/{GITHUB_REPOSITORY}/releases"
+
+    req = urllib.request.Request(f"{api_base}/tags/{RELEASE_TAG}", headers=_github_headers())
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            _release_cache["id"] = data["id"]
+            return data["id"]
+    except urllib.error.HTTPError as e:
+        if e.code != 404:
+            print(f"    [release 조회 실패] HTTP {e.code}: {e.read().decode('utf-8', 'ignore')}", flush=True)
+            return None
+    except Exception as e:
+        print(f"    [release 조회 실패] {e}", flush=True)
+        return None
+
+    body = json.dumps({
+        "tag_name": RELEASE_TAG,
+        "name": "대용량 파일 저장소 (git 100MB 제한 초과분)",
+        "body": "git 저장소 100MB 제한을 넘는 PDF를 담아두는 release입니다. sync.py가 자동으로 관리하니 직접 수정하지 마세요.",
+        "draft": False,
+        "prerelease": False,
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        api_base, data=body, method="POST",
+        headers={**_github_headers(), "Content-Type": "application/json"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            _release_cache["id"] = data["id"]
+            print(f"    [release 생성됨] tag={RELEASE_TAG}", flush=True)
+            return data["id"]
+    except Exception as e:
+        print(f"    [release 생성 실패] {e}", flush=True)
+        return None
+
+
+def upload_release_asset(local_path: Path, asset_name: str, max_retries: int = 3) -> str | None:
+    """대용량 PDF를 GitHub Release 자산으로 업로드하고 다운로드 URL을 반환한다.
+    실패하면 None을 반환하며, 호출부는 이 메시지를 known으로 기록하지 않고 넘어가서
+    다음 실행에서 자연스럽게 재시도하게 된다."""
+    if not (GITHUB_REPOSITORY and GH_DISPATCH_TOKEN):
+        print("    [release 업로드 건너뜀] GITHUB_REPOSITORY 또는 GH_DISPATCH_TOKEN이 없음", flush=True)
+        return None
+
+    release_id = _get_or_create_release_id()
+    if release_id is None:
+        return None
+
+    upload_url = (
+        f"https://uploads.github.com/repos/{GITHUB_REPOSITORY}/releases/"
+        f"{release_id}/assets?name={urllib.parse.quote(asset_name)}"
+    )
+    file_size = local_path.stat().st_size
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            with open(local_path, "rb") as f:
+                req = urllib.request.Request(
+                    upload_url,
+                    data=f,
+                    method="POST",
+                    headers={
+                        **_github_headers(),
+                        "Content-Type": "application/pdf",
+                        "Content-Length": str(file_size),
+                    },
+                )
+                with urllib.request.urlopen(req, timeout=900) as resp:
+                    data = json.loads(resp.read().decode("utf-8"))
+                    print(f"    [release 업로드 성공] {asset_name}", flush=True)
+                    return data["browser_download_url"]
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode("utf-8", "ignore")
+            print(f"    [release 업로드 실패 (시도 {attempt}/{max_retries})] HTTP {e.code}: {detail}", flush=True)
+        except Exception as e:
+            print(f"    [release 업로드 실패 (시도 {attempt}/{max_retries})] {e}", flush=True)
+        time.sleep(min(2 ** attempt, 20))
+
+    print(f"    [release 업로드 최종 실패] {asset_name}", flush=True)
+    return None
+
+
 async def sync():
     manifest = load_manifest()
     manifest.setdefault("duplicate_message_ids", [])
@@ -383,23 +504,20 @@ async def sync():
                 "list_chats.py로 정확한 ID를 다시 확인하세요."
             )
     print(f"entity 조회 성공: {getattr(entity, 'title', CHAT)}", flush=True)
-    print(f"'{getattr(entity, 'title', CHAT)}' 방 감시 시작 (기준일: {CUTOFF.date()} 이후, {MAX_SIZE_BYTES // (1024*1024)}MB 이하)", flush=True)
+    print(
+        f"'{getattr(entity, 'title', CHAT)}' 방 감시 시작 (기준일: {CUTOFF.date()} 이후, "
+        f"{GIT_SAFE_BYTES // (1024*1024)}MB 이하는 git / 그 이상 ~ {MAX_SIZE_BYTES // (1024*1024)}MB까지는 release로 저장)",
+        flush=True,
+    )
 
     new_count = 0
     skipped_too_big = 0
     checked_count = 0
     start_time = time.monotonic()
 
-    async def handle_pdf_message(message, group_meta: dict | None = None) -> bool:
+    async def handle_pdf_message(message) -> bool:
         """새로 발견된 메시지 하나를 검사해서, PDF면 다운로드/썸네일/manifest/git까지
         전부 처리한다. 캐치업 스캔과 실시간 리스너가 이 함수 하나를 공유한다.
-
-        group_meta: 같은 텔레그램 앨범(그룹)에 속한 다른 메시지에서 뽑아낸
-        년도/강사/과목 정보. 텔레그램 앨범은 캡션이 그중 한 메시지에만 붙는
-        경우가 흔해서(예: "문제" + "해설" 두 개를 올렸는데 캡션은 해설에만),
-        이 메시지 자체에 캡션이 없을 때 group_meta로 대신 채워 넣는다.
-        제목(title)만은 각 파일 고유의 것(자기 캡션 또는 파일명)을 그대로 쓴다.
-
         새로 저장했으면 True, 아니면(PDF 아님/이미 알고 있음/중복/용량초과) False."""
         nonlocal new_count, skipped_too_big
 
@@ -440,6 +558,7 @@ async def sync():
 
         await client.download_media(message, file=str(local_path), progress_callback=_progress)
         print(f"  완료: {filename}", flush=True)
+        actual_size = local_path.stat().st_size
 
         # 2단계 중복 검사 (다운로드 후): 파일명은 다르지만 내용이 완전히
         # 같은 경우(리네임된 재업로드)를 해시로 잡아냄.
@@ -456,25 +575,36 @@ async def sync():
             return False
 
         # 캡션(메시지 본문)에서 년도/강사/과목/제목 파싱.
-        own_meta = parse_caption(message.message)
-        group_meta = group_meta or {}
-        meta = {
-            "year": own_meta["year"] or group_meta.get("year"),
-            "instructor": own_meta["instructor"] or group_meta.get("instructor"),
-            "subject": own_meta["subject"] or group_meta.get("subject"),
-        }
-        title = own_meta["title"] or Path(filename).stem
+        meta = parse_caption(message.message)
+        title = meta["title"] or Path(filename).stem
 
         # PDF 첫 페이지 썸네일 생성 (실패해도 목록 자체는 계속 진행)
         thumb_filename = f"{message.id}.png"
         thumb_path = THUMBS_DIR / thumb_filename
         thumbnail_ok = make_thumbnail(local_path, thumb_path)
 
+        # git push는 파일당 100MB를 절대 못 넘기므로, 그 문턱(GIT_SAFE_BYTES)을
+        # 넘는 파일은 git에 안 올리고 GitHub Release 자산으로 대신 업로드한다.
+        download_url = None
+        stored_as = safe_filename
+        if actual_size > GIT_SAFE_BYTES:
+            print(f"    ({actual_size / (1024*1024):.1f}MB는 git 100MB 제한을 넘으므로 release로 업로드): {filename}", flush=True)
+            download_url = upload_release_asset(local_path, safe_filename)
+            if download_url is None:
+                print(f"  건너뜀 (release 업로드 실패, 다음 실행에서 재시도): {filename}", flush=True)
+                local_path.unlink(missing_ok=True)
+                thumb_path.unlink(missing_ok=True)
+                return False
+            # git에는 올리지 않으므로 로컬에서 지운다 (git add 시 실수로 커밋되는 것 방지).
+            local_path.unlink(missing_ok=True)
+            stored_as = None
+
         new_entry = {
             "message_id": message.id,
             "filename": filename,          # 사람이 보는 원래 파일명
-            "stored_as": safe_filename,     # 실제 저장된 파일명 (다운로드 링크에 사용)
-            "size_bytes": local_path.stat().st_size,
+            "stored_as": stored_as,         # git으로 저장된 경우의 파일명 (release인 경우 None)
+            "download_url": download_url,   # release로 저장된 경우의 다운로드 URL (git인 경우 None)
+            "size_bytes": actual_size,
             "telegram_date": message.date.isoformat(),
             "title": title,
             "year": meta["year"],
@@ -486,7 +616,7 @@ async def sync():
         manifest["files"].append(new_entry)
         new_count += 1
         known_message_ids.add(message.id)
-        known_name_size.add((filename.lower(), new_entry["size_bytes"]))
+        known_name_size.add((filename.lower(), actual_size))
         known_hashes[file_hash] = new_entry
 
         # 파일 하나 받을 때마다 바로 manifest를 저장.
@@ -499,46 +629,12 @@ async def sync():
 
         return True
 
-    async def handle_pdf_group(messages: list) -> None:
-        """텔레그램 앨범(같은 grouped_id) 또는 단일 메시지 하나를 처리한다.
-        앨범 안에서는 캡션이 메시지 중 하나에만 붙어있는 경우가 많으므로,
-        그룹 전체를 먼저 훑어서 년도/강사/과목을 한 번만 파싱해두고, 그룹에
-        속한 모든 PDF 메시지에 공통으로 적용(단, 본인 캡션이 있으면 그게 우선)한다."""
-        group_meta = {"year": None, "instructor": None, "subject": None}
-        for m in messages:
-            if not m.message:
-                continue
-            parsed = parse_caption(m.message)
-            for key in group_meta:
-                if group_meta[key] is None and parsed[key] is not None:
-                    group_meta[key] = parsed[key]
-
-        for m in messages:
-            ok, _ = is_pdf(m)
-            if not ok:
-                continue
-            await handle_pdf_message(m, group_meta=group_meta)
-
     # ---- 1) 캐치업 스캔: 지난 실행 이후 놓친 메시지를 한 바퀴 훑어서 받는다 ----
     # (예전처럼 파일 하나 받을 때마다 처음부터 다시 훑지 않는다 - 이제는 이 스캔이
     #  끝나면 바로 실시간 리스너로 넘어가서 새 메시지를 즉시 잡아내기 때문에,
     #  한 방향으로 쭉 훑는 것으로 충분하다.)
     print("캐치업 스캔 시작...", flush=True)
     stopped_early = False
-
-    # 같은 앨범(grouped_id)에 속한 메시지들을 모았다가 한 번에 넘기기 위한 버퍼.
-    # 텔레그램 앨범은 항상 연속된 메시지 ID로 오기 때문에, 최신순으로 훑는 도중
-    # grouped_id가 바뀌는 순간이 곧 "그 앨범이 끝났다"는 뜻이다.
-    pending_group_id = None
-    pending_group_messages: list = []
-
-    async def flush_pending_group():
-        nonlocal pending_group_id, pending_group_messages
-        if pending_group_messages:
-            await handle_pdf_group(pending_group_messages)
-        pending_group_id = None
-        pending_group_messages = []
-
     async for message in client.iter_messages(entity):
         checked_count += 1
         if checked_count % 20 == 0:
@@ -558,43 +654,16 @@ async def sync():
             print(f"기준일({CUTOFF.date()})보다 오래된 메시지 발견({message.date.date()}), 캐치업 스캔 종료", flush=True)
             break
 
-        gid = message.grouped_id
-        if gid is not None and gid == pending_group_id:
-            pending_group_messages.append(message)
-            continue
-
-        # 그룹이 바뀌었거나(또는 앨범이 아닌 단일 메시지) -> 모아둔 이전 그룹부터 처리
-        await flush_pending_group()
-
-        if gid is not None:
-            pending_group_id = gid
-            pending_group_messages = [message]
-        else:
-            await handle_pdf_group([message])
-
-    # 루프가 끝났으면(정상 종료든 시간제한/기준일로 break든) 마지막으로 모아둔
-    # 그룹이 남아있을 수 있으니 반드시 처리해준다.
-    await flush_pending_group()
+        await handle_pdf_message(message)
 
     print(f"캐치업 스캔 완료. 새로 내려받은 PDF: {new_count}개", flush=True)
 
     # ---- 2) 실시간 리스너: 캐치업이 시간 안에 끝났으면, 새 메시지를 즉시 받는다 ----
     if not stopped_early:
-        @client.on(events.Album(chats=entity))
-        async def _on_new_album(event):
-            try:
-                await handle_pdf_group(event.messages)
-            except Exception as e:
-                # 개별 앨범 처리 중 에러가 나도 리스너 자체는 죽지 않게 함.
-                print(f"  [새 앨범 처리 중 오류] {e}", flush=True)
-
         @client.on(events.NewMessage(chats=entity))
         async def _on_new_message(event):
-            if event.message.grouped_id is not None:
-                # 앨범(그룹) 메시지는 위의 Album 핸들러가 모아서 처리하므로 건너뜀.
-                return
             try:
-                await handle_pdf_group([event.message])
+                await handle_pdf_message(event.message)
             except Exception as e:
                 # 개별 메시지 처리 중 에러가 나도 리스너 자체는 죽지 않게 함.
                 print(f"  [새 메시지 처리 중 오류] {e}", flush=True)
