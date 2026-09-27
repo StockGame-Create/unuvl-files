@@ -6873,6 +6873,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23980.png",
       "sha256": "18110ada42bd1db67daafc695cf70edab6decd4de8c2eb63c3c205be6133afaf"
+    },
+    {
+      "message_id": 23979,
+      "filename": "기본 폴더.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23979_.pdf",
+      "size_bytes": 1155144,
+      "telegram_date": "2026-09-08T14:40:06+00:00",
+      "title": "수학 설맞이 모의고사 시즌1 2회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23979.png",
+      "sha256": "0763a49cd870080ba470e983e236d55642fe365b763d8c18c8e8d412a86347e3"
     }
   ],
   "duplicate_message_ids": [
