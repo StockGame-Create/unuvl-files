@@ -480,6 +480,19 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24664.png",
       "sha256": "f3a036e46e400db6615d8c74e50f14159e42002b5872125f2adb01b21503244f"
+    },
+    {
+      "message_id": 24663,
+      "filename": "이감 6-4 해설.pdf",
+      "stored_as": "24663_이감 6-4 해설.pdf",
+      "size_bytes": 13392156,
+      "telegram_date": "2026-09-24T13:58:15+00:00",
+      "title": "국어 이감 파이널II(시즌6) 제 3, 4차 예비평가 (인쇄소퀄) #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24663.png",
+      "sha256": "26b077dbc5161fb4b7cbd3380a748a3de1b2af7accc02dc82ed6737e967b5904"
     }
   ],
   "duplicate_message_ids": []
