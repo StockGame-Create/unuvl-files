@@ -5011,6 +5011,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24197.png",
       "sha256": "ea8c914107fe89bc87c0aefef471508d22be8ad42655a92c4960ff9f9eddf11d"
+    },
+    {
+      "message_id": 24196,
+      "filename": "2027_마더텅_수능기출_모의고사_30회_수학_영역_문제편정답표시X.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24196_2027_._._._30._._._.X.pdf",
+      "size_bytes": 278461477,
+      "telegram_date": "2026-09-13T15:49:38+00:00",
+      "title": "수학 2027 마더텅 수능기출 모의고사 30회 수학 영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24196.png",
+      "sha256": "b3c8dd138f76dbfda87b69aca86bf5f261a0f158908c04ef8a7f0cc739521064"
     }
   ],
   "duplicate_message_ids": [
