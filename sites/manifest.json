@@ -3723,6 +3723,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24318.png",
       "sha256": "146de1cb8fe3b5f726be32476bb1b3eb2e81549fc125854f3eacc2831af76b15"
+    },
+    {
+      "message_id": 24317,
+      "filename": "이감 언매 모고 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24317_.pdf",
+      "size_bytes": 5447788,
+      "telegram_date": "2026-09-15T12:16:49+00:00",
+      "title": "국어 2027 이감 선택과목 언어와 매체 제1~7차 예비평가 (인쇄소퀄)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24317.png",
+      "sha256": "f2eafe8fc98ca31df29eb1ed2e88b591b50a6e29044fddbe996197fe7c03e0e3"
     }
   ],
   "duplicate_message_ids": []
