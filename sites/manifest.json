@@ -6915,6 +6915,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23974.png",
       "sha256": "e6c06d1d8cc6f5e65df8484d8c3adcf452c5cb2015c5330bca45652450b2af05"
+    },
+    {
+      "message_id": 23973,
+      "filename": "2027 설맞이 아카이브 확률과 통계 시즌2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23973_2027.2.pdf",
+      "size_bytes": 8353334,
+      "telegram_date": "2026-09-08T14:10:55+00:00",
+      "title": "수학 FOR 2027 SEASON 2 설맞이 아카이브 확률과통계",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23973.png",
+      "sha256": "08477f11a516e3d319627148f4b134f728442527809bf218b1f4d551a11e58a9"
     }
   ],
   "duplicate_message_ids": [
