@@ -6705,6 +6705,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24014.png",
       "sha256": "124fa2a8014b1f6f0c00adfdcee19945cd023e95b6dbad0831041ea0573697b4"
+    },
+    {
+      "message_id": 23997,
+      "filename": "강은양 KEY모 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23997_.KEY.3.pdf",
+      "size_bytes": 118894520,
+      "telegram_date": "2026-09-08T14:40:24+00:00",
+      "title": "국어 강은양 KEY 모의고사 1~3회",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23997.png",
+      "sha256": "de44b44e4c2ec8f664de3d81fcc8f6e664139b1ac1ae9afd973798e3651fed86"
     }
   ],
   "duplicate_message_ids": [
