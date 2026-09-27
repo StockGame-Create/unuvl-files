@@ -5249,6 +5249,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24174.png",
       "sha256": "94a48bf893d3c857b20244a8c2acfbb50fd981a01f5ce772d2c94434ff7aee34"
+    },
+    {
+      "message_id": 24172,
+      "filename": "2027학년도_정병호_스피드러너_모의고사_시즌2_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24172_2027._._._._.2_.pdf",
+      "size_bytes": 19365310,
+      "telegram_date": "2026-09-13T15:49:11+00:00",
+      "title": "수학 호형훈제 스피드러너 모의고사 시즌2 1~4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24172.png",
+      "sha256": "d1ad0e69509229dd8435bf30ecd30c50eb34df0babc50bbcd0d541a3785c26d7"
     }
   ],
   "duplicate_message_ids": [
