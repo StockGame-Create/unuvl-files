@@ -6089,6 +6089,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24090.png",
       "sha256": "eb50a7728b10f2fa76783cf3352ae165fc3c742d560468ef46814eda6e2ae3f3"
+    },
+    {
+      "message_id": 24089,
+      "filename": "2027 현정훈 모의고사 시즌3 v01 문제_260727_232029.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24089_2027.3.v01._260727_232029.pdf",
+      "size_bytes": 83871067,
+      "telegram_date": "2026-09-12T03:54:06+00:00",
+      "title": "물1 현정훈 모의고사 시즌3 vol1 1~8회",
+      "year": "2027",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/24089.png",
+      "sha256": "8a7f3aeb27a2f20edfaeed8a3cd0264319b9311ace7345ff696d4ba4563c9689"
     }
   ],
   "duplicate_message_ids": [
