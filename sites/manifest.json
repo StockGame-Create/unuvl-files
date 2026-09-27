@@ -337,6 +337,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24684.png",
       "sha256": "9d7b0518166c00205781647d27c678e7c4d82a6b6feea7bfc6855c3bf36507cc"
+    },
+    {
+      "message_id": 24683,
+      "filename": "D.LINK 수학 시즌1_4 해설.pdf",
+      "stored_as": "24683_D.LINK 수학 시즌1_4 해설.pdf",
+      "size_bytes": 102234694,
+      "telegram_date": "2026-09-25T12:05:57+00:00",
+      "title": "D.LINK 수학 시즌1_4 해설",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24683.png",
+      "sha256": "1db6aed6245129f93f7df97fb5834a7dfbeefc5b146e0a94155d59b0b908a4d3"
     }
   ],
   "duplicate_message_ids": []
