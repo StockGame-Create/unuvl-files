@@ -5921,6 +5921,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/24107.png",
       "sha256": "f4579254850c84fdca120c9f94e56c33f28efd8a494bce19256b8f623c2799c9"
+    },
+    {
+      "message_id": 24106,
+      "filename": "27생윤_기시감_해설인쇄소퀄.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24106_27._._.pdf",
+      "size_bytes": 813096412,
+      "telegram_date": "2026-09-12T14:39:12+00:00",
+      "title": "생윤 현자의 돌 기시감 해설",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/24106.png",
+      "sha256": "e68d7d84fffee5d3ed50697d7d7a44a600cbe15182160280a53e6f5dd54a821e"
     }
   ],
   "duplicate_message_ids": [
