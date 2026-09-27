@@ -2589,6 +2589,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24442.png",
       "sha256": "23fddc6bc2ea6d3a7be92e6a5d87801d831071a0cb14261b0a305b8b16aa9e6c"
+    },
+    {
+      "message_id": 24441,
+      "filename": "경제 오메가 모의고사 7,8,9회 문제지+해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24441_.7.8.9.%2B.pdf",
+      "size_bytes": 38202353,
+      "telegram_date": "2026-09-17T22:53:12+00:00",
+      "title": "경제 OMEGA 모의고사 7~9회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "경제",
+      "thumbnail": "thumbnails/24441.png",
+      "sha256": "2d17631f67e3926713b7d62bc70e6c28bc547a8749c89c5dbbe76018c82e2528"
     }
   ],
   "duplicate_message_ids": []
