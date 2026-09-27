@@ -3331,6 +3331,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24356.png",
       "sha256": "9005ba30f5ac03f50f644ce131821de2a451b000f116ea9bd8556424b6f28da6"
+    },
+    {
+      "message_id": 24354,
+      "filename": "2027학년도_9월_더프_모의고사_국어_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24354_2027._9._._._._._._.pdf",
+      "size_bytes": 7807938,
+      "telegram_date": "2026-09-16T12:55:41+00:00",
+      "title": "국어 THE PREMIUM 9월 모의고사 #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24354.png",
+      "sha256": "a7095a102e367d1bfe968ccff4920730be223f45f38f1740ed67b7ca5394b780"
     }
   ],
   "duplicate_message_ids": []
