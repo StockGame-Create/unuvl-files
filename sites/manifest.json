@@ -5207,6 +5207,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24180.png",
       "sha256": "f2b06f220cc1d70b6837af1c42483689fdd9a0bd73420283ecadb13532a4160d"
+    },
+    {
+      "message_id": 24179,
+      "filename": "상상 파이널1 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24179_.1.4.pdf",
+      "size_bytes": 20688469,
+      "telegram_date": "2026-09-13T15:49:20+00:00",
+      "title": "국어 파이널1 4차 모의고사 상상 국어평가연구소 #상상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24179.png",
+      "sha256": "76dc171f432cdfb3200dc3970755fa411000e8e529720e5ea578363aa9ee20f3"
     }
   ],
   "duplicate_message_ids": [
