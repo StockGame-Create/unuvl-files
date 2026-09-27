@@ -2239,6 +2239,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24483.png",
       "sha256": "1172bfacc70c4c7174ed887222b194eb4a816dce121e5d7a4a42ecbb1564e0ba"
+    },
+    {
+      "message_id": 24482,
+      "filename": "이신혁_모의평가_Final_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24482_._._Final_1.pdf",
+      "size_bytes": 27802807,
+      "telegram_date": "2026-09-19T04:05:13+00:00",
+      "title": "지1 이신혁 모의평가 Final 1회",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24482.png",
+      "sha256": "6ea992edf5082439a9e7c4d56bcdbd88617881ffd433c6f4e89d4133b2427f31"
     }
   ],
   "duplicate_message_ids": []
