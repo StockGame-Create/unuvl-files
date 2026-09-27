@@ -272,6 +272,19 @@
       "subject": null,
       "thumbnail": "thumbnails/24693.png",
       "sha256": "0840852db3afc22c234fea16437584c7fa45f091faed6374c3a7ab01f3e6f915"
+    },
+    {
+      "message_id": 24689,
+      "filename": "2027_이해원_N제_시즌1_기하_정답_및_해설.pdf",
+      "stored_as": "24689_2027_이해원_N제_시즌1_기하_정답_및_해설.pdf",
+      "size_bytes": 5188490,
+      "telegram_date": "2026-09-25T12:06:05+00:00",
+      "title": "수학 2027 이해원 N제 시즌1 기하",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24689.png",
+      "sha256": "a6f016d85e7f1bc9ca9180cbcb6b16d51a5f142408e88d46619fc7a4f25d4d51"
     }
   ],
   "duplicate_message_ids": []
