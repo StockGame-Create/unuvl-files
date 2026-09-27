@@ -675,6 +675,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24649.png",
       "sha256": "99f9e236444eea740c5be2cfcdfcaf26e8f1b2b3010b38069921479b92d39f20"
+    },
+    {
+      "message_id": 24648,
+      "filename": "27 강대K 19회.pdf",
+      "stored_as": "24648_27 강대K 19회.pdf",
+      "size_bytes": 93198338,
+      "telegram_date": "2026-09-24T13:57:56+00:00",
+      "title": "27 강대K 19회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24648.png",
+      "sha256": "f0e05d83a72dd6ba59a5fc3d3b57931defddc796ea83c53c582bf52779e70e5c"
     }
   ],
   "duplicate_message_ids": []
