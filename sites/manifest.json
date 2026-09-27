@@ -896,6 +896,19 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24625.png",
       "sha256": "ee52ea04f5ce8a97e8eec47d79dc538b5b725c0e5dd30d0c19ba69127c982d98"
+    },
+    {
+      "message_id": 24623,
+      "filename": "기본 폴더.pdf",
+      "stored_as": "24623_기본 폴더.pdf",
+      "size_bytes": 15914490,
+      "telegram_date": "2026-09-24T13:31:58+00:00",
+      "title": "국어 강대모의고사K 8회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24623.png",
+      "sha256": "b83ac638e66dc19ea78d9cff4dda9b6a965284a059cc9247dd521635d876fbbc"
     }
   ],
   "duplicate_message_ids": []
