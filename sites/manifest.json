@@ -6467,6 +6467,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24045.png",
       "sha256": "c215ad85957bdaeb1e41d226c98db21e312eb3a68ff46d5d4a6c441499b1c3ed"
+    },
+    {
+      "message_id": 24041,
+      "filename": "2027학년도_수능_대비_현정훈_모의고사_시즌_III_1회_10회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24041_2027._._._._._._III_1._10._.pdf",
+      "size_bytes": 24969427,
+      "telegram_date": "2026-09-10T10:47:27+00:00",
+      "title": "물1 현정훈 시즌3 v03 1~10회 모의고사",
+      "year": "2027",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/24041.png",
+      "sha256": "a28d5a4a35967365f28fb77893e62face5c82ee1181da302e8645645b3de487e"
     }
   ],
   "duplicate_message_ids": [
