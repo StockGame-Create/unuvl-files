@@ -18,7 +18,9 @@
   주된 수단으로 쓰지 않습니다. cron은 이 체인이 어쩌다 끊겼을 때를 대비한
   보험으로만 sync.yml에 남아있습니다 (기본 6시간 주기).
 - 첨부파일과 함께 올라온 메시지 본문(캡션)에서 "년도 / 강사 / 과목" 같은
-  메타데이터와 제목을 최대한 파싱해서 함께 기록합니다.
+  메타데이터와 제목을 최대한 파싱해서 함께 기록합니다. 여러 파일을 한 번에
+  앨범(그룹)으로 올린 경우 캡션이 그룹 내 메시지 중 하나에만 붙는 경우가
+  많은데, 이 경우 같은 그룹의 다른 메시지에서 캡션을 찾아와 공유합니다.
 - PDF 첫 페이지를 이미지로 렌더링해서 썸네일로 저장합니다 (sites/thumbnails/).
 - 2026-09-04 이후에 올라온 메시지만 대상으로 하며, 그보다 오래된 메시지가
   나오면 캐치업 스캔을 그 자리에서 중단합니다.
@@ -515,6 +517,30 @@ async def sync():
     checked_count = 0
     start_time = time.monotonic()
 
+    async def resolve_caption(message) -> str | None:
+        """메시지 자신의 캡션을 우선 사용하되, 없고 이 메시지가 앨범(그룹 전송)의
+        일부라면 같은 grouped_id를 가진 다른 메시지에서 캡션을 찾아온다.
+        텔레그램 앨범은 캡션이 그룹 내 메시지 중 하나에만 붙는 경우가 흔해서,
+        (예: PDF 2개를 캡션 하나로 같이 올린 경우) 이걸 안 하면 캡션이 없는
+        메시지 쪽은 년도/강사/과목이 전부 비어버린다.
+        앨범 아이템은 message id가 항상 연속이므로 주변 id를 조회해서 찾는다."""
+        if message.message:
+            return message.message
+        if not message.grouped_id:
+            return None
+        try:
+            ids = list(range(message.id - 9, message.id + 10))
+            siblings = await asyncio.wait_for(
+                client.get_messages(entity, ids=ids), timeout=15
+            )
+        except Exception as e:
+            print(f"    [앨범 캡션 조회 실패] message_id={message.id}: {e}", flush=True)
+            return None
+        for sib in siblings:
+            if sib and sib.grouped_id == message.grouped_id and sib.message:
+                return sib.message
+        return None
+
     async def handle_pdf_message(message) -> bool:
         """새로 발견된 메시지 하나를 검사해서, PDF면 다운로드/썸네일/manifest/git까지
         전부 처리한다. 캐치업 스캔과 실시간 리스너가 이 함수 하나를 공유한다.
@@ -575,7 +601,10 @@ async def sync():
             return False
 
         # 캡션(메시지 본문)에서 년도/강사/과목/제목 파싱.
-        meta = parse_caption(message.message)
+        # (앨범으로 묶여 전송된 경우, 이 메시지 자체엔 캡션이 없을 수 있어
+        #  resolve_caption이 같은 그룹의 다른 메시지에서 캡션을 찾아온다.)
+        caption_text = await resolve_caption(message)
+        meta = parse_caption(caption_text)
         title = meta["title"] or Path(filename).stem
 
         # PDF 첫 페이지 썸네일 생성 (실패해도 목록 자체는 계속 진행)
