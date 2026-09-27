@@ -3639,6 +3639,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24328.png",
       "sha256": "b6fb20a4554dc6ae86d2aea34778d5763bf46dcabee906c14a347088d9050325"
+    },
+    {
+      "message_id": 24327,
+      "filename": "범모8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24327_.8.pdf",
+      "size_bytes": 2518990,
+      "telegram_date": "2026-09-15T12:51:12+00:00",
+      "title": "수학 김범준 모의고사 8회",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24327.png",
+      "sha256": "5fc01725f73f282bb7d9a38b367c7a77dc6fe898e209da8b6869b98c6de5218f"
     }
   ],
   "duplicate_message_ids": []
