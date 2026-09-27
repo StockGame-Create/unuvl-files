@@ -552,8 +552,20 @@
 
     // fetch로 파일을 완전히 받은 뒤(=진짜 다운로드 완료 시점) 저장을 트리거하고
     // 감사 토스트를 띄운다. 실패하면 새 탭에서 직접 열기로 대체한다.
-    async function handleDownload(btn, url, filename) {
+    // isExternal(=GitHub Release 자산으로 저장된 대용량 파일)인 경우는 fetch+blob을
+    // 쓰지 않는다: 다른 오리진(objects.githubusercontent.com)이라 CORS로 막힐 수
+    // 있고, 파일이 수백MB~2GB라 blob으로 메모리에 통째로 올리면 모바일에서 특히
+    // 부담이 크다. 대신 브라우저 기본 다운로드(Content-Disposition: attachment)에
+    // 맡긴다.
+    async function handleDownload(btn, url, filename, isExternal = false) {
       if (btn.dataset.state === "loading") return;
+
+      if (isExternal) {
+        window.open(url, "_blank");
+        showToast("다운로드를 시작합니다");
+        return;
+      }
+
       btn.dataset.state = "loading";
       try {
         const res = await fetch(url);
@@ -624,8 +636,11 @@
         `;
 
         const btn = li.querySelector(".download-btn");
-        const downloadUrl = `files/${encodeURIComponent(f.stored_as)}`;
-        btn.addEventListener("click", () => handleDownload(btn, downloadUrl, f.filename));
+        // download_url이 있으면 GitHub Release 자산(대용량 파일)이고,
+        // 없으면 git 저장소에 올라간 파일 경로를 그대로 쓴다.
+        const isExternal = Boolean(f.download_url);
+        const downloadUrl = f.download_url || `files/${encodeURIComponent(f.stored_as)}`;
+        btn.addEventListener("click", () => handleDownload(btn, downloadUrl, f.filename, isExternal));
 
         fileListEl.appendChild(li);
       }
