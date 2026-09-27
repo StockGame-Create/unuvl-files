@@ -470,6 +470,166 @@
     background: var(--cat-english);
   }
 
+  /* ---- AI 질문 기능 ---- */
+  .ai-fab {
+    position: fixed;
+    right: 1.4rem;
+    bottom: 1.4rem;
+    z-index: 40;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.82rem;
+    background: var(--ink);
+    color: var(--paper);
+    border: none;
+    padding: 0.85rem 1.2rem;
+    border-radius: 999px;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  }
+
+  .ai-fab:hover { background: var(--leather); }
+
+  .ai-modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(38, 34, 32, 0.55);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.2rem;
+    z-index: 50;
+  }
+
+  .ai-modal-overlay[hidden] { display: none; }
+
+  .ai-modal {
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    max-width: 560px;
+    width: 100%;
+    max-height: 88vh;
+    overflow-y: auto;
+    padding: 1.5rem;
+    position: relative;
+  }
+
+  .ai-modal h2 {
+    margin: 0 0 0.3rem;
+    font-family: "Source Serif 4", Georgia, serif;
+    font-size: 1.3rem;
+  }
+
+  .ai-modal .ai-sub {
+    margin: 0 0 1.1rem;
+    font-size: 0.8rem;
+    color: var(--ink-soft);
+    font-family: "IBM Plex Mono", monospace;
+  }
+
+  .ai-modal-close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    font-size: 1.1rem;
+    color: var(--ink-soft);
+    cursor: pointer;
+  }
+
+  .ai-field-label {
+    display: block;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.74rem;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 0 0 0.4rem;
+  }
+
+  #aiFileSearch, #aiQuestion {
+    width: 100%;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.88rem;
+    background: var(--paper-raised);
+    border: 1.5px solid var(--rule);
+    padding: 0.55rem 0.7rem;
+    color: var(--ink);
+  }
+
+  #aiQuestion { resize: vertical; min-height: 4.2rem; margin-top: 0.9rem; }
+
+  .ai-results {
+    list-style: none;
+    margin: 0.5rem 0 0;
+    padding: 0;
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid var(--rule);
+  }
+
+  .ai-results:empty { border: none; }
+
+  .ai-results li {
+    padding: 0.55rem 0.7rem;
+    font-size: 0.85rem;
+    cursor: pointer;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .ai-results li:last-child { border-bottom: none; }
+  .ai-results li:hover { background: var(--paper-raised); }
+
+  .ai-selected {
+    margin-top: 0.6rem;
+    padding: 0.6rem 0.7rem;
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    font-size: 0.85rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .ai-selected button {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.72rem;
+    background: none;
+    border: 1px solid var(--rule);
+    padding: 0.25rem 0.5rem;
+    cursor: pointer;
+    color: var(--ink-soft);
+    flex-shrink: 0;
+  }
+
+  .ai-ask-btn {
+    margin-top: 1rem;
+    width: 100%;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.88rem;
+    background: var(--ink);
+    color: var(--paper);
+    border: none;
+    padding: 0.7rem;
+    cursor: pointer;
+  }
+
+  .ai-ask-btn:disabled { opacity: 0.5; cursor: default; }
+  .ai-ask-btn:not(:disabled):hover { background: var(--leather); }
+
+  .ai-answer {
+    margin-top: 1.1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--rule);
+    font-size: 0.9rem;
+    line-height: 1.6;
+    white-space: pre-wrap;
+  }
+
+  .ai-answer.error { color: #A83A3A; }
+  .ai-answer:empty { display: none; }
+
   /* ---- 페이지네이션 ---- */
   .pagination {
     display: flex;
@@ -589,6 +749,36 @@
   </div>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <button type="button" class="ai-fab" id="aiFab">🤖 AI에게 질문하기</button>
+
+  <div class="ai-modal-overlay" id="aiModalOverlay" hidden>
+    <div class="ai-modal" role="dialog" aria-modal="true" aria-labelledby="aiModalTitle">
+      <button type="button" class="ai-modal-close" id="aiModalClose" aria-label="닫기">✕</button>
+      <h2 id="aiModalTitle">AI에게 질문하기</h2>
+      <p class="ai-sub">자료를 먼저 고르고 궁금한 걸 물어보세요. 실험적 기능이라 오답이 섞일 수 있고, 파일이 클수록 첫 답변까지 시간이 좀 걸릴 수 있어요.</p>
+
+      <div id="aiFileSection">
+        <label class="ai-field-label" for="aiFileSearch">1. 자료 검색</label>
+        <input type="text" id="aiFileSearch" placeholder="제목, 강사, 과목으로 찾기" autocomplete="off" />
+        <ul class="ai-results" id="aiFileResults"></ul>
+      </div>
+
+      <div class="ai-selected" id="aiSelected" hidden>
+        <span id="aiSelectedName"></span>
+        <button type="button" id="aiChangeFileBtn">다른 파일</button>
+      </div>
+
+      <div>
+        <label class="ai-field-label" for="aiQuestion">2. 질문</label>
+        <textarea id="aiQuestion" placeholder="예: 이 자료 3번 문제 풀이 방법 알려줘"></textarea>
+      </div>
+
+      <button type="button" class="ai-ask-btn" id="aiAskBtn" disabled>질문하기</button>
+
+      <div class="ai-answer" id="aiAnswer"></div>
+    </div>
+  </div>
 
   <script>
     const fileListEl = document.getElementById("fileList");
@@ -935,6 +1125,129 @@
     searchInput.addEventListener("input", applyFilter);
     filterRow.addEventListener("change", applyFilter);
     sortSelect.addEventListener("change", applyFilter);
+
+    // ---- AI에게 질문하기 ----
+    const aiFab = document.getElementById("aiFab");
+    const aiModalOverlay = document.getElementById("aiModalOverlay");
+    const aiModalClose = document.getElementById("aiModalClose");
+    const aiFileSearch = document.getElementById("aiFileSearch");
+    const aiFileResults = document.getElementById("aiFileResults");
+    const aiFileSection = document.getElementById("aiFileSection");
+    const aiSelected = document.getElementById("aiSelected");
+    const aiSelectedName = document.getElementById("aiSelectedName");
+    const aiChangeFileBtn = document.getElementById("aiChangeFileBtn");
+    const aiQuestion = document.getElementById("aiQuestion");
+    const aiAskBtn = document.getElementById("aiAskBtn");
+    const aiAnswerEl = document.getElementById("aiAnswer");
+
+    let aiSelectedFile = null;
+
+    function openAiModal() {
+      aiModalOverlay.hidden = false;
+      aiFileSearch.focus();
+    }
+
+    function closeAiModal() {
+      aiModalOverlay.hidden = true;
+    }
+
+    aiFab.addEventListener("click", openAiModal);
+    aiModalClose.addEventListener("click", closeAiModal);
+    aiModalOverlay.addEventListener("click", (e) => {
+      if (e.target === aiModalOverlay) closeAiModal();
+    });
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && !aiModalOverlay.hidden) closeAiModal();
+    });
+
+    function updateAskBtnState() {
+      aiAskBtn.disabled = !aiSelectedFile || !aiQuestion.value.trim();
+    }
+
+    aiFileSearch.addEventListener("input", () => {
+      const q = aiFileSearch.value.trim().toLowerCase().normalize("NFC");
+      aiFileResults.innerHTML = "";
+      if (!q) return;
+
+      const matches = allFiles
+        .filter(f => {
+          const haystack = [f.filename, f.title, f.instructor, f.subject, f.year]
+            .filter(Boolean)
+            .join(" ")
+            .toLowerCase()
+            .normalize("NFC");
+          return haystack.includes(q);
+        })
+        .slice(0, 8);
+
+      for (const f of matches) {
+        const li = document.createElement("li");
+        li.textContent = `${f.title || f.filename} · ${formatDate(f.telegram_date)}`;
+        li.addEventListener("click", () => selectAiFile(f));
+        aiFileResults.appendChild(li);
+      }
+    });
+
+    function selectAiFile(f) {
+      aiSelectedFile = f;
+      aiSelectedName.textContent = f.title || f.filename;
+      aiSelected.hidden = false;
+      aiFileSection.hidden = true;
+      aiFileResults.innerHTML = "";
+      aiFileSearch.value = "";
+      aiAnswerEl.textContent = "";
+      aiAnswerEl.className = "ai-answer";
+      updateAskBtnState();
+    }
+
+    aiChangeFileBtn.addEventListener("click", () => {
+      aiSelectedFile = null;
+      aiSelected.hidden = true;
+      aiFileSection.hidden = false;
+      aiFileSearch.focus();
+      updateAskBtnState();
+    });
+
+    aiQuestion.addEventListener("input", updateAskBtnState);
+
+    aiAskBtn.addEventListener("click", async () => {
+      if (!aiSelectedFile || !aiQuestion.value.trim()) return;
+
+      aiAskBtn.disabled = true;
+      aiAnswerEl.className = "ai-answer";
+      aiAnswerEl.textContent = "";
+
+      // 미리 렌더링해둔 게 없어서 이번에 처음으로 원본을 받아 Gemini에 올리는
+      // 중이라 시간이 좀 걸릴 수 있다는 걸 단계별로 보여준다.
+      const loadingSteps = ["파일을 불러오는 중...", "AI에게 전달하는 중...", "생각하는 중..."];
+      let stepIdx = 0;
+      aiAskBtn.textContent = loadingSteps[0];
+      const loadingTimer = setInterval(() => {
+        stepIdx = Math.min(stepIdx + 1, loadingSteps.length - 1);
+        aiAskBtn.textContent = loadingSteps[stepIdx];
+      }, 4000);
+
+      try {
+        const res = await fetch("/api/ask", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            message_id: aiSelectedFile.message_id,
+            question: aiQuestion.value.trim(),
+          }),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.error || "알 수 없는 오류가 발생했습니다.");
+        aiAnswerEl.textContent = data.answer;
+      } catch (err) {
+        aiAnswerEl.className = "ai-answer error";
+        aiAnswerEl.textContent = err.message;
+      } finally {
+        clearInterval(loadingTimer);
+        aiAskBtn.textContent = "질문하기";
+        updateAskBtnState();
+      }
+    });
 
     fetch("manifest.json", { cache: "no-store" })
       .then(res => {
