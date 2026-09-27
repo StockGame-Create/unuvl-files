@@ -4661,6 +4661,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24235.png",
       "sha256": "c86a0c4e93431c55178a40b08c114ed80ce562b165f222e6cab8bf857da8104e"
+    },
+    {
+      "message_id": 24233,
+      "filename": "2027 이감 모고 시즌5 6회 지문분석.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24233_2027.5.6.pdf",
+      "size_bytes": 10293918,
+      "telegram_date": "2026-09-14T14:47:14+00:00",
+      "title": "국어 이감 파이널I(시즌5) 제 6차 예비평가 지문분석 #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24233.png",
+      "sha256": "1c503e2f29e051fec5fcf504c99b337d556c2d39cf23c7cb94d39459e8afbefe"
     }
   ],
   "duplicate_message_ids": []
