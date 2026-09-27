@@ -1268,6 +1268,20 @@
       "subject": null,
       "thumbnail": "thumbnails/24578.png",
       "sha256": "c258126ad503426932e9c76f9691f5714021b0ad667cba9496cddb809270d79f"
+    },
+    {
+      "message_id": 24577,
+      "filename": "킬링캠프 시즌2 1~6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24577_.2.1.6.pdf",
+      "size_bytes": 144706248,
+      "telegram_date": "2026-09-23T07:50:44+00:00",
+      "title": "수학 킬링캠프 시즌 2 1~6회차 #킬캠",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24577.png",
+      "sha256": "9f44c22226d1534944b9be88a75589e338009727387c2cbf9df15a9b44ce950d"
     }
   ],
   "duplicate_message_ids": []
