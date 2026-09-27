@@ -7195,6 +7195,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23941.png",
       "sha256": "d3e31061218e5c63b2a6167eb5b7ee074b17127e5cc0b0b019e6bb7f9655c941"
+    },
+    {
+      "message_id": 23939,
+      "filename": "2027_마더텅_윤리와사상_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23939_2027_._._.pdf",
+      "size_bytes": 180578393,
+      "telegram_date": "2026-09-05T17:51:21+00:00",
+      "title": "윤사 마더텅 수능기출 윤리와 사상 해설편",
+      "year": "2027",
+      "instructor": null,
+      "subject": "윤리와사상",
+      "thumbnail": "thumbnails/23939.png",
+      "sha256": "2ed6b3782b3be01078d0ede1ac57d4016c9f46d8fd1152f5fcdb61fad1784346"
     }
   ],
   "duplicate_message_ids": [
