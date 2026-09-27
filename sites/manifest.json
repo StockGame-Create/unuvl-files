@@ -805,6 +805,19 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/24638.png",
       "sha256": "e159e566fa512dd22615d54344b331a309b4386d55d9eafdb47fccdd04125fc9"
+    },
+    {
+      "message_id": 24636,
+      "filename": "HandOff 3.pdf",
+      "stored_as": "24636_HandOff 3.pdf",
+      "size_bytes": 38321143,
+      "telegram_date": "2026-09-24T13:57:46+00:00",
+      "title": "사문 시대인재 Final 브릿지 전국 모의고사 1회 #파브전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24636.png",
+      "sha256": "8f1a8cef12b3a0be0a840a584d7483d5bf546a850a6e03d1e7a61bdf755785e6"
     }
   ],
   "duplicate_message_ids": []
