@@ -4129,6 +4129,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24285.png",
       "sha256": "896649658535625ad1212a9a2d6707fbd31cbb36d8fef1e3bf1f744f48652906"
+    },
+    {
+      "message_id": 24284,
+      "filename": "2027 호형훈제 스피드러너 파이널 11회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24284_2027.11.pdf",
+      "size_bytes": 47361370,
+      "telegram_date": "2026-09-15T01:18:07+00:00",
+      "title": "수학 호형훈제 스피드러너 파이널 9 ~ 14회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24284.png",
+      "sha256": "2c34d298c1729496b5a813cb03ec0d8d3db71cf61a86e5f7810db2f76855a561"
     }
   ],
   "duplicate_message_ids": []
