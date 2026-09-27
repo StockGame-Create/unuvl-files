@@ -4549,6 +4549,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/24247.png",
       "sha256": "a5f463098820d9ea4bc9c6d7382866c4c8e8b1c67ddb53f0121d1752ea2cdae4"
+    },
+    {
+      "message_id": 24245,
+      "filename": "문실정 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24245_.5.pdf",
+      "size_bytes": 21135896,
+      "telegram_date": "2026-09-14T14:47:26+00:00",
+      "title": "국어 정석 문학 모의고사 5회",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24245.png",
+      "sha256": "944c81e52ec04c29c4908283c32bfb1d33fb8c0c4ab4d5852f66554e07f697b7"
     }
   ],
   "duplicate_message_ids": []
