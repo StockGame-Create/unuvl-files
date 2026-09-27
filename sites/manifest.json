@@ -2281,6 +2281,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24480.png",
       "sha256": "eb5805bd85296b1530bfd0167ec8eeb3d5d2567015ad2b685297351a866af796"
+    },
+    {
+      "message_id": 24474,
+      "filename": "하트 4회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24474_.4.pdf",
+      "size_bytes": 15412490,
+      "telegram_date": "2026-09-19T00:23:37+00:00",
+      "title": "사문 임정환 HARD TRAINING 2~4회",
+      "year": "2027",
+      "instructor": "임정환",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24474.png",
+      "sha256": "b1b30954dac9b4633eba3e4a356dcde79fded03d4776d8d6c5ef2645ec316c5b"
     }
   ],
   "duplicate_message_ids": []
