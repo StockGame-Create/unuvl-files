@@ -7223,6 +7223,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23936.png",
       "sha256": "560146f099e5997d36e0d3a4db0bfad5004051a0c029d56421f6cf1c0aa6ea79"
+    },
+    {
+      "message_id": 23933,
+      "filename": "2027학년도_시대인재_서바이벌_C_단독_모의고사_3회_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23933_2027._._._C_._._3._.pdf",
+      "size_bytes": 674798,
+      "telegram_date": "2026-09-05T04:18:48+00:00",
+      "title": "물1 시대인재 서바이벌 C 단독 모의고사 3회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/23933.png",
+      "sha256": "fee8f1e908f9dfac4f0accfbfb89d73d7e73ced60383e0595ca8add5e33e2939"
     }
   ],
   "duplicate_message_ids": [
