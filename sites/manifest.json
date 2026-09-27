@@ -5571,6 +5571,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24147.png",
       "sha256": "47818b297f41f2531c6035930f4d91db84bb5e1670c5f3b8853ffab5633fe25a"
+    },
+    {
+      "message_id": 24146,
+      "filename": "2027 시대인재 국어 서바이벌 7회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24146_2027.7.pdf",
+      "size_bytes": 42378763,
+      "telegram_date": "2026-09-13T12:56:50+00:00",
+      "title": "국어 서바이벌 모의고사 7~9회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24146.png",
+      "sha256": "d6bfcb44e590515b301b83ee13d8e06670b9f729aa6764e6c19fd98baefc3d68"
     }
   ],
   "duplicate_message_ids": [
