@@ -24,9 +24,12 @@
 - PDF 첫 페이지를 이미지로 렌더링해서 썸네일로 저장합니다 (sites/thumbnails/).
 - 2026-09-04 이후에 올라온 메시지만 대상으로 하며, 그보다 오래된 메시지가
   나오면 캐치업 스캔을 그 자리에서 중단합니다.
-- 95MB 이하 PDF는 git commit으로 저장하고, 95MB 초과 ~ 1.9GB 이하 PDF는
-  git push 100MB 제한을 피하기 위해 GitHub Release 자산(asset)으로 업로드한
-  뒤 그 다운로드 URL만 manifest.json에 기록합니다. 1.9GB를 초과하면 건너뜁니다.
+- (v3) 파일 크기와 상관없이 모든 PDF를 GitHub Release 자산(asset)으로 업로드
+  하고, 그 다운로드 URL만 manifest.json에 기록합니다. git commit으로는 더
+  이상 아무 PDF도 저장하지 않습니다. 1.9GB를 초과하면 건너뜁니다.
+  (예전에는 95MB 이하만 git commit으로 저장했는데, Vercel 같은 정적 호스팅이
+   sites/files/를 그대로 서빙하면서 대역폭 한도를 순식간에 다 먹어버리는
+   문제가 있어서, PDF 다운로드 트래픽을 전부 GitHub 쪽으로 옮기기로 했다.)
 - sites/manifest.json에 파일 목록(이름, 크기, 날짜, 메타데이터, 썸네일 경로)을
   기록합니다. 웹사이트(index.html)는 이 manifest.json을 읽어서 목록을 보여줍니다.
 - 이미 내려받은 파일(manifest에 message_id 존재)은 건너뛰어 중복 다운로드하지 않습니다.
@@ -81,23 +84,13 @@ SESSION_STRING = os.environ.get("TELEGRAM_SESSION", "").strip() or None  # GitHu
 # 이 날짜 이후에 올라온 메시지만 동기화 (하드코딩: 2026-09-04부터)
 CUTOFF = datetime(2026, 9, 4, tzinfo=timezone.utc)
 
-# ---- 파일 크기 구간별 저장 방식 ------------------------------------------
-# GitHub는 git push 시 파일 하나당 100MB(104,857,600바이트)를 넘으면 무조건
-# 거부한다(LFS 미사용 시 하드 제한, 재시도로도 우회 불가). 그래서 두 단계로 나눈다:
-#
-#   1) GIT_SAFE_BYTES 이하 -> 예전처럼 git commit으로 sites/files/에 저장.
-#   2) GIT_SAFE_BYTES 초과 ~ MAX_SIZE_BYTES 이하 -> git에는 안 올리고, 대신
-#      GitHub "Releases"의 첨부파일(release asset)로 업로드한다. Release asset은
-#      git 저장소 용량/100MB 제한과 무관하게 파일당 2GB까지 허용되고, Git LFS처럼
-#      별도 과금되는 대역폭 쿼터도 없다. manifest.json에는 이 경우 로컬 경로 대신
-#      다운로드 URL만 기록한다 (index.html이 이를 보고 분기해서 다운로드 링크를 만듦).
-#   3) MAX_SIZE_BYTES 초과 -> 그냥 건너뜀.
-#
-# (예전에는 150MB로 잡혀 있었는데, 그러면 100MB~150MB 사이 파일이 다운로드/커밋
-#  까지는 되고 push에서만 계속 실패해서 커밋이 로컬에 쌓인 채 컨테이너 종료로
-#  유실되고, 다음 실행에서 같은 파일을 또 받는 무한 루프에 빠지는 문제가 있었다.)
-GIT_SAFE_BYTES = 95 * 1024 * 1024        # 이 이하: git commit
-RELEASE_TAG = "large-files"              # 대용량 파일을 모아두는 release 태그(1개만 사용, 없으면 자동 생성)
+# ---- 저장 방식 ----------------------------------------------------------
+# (v3) 크기 상관없이 전부 GitHub Release 자산(asset)으로 업로드한다.
+# Release asset은 git 저장소 100MB 제한과 무관하게 파일당 2GB까지 허용되고,
+# 별도 과금되는 대역폭 쿼터도 없다. manifest.json에는 로컬 경로 대신
+# 다운로드 URL만 기록한다 (index.html이 download_url 유무로 분기해서
+# 다운로드 링크를 만듦).
+RELEASE_TAG = "large-files"              # 파일을 모아두는 release 태그(1개만 사용, 없으면 자동 생성)
 MAX_SIZE_BYTES = 1900 * 1024 * 1024      # GitHub release asset 한도(2GB)에 여유를 둔 최종 상한
 
 # 썸네일 이미지의 가로 폭 (px). PDF 첫 페이지를 이 폭에 맞춰 렌더링함.
@@ -508,7 +501,7 @@ async def sync():
     print(f"entity 조회 성공: {getattr(entity, 'title', CHAT)}", flush=True)
     print(
         f"'{getattr(entity, 'title', CHAT)}' 방 감시 시작 (기준일: {CUTOFF.date()} 이후, "
-        f"{GIT_SAFE_BYTES // (1024*1024)}MB 이하는 git / 그 이상 ~ {MAX_SIZE_BYTES // (1024*1024)}MB까지는 release로 저장)",
+        f"모든 PDF는 GitHub Release로 저장, {MAX_SIZE_BYTES // (1024*1024)}MB 초과 시 건너뜀)",
         flush=True,
     )
 
@@ -612,21 +605,17 @@ async def sync():
         thumb_path = THUMBS_DIR / thumb_filename
         thumbnail_ok = make_thumbnail(local_path, thumb_path)
 
-        # git push는 파일당 100MB를 절대 못 넘기므로, 그 문턱(GIT_SAFE_BYTES)을
-        # 넘는 파일은 git에 안 올리고 GitHub Release 자산으로 대신 업로드한다.
-        download_url = None
-        stored_as = safe_filename
-        if actual_size > GIT_SAFE_BYTES:
-            print(f"    ({actual_size / (1024*1024):.1f}MB는 git 100MB 제한을 넘으므로 release로 업로드): {filename}", flush=True)
-            download_url = upload_release_asset(local_path, safe_filename)
-            if download_url is None:
-                print(f"  건너뜀 (release 업로드 실패, 다음 실행에서 재시도): {filename}", flush=True)
-                local_path.unlink(missing_ok=True)
-                thumb_path.unlink(missing_ok=True)
-                return False
-            # git에는 올리지 않으므로 로컬에서 지운다 (git add 시 실수로 커밋되는 것 방지).
+        # (v3) 크기 상관없이 전부 Release로 업로드한다. git에는 아예 올리지 않는다.
+        print(f"    (release로 업로드 중): {filename}", flush=True)
+        download_url = upload_release_asset(local_path, safe_filename)
+        if download_url is None:
+            print(f"  건너뜀 (release 업로드 실패, 다음 실행에서 재시도): {filename}", flush=True)
             local_path.unlink(missing_ok=True)
-            stored_as = None
+            thumb_path.unlink(missing_ok=True)
+            return False
+        # git에는 올리지 않으므로 로컬에서 지운다 (git add 시 실수로 커밋되는 것 방지).
+        local_path.unlink(missing_ok=True)
+        stored_as = None
 
         new_entry = {
             "message_id": message.id,
