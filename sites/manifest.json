@@ -1707,6 +1707,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24548.png",
       "sha256": "053a146e76c99e51cff709012e7bc052f0494ead3b5175025b55fe8e8a5dff88"
+    },
+    {
+      "message_id": 24547,
+      "filename": "2027 설맞이 모의고사 시즌2 해설집.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24547_2027.2.pdf",
+      "size_bytes": 22781281,
+      "telegram_date": "2026-09-22T14:42:18+00:00",
+      "title": "수학 설맞이 모의고사 시즌2 문제지, 해설, 소설집",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24547.png",
+      "sha256": "30b916ce3e2fa8fcde6f0442a2e52e4f80278bd298f499bfa8f53b5803a15744"
     }
   ],
   "duplicate_message_ids": []
