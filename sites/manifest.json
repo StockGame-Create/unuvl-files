@@ -2813,6 +2813,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24422.png",
       "sha256": "b7bb8b83b9ad6df49c97f2a015178360eae7c63294355884e8510e504442e316"
+    },
+    {
+      "message_id": 24420,
+      "filename": "서바이벌_c단독_사문_9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24420_._c._._9.pdf",
+      "size_bytes": 12688743,
+      "telegram_date": "2026-09-17T15:18:14+00:00",
+      "title": "사문 시대인재 서바이벌 C 단독 모의고사 9회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24420.png",
+      "sha256": "c894c87be0a7853272547e310fd7f7c0ab77f2a266cead4186c20c27afd3da4d"
     }
   ],
   "duplicate_message_ids": []
