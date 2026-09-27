@@ -3023,6 +3023,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/24394.png",
       "sha256": "c640fe9afc352256c0f1d5502a7327aeb459e216fba5c3366d34624bc828822d"
+    },
+    {
+      "message_id": 24392,
+      "filename": "강K_수학_1_10회_문제만_복구.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24392_.K_._1_10._._.pdf",
+      "size_bytes": 34977416,
+      "telegram_date": "2026-09-16T15:19:58+00:00",
+      "title": "수학 강대모의고사K 1~10회 통합본 (인쇄소퀄) #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24392.png",
+      "sha256": "0c568d89de3c735ff0a0bbde5a6faa0cf98b07b09232e3e36e74f9beb5441832"
     }
   ],
   "duplicate_message_ids": []
