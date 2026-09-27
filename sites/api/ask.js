@@ -36,7 +36,7 @@
 // }
 // 응답 형식: { answer: string, file_state: {...} } 또는 { error: string }
 
-const GEMINI_MODEL = "gemini-2.5-pro"; // gemini-2.5-flash가 신규 사용자에게 막혀서 교체 (2026-09), PDF 네이티브 이해 지원
+const GEMINI_MODEL = "gemini-3.1-pro"; // gemini-2.5-flash가 신규 사용자에게 막혀서 교체 (2026-09), PDF 네이티브 이해 지원
 const MAX_QUESTION_LENGTH = 1000;
 const MAX_HISTORY_TURNS = 40; // user+assistant 메시지 합쳐서 최대 개수 (그 이상은 오래된 것부터 자름)
 
