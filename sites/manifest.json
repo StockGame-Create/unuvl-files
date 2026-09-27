@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "message_id": 24735,
+      "filename": "시즌2 교재해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24735_.2.pdf",
+      "size_bytes": 244857861,
+      "telegram_date": "2026-09-27T08:06:44+00:00",
+      "title": "지1 김진영 시즌2 4OCUS 본책",
+      "year": "2027",
+      "instructor": "김진영",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24735.png",
+      "sha256": "dba87e86e21fa7d11ddd898a94f99065bbe78c554b9aa1105f86b09dd83f8eaf"
+    },
+    {
       "message_id": 24728,
       "filename": "한지 파브 1회 해설.pdf",
       "stored_as": null,
