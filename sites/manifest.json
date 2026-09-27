@@ -4745,6 +4745,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24225.png",
       "sha256": "11705bb7b4a69ddaeca4713dd973905eccc3cc956bc2b28e3031dadc6161e58d"
+    },
+    {
+      "message_id": 24223,
+      "filename": "2027_강대k_영어_3회_해설_포함.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24223_2027_.k_._3._._.pdf",
+      "size_bytes": 23043937,
+      "telegram_date": "2026-09-14T14:47:04+00:00",
+      "title": "영어 강대모의고사K 3회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/24223.png",
+      "sha256": "64b62977f04db73d2b33d83d380d7bc4a6b4b4ba45209c1c5cf844605ae1798f"
     }
   ],
   "duplicate_message_ids": []
