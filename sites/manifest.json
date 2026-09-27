@@ -1114,6 +1114,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24596.png",
       "sha256": "fcebee1f27fd6ece5de55fa2eea0443e1d65b1be793d19cd7302363b4fb2d56c"
+    },
+    {
+      "message_id": 24595,
+      "filename": "TalkFile_2027_사회탐구_적중예감_FINAL_실전모고_89회_pdf.pdf",
+      "stored_as": "24595_TalkFile_2027_사회탐구_적중예감_FINAL_실전모고_89회_pdf.pdf",
+      "download_url": null,
+      "size_bytes": 2717179,
+      "telegram_date": "2026-09-24T02:31:16+00:00",
+      "title": "TalkFile_2027_사회탐구_적중예감_FINAL_실전모고_89회_pdf",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24595.png",
+      "sha256": "61d4c572f178fd9fec94c3bc097bfb247694c9d6a84760e76d26f2c151d8ac8d"
     }
   ],
   "duplicate_message_ids": []
