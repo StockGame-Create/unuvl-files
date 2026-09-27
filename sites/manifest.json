@@ -922,6 +922,19 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24622.png",
       "sha256": "e4fa4ff6f0bd14c650260ba31217f72d7d24bdc41ab928ef31ef3d73db597551"
+    },
+    {
+      "message_id": 24620,
+      "filename": "TalkFile_기출픽_고등물질과에너지26_정답_pdf.pdf",
+      "stored_as": "24620_TalkFile_기출픽_고등물질과에너지26_정답_pdf.pdf",
+      "size_bytes": 6343615,
+      "telegram_date": "2026-09-24T13:31:57+00:00",
+      "title": "과학 완자 기출픽 물질과 에너지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/24620.png",
+      "sha256": "07aa89cd780bcc27a26d80e3bb583292b89f6e5e76db1ab271351b8a1443e721"
     }
   ],
   "duplicate_message_ids": []
