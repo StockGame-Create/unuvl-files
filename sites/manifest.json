@@ -4213,6 +4213,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24279.png",
       "sha256": "7be69737ab4c6dc5304e104fe4569470554140b9b986380d343d1b76530599c4"
+    },
+    {
+      "message_id": 24278,
+      "filename": "2027 홍지운 문학모의고사 시즌1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24278_2027.1.pdf",
+      "size_bytes": 271425786,
+      "telegram_date": "2026-09-15T01:16:42+00:00",
+      "title": "국어 홍지운 문학 연계 모의고사 시즌 1 ~ 2",
+      "year": "2027",
+      "instructor": "홍지운",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24278.png",
+      "sha256": "38796db33ac1951b60aeae2dd806262ad978087e1b1371a865f489dd7d305715"
     }
   ],
   "duplicate_message_ids": []
