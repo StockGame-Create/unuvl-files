@@ -5711,6 +5711,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24137.png",
       "sha256": "a3185042109c74480e93469e68108809647eaacd94e3acb9accb59014297af1c"
+    },
+    {
+      "message_id": 24134,
+      "filename": "이감파이널2 2차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24134_.2.2.pdf",
+      "size_bytes": 29343968,
+      "telegram_date": "2026-09-13T12:56:39+00:00",
+      "title": "국어 이감 파이널II 제2차 예비평가",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24134.png",
+      "sha256": "16fcef967af8edd71d0fe41e2ca89e75d6a2082ada558d5ecbb8733ff88f6d69"
     }
   ],
   "duplicate_message_ids": [
