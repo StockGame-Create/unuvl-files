@@ -5739,6 +5739,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24131.png",
       "sha256": "f4a5160063f44a9f056dcf3c6a4c02553aa0d719fb72368bf01db9b5cb279c96"
+    },
+    {
+      "message_id": 24129,
+      "filename": "2027_서바이벌_정치와법_1회_정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24129_2027_._._1._.pdf",
+      "size_bytes": 4091607,
+      "telegram_date": "2026-09-13T07:13:44+00:00",
+      "title": "정법 시대인재 서바이벌 전국 모의고사 8회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/24129.png",
+      "sha256": "8bf7f19009f753f3372d3a721894cdb7334f984ca7b066fb29547dfd4c278365"
     }
   ],
   "duplicate_message_ids": [
