@@ -2211,6 +2211,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24486.png",
       "sha256": "db3288222f8a8d2af3b71a4409c35b6e3f93ac87a3d0ca98100deb9665ccb646"
+    },
+    {
+      "message_id": 24484,
+      "filename": "아폴로 09.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24484_.09.pdf",
+      "size_bytes": 123216943,
+      "telegram_date": "2026-09-19T04:05:14+00:00",
+      "title": "지1 아폴로 시즌4 09호",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24484.png",
+      "sha256": "1f252cd3124b20476c20e747ef71f08a0bb1d9c196e9899e1837bbfa8116a38d"
     }
   ],
   "duplicate_message_ids": []
