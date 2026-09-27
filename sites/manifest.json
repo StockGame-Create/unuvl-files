@@ -5893,6 +5893,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24110.png",
       "sha256": "666546e721943e13b73aec2c4f38b9fcc1a087fe546dedf89afe263c8cc39d6f"
+    },
+    {
+      "message_id": 24109,
+      "filename": "New_2027_김동하_유형_1주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24109_New_2027_._._1.pdf",
+      "size_bytes": 37885885,
+      "telegram_date": "2026-09-12T14:39:14+00:00",
+      "title": "영어 김동하 유형 1주차",
+      "year": "2027",
+      "instructor": "김동하",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24109.png",
+      "sha256": "c48415c337f0c21500836c3cc11a3a2b49ed0982f3be2523ee9f4d78ad57f349"
     }
   ],
   "duplicate_message_ids": [
