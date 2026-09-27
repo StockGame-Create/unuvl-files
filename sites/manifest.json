@@ -7027,6 +7027,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/23960.png",
       "sha256": "097c93b2fad35d15bc477db3c3d4b24fa54dbcae5249db7f3aabc1beff8a4ef8"
+    },
+    {
+      "message_id": 23958,
+      "filename": "랑데뷰n킬러극킬해설_1_Merged.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23958_.n._1_Merged.pdf",
+      "size_bytes": 83696563,
+      "telegram_date": "2026-09-06T03:50:01+00:00",
+      "title": "수학 오르비북스 랑데뷰 N제 킬러극킬 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23958.png",
+      "sha256": "4252f5463ee42bdcff4f7152d6bb461c5d994df55eeb2c6574d459ec07041456"
     }
   ],
   "duplicate_message_ids": [
