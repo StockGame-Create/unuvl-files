@@ -2491,6 +2491,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24455.png",
       "sha256": "80f9b9145e7b1bcaf8275a41a91b9c50fa9213a72af02ff4a238c124f02064bb"
+    },
+    {
+      "message_id": 24453,
+      "filename": "신혁모 하프 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24453_.3.pdf",
+      "size_bytes": 11092158,
+      "telegram_date": "2026-09-18T11:26:47+00:00",
+      "title": "지1 이신혁 하프 모의고사 3회",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24453.png",
+      "sha256": "7bdd581156010f4a90cd9ec0d89cd5bffe8acb875aebc38a13a2ee4166f542d9"
     }
   ],
   "duplicate_message_ids": []
