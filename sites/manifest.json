@@ -1058,6 +1058,20 @@
       "subject": null,
       "thumbnail": "thumbnails/24603.png",
       "sha256": "c25444e98f2f4a581a140c3e0785c90254089978f4eae7eeb70c501c2d39a004"
+    },
+    {
+      "message_id": 24602,
+      "filename": "4.pdf",
+      "stored_as": "24602_4.pdf",
+      "download_url": null,
+      "size_bytes": 4344638,
+      "telegram_date": "2026-09-24T02:31:24+00:00",
+      "title": "4",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24602.png",
+      "sha256": "cf5a4490522b16cc98acd6ac193db708100d843b576db2d5840dd1167746bc3c"
     }
   ],
   "duplicate_message_ids": []
