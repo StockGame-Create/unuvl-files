@@ -935,6 +935,19 @@
       "subject": "과학",
       "thumbnail": "thumbnails/24620.png",
       "sha256": "07aa89cd780bcc27a26d80e3bb583292b89f6e5e76db1ab271351b8a1443e721"
+    },
+    {
+      "message_id": 24619,
+      "filename": "물질과에너지_기출픽.pdf",
+      "stored_as": "24619_물질과에너지_기출픽.pdf",
+      "size_bytes": 26621362,
+      "telegram_date": "2026-09-24T13:31:56+00:00",
+      "title": "물질과에너지_기출픽",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/24619.png",
+      "sha256": "076631bbf4e33c6658f03f75c532fd8d7b9babbd5c3c8c7642e3c64e9a862f45"
     }
   ],
   "duplicate_message_ids": []
