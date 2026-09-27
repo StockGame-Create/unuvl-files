@@ -1931,6 +1931,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24517.png",
       "sha256": "16e5b593883783e9adb7bca16635e9c330e2cc92ae1b7a11523a603563d75332"
+    },
+    {
+      "message_id": 24516,
+      "filename": "2027_N서바이벌_사회문화_13_15회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24516_2027_N._._13_15._.pdf",
+      "size_bytes": 24019414,
+      "telegram_date": "2026-09-21T12:55:08+00:00",
+      "title": "사문 시대인재 서바이벌 N 모의고사 13 ~ 15회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24516.png",
+      "sha256": "a905a15070151ebb01feadcf92d6b313cd328c900caad5c67084a6ff85e25cf7"
     }
   ],
   "duplicate_message_ids": []
