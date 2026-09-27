@@ -6145,6 +6145,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24086.png",
       "sha256": "68a7bc21b4bf28b4de9983900c704efcb1d039735184073c906fef9b758a99d2"
+    },
+    {
+      "message_id": 24085,
+      "filename": "2027 현정훈 모의고사 The Red v01 해설_260727_232140.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24085_2027.The.Red.v01._260727_232140.pdf",
+      "size_bytes": 82583418,
+      "telegram_date": "2026-09-12T03:53:59+00:00",
+      "title": "물1 2027 현정훈 the Red vol1 1~12회 문제지",
+      "year": "2027",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/24085.png",
+      "sha256": "adb60953303de2dd067809482bdff56a69a38b24d0b99a4a575c09e10637d505"
     }
   ],
   "duplicate_message_ids": [
