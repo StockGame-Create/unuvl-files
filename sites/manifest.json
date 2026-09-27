@@ -4423,6 +4423,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24260.png",
       "sha256": "77505f0779e42e099f74e010ff8f24b4d8ed65bc5ff9d3559e41ed10774c0988"
+    },
+    {
+      "message_id": 24257,
+      "filename": "2027_김진영_모의고사_8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24257_2027_._._8.pdf",
+      "size_bytes": 10142970,
+      "telegram_date": "2026-09-14T14:47:43+00:00",
+      "title": "지1 김진영 모의고사 8회",
+      "year": "2027",
+      "instructor": "김진영",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24257.png",
+      "sha256": "2b1075d5734b73899b6f49e6916ae84bd813e157edce4ada990376ebb2cfe384"
     }
   ],
   "duplicate_message_ids": []
