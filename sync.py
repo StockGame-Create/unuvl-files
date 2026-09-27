@@ -390,9 +390,16 @@ async def sync():
     checked_count = 0
     start_time = time.monotonic()
 
-    async def handle_pdf_message(message) -> bool:
+    async def handle_pdf_message(message, group_meta: dict | None = None) -> bool:
         """새로 발견된 메시지 하나를 검사해서, PDF면 다운로드/썸네일/manifest/git까지
         전부 처리한다. 캐치업 스캔과 실시간 리스너가 이 함수 하나를 공유한다.
+
+        group_meta: 같은 텔레그램 앨범(그룹)에 속한 다른 메시지에서 뽑아낸
+        년도/강사/과목 정보. 텔레그램 앨범은 캡션이 그중 한 메시지에만 붙는
+        경우가 흔해서(예: "문제" + "해설" 두 개를 올렸는데 캡션은 해설에만),
+        이 메시지 자체에 캡션이 없을 때 group_meta로 대신 채워 넣는다.
+        제목(title)만은 각 파일 고유의 것(자기 캡션 또는 파일명)을 그대로 쓴다.
+
         새로 저장했으면 True, 아니면(PDF 아님/이미 알고 있음/중복/용량초과) False."""
         nonlocal new_count, skipped_too_big
 
@@ -449,8 +456,14 @@ async def sync():
             return False
 
         # 캡션(메시지 본문)에서 년도/강사/과목/제목 파싱.
-        meta = parse_caption(message.message)
-        title = meta["title"] or Path(filename).stem
+        own_meta = parse_caption(message.message)
+        group_meta = group_meta or {}
+        meta = {
+            "year": own_meta["year"] or group_meta.get("year"),
+            "instructor": own_meta["instructor"] or group_meta.get("instructor"),
+            "subject": own_meta["subject"] or group_meta.get("subject"),
+        }
+        title = own_meta["title"] or Path(filename).stem
 
         # PDF 첫 페이지 썸네일 생성 (실패해도 목록 자체는 계속 진행)
         thumb_filename = f"{message.id}.png"
@@ -486,12 +499,46 @@ async def sync():
 
         return True
 
+    async def handle_pdf_group(messages: list) -> None:
+        """텔레그램 앨범(같은 grouped_id) 또는 단일 메시지 하나를 처리한다.
+        앨범 안에서는 캡션이 메시지 중 하나에만 붙어있는 경우가 많으므로,
+        그룹 전체를 먼저 훑어서 년도/강사/과목을 한 번만 파싱해두고, 그룹에
+        속한 모든 PDF 메시지에 공통으로 적용(단, 본인 캡션이 있으면 그게 우선)한다."""
+        group_meta = {"year": None, "instructor": None, "subject": None}
+        for m in messages:
+            if not m.message:
+                continue
+            parsed = parse_caption(m.message)
+            for key in group_meta:
+                if group_meta[key] is None and parsed[key] is not None:
+                    group_meta[key] = parsed[key]
+
+        for m in messages:
+            ok, _ = is_pdf(m)
+            if not ok:
+                continue
+            await handle_pdf_message(m, group_meta=group_meta)
+
     # ---- 1) 캐치업 스캔: 지난 실행 이후 놓친 메시지를 한 바퀴 훑어서 받는다 ----
     # (예전처럼 파일 하나 받을 때마다 처음부터 다시 훑지 않는다 - 이제는 이 스캔이
     #  끝나면 바로 실시간 리스너로 넘어가서 새 메시지를 즉시 잡아내기 때문에,
     #  한 방향으로 쭉 훑는 것으로 충분하다.)
     print("캐치업 스캔 시작...", flush=True)
     stopped_early = False
+
+    # 같은 앨범(grouped_id)에 속한 메시지들을 모았다가 한 번에 넘기기 위한 버퍼.
+    # 텔레그램 앨범은 항상 연속된 메시지 ID로 오기 때문에, 최신순으로 훑는 도중
+    # grouped_id가 바뀌는 순간이 곧 "그 앨범이 끝났다"는 뜻이다.
+    pending_group_id = None
+    pending_group_messages: list = []
+
+    async def flush_pending_group():
+        nonlocal pending_group_id, pending_group_messages
+        if pending_group_messages:
+            await handle_pdf_group(pending_group_messages)
+        pending_group_id = None
+        pending_group_messages = []
+
     async for message in client.iter_messages(entity):
         checked_count += 1
         if checked_count % 20 == 0:
@@ -511,16 +558,43 @@ async def sync():
             print(f"기준일({CUTOFF.date()})보다 오래된 메시지 발견({message.date.date()}), 캐치업 스캔 종료", flush=True)
             break
 
-        await handle_pdf_message(message)
+        gid = message.grouped_id
+        if gid is not None and gid == pending_group_id:
+            pending_group_messages.append(message)
+            continue
+
+        # 그룹이 바뀌었거나(또는 앨범이 아닌 단일 메시지) -> 모아둔 이전 그룹부터 처리
+        await flush_pending_group()
+
+        if gid is not None:
+            pending_group_id = gid
+            pending_group_messages = [message]
+        else:
+            await handle_pdf_group([message])
+
+    # 루프가 끝났으면(정상 종료든 시간제한/기준일로 break든) 마지막으로 모아둔
+    # 그룹이 남아있을 수 있으니 반드시 처리해준다.
+    await flush_pending_group()
 
     print(f"캐치업 스캔 완료. 새로 내려받은 PDF: {new_count}개", flush=True)
 
     # ---- 2) 실시간 리스너: 캐치업이 시간 안에 끝났으면, 새 메시지를 즉시 받는다 ----
     if not stopped_early:
+        @client.on(events.Album(chats=entity))
+        async def _on_new_album(event):
+            try:
+                await handle_pdf_group(event.messages)
+            except Exception as e:
+                # 개별 앨범 처리 중 에러가 나도 리스너 자체는 죽지 않게 함.
+                print(f"  [새 앨범 처리 중 오류] {e}", flush=True)
+
         @client.on(events.NewMessage(chats=entity))
         async def _on_new_message(event):
+            if event.message.grouped_id is not None:
+                # 앨범(그룹) 메시지는 위의 Album 핸들러가 모아서 처리하므로 건너뜀.
+                return
             try:
-                await handle_pdf_message(event.message)
+                await handle_pdf_group([event.message])
             except Exception as e:
                 # 개별 메시지 처리 중 에러가 나도 리스너 자체는 죽지 않게 함.
                 print(f"  [새 메시지 처리 중 오류] {e}", flush=True)
