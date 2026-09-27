@@ -5865,6 +5865,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/24116.png",
       "sha256": "1847bc6212c9446df2a8a3524c5e38a7f6a8ddf71dfe1b6d9e5349761e272634"
+    },
+    {
+      "message_id": 24111,
+      "filename": "2027_리바이벌2_물리학I_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24111_2027_.2_.I_.pdf",
+      "size_bytes": 356331,
+      "telegram_date": "2026-09-12T14:39:15+00:00",
+      "title": "물1 시대인재 REVIVAL 2권 #리바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/24111.png",
+      "sha256": "f660d15700a3920a03c99eac2998f5bebed34c2963853ac2424551c8781747a3"
     }
   ],
   "duplicate_message_ids": [
