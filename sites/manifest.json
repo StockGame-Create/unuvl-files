@@ -1296,6 +1296,20 @@
       "subject": null,
       "thumbnail": "thumbnails/24576.png",
       "sha256": "c2b0fe2d60e9a2b8f24c8e176f8526cea4f30a143285582f97aff6b78e26d0a2"
+    },
+    {
+      "message_id": 24575,
+      "filename": "경제_풀리스트_시즌3_1,2회_문제.pdf",
+      "stored_as": "24575_경제_풀리스트_시즌3_1,2회_문제.pdf",
+      "download_url": null,
+      "size_bytes": 11106092,
+      "telegram_date": "2026-09-23T07:50:38+00:00",
+      "title": "경제 FULLEST 시즌3 1, 2회",
+      "year": "2027",
+      "instructor": "우영호",
+      "subject": "경제",
+      "thumbnail": "thumbnails/24575.png",
+      "sha256": "bf1b3c3d2e360e10a07b8038bd3480c9244b91f4d2fa25a6d8984edf6e78a0cb"
     }
   ],
   "duplicate_message_ids": []
