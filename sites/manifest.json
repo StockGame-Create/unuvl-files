@@ -1086,6 +1086,20 @@
       "subject": null,
       "thumbnail": "thumbnails/24601.png",
       "sha256": "eb88670056fe38eb920633e92911fa1bce0680b0f2d67a2d775029869de4c5f3"
+    },
+    {
+      "message_id": 24599,
+      "filename": "2027 영어 강대k 04.pdf",
+      "stored_as": "24599_2027 영어 강대k 04.pdf",
+      "download_url": null,
+      "size_bytes": 13541236,
+      "telegram_date": "2026-09-24T02:31:18+00:00",
+      "title": "영어 강대모의고사K 4회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/24599.png",
+      "sha256": "d69279e6f204a02694e65ea2f46930d809a019bf3885911f12190d40bd787aca"
     }
   ],
   "duplicate_message_ids": []
