@@ -3205,6 +3205,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24375.png",
       "sha256": "4e21de63d5af75dfa5302cdab1454ea49f9223c765f8e57c9bad9780da59725e"
+    },
+    {
+      "message_id": 24371,
+      "filename": "풀카운트_모의고사_2회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24371_._._2.pdf",
+      "size_bytes": 7602686,
+      "telegram_date": "2026-09-16T13:32:58+00:00",
+      "title": "수학 Fullcount 모의고사 2회",
+      "year": "2027",
+      "instructor": "안가람",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24371.png",
+      "sha256": "94da7cb5d7500bfb762b343de1dfa8fbe107377276601ae5bdbd246d829a5e71"
     }
   ],
   "duplicate_message_ids": []
