@@ -7,6 +7,12 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<!-- AI 채팅 답변을 마크다운 + 수식(LaTeX)으로 렌더링하기 위한 라이브러리 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
 <style>
   :root {
     --paper: #F6F1E7;
@@ -470,71 +476,42 @@
     background: var(--cat-english);
   }
 
-  /* ---- AI 질문 기능 ---- */
-  .ai-fab {
-    position: fixed;
-    right: 1.4rem;
-    bottom: 1.4rem;
-    z-index: 40;
-    font-family: "IBM Plex Mono", monospace;
-    font-size: 0.82rem;
-    background: var(--ink);
-    color: var(--paper);
-    border: none;
-    padding: 0.85rem 1.2rem;
-    border-radius: 999px;
-    cursor: pointer;
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
-  }
-
-  .ai-fab:hover { background: var(--leather); }
-
-  .ai-modal-overlay {
-    position: fixed;
-    inset: 0;
-    background: rgba(38, 34, 32, 0.55);
+  /* ---- 탭 네비게이션 (파일 보관함 / AI에게 물어보기) ---- */
+  .tab-nav {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 1.2rem;
-    z-index: 50;
+    gap: 0.4rem;
+    margin: 1.6rem 0 0;
+    border-bottom: 2px solid var(--ink);
   }
 
-  .ai-modal-overlay[hidden] { display: none; }
-
-  .ai-modal {
-    background: var(--paper);
-    border: 1px solid var(--rule);
-    max-width: 560px;
-    width: 100%;
-    max-height: 88vh;
-    overflow-y: auto;
-    padding: 1.5rem;
-    position: relative;
-  }
-
-  .ai-modal h2 {
-    margin: 0 0 0.3rem;
-    font-family: "Source Serif 4", Georgia, serif;
-    font-size: 1.3rem;
-  }
-
-  .ai-modal .ai-sub {
-    margin: 0 0 1.1rem;
-    font-size: 0.8rem;
-    color: var(--ink-soft);
+  .tab-btn {
     font-family: "IBM Plex Mono", monospace;
-  }
-
-  .ai-modal-close {
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
+    font-size: 0.85rem;
     background: none;
     border: none;
-    font-size: 1.1rem;
+    padding: 0.7rem 1.1rem;
     color: var(--ink-soft);
     cursor: pointer;
+    position: relative;
+    top: 2px;
+  }
+
+  .tab-btn.active {
+    color: var(--ink);
+    font-weight: 600;
+    border-bottom: 2px solid var(--leather);
+  }
+
+  .tab-btn:hover { color: var(--ink); }
+
+  .tab-panel[hidden] { display: none; }
+
+  /* ---- AI 탭: 자료 선택 바 ---- */
+  .ai-toolbar {
+    margin: 1.6rem 0 1rem;
+    padding: 0.9rem 1rem;
+    border: 1px solid var(--rule);
+    background: var(--paper-raised);
   }
 
   .ai-field-label {
@@ -547,23 +524,21 @@
     margin: 0 0 0.4rem;
   }
 
-  #aiFileSearch, #aiQuestion {
+  #aiFileSearch {
     width: 100%;
     font-family: "IBM Plex Mono", monospace;
     font-size: 0.88rem;
-    background: var(--paper-raised);
+    background: var(--paper);
     border: 1.5px solid var(--rule);
     padding: 0.55rem 0.7rem;
     color: var(--ink);
   }
 
-  #aiQuestion { resize: vertical; min-height: 4.2rem; margin-top: 0.9rem; }
-
   .ai-results {
     list-style: none;
     margin: 0.5rem 0 0;
     padding: 0;
-    max-height: 200px;
+    max-height: 220px;
     overflow-y: auto;
     border: 1px solid var(--rule);
   }
@@ -578,12 +553,12 @@
   }
 
   .ai-results li:last-child { border-bottom: none; }
-  .ai-results li:hover { background: var(--paper-raised); }
+  .ai-results li:hover { background: var(--paper); }
 
   .ai-selected {
     margin-top: 0.6rem;
-    padding: 0.6rem 0.7rem;
-    background: var(--paper-raised);
+    padding: 0.55rem 0.7rem;
+    background: var(--paper);
     border: 1px solid var(--rule);
     font-size: 0.85rem;
     display: flex;
@@ -597,38 +572,194 @@
     font-size: 0.72rem;
     background: none;
     border: 1px solid var(--rule);
-    padding: 0.25rem 0.5rem;
+    padding: 0.3rem 0.55rem;
     cursor: pointer;
     color: var(--ink-soft);
     flex-shrink: 0;
   }
 
-  .ai-ask-btn {
-    margin-top: 1rem;
-    width: 100%;
+  .ai-selected button:hover { border-color: var(--leather); color: var(--ink); }
+
+  .ai-note {
+    margin: 0.6rem 0 0;
+    font-size: 0.76rem;
+    color: var(--ink-soft);
     font-family: "IBM Plex Mono", monospace;
-    font-size: 0.88rem;
-    background: var(--ink);
-    color: var(--paper);
-    border: none;
-    padding: 0.7rem;
-    cursor: pointer;
   }
 
-  .ai-ask-btn:disabled { opacity: 0.5; cursor: default; }
-  .ai-ask-btn:not(:disabled):hover { background: var(--leather); }
+  /* ---- AI 탭: 대화창 ---- */
+  .chat-shell {
+    display: flex;
+    flex-direction: column;
+    height: min(72vh, 760px);
+    border: 1px solid var(--rule);
+    background: var(--paper);
+  }
 
-  .ai-answer {
-    margin-top: 1.1rem;
-    padding-top: 1rem;
-    border-top: 1px solid var(--rule);
-    font-size: 0.9rem;
-    line-height: 1.6;
+  .chat-window {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.1rem;
+  }
+
+  .chat-empty {
+    margin: auto;
+    text-align: center;
+    color: var(--ink-soft);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.85rem;
+    max-width: 32ch;
+    line-height: 1.7;
+  }
+
+  .msg { display: flex; flex-direction: column; max-width: 84%; }
+  .msg.user { align-self: flex-end; align-items: flex-end; }
+  .msg.assistant { align-self: flex-start; align-items: flex-start; }
+
+  .msg-role {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.68rem;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.3rem;
+  }
+
+  .msg-bubble {
+    padding: 0.8rem 1rem;
+    line-height: 1.72;
+    font-size: 0.96rem;
+    word-break: break-word;
+  }
+
+  .msg.user .msg-bubble {
+    background: var(--ink);
+    color: var(--paper);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.88rem;
     white-space: pre-wrap;
   }
 
-  .ai-answer.error { color: #A83A3A; }
-  .ai-answer:empty { display: none; }
+  /* 답변 말투는 이 사이트 전체 세리프 폰트(Source Serif 4)를 그대로 써서
+     "차분하게 읽어주는 글" 느낌을 낸다 - AI 답변 전용 서체를 새로 불러오는
+     대신, 이미 로드된 폰트로 통일감 있게 표현. */
+  .msg.assistant .msg-bubble {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    font-family: "Source Serif 4", Georgia, serif;
+  }
+
+  .msg-bubble p { margin: 0 0 0.85em; }
+  .msg-bubble p:last-child { margin-bottom: 0; }
+  .msg-bubble ul, .msg-bubble ol { margin: 0 0 0.85em; padding-left: 1.3em; }
+  .msg-bubble li { margin-bottom: 0.3em; }
+  .msg-bubble strong { color: var(--leather); }
+  .msg-bubble code {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.85em;
+    background: var(--paper);
+    padding: 0.1em 0.35em;
+    border: 1px solid var(--rule);
+  }
+  .msg-bubble pre {
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    padding: 0.7em;
+    overflow-x: auto;
+  }
+  .msg-bubble pre code { border: none; padding: 0; background: none; }
+  .msg-bubble table { border-collapse: collapse; margin-bottom: 0.85em; font-size: 0.9em; }
+  .msg-bubble th, .msg-bubble td { border: 1px solid var(--rule); padding: 0.35em 0.6em; }
+  .msg-bubble .katex { font-size: 1.04em; }
+
+  .msg-bubble .typing-cursor::after {
+    content: "▌";
+    display: inline-block;
+    margin-left: 1px;
+    color: var(--leather);
+    animation: caretBlink 0.9s steps(1) infinite;
+  }
+
+  @keyframes caretBlink {
+    0%, 49% { opacity: 1; }
+    50%, 100% { opacity: 0; }
+  }
+
+  /* "생각 중..." 표시 - Claude 스타일의 통통 튀는 점 3개 */
+  .thinking-bubble {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.15rem 0;
+  }
+
+  .thinking-bubble span {
+    width: 0.42rem;
+    height: 0.42rem;
+    border-radius: 50%;
+    background: var(--ink-soft);
+    animation: thinkingBounce 1.1s ease-in-out infinite;
+  }
+
+  .thinking-bubble span:nth-child(2) { animation-delay: 0.15s; }
+  .thinking-bubble span:nth-child(3) { animation-delay: 0.3s; }
+
+  @keyframes thinkingBounce {
+    0%, 60%, 100% { transform: translateY(0); opacity: 0.5; }
+    30% { transform: translateY(-4px); opacity: 1; }
+  }
+
+  .msg-bubble.error { color: #A83A3A; background: none; border-color: #A83A3A; }
+
+  .chat-input-row {
+    display: flex;
+    gap: 0.6rem;
+    padding: 0.9rem;
+    border-top: 1px solid var(--rule);
+    background: var(--paper-raised);
+  }
+
+  #chatInput {
+    flex: 1;
+    resize: none;
+    font-family: "Source Serif 4", Georgia, serif;
+    font-size: 0.94rem;
+    background: var(--paper);
+    border: 1.5px solid var(--rule);
+    padding: 0.6rem 0.75rem;
+    color: var(--ink);
+    max-height: 8rem;
+  }
+
+  #chatInput:focus { border-color: var(--leather); outline: none; }
+
+  #chatSendBtn {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.85rem;
+    background: var(--ink);
+    color: var(--paper);
+    border: none;
+    padding: 0 1.2rem;
+    cursor: pointer;
+  }
+
+  #chatSendBtn:disabled { opacity: 0.45; cursor: default; }
+  #chatSendBtn:not(:disabled):hover { background: var(--leather); }
+
+  #chatResetBtn {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.72rem;
+    background: none;
+    border: 1px solid var(--rule);
+    color: var(--ink-soft);
+    padding: 0.3rem 0.6rem;
+    cursor: pointer;
+  }
+
+  #chatResetBtn:hover { border-color: var(--leather); color: var(--ink); }
 
   /* ---- 페이지네이션 ---- */
   .pagination {
@@ -689,59 +820,93 @@
       <hr class="rule" />
     </header>
 
-    <div class="update-log" id="updateLog" hidden>
-      <h2>최근 업데이트</h2>
-      <ul id="updateLogList"></ul>
+    <div class="tab-nav">
+      <button type="button" class="tab-btn active" id="tabBtnFiles">파일 보관함</button>
+      <button type="button" class="tab-btn" id="tabBtnAi">🤖 AI에게 물어보기</button>
     </div>
 
-    <div class="search-row">
-      <input type="text" id="searchInput" placeholder="제목, 강사, 과목, 파일명으로 찾기" autocomplete="off" />
-
-      <div class="sort-row">
-        <label for="sortSelect">정렬</label>
-        <select id="sortSelect">
-          <option value="newest">최신순</option>
-          <option value="oldest">오래된순</option>
-          <option value="name">이름순</option>
-          <option value="size_desc">용량 큰순</option>
-        </select>
+    <section class="tab-panel" id="tabFiles">
+      <div class="update-log" id="updateLog" hidden>
+        <h2>최근 업데이트</h2>
+        <ul id="updateLogList"></ul>
       </div>
 
-      <div class="filter-row" id="filterRow">
-        <span class="filter-pill" data-cat="korean">
-          <input type="checkbox" id="filter-korean" value="korean" />
-          <label for="filter-korean"><span class="dot"></span>국어</label>
-        </span>
-        <span class="filter-pill" data-cat="math">
-          <input type="checkbox" id="filter-math" value="math" />
-          <label for="filter-math"><span class="dot"></span>수학</label>
-        </span>
-        <span class="filter-pill" data-cat="english">
-          <input type="checkbox" id="filter-english" value="english" />
-          <label for="filter-english"><span class="dot"></span>영어</label>
-        </span>
-        <span class="filter-pill" data-cat="social">
-          <input type="checkbox" id="filter-social" value="social" />
-          <label for="filter-social"><span class="dot"></span>사탐</label>
-        </span>
-        <span class="filter-pill" data-cat="science">
-          <input type="checkbox" id="filter-science" value="science" />
-          <label for="filter-science"><span class="dot"></span>과탐</label>
-        </span>
-        <span class="filter-pill" data-cat="other">
-          <input type="checkbox" id="filter-other" value="other" />
-          <label for="filter-other"><span class="dot"></span>기타</label>
-        </span>
+      <div class="search-row">
+        <input type="text" id="searchInput" placeholder="제목, 강사, 과목, 파일명으로 찾기" autocomplete="off" />
+
+        <div class="sort-row">
+          <label for="sortSelect">정렬</label>
+          <select id="sortSelect">
+            <option value="newest">최신순</option>
+            <option value="oldest">오래된순</option>
+            <option value="name">이름순</option>
+            <option value="size_desc">용량 큰순</option>
+          </select>
+        </div>
+
+        <div class="filter-row" id="filterRow">
+          <span class="filter-pill" data-cat="korean">
+            <input type="checkbox" id="filter-korean" value="korean" />
+            <label for="filter-korean"><span class="dot"></span>국어</label>
+          </span>
+          <span class="filter-pill" data-cat="math">
+            <input type="checkbox" id="filter-math" value="math" />
+            <label for="filter-math"><span class="dot"></span>수학</label>
+          </span>
+          <span class="filter-pill" data-cat="english">
+            <input type="checkbox" id="filter-english" value="english" />
+            <label for="filter-english"><span class="dot"></span>영어</label>
+          </span>
+          <span class="filter-pill" data-cat="social">
+            <input type="checkbox" id="filter-social" value="social" />
+            <label for="filter-social"><span class="dot"></span>사탐</label>
+          </span>
+          <span class="filter-pill" data-cat="science">
+            <input type="checkbox" id="filter-science" value="science" />
+            <label for="filter-science"><span class="dot"></span>과탐</label>
+          </span>
+          <span class="filter-pill" data-cat="other">
+            <input type="checkbox" id="filter-other" value="other" />
+            <label for="filter-other"><span class="dot"></span>기타</label>
+          </span>
+        </div>
+
+        <div class="count-line" id="countLine"></div>
       </div>
 
-      <div class="count-line" id="countLine"></div>
-    </div>
+      <ul class="file-grid" id="fileList">
+        <li class="loading-state">목록을 불러오는 중...</li>
+      </ul>
 
-    <ul class="file-grid" id="fileList">
-      <li class="loading-state">목록을 불러오는 중...</li>
-    </ul>
+      <div class="pagination" id="pagination"></div>
+    </section>
 
-    <div class="pagination" id="pagination"></div>
+    <section class="tab-panel" id="tabAi" hidden>
+      <div class="ai-toolbar">
+        <div id="aiFileSection">
+          <label class="ai-field-label" for="aiFileSearch">먼저 자료를 골라주세요</label>
+          <input type="text" id="aiFileSearch" placeholder="제목, 강사, 과목으로 찾기" autocomplete="off" />
+          <ul class="ai-results" id="aiFileResults"></ul>
+        </div>
+
+        <div class="ai-selected" id="aiSelected" hidden>
+          <span id="aiSelectedName"></span>
+          <button type="button" id="chatResetBtn">다른 파일 / 새 대화</button>
+        </div>
+
+        <p class="ai-note">실험적 기능이라 오답이 섞일 수 있어요. 자료 안의 "문제"와 "해설"을 먼저 찾아본 뒤 답하도록 안내되어 있고, 대화 맥락을 기억하니 이어서 계속 물어봐도 됩니다.</p>
+      </div>
+
+      <div class="chat-shell">
+        <div class="chat-window" id="chatWindow">
+          <p class="chat-empty">위에서 자료를 먼저 선택하면<br />여기서 그 자료에 대해 대화하듯 물어볼 수 있어요.</p>
+        </div>
+        <div class="chat-input-row">
+          <textarea id="chatInput" placeholder="궁금한 걸 물어보세요 (예: 3번 문제 풀이 방법 알려줘)" rows="1" disabled></textarea>
+          <button type="button" id="chatSendBtn" disabled>전송</button>
+        </div>
+      </div>
+    </section>
 
     <footer>
       마지막 동기화 이후 목록입니다. 새 자료는 자동으로 반영됩니다.
@@ -749,36 +914,6 @@
   </div>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
-
-  <button type="button" class="ai-fab" id="aiFab">🤖 AI에게 질문하기</button>
-
-  <div class="ai-modal-overlay" id="aiModalOverlay" hidden>
-    <div class="ai-modal" role="dialog" aria-modal="true" aria-labelledby="aiModalTitle">
-      <button type="button" class="ai-modal-close" id="aiModalClose" aria-label="닫기">✕</button>
-      <h2 id="aiModalTitle">AI에게 질문하기</h2>
-      <p class="ai-sub">자료를 먼저 고르고 궁금한 걸 물어보세요. 실험적 기능이라 오답이 섞일 수 있고, 파일이 클수록 첫 답변까지 시간이 좀 걸릴 수 있어요.</p>
-
-      <div id="aiFileSection">
-        <label class="ai-field-label" for="aiFileSearch">1. 자료 검색</label>
-        <input type="text" id="aiFileSearch" placeholder="제목, 강사, 과목으로 찾기" autocomplete="off" />
-        <ul class="ai-results" id="aiFileResults"></ul>
-      </div>
-
-      <div class="ai-selected" id="aiSelected" hidden>
-        <span id="aiSelectedName"></span>
-        <button type="button" id="aiChangeFileBtn">다른 파일</button>
-      </div>
-
-      <div>
-        <label class="ai-field-label" for="aiQuestion">2. 질문</label>
-        <textarea id="aiQuestion" placeholder="예: 이 자료 3번 문제 풀이 방법 알려줘"></textarea>
-      </div>
-
-      <button type="button" class="ai-ask-btn" id="aiAskBtn" disabled>질문하기</button>
-
-      <div class="ai-answer" id="aiAnswer"></div>
-    </div>
-  </div>
 
   <script>
     const fileListEl = document.getElementById("fileList");
@@ -1126,42 +1261,137 @@
     filterRow.addEventListener("change", applyFilter);
     sortSelect.addEventListener("change", applyFilter);
 
-    // ---- AI에게 질문하기 ----
-    const aiFab = document.getElementById("aiFab");
-    const aiModalOverlay = document.getElementById("aiModalOverlay");
-    const aiModalClose = document.getElementById("aiModalClose");
+    // ---- 탭 전환 (파일 보관함 / AI에게 물어보기) ----
+    const tabBtnFiles = document.getElementById("tabBtnFiles");
+    const tabBtnAi = document.getElementById("tabBtnAi");
+    const tabFiles = document.getElementById("tabFiles");
+    const tabAi = document.getElementById("tabAi");
+
+    function showTab(name) {
+      const isFiles = name === "files";
+      tabFiles.hidden = !isFiles;
+      tabAi.hidden = isFiles;
+      tabBtnFiles.classList.toggle("active", isFiles);
+      tabBtnAi.classList.toggle("active", !isFiles);
+      if (!isFiles) aiFileSearch.focus();
+    }
+
+    tabBtnFiles.addEventListener("click", () => showTab("files"));
+    tabBtnAi.addEventListener("click", () => showTab("ai"));
+
+    // ---- AI에게 물어보기 (대화형, 멀티턴) ----
     const aiFileSearch = document.getElementById("aiFileSearch");
     const aiFileResults = document.getElementById("aiFileResults");
     const aiFileSection = document.getElementById("aiFileSection");
     const aiSelected = document.getElementById("aiSelected");
     const aiSelectedName = document.getElementById("aiSelectedName");
-    const aiChangeFileBtn = document.getElementById("aiChangeFileBtn");
-    const aiQuestion = document.getElementById("aiQuestion");
-    const aiAskBtn = document.getElementById("aiAskBtn");
-    const aiAnswerEl = document.getElementById("aiAnswer");
+    const chatResetBtn = document.getElementById("chatResetBtn");
+    const chatWindow = document.getElementById("chatWindow");
+    const chatInput = document.getElementById("chatInput");
+    const chatSendBtn = document.getElementById("chatSendBtn");
 
     let aiSelectedFile = null;
+    let chatHistory = []; // [{ role: 'user'|'assistant', text }] - 대화 맥락(기억력)
+    let chatFileState = null; // 이전 턴에서 이미 업로드된 Gemini 파일 참조 (재업로드 방지)
+    let chatBusy = false;
 
-    function openAiModal() {
-      aiModalOverlay.hidden = false;
+    // marked + KaTeX 로 마크다운/수식을 렌더링. DOMPurify로 한 번 살균해서
+    // 모델 출력에 스크립트 등이 섞여 들어와도 안전하게 만든다.
+    marked.setOptions({ breaks: true });
+
+    function renderMarkdownInto(el, rawText) {
+      const html = DOMPurify.sanitize(marked.parse(rawText || ""));
+      el.innerHTML = html;
+      if (window.renderMathInElement) {
+        renderMathInElement(el, {
+          delimiters: [
+            { left: "$$", right: "$$", display: true },
+            { left: "$", right: "$", display: false },
+            { left: "\\(", right: "\\)", display: false },
+            { left: "\\[", right: "\\]", display: true },
+          ],
+          throwOnError: false,
+        });
+      }
+    }
+
+    function scrollChatToBottom() {
+      chatWindow.scrollTop = chatWindow.scrollHeight;
+    }
+
+    function clearChatEmptyState() {
+      const empty = chatWindow.querySelector(".chat-empty");
+      if (empty) empty.remove();
+    }
+
+    function addUserMessage(text) {
+      clearChatEmptyState();
+      const wrap = document.createElement("div");
+      wrap.className = "msg user";
+      wrap.innerHTML = `<span class="msg-role">나</span><div class="msg-bubble"></div>`;
+      wrap.querySelector(".msg-bubble").textContent = text;
+      chatWindow.appendChild(wrap);
+      scrollChatToBottom();
+    }
+
+    // 답변 버블을 만들고, "생각 중..." 표시 -> (수신 완료 후) 한 글자씩
+    // 타이핑되는 효과 -> 다 쓰면 마크다운/수식으로 최종 렌더링, 순서로 채워나간다.
+    // (Gemini 쪽 실시간 스트리밍 대신, 완성된 답변을 받아서 화면에서만
+    // 타자기처럼 흘려보내는 방식이라 서버 구조가 단순하고 안정적이다.)
+    function addAssistantPlaceholder() {
+      clearChatEmptyState();
+      const wrap = document.createElement("div");
+      wrap.className = "msg assistant";
+      wrap.innerHTML = `<span class="msg-role">AI</span><div class="msg-bubble"><span class="thinking-bubble"><span></span><span></span><span></span></span></div>`;
+      chatWindow.appendChild(wrap);
+      scrollChatToBottom();
+      return wrap.querySelector(".msg-bubble");
+    }
+
+    function typeOutAnswer(bubbleEl, fullText) {
+      return new Promise((resolve) => {
+        bubbleEl.innerHTML = '<span class="typing-cursor"></span>';
+        const cursorEl = bubbleEl.querySelector(".typing-cursor");
+        let i = 0;
+        // 글자가 아주 많으면 한 번에 여러 글자씩 흘려서 너무 오래 걸리지 않게 한다.
+        const step = fullText.length > 800 ? 4 : fullText.length > 300 ? 2 : 1;
+        const timer = setInterval(() => {
+          i = Math.min(i + step, fullText.length);
+          cursorEl.textContent = fullText.slice(0, i);
+          scrollChatToBottom();
+          if (i >= fullText.length) {
+            clearInterval(timer);
+            renderMarkdownInto(bubbleEl, fullText); // 마무리로 마크다운/수식 정식 렌더링
+            scrollChatToBottom();
+            resolve();
+          }
+        }, 15);
+      });
+    }
+
+    function showAssistantError(bubbleEl, message) {
+      bubbleEl.className = "msg-bubble error";
+      bubbleEl.textContent = message;
+    }
+
+    function updateChatInputState() {
+      const ready = Boolean(aiSelectedFile) && !chatBusy;
+      chatInput.disabled = !ready;
+      chatSendBtn.disabled = !ready || !chatInput.value.trim();
+    }
+
+    function resetChat() {
+      aiSelectedFile = null;
+      chatHistory = [];
+      chatFileState = null;
+      aiSelected.hidden = true;
+      aiFileSection.hidden = false;
+      aiFileSearch.value = "";
+      aiFileResults.innerHTML = "";
+      chatWindow.innerHTML = '<p class="chat-empty">위에서 자료를 먼저 선택하면<br />여기서 그 자료에 대해 대화하듯 물어볼 수 있어요.</p>';
+      chatInput.value = "";
+      updateChatInputState();
       aiFileSearch.focus();
-    }
-
-    function closeAiModal() {
-      aiModalOverlay.hidden = true;
-    }
-
-    aiFab.addEventListener("click", openAiModal);
-    aiModalClose.addEventListener("click", closeAiModal);
-    aiModalOverlay.addEventListener("click", (e) => {
-      if (e.target === aiModalOverlay) closeAiModal();
-    });
-    document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape" && !aiModalOverlay.hidden) closeAiModal();
-    });
-
-    function updateAskBtnState() {
-      aiAskBtn.disabled = !aiSelectedFile || !aiQuestion.value.trim();
     }
 
     aiFileSearch.addEventListener("input", () => {
@@ -1190,42 +1420,47 @@
 
     function selectAiFile(f) {
       aiSelectedFile = f;
+      chatHistory = [];
+      chatFileState = null;
       aiSelectedName.textContent = f.title || f.filename;
       aiSelected.hidden = false;
       aiFileSection.hidden = true;
       aiFileResults.innerHTML = "";
       aiFileSearch.value = "";
-      aiAnswerEl.textContent = "";
-      aiAnswerEl.className = "ai-answer";
-      updateAskBtnState();
+      chatWindow.innerHTML = `<p class="chat-empty">"${escapeHtml(f.title || f.filename)}" 자료가 선택됐어요.<br />궁금한 걸 물어보세요.</p>`;
+      updateChatInputState();
+      chatInput.focus();
     }
 
-    aiChangeFileBtn.addEventListener("click", () => {
-      aiSelectedFile = null;
-      aiSelected.hidden = true;
-      aiFileSection.hidden = false;
-      aiFileSearch.focus();
-      updateAskBtnState();
+    chatResetBtn.addEventListener("click", resetChat);
+
+    // 입력창 높이를 내용에 맞춰 자동으로 늘린다 (최대 높이는 CSS의 max-height로 제한).
+    chatInput.addEventListener("input", () => {
+      chatInput.style.height = "auto";
+      chatInput.style.height = chatInput.scrollHeight + "px";
+      updateChatInputState();
     });
 
-    aiQuestion.addEventListener("input", updateAskBtnState);
+    chatInput.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" && !e.shiftKey) {
+        e.preventDefault();
+        if (!chatSendBtn.disabled) sendChatMessage();
+      }
+    });
 
-    aiAskBtn.addEventListener("click", async () => {
-      if (!aiSelectedFile || !aiQuestion.value.trim()) return;
+    chatSendBtn.addEventListener("click", sendChatMessage);
 
-      aiAskBtn.disabled = true;
-      aiAnswerEl.className = "ai-answer";
-      aiAnswerEl.textContent = "";
+    async function sendChatMessage() {
+      const question = chatInput.value.trim();
+      if (!aiSelectedFile || !question || chatBusy) return;
 
-      // 미리 렌더링해둔 게 없어서 이번에 처음으로 원본을 받아 Gemini에 올리는
-      // 중이라 시간이 좀 걸릴 수 있다는 걸 단계별로 보여준다.
-      const loadingSteps = ["파일을 불러오는 중...", "AI에게 전달하는 중...", "생각하는 중..."];
-      let stepIdx = 0;
-      aiAskBtn.textContent = loadingSteps[0];
-      const loadingTimer = setInterval(() => {
-        stepIdx = Math.min(stepIdx + 1, loadingSteps.length - 1);
-        aiAskBtn.textContent = loadingSteps[stepIdx];
-      }, 4000);
+      chatBusy = true;
+      addUserMessage(question);
+      chatInput.value = "";
+      chatInput.style.height = "auto";
+      updateChatInputState();
+
+      const bubbleEl = addAssistantPlaceholder();
 
       try {
         const res = await fetch("/api/ask", {
@@ -1233,21 +1468,25 @@
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
             message_id: aiSelectedFile.message_id,
-            question: aiQuestion.value.trim(),
+            question,
+            history: chatHistory,
+            file_state: chatFileState,
           }),
         });
         const data = await res.json();
         if (!res.ok) throw new Error(data.error || "알 수 없는 오류가 발생했습니다.");
-        aiAnswerEl.textContent = data.answer;
+
+        if (data.file_state) chatFileState = data.file_state; // 다음 턴부터 재업로드 생략
+        await typeOutAnswer(bubbleEl, data.answer || "");
+        chatHistory.push({ role: "user", text: question });
+        chatHistory.push({ role: "assistant", text: data.answer || "" });
       } catch (err) {
-        aiAnswerEl.className = "ai-answer error";
-        aiAnswerEl.textContent = err.message;
+        showAssistantError(bubbleEl, err.message);
       } finally {
-        clearInterval(loadingTimer);
-        aiAskBtn.textContent = "질문하기";
-        updateAskBtnState();
+        chatBusy = false;
+        updateChatInputState();
       }
-    });
+    }
 
     fetch("manifest.json", { cache: "no-store" })
       .then(res => {
