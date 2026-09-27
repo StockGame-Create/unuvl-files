@@ -835,6 +835,18 @@
     cursor: default;
   }
 
+  .page-ellipsis {
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
+    font-size: 0.82rem;
+    min-width: 2.1rem;
+    padding: 0.4rem 0.2rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--ink-soft);
+    user-select: none;
+  }
+
   @media (max-width: 1100px) {
     ul.file-grid { grid-template-columns: repeat(4, 1fr); }
   }
@@ -1297,11 +1309,46 @@
       renderPagination(totalPages);
     }
 
+    // 페이지 번호가 너무 많아지면(예: 1~100) 전부 나열하지 않고,
+    // "1 2 3 4 5 6 7 ... 100" 처럼 현재 페이지 주변 + 처음/끝만 보여준다.
+    function getPageNumbers(current, total) {
+      const WINDOW_SIZE = 7; // 가운데 구간에 한 번에 보여줄 페이지 번호 개수
+      if (total <= WINDOW_SIZE + 2) {
+        return Array.from({ length: total }, (_, i) => i + 1);
+      }
+
+      let start = Math.max(1, current - Math.floor(WINDOW_SIZE / 2));
+      let end = start + WINDOW_SIZE - 1;
+      if (end > total) {
+        end = total;
+        start = Math.max(1, end - WINDOW_SIZE + 1);
+      }
+
+      const pages = [];
+      if (start > 1) {
+        pages.push(1);
+        if (start > 2) pages.push("...");
+      }
+      for (let p = start; p <= end; p++) pages.push(p);
+      if (end < total) {
+        if (end < total - 1) pages.push("...");
+        pages.push(total);
+      }
+      return pages;
+    }
+
     function renderPagination(totalPages) {
       paginationEl.innerHTML = "";
       if (totalPages <= 1) return;
 
-      for (let p = 1; p <= totalPages; p++) {
+      for (const p of getPageNumbers(currentPage, totalPages)) {
+        if (p === "...") {
+          const span = document.createElement("span");
+          span.className = "page-ellipsis";
+          span.textContent = "...";
+          paginationEl.appendChild(span);
+          continue;
+        }
         const btn = document.createElement("button");
         btn.type = "button";
         btn.className = "page-btn" + (p === currentPage ? " active" : "");
