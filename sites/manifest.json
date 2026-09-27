@@ -311,6 +311,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24687.png",
       "sha256": "a33fe1d926a1522669169f7b5e70edb3e35ad6a63f83f3498acbee56b76d977b"
+    },
+    {
+      "message_id": 24686,
+      "filename": "2027 양승진 모의고사 시즌1.pdf",
+      "stored_as": "24686_2027 양승진 모의고사 시즌1.pdf",
+      "size_bytes": 14979121,
+      "telegram_date": "2026-09-25T12:06:03+00:00",
+      "title": "2027 양승진 모의고사 시즌1",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24686.png",
+      "sha256": "02288183761d9378606007576015b3e0b8eab4fa8331a450d6a22285bc84e6ab"
     }
   ],
   "duplicate_message_ids": []
