@@ -6201,6 +6201,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24080.png",
       "sha256": "281fa2e65628493380f9ba4a3090a4085b6c26da0225c94ba202062de69976da"
+    },
+    {
+      "message_id": 24078,
+      "filename": "2027 이신혁 모의고사 6월 직전_260730_225104.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24078_2027.6._260730_225104.pdf",
+      "size_bytes": 12599779,
+      "telegram_date": "2026-09-12T00:11:35+00:00",
+      "title": "지1 이신혁 6월 직전 모의평가",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24078.png",
+      "sha256": "38465e5c53a4001ddd1078fa1da566127469e2dc05b817c9be1606e994a42208"
     }
   ],
   "duplicate_message_ids": [
