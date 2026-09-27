@@ -792,6 +792,19 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/24639.png",
       "sha256": "d864d55ae39101be6f6a3ea872b3780cb6b87fa8e1022d79000737230fe302b9"
+    },
+    {
+      "message_id": 24638,
+      "filename": "빠답.pdf",
+      "stored_as": "24638_빠답.pdf",
+      "size_bytes": 5504462,
+      "telegram_date": "2026-09-24T13:57:47+00:00",
+      "title": "빠답",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/24638.png",
+      "sha256": "e159e566fa512dd22615d54344b331a309b4386d55d9eafdb47fccdd04125fc9"
     }
   ],
   "duplicate_message_ids": []
