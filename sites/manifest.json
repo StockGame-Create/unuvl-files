@@ -1128,6 +1128,20 @@
       "subject": null,
       "thumbnail": "thumbnails/24595.png",
       "sha256": "61d4c572f178fd9fec94c3bc097bfb247694c9d6a84760e76d26f2c151d8ac8d"
+    },
+    {
+      "message_id": 24593,
+      "filename": "2027 Headmaster N제 (사회문화).pdf",
+      "stored_as": "24593_2027 Headmaster N제 (사회문화).pdf",
+      "download_url": null,
+      "size_bytes": 84224215,
+      "telegram_date": "2026-09-24T02:31:15+00:00",
+      "title": "사문 헤드마스터 N제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24593.png",
+      "sha256": "fed2c5dc7d7a574aeda31cd6fb908c63490933d5ee0f9c2810113a32e95936be"
     }
   ],
   "duplicate_message_ids": []
