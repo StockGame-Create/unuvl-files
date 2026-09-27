@@ -1735,6 +1735,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24546.png",
       "sha256": "5fa52557180bff1bc712594f1aed1b45527e6a72a3c08f7972713caa92968601"
+    },
+    {
+      "message_id": 24543,
+      "filename": "2027 원솔멀텍 파이널 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24543_2027.pdf",
+      "size_bytes": 190923161,
+      "telegram_date": "2026-09-21T15:24:12+00:00",
+      "title": "수학 원솔루션 멀티테크닉 파이널",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24543.png",
+      "sha256": "0dd79fe34305b56c94fe969c1013b417204665e02f193355f53a2ce90bf8e5ba"
     }
   ],
   "duplicate_message_ids": []
