@@ -1,25 +1,33 @@
 """
 텔레그램 방의 PDF 파일을 로컬 폴더(웹사이트 배포 폴더)로 내려받는 스크립트.
 
-동작 방식
----------
+동작 방식 (v2: 장시간 리스너 구조)
+---------------------------------
 - 봇 계정이 아니라 "내 텔레그램 계정"으로 로그인합니다 (Telethon 사용).
   이미 그 방의 멤버로 초대되어 있다면 관리자 권한 없이도 방에 올라온
   모든 메시지/파일을 그대로 읽을 수 있습니다.
-- 방의 메시지를 순회하면서 PDF 첨부파일만 찾아 sites/files/ 폴더에 내려받습니다.
+- 실행되면 먼저 "캐치업 스캔"으로 지난 실행 이후 놓친 메시지를 한 바퀴 훑어서
+  받고, 그다음부터는 텔레그램 새 메시지를 실시간 이벤트로 받아서 그 자리에서
+  바로 다운로드합니다 (30분마다 새로 접속하는 방식이 아니라 한 번 붙으면
+  계속 붙어있는 방식).
+- GitHub Actions 호스티드 러너는 Job 하나당 최대 6시간까지만 허용되므로,
+  MAX_RUNTIME_SECONDS(기본 5시간 30분)가 지나면 스스로 정상 종료합니다.
+- **종료 직전에 GitHub API를 직접 호출해서 "다음 실행"을 스스로 예약합니다**
+  (workflow_dispatch). sync.yml의 cron(schedule)은 GitHub 인프라 부하에 따라
+  지연되거나 아예 드롭될 수 있다고 공식 문서에 나와 있어서, 체인을 이어가는
+  주된 수단으로 쓰지 않습니다. cron은 이 체인이 어쩌다 끊겼을 때를 대비한
+  보험으로만 sync.yml에 남아있습니다 (기본 6시간 주기).
 - 첨부파일과 함께 올라온 메시지 본문(캡션)에서 "년도 / 강사 / 과목" 같은
-  메타데이터와 제목을 최대한 파싱해서 함께 기록합니다. 형식이 없거나
-  다른 파일도 있을 수 있으므로, 각 항목은 있으면 채우고 없으면 비워둡니다.
+  메타데이터와 제목을 최대한 파싱해서 함께 기록합니다.
 - PDF 첫 페이지를 이미지로 렌더링해서 썸네일로 저장합니다 (sites/thumbnails/).
 - 2026-09-04 이후에 올라온 메시지만 대상으로 하며, 그보다 오래된 메시지가
-  나오면 그 자리에서 순회를 중단합니다 (메시지는 최신순으로 오므로 효율적).
+  나오면 캐치업 스캔을 그 자리에서 중단합니다.
 - 파일 크기가 150MB를 초과하는 PDF는 건너뜁니다.
 - sites/manifest.json에 파일 목록(이름, 크기, 날짜, 메타데이터, 썸네일 경로)을
   기록합니다. 웹사이트(index.html)는 이 manifest.json을 읽어서 목록을 보여줍니다.
 - 이미 내려받은 파일(manifest에 message_id 존재)은 건너뛰어 중복 다운로드하지 않습니다.
-- Firebase, Firestore, 외부 클라우드 API를 전혀 호출하지 않습니다.
-  이 스크립트가 하는 일은 "sites/" 폴더를 최신 상태로 만드는 것까지입니다.
-  실제 배포(Vercel 등)는 이 저장소에 push되면 자동으로 이루어집니다.
+- Firebase, Firestore, 외부 클라우드 API를 전혀 호출하지 않습니다. (GitHub 자체
+  API 호출은 "다음 실행 예약" 용도로만 사용합니다.)
 
 로그인 방식
 -----------
@@ -27,6 +35,11 @@
   (GitHub Actions 등 자동화 환경에서 사용, 인증코드 입력 불필요)
 - 없으면 로컬의 telegram_session.session 파일로 로그인합니다.
   (최초 실행 시에만 전화번호/인증코드 입력 필요, 이후엔 파일로 재인증 불필요)
+
+주의: 이 세션은 한 번에 "한 곳"에서만 붙어있어야 합니다. 같은 세션으로 동시에
+두 프로세스가(예: 겹치는 실행 두 개, 또는 로컬 테스트 + Actions 동시 실행)
+접속하면 텔레그램이 AuthKeyDuplicatedError로 세션 자체를 폐기합니다.
+sync.yml의 concurrency 설정이 "동시에 두 실행이 못 붙는 것"을 보장해줍니다.
 """
 
 import asyncio
@@ -36,12 +49,14 @@ import os
 import re
 import subprocess
 import time
+import urllib.error
+import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
 import pymupdf
 from dotenv import load_dotenv
-from telethon import TelegramClient
+from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 from telethon.tl.types import DocumentAttributeFilename
 
@@ -59,7 +74,7 @@ SESSION_STRING = os.environ.get("TELEGRAM_SESSION", "").strip() or None  # GitHu
 
 # ---- 동기화 조건 --------------------------------------------------------
 # 이 날짜 이후에 올라온 메시지만 동기화 (하드코딩: 2026-09-04부터)
-CUTOFF = datetime(2026, 8, 15, tzinfo=timezone.utc)
+CUTOFF = datetime(2026, 9, 4, tzinfo=timezone.utc)
 
 # 이 크기(바이트)를 초과하는 PDF는 건너뜀 (150MB)
 MAX_SIZE_BYTES = 150 * 1024 * 1024
@@ -67,10 +82,11 @@ MAX_SIZE_BYTES = 150 * 1024 * 1024
 # 썸네일 이미지의 가로 폭 (px). PDF 첫 페이지를 이 폭에 맞춰 렌더링함.
 THUMBNAIL_WIDTH = 400
 
-# 한 번 실행에서 최대 이만큼(초)만 다운로드하고 스스로 정상 종료.
-# PDF가 아주 많아도 이 시간 안에서 끊고 나가야, 다음 GitHub Actions 스텝(git commit/push)이
-# 정상적으로 이어서 실행됨. 남은 파일은 다음 실행(스케줄/수동)에서 이어받음.
-MAX_RUNTIME_SECONDS = 1200 * 60  # 20분
+# 한 프로세스가 텔레그램에 붙어있는 최대 시간(초). GitHub Actions 호스티드 러너의
+# 절대 상한(6시간)보다 넉넉하게 여유를 두고 스스로 정상 종료한 뒤, 다음 실행을
+# 직접 예약한다 (trigger_next_run 참고). sync.yml의 step/job timeout-minutes도
+# 이 값보다 커야 한다.
+MAX_RUNTIME_SECONDS = 5 * 60 * 60 + 30 * 60  # 5시간 30분
 
 SITE_DIR = Path("sites")
 FILES_DIR = SITE_DIR / "files"
@@ -83,6 +99,15 @@ THUMBS_DIR.mkdir(parents=True, exist_ok=True)
 # GitHub Actions 안에서 실행 중일 때만, 파일 하나 받을 때마다 즉시 git commit + push.
 # (로컬에서 그냥 테스트 삼아 돌릴 때는 자동으로 커밋/푸시하지 않도록 방지)
 AUTO_GIT_PUSH = os.environ.get("GITHUB_ACTIONS") == "true"
+
+# ---- 다음 실행을 스스로 예약하기 위한 GitHub API 설정 ----------------------
+# sync.yml에서 permissions.actions=write 로 발급된 기본 GITHUB_TOKEN을
+# GH_DISPATCH_TOKEN 이름으로 주입해준다. (레포/워크플로 이름은 Actions가
+# 자동으로 GITHUB_REPOSITORY 환경변수에 넣어줌)
+GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY")  # "owner/repo"
+GITHUB_REF_NAME = os.environ.get("GITHUB_REF_NAME", "main")
+GITHUB_WORKFLOW_FILE = os.environ.get("GITHUB_WORKFLOW_FILE", "sync.yml")
+GH_DISPATCH_TOKEN = os.environ.get("GH_DISPATCH_TOKEN")
 
 # ---- 캡션 메타데이터 파싱 ------------------------------------------------
 # 텔레그램 메시지 본문(캡션)에 아래처럼 붙어있는 경우가 많음:
@@ -165,23 +190,57 @@ def _run_git(*args) -> subprocess.CompletedProcess:
     return subprocess.run(["git", *args], capture_output=True, text=True)
 
 
+def _has_unpushed_commits() -> bool:
+    """현재 브랜치가 원격(업스트림)보다 앞서있는 커밋이 있는지 확인."""
+    result = _run_git("rev-list", "@{u}..HEAD", "--count")
+    if result.returncode != 0:
+        return False
+    try:
+        return int(result.stdout.strip()) > 0
+    except ValueError:
+        return False
+
+
+def _push_with_retry(max_retries: int = 5) -> bool:
+    """현재 HEAD를 push. 실패하면(다른 실행/수동 편집과 충돌 등) pull --rebase로
+    원격 변경사항을 받아와서 재시도한다. 이게 없으면, push가 실패한 커밋은
+    이 컨테이너가 폐기되는 순간 그대로 유실되고 -> 그 파일이 "다운로드됨"으로
+    기록되지 않은 채로 다음 실행에서 재다운로드되는 문제로 이어진다."""
+    for attempt in range(1, max_retries + 1):
+        push = _run_git("push")
+        if push.returncode == 0:
+            print("    [git push 성공]", flush=True)
+            return True
+
+        print(f"    [git push 실패 (시도 {attempt}/{max_retries})] {push.stderr.strip()}", flush=True)
+
+        pull = _run_git("pull", "--rebase", "--autostash")
+        if pull.returncode != 0:
+            print(f"    [git pull --rebase 실패] {pull.stderr.strip()}", flush=True)
+
+        time.sleep(min(2 ** attempt, 20))
+
+    print(
+        f"    [git push 최종 실패] {max_retries}번 재시도했지만 실패했습니다. "
+        "이 커밋은 로컬에만 남아있어 이번 실행 종료 시 유실될 수 있습니다.",
+        flush=True,
+    )
+    return False
+
+
 def git_commit_and_push(commit_message: str) -> None:
-    """sites/ 폴더의 변경사항을 즉시 커밋하고 push. 변경사항 없으면 조용히 넘어감."""
+    """sites/ 폴더의 변경사항을 즉시 커밋하고, 실패해도 재시도하며 push한다.
+    변경사항이 없으면(이미 커밋된 상태 등) 커밋은 건너뛰지만, 혹시 이전에
+    push만 실패해서 로컬에 밀린 커밋이 남아있다면 그것까지 함께 재시도한다."""
     _run_git("add", "sites/")
 
     diff = _run_git("diff", "--staged", "--quiet")
-    if diff.returncode == 0:
-        # 스테이징된 변경사항 없음 (이미 커밋된 상태 등)
-        return
+    if diff.returncode != 0:
+        commit = _run_git("commit", "-m", commit_message)
+        print(f"    [git commit] {commit.stdout.strip()}{commit.stderr.strip()}", flush=True)
 
-    commit = _run_git("commit", "-m", commit_message)
-    print(f"    [git commit] {commit.stdout.strip()}{commit.stderr.strip()}", flush=True)
-
-    push = _run_git("push")
-    if push.returncode != 0:
-        print(f"    [git push 실패] {push.stderr.strip()}", flush=True)
-    else:
-        print(f"    [git push 성공]", flush=True)
+    if _has_unpushed_commits():
+        _push_with_retry()
 
 
 def is_pdf(message) -> tuple[bool, str | None]:
@@ -209,6 +268,54 @@ def save_manifest(manifest: dict) -> None:
     MANIFEST_PATH.write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+
+
+def trigger_next_run() -> None:
+    """다음 실행을 GitHub API로 직접 예약한다 (workflow_dispatch).
+
+    cron(schedule)은 GitHub 인프라 부하가 높을 때 지연되거나 아예 드롭될 수
+    있다고 공식 문서에 나와 있어서(특히 정시/30분 등 인기 시간대), 체인을
+    이어가는 주된 수단으로 쓰지 않는다. API를 직접 호출하는 workflow_dispatch는
+    그 "best-effort 스케줄 큐"를 거치지 않아서 훨씬 안정적이다.
+
+    이 호출이 실패해도(네트워크 문제, 토큰 문제 등) 죽지 않는다 - sync.yml에
+    남겨둔 6시간 주기 schedule이 최후의 보험으로 다시 살려준다.
+    """
+    if not AUTO_GIT_PUSH:
+        print("[다음 실행 예약 건너뜀] GitHub Actions 환경이 아님 (로컬 테스트 등)", flush=True)
+        return
+    if not (GITHUB_REPOSITORY and GH_DISPATCH_TOKEN):
+        print(
+            "[다음 실행 예약 건너뜀] GITHUB_REPOSITORY 또는 GH_DISPATCH_TOKEN이 없음. "
+            "sync.yml의 permissions.actions=write 와 env.GH_DISPATCH_TOKEN 설정을 확인하세요.",
+            flush=True,
+        )
+        return
+
+    url = (
+        f"https://api.github.com/repos/{GITHUB_REPOSITORY}/actions/"
+        f"workflows/{GITHUB_WORKFLOW_FILE}/dispatches"
+    )
+    body = json.dumps({"ref": GITHUB_REF_NAME}).encode("utf-8")
+    req = urllib.request.Request(
+        url,
+        data=body,
+        method="POST",
+        headers={
+            "Authorization": f"Bearer {GH_DISPATCH_TOKEN}",
+            "Accept": "application/vnd.github+json",
+            "X-GitHub-Api-Version": "2022-11-28",
+            "Content-Type": "application/json",
+        },
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            print(f"[다음 실행 예약 완료] HTTP {resp.status}", flush=True)
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode("utf-8", "ignore")
+        print(f"[다음 실행 예약 실패] HTTP {e.code}: {detail}", flush=True)
+    except Exception as e:
+        print(f"[다음 실행 예약 실패] {e}", flush=True)
 
 
 async def sync():
@@ -276,169 +383,184 @@ async def sync():
                 "list_chats.py로 정확한 ID를 다시 확인하세요."
             )
     print(f"entity 조회 성공: {getattr(entity, 'title', CHAT)}", flush=True)
-    print(f"'{getattr(entity, 'title', CHAT)}' 방에서 PDF를 찾는 중... (기준일: {CUTOFF.date()} 이후, {MAX_SIZE_BYTES // (1024*1024)}MB 이하)", flush=True)
+    print(f"'{getattr(entity, 'title', CHAT)}' 방 감시 시작 (기준일: {CUTOFF.date()} 이후, {MAX_SIZE_BYTES // (1024*1024)}MB 이하)", flush=True)
 
     new_count = 0
     skipped_too_big = 0
     checked_count = 0
     start_time = time.monotonic()
-    stopped_early = False
 
-    # 파일 하나를 받을 때마다 "최신 메시지부터" 순회를 처음부터 다시 시작한다.
-    # 이렇게 해야, 오래된 파일을 내려받는 도중에 새로 올라온 파일이 있으면
-    # 다음 바퀴에서 바로(=이번 실행 안에서) 그 최신 파일을 먼저 잡아낼 수 있다.
-    # 한 바퀴를 끝까지 돌았는데도 새로 받은 파일이 하나도 없으면, 더 이상
-    # 받을 게 없다는 뜻이므로 그때 종료한다.
-    print("메시지 순회 시작...", flush=True)
-    while True:
-        found_new_this_pass = False
+    async def handle_pdf_message(message) -> bool:
+        """새로 발견된 메시지 하나를 검사해서, PDF면 다운로드/썸네일/manifest/git까지
+        전부 처리한다. 캐치업 스캔과 실시간 리스너가 이 함수 하나를 공유한다.
+        새로 저장했으면 True, 아니면(PDF 아님/이미 알고 있음/중복/용량초과) False."""
+        nonlocal new_count, skipped_too_big
 
-        async for message in client.iter_messages(entity):
-            checked_count += 1
-            if checked_count % 20 == 0:
-                print(f"  ...지금까지 {checked_count}개 메시지 확인함 (마지막 확인 날짜: {message.date})", flush=True)
+        ok, filename = is_pdf(message)
+        if not ok or message.id in known_message_ids:
+            return False
 
-            elapsed = time.monotonic() - start_time
-            if elapsed > MAX_RUNTIME_SECONDS:
-                print(
-                    f"실행 시간 제한({MAX_RUNTIME_SECONDS // 60}분) 도달, "
-                    "여기서 정상 종료하고 나머지는 다음 실행에서 이어받습니다.",
-                    flush=True,
-                )
-                stopped_early = True
-                break
+        file_size = message.document.size
+        if file_size > MAX_SIZE_BYTES:
+            print(f"  건너뜀 (용량 초과 {file_size / (1024*1024):.1f}MB): {filename}", flush=True)
+            skipped_too_big += 1
+            return False
 
-            if message.date < CUTOFF:
-                print(f"기준일({CUTOFF.date()})보다 오래된 메시지 발견({message.date.date()}), 이번 바퀴 순회 중단", flush=True)
-                break
-
-            ok, filename = is_pdf(message)
-            if not ok or message.id in known_message_ids:
-                continue
-
-            file_size = message.document.size
-            if file_size > MAX_SIZE_BYTES:
-                print(f"  건너뜀 (용량 초과 {file_size / (1024*1024):.1f}MB): {filename}", flush=True)
-                skipped_too_big += 1
-                continue
-
-            # 1단계 중복 검사 (다운로드 전): 파일명+용량이 기존 파일과 완전히
-            # 같으면 재업로드로 간주하고 다운로드 자체를 건너뜀 (대역폭 절약).
-            if (filename.lower(), file_size) in known_name_size:
-                print(f"  건너뜀 (파일명+용량이 동일한 기존 파일 있음, 중복으로 추정): {filename}", flush=True)
-                manifest["duplicate_message_ids"].append(message.id)
-                known_message_ids.add(message.id)
-                save_manifest(manifest)
-                if AUTO_GIT_PUSH:
-                    git_commit_and_push(f"chore: 중복 파일 스킵 - {filename} [skip ci]")
-                continue
-
-            # 파일명이 중복될 수 있으니 메시지 ID를 접두어로 붙여 저장
-            safe_filename = f"{message.id}_{filename}"
-            local_path = FILES_DIR / safe_filename
-
-            print(f"  내려받는 중 ({file_size / (1024*1024):.1f}MB): {filename}", flush=True)
-
-            last_pct = [-10]
-
-            def _progress(current, total):
-                pct = int(current / total * 100) if total else 0
-                if pct - last_pct[0] >= 10:
-                    last_pct[0] = pct
-                    print(f"    ...{pct}% ({current / (1024*1024):.1f}/{total / (1024*1024):.1f}MB)", flush=True)
-
-            await client.download_media(message, file=str(local_path), progress_callback=_progress)
-            print(f"  완료: {filename}", flush=True)
-
-            # 2단계 중복 검사 (다운로드 후): 파일명은 다르지만 내용이 완전히
-            # 같은 경우(리네임된 재업로드)를 해시로 잡아냄. 대역폭은 이미 썼지만
-            # 해싱 자체는 매우 빨라서(150MB도 1~2초) 추가 시간 부담은 미미함.
-            file_hash = compute_sha256(local_path)
-            if file_hash in known_hashes:
-                original = known_hashes[file_hash]
-                print(f"  중복 파일 감지 (기존 '{original['filename']}'와 내용 동일), 저장하지 않고 삭제: {filename}", flush=True)
-                local_path.unlink(missing_ok=True)
-                manifest["duplicate_message_ids"].append(message.id)
-                known_message_ids.add(message.id)
-                save_manifest(manifest)
-                if AUTO_GIT_PUSH:
-                    git_commit_and_push(f"chore: 중복 파일 스킵 - {filename} [skip ci]")
-                # 다운로드에 시간을 썼으니, 그 사이 새 파일이 올라왔을 수 있음 -> 재스캔
-                found_new_this_pass = True
-                break
-
-            # 캡션(메시지 본문)에서 년도/강사/과목/제목 파싱. 형식이 없거나 달라도
-            # 에러 없이 빈 값으로 채워지고, 제목이 없으면 파일명으로 대체.
-            meta = parse_caption(message.message)
-            title = meta["title"] or Path(filename).stem
-
-            # PDF 첫 페이지 썸네일 생성 (실패해도 목록 자체는 계속 진행)
-            thumb_filename = f"{message.id}.png"
-            thumb_path = THUMBS_DIR / thumb_filename
-            thumbnail_ok = make_thumbnail(local_path, thumb_path)
-
-            new_entry = {
-                "message_id": message.id,
-                "filename": filename,          # 사람이 보는 원래 파일명
-                "stored_as": safe_filename,     # 실제 저장된 파일명 (다운로드 링크에 사용)
-                "size_bytes": local_path.stat().st_size,
-                "telegram_date": message.date.isoformat(),
-                "title": title,
-                "year": meta["year"],
-                "instructor": meta["instructor"],
-                "subject": meta["subject"],
-                "thumbnail": f"thumbnails/{thumb_filename}" if thumbnail_ok else None,
-                "sha256": file_hash,
-            }
-            manifest["files"].append(new_entry)
-            new_count += 1
+        # 1단계 중복 검사 (다운로드 전): 파일명+용량이 기존 파일과 완전히
+        # 같으면 재업로드로 간주하고 다운로드 자체를 건너뜀 (대역폭 절약).
+        if (filename.lower(), file_size) in known_name_size:
+            print(f"  건너뜀 (파일명+용량이 동일한 기존 파일 있음, 중복으로 추정): {filename}", flush=True)
+            manifest["duplicate_message_ids"].append(message.id)
             known_message_ids.add(message.id)
-            known_name_size.add((filename.lower(), new_entry["size_bytes"]))
-            known_hashes[file_hash] = new_entry
-            found_new_this_pass = True
-
-            # 파일 하나 받을 때마다 바로 manifest를 저장.
-            # (끝까지 안 기다리고 timeout 등으로 중간에 멈춰도, 그때까지 받은
-            #  파일은 manifest에 확실히 남도록 하기 위함)
-            manifest["files"].sort(key=lambda f: f["telegram_date"], reverse=True)
             save_manifest(manifest)
-
-            # 파일 하나 받을 때마다 바로 git commit + push까지 끝냄.
-            # (전체 다운로드가 다 끝날 때까지 기다리지 않고, 받는 즉시 웹사이트에 반영되게)
             if AUTO_GIT_PUSH:
-                git_commit_and_push(f"chore: PDF 자동 동기화 - {filename} [skip ci]")
+                git_commit_and_push(f"chore: 중복 파일 스킵 - {filename} [skip ci]")
+            return False
 
-            # 방금 파일을 하나 받았으니, 그 사이 더 최신 파일이 올라왔을 수도 있다.
-            # 안쪽 순회를 끊고 바깥쪽 while 루프에서 최신 메시지부터 다시 시작한다.
+        # 파일명이 중복될 수 있으니 메시지 ID를 접두어로 붙여 저장
+        safe_filename = f"{message.id}_{filename}"
+        local_path = FILES_DIR / safe_filename
+
+        print(f"  내려받는 중 ({file_size / (1024*1024):.1f}MB): {filename}", flush=True)
+
+        last_pct = [-10]
+
+        def _progress(current, total):
+            pct = int(current / total * 100) if total else 0
+            if pct - last_pct[0] >= 10:
+                last_pct[0] = pct
+                print(f"    ...{pct}% ({current / (1024*1024):.1f}/{total / (1024*1024):.1f}MB)", flush=True)
+
+        await client.download_media(message, file=str(local_path), progress_callback=_progress)
+        print(f"  완료: {filename}", flush=True)
+
+        # 2단계 중복 검사 (다운로드 후): 파일명은 다르지만 내용이 완전히
+        # 같은 경우(리네임된 재업로드)를 해시로 잡아냄.
+        file_hash = compute_sha256(local_path)
+        if file_hash in known_hashes:
+            original = known_hashes[file_hash]
+            print(f"  중복 파일 감지 (기존 '{original['filename']}'와 내용 동일), 저장하지 않고 삭제: {filename}", flush=True)
+            local_path.unlink(missing_ok=True)
+            manifest["duplicate_message_ids"].append(message.id)
+            known_message_ids.add(message.id)
+            save_manifest(manifest)
+            if AUTO_GIT_PUSH:
+                git_commit_and_push(f"chore: 중복 파일 스킵 - {filename} [skip ci]")
+            return False
+
+        # 캡션(메시지 본문)에서 년도/강사/과목/제목 파싱.
+        meta = parse_caption(message.message)
+        title = meta["title"] or Path(filename).stem
+
+        # PDF 첫 페이지 썸네일 생성 (실패해도 목록 자체는 계속 진행)
+        thumb_filename = f"{message.id}.png"
+        thumb_path = THUMBS_DIR / thumb_filename
+        thumbnail_ok = make_thumbnail(local_path, thumb_path)
+
+        new_entry = {
+            "message_id": message.id,
+            "filename": filename,          # 사람이 보는 원래 파일명
+            "stored_as": safe_filename,     # 실제 저장된 파일명 (다운로드 링크에 사용)
+            "size_bytes": local_path.stat().st_size,
+            "telegram_date": message.date.isoformat(),
+            "title": title,
+            "year": meta["year"],
+            "instructor": meta["instructor"],
+            "subject": meta["subject"],
+            "thumbnail": f"thumbnails/{thumb_filename}" if thumbnail_ok else None,
+            "sha256": file_hash,
+        }
+        manifest["files"].append(new_entry)
+        new_count += 1
+        known_message_ids.add(message.id)
+        known_name_size.add((filename.lower(), new_entry["size_bytes"]))
+        known_hashes[file_hash] = new_entry
+
+        # 파일 하나 받을 때마다 바로 manifest를 저장.
+        manifest["files"].sort(key=lambda f: f["telegram_date"], reverse=True)
+        save_manifest(manifest)
+
+        # 파일 하나 받을 때마다 바로 git commit + push까지 끝냄.
+        if AUTO_GIT_PUSH:
+            git_commit_and_push(f"chore: PDF 자동 동기화 - {filename} [skip ci]")
+
+        return True
+
+    # ---- 1) 캐치업 스캔: 지난 실행 이후 놓친 메시지를 한 바퀴 훑어서 받는다 ----
+    # (예전처럼 파일 하나 받을 때마다 처음부터 다시 훑지 않는다 - 이제는 이 스캔이
+    #  끝나면 바로 실시간 리스너로 넘어가서 새 메시지를 즉시 잡아내기 때문에,
+    #  한 방향으로 쭉 훑는 것으로 충분하다.)
+    print("캐치업 스캔 시작...", flush=True)
+    stopped_early = False
+    async for message in client.iter_messages(entity):
+        checked_count += 1
+        if checked_count % 20 == 0:
+            print(f"  ...지금까지 {checked_count}개 메시지 확인함 (마지막 확인 날짜: {message.date})", flush=True)
+
+        elapsed = time.monotonic() - start_time
+        if elapsed > MAX_RUNTIME_SECONDS:
+            print(
+                f"실행 시간 제한({MAX_RUNTIME_SECONDS // 60}분) 도달(캐치업 중), "
+                "여기서 정상 종료하고 나머지는 다음 실행에서 이어받습니다.",
+                flush=True,
+            )
+            stopped_early = True
             break
 
-        if stopped_early:
+        if message.date < CUTOFF:
+            print(f"기준일({CUTOFF.date()})보다 오래된 메시지 발견({message.date.date()}), 캐치업 스캔 종료", flush=True)
             break
 
-        if not found_new_this_pass:
-            # 이번 바퀴를 끝까지(또는 cutoff까지) 돌았는데 새로 받은 파일이
-            # 하나도 없었다는 뜻 -> 더 받을 게 없으므로 종료.
-            break
+        await handle_pdf_message(message)
 
-    # 혹시 모를 마지막 정렬/저장 (이미 매 다운로드마다 저장되지만 안전하게 한 번 더)
-    manifest["files"].sort(key=lambda f: f["telegram_date"], reverse=True)
-    save_manifest(manifest)
+    print(f"캐치업 스캔 완료. 새로 내려받은 PDF: {new_count}개", flush=True)
+
+    # ---- 2) 실시간 리스너: 캐치업이 시간 안에 끝났으면, 새 메시지를 즉시 받는다 ----
+    if not stopped_early:
+        @client.on(events.NewMessage(chats=entity))
+        async def _on_new_message(event):
+            try:
+                await handle_pdf_message(event.message)
+            except Exception as e:
+                # 개별 메시지 처리 중 에러가 나도 리스너 자체는 죽지 않게 함.
+                print(f"  [새 메시지 처리 중 오류] {e}", flush=True)
+
+        remaining = MAX_RUNTIME_SECONDS - (time.monotonic() - start_time)
+        if remaining > 0:
+            print(f"실시간 대기 모드 진입 (약 {remaining / 60:.0f}분간 새 메시지를 실시간으로 받습니다)", flush=True)
+            try:
+                await asyncio.wait_for(client.run_until_disconnected(), timeout=remaining)
+            except asyncio.TimeoutError:
+                print("실행 시간 제한 도달(대기 중), 정상 종료합니다.", flush=True)
+
+    await client.disconnect()
+
+    # 마지막 파일 처리 중 push가 실패해서 로컬에만 커밋이 남아있을 수 있으니,
+    # 컨테이너가 폐기되기 직전에 한 번 더 확실하게 밀어넣는다 (최종 안전장치).
+    if AUTO_GIT_PUSH and _has_unpushed_commits():
+        print("종료 전 마지막 push 재시도...", flush=True)
+        _push_with_retry()
 
     print(
-        f"완료. 새로 내려받은 PDF: {new_count}개 "
-        f"(전체 {len(manifest['files'])}개, 용량초과 스킵 {skipped_too_big}개)"
-        + (" [시간 제한으로 중간에 종료, 다음 실행에서 이어받음]" if stopped_early else ""),
+        f"이번 실행 종료. 새로 내려받은 PDF: {new_count}개 "
+        f"(전체 {len(manifest['files'])}개, 용량초과 스킵 {skipped_too_big}개)",
         flush=True,
     )
-    await client.disconnect()
     return new_count
 
 
 if __name__ == "__main__":
-    result = asyncio.run(sync())
-    # GitHub Actions에서 "새 파일이 있었는지"를 다음 스텝(git commit)에 전달하기 위한 출력.
-    # 로컬에서 그냥 실행할 때는 무시해도 됩니다.
-    github_output = os.environ.get("GITHUB_OUTPUT")
-    if github_output:
-        with open(github_output, "a", encoding="utf-8") as f:
-            f.write(f"new_count={result}\n")
+    result = 0
+    try:
+        result = asyncio.run(sync())
+    finally:
+        # sync()가 정상 종료했든 예외로 죽었든, 체인이 끊기지 않도록 항상
+        # 다음 실행을 예약한다. (세션 자체가 죽은 경우엔 다음 실행도 금방
+        # 똑같이 실패하겠지만, 최소한 사람이 세션을 새로 발급해서 Secret만
+        # 갱신하면 그다음 예약된 실행부터 바로 정상화된다.)
+        trigger_next_run()
+
+        github_output = os.environ.get("GITHUB_OUTPUT")
+        if github_output:
+            with open(github_output, "a", encoding="utf-8") as f:
+                f.write(f"new_count={result}\n")
