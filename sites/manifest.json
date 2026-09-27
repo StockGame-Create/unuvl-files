@@ -6943,6 +6943,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23971.png",
       "sha256": "b2d079e7c9d85281de7c33dcc9ce6b948a27df0117f33315c92e83095b6b439e"
+    },
+    {
+      "message_id": 23970,
+      "filename": "27호영훈제_스피드러너_모의고사_final_1회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23970_27._._._final_1._.pdf",
+      "size_bytes": 453216,
+      "telegram_date": "2026-09-06T12:37:06+00:00",
+      "title": "수학 호형훈제 스피드러너 모의고사 FINAL 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23970.png",
+      "sha256": "7c7fa1fd67dc30c864ca684734b3ea867fb6ca45d09caad59f20c78548fa3c80"
     }
   ],
   "duplicate_message_ids": [
