@@ -1903,6 +1903,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/24521.png",
       "sha256": "3a3f9816533f81f29b5e1bad23b2051229bb0b33cb0981a6468431cb33b2b15a"
+    },
+    {
+      "message_id": 24519,
+      "filename": "2027학년도_수능_공부돼지_내일할까_한국사노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24519_2027._._._._.pdf",
+      "size_bytes": 6548785,
+      "telegram_date": "2026-09-21T12:55:14+00:00",
+      "title": "한국사 아 내일할까 한국사노트",
+      "year": "2027",
+      "instructor": null,
+      "subject": "한국사",
+      "thumbnail": "thumbnails/24519.png",
+      "sha256": "7ee35a2de85bf792de5df69b7f1075b2d0f203ebdd517f51e257073a720f4d47"
     }
   ],
   "duplicate_message_ids": []
