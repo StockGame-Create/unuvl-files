@@ -4283,6 +4283,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24274.png",
       "sha256": "a86b6099eb2d59261e2aa51cc0ccbf51e09c400326d23baa7b5c568f5ebc29db"
+    },
+    {
+      "message_id": 24273,
+      "filename": "27 정석민 문학실전모의고사 04회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24273_27.04.pdf",
+      "size_bytes": 19214205,
+      "telegram_date": "2026-09-15T01:14:16+00:00",
+      "title": "국어 문학 실전의 정석 1 ~ 5회 #문실정",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24273.png",
+      "sha256": "89d18210eb52c177562f5b74a4c6887bc03d8a6c98792e0b9dce304d5c6d551e"
     }
   ],
   "duplicate_message_ids": []
