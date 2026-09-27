@@ -58,6 +58,22 @@ const MAX_PDF_BYTES = 100 * 1024 * 1024;
 const FILE_PROCESSING_POLL_INTERVAL_MS = 2000;
 const FILE_PROCESSING_MAX_WAIT_MS = 30000;
 
+// 함수 전체(다운로드+업로드+생성)가 Vercel Hobby의 60초 한도 안에 끝나야
+// 하므로, "지금까지 걸린 시간 + 이 값"이 전체 예산을 넘지 않게 매 단계에서
+// 확인한다. 60초보다 여유를 두는 이유: 마지막 응답을 클라이언트로 내려보내는
+// 시간, Vercel 자체의 오버헤드 등을 감안한 안전 마진.
+const TOTAL_TIME_BUDGET_MS = 52000;
+
+// 같은 모델이 429/503(과부하)로 실패했을 때, 무조건 다음(더 구버전) 후보로
+// 넘어가기 전에 아주 짧게 한 번 더 같은 모델을 시도해본다. "혼잡" 스파이크는
+// 1~2초 안에 풀리는 경우가 실제로 꽤 있어서, 이렇게 하면 원래 선호 모델(보통
+// 가장 최신 = 품질이 가장 좋은 모델)로 답변할 확률이 조금 더 올라간다.
+// 남은 시간 예산이 부족하면(RETRY_MIN_REMAINING_MS 미만) 재시도 없이 바로
+// 다음 후보로 넘어간다 - 어차피 재시도할 여유도 없이 시간 초과로 통째로
+// 실패하는 것보다는, 하나라도 시도해보고 끝내는 게 낫다.
+const RETRY_SAME_MODEL_DELAY_MS = 1200;
+const RETRY_MIN_REMAINING_MS = 15000;
+
 // 학생들이 올리는 학습자료(모의고사/문제집 등)는 보통 "문제"와 "해설"이
 // 나뉘어 있는 경우가 많다. 답변 품질을 위해 이 두 영역을 먼저 구분해서
 // 찾아보라고 명시적으로 지시한다. 또한 수식은 LaTeX로, 전체 답변은
@@ -194,43 +210,59 @@ async function uploadFreshFile(messageId, apiKey, base) {
   return { name: fileName, uri: fileUri, mimeType: fileMimeType };
 }
 
-// 후보 모델을 순서대로 시도한다. 429(RESOURCE_EXHAUSTED)나 503(과부하)이면
-// 그 모델은 포기하고 바로 다음 후보로 넘어간다 (Vercel Hobby 60초 제한 안에
-// 끝나야 하므로, 같은 모델을 여러 번 재시도하며 기다리기보다 즉시 전환하는 쪽을 택함).
-// 그 외 오류(400 등, 요청 자체가 잘못된 경우)는 모델을 바꿔도 똑같이 실패할
-// 것이므로 재시도 없이 바로 던진다.
-async function generateContentWithFallback(contents, apiKey) {
+// 후보 모델을 순서대로 시도한다. 429(RESOURCE_EXHAUSTED)나 503(과부하)이면,
+// 남은 시간 예산이 넉넉할 때는 같은 모델을 아주 짧게 한 번 더 시도해보고
+// (RETRY_SAME_MODEL_DELAY_MS 참고), 그래도 안 되거나 예산이 부족하면 그
+// 모델은 포기하고 다음 후보로 넘어간다. 그 외 오류(400 등, 요청 자체가
+// 잘못된 경우)는 재시도/모델 전환 모두 소용없으므로 즉시 던진다.
+//
+// deadlineAt: 이 함수(및 그 이전의 다운로드/업로드 단계)를 합쳐 전체가
+// 넘으면 안 되는 시각(ms epoch). handler에서 요청 시작 시각 기준으로 계산해서
+// 넘겨준다 - 업로드에 시간을 많이 썼다면 여기서는 재시도 없이 더 빨리
+// 넘어가도록 하기 위함.
+async function generateContentWithFallback(contents, apiKey, deadlineAt) {
   let lastOverloadDetail = null;
 
   for (const model of GEMINI_MODEL_CANDIDATES) {
-    const geminiRes = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
-      {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          system_instruction: { parts: [{ text: SYSTEM_INSTRUCTION }] },
-          contents,
-        }),
+    for (let attempt = 0; attempt < 2; attempt++) {
+      const geminiRes = await fetch(
+        `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            system_instruction: { parts: [{ text: SYSTEM_INSTRUCTION }] },
+            contents,
+          }),
+        }
+      );
+
+      if (geminiRes.ok) {
+        const geminiData = await geminiRes.json();
+        return { geminiData, modelUsed: model };
       }
-    );
 
-    if (geminiRes.ok) {
-      const geminiData = await geminiRes.json();
-      return { geminiData, modelUsed: model };
-    }
+      const geminiData = await geminiRes.json().catch(() => ({}));
+      const detail = geminiData?.error?.message || `HTTP ${geminiRes.status}`;
 
-    const geminiData = await geminiRes.json().catch(() => ({}));
-    const detail = geminiData?.error?.message || `HTTP ${geminiRes.status}`;
+      if (geminiRes.status !== 429 && geminiRes.status !== 503) {
+        // 과부하가 아닌 오류는 재시도/모델 전환 모두 소용없으므로 즉시 실패 처리.
+        throw new Error(`Gemini API 오류 (${model}): ${detail}`);
+      }
 
-    if (geminiRes.status === 429 || geminiRes.status === 503) {
-      console.warn(`[모델 과부하, 다음 후보로 전환] ${model}: ${detail}`);
       lastOverloadDetail = detail;
-      continue; // 다음 후보 모델로
-    }
 
-    // 과부하가 아닌 오류는 모델을 바꿔도 소용없으므로 즉시 실패 처리.
-    throw new Error(`Gemini API 오류 (${model}): ${detail}`);
+      const isFirstAttempt = attempt === 0;
+      const remainingMs = deadlineAt - Date.now();
+      if (isFirstAttempt && remainingMs > RETRY_MIN_REMAINING_MS) {
+        console.warn(`[일시적 혼잡, ${RETRY_SAME_MODEL_DELAY_MS}ms 후 같은 모델 재시도] ${model}: ${detail}`);
+        await sleep(RETRY_SAME_MODEL_DELAY_MS);
+        continue; // 같은 모델로 한 번 더
+      }
+
+      console.warn(`[모델 과부하, 다음 후보로 전환] ${model}: ${detail}`);
+      break; // 다음 후보 모델로
+    }
   }
 
   // 후보를 다 돌았는데도 전부 과부하였던 경우.
@@ -240,6 +272,11 @@ async function generateContentWithFallback(contents, apiKey) {
 }
 
 module.exports = async function handler(req, res) {
+  // 이 요청 전체(다운로드+업로드+생성)의 시간 예산 기준점. 아래에서
+  // TOTAL_TIME_BUDGET_MS를 더해 "언제까지는 끝내야 하는지"를 계산하고,
+  // generateContentWithFallback이 같은 모델 재시도 여부를 판단할 때 쓴다.
+  const requestStartedAt = Date.now();
+
   if (req.method !== "POST") {
     res.status(405).json({ error: "POST만 지원합니다." });
     return;
@@ -303,7 +340,8 @@ module.exports = async function handler(req, res) {
       ],
     });
 
-    const { geminiData, modelUsed } = await generateContentWithFallback(contents, apiKey);
+    const deadlineAt = requestStartedAt + TOTAL_TIME_BUDGET_MS;
+    const { geminiData, modelUsed } = await generateContentWithFallback(contents, apiKey, deadlineAt);
 
     const answer = geminiData?.candidates?.[0]?.content?.parts?.map((p) => p.text || "").join("") || "";
     if (!answer) {
