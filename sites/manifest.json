@@ -5235,6 +5235,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24175.png",
       "sha256": "27bf44a36ea6c5d8bdda3134e479f50bab4fdf2a628d2634ef212f1dbe4f0d06"
+    },
+    {
+      "message_id": 24174,
+      "filename": "손끝 모의고사3 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24174_.3.1.pdf",
+      "size_bytes": 5761077,
+      "telegram_date": "2026-09-13T15:49:12+00:00",
+      "title": "사문 손끝 모의고사 시즌3 1, 2회",
+      "year": "2027",
+      "instructor": "손고운",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24174.png",
+      "sha256": "94a48bf893d3c857b20244a8c2acfbb50fd981a01f5ce772d2c94434ff7aee34"
     }
   ],
   "duplicate_message_ids": [
