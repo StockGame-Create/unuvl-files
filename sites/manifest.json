@@ -7181,6 +7181,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23944.png",
       "sha256": "f8e363d052106f9411f9cba3e3a366c50076ab0c67f3fdd363ae335c4cae697f"
+    },
+    {
+      "message_id": 23941,
+      "filename": "김동하_대치_현강전용_세미테스트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23941_._._._.pdf",
+      "size_bytes": 1120918,
+      "telegram_date": "2026-09-05T17:51:22+00:00",
+      "title": "영어 김동하 대치동 세미 테스트 모의고사 시즌4 6회",
+      "year": "2027",
+      "instructor": "김동하",
+      "subject": "영어",
+      "thumbnail": "thumbnails/23941.png",
+      "sha256": "d3e31061218e5c63b2a6167eb5b7ee074b17127e5cc0b0b019e6bb7f9655c941"
     }
   ],
   "duplicate_message_ids": [
