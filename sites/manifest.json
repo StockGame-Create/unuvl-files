@@ -7111,6 +7111,20 @@
       "subject": "과학",
       "thumbnail": "thumbnails/23951.png",
       "sha256": "97105434932e351c7a5f688f4189668190ced28e854ed7af07a1578f8cde9acc"
+    },
+    {
+      "message_id": 23949,
+      "filename": "2027 강대K+ 지1 01~08회 합본 (인쇄소퀄).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23949_2027.K%2B.1.01.08.pdf",
+      "size_bytes": 100536258,
+      "telegram_date": "2026-09-06T03:49:52+00:00",
+      "title": "지1 강대모의고사K+ 1~8회 통합본 (인쇄소퀄) #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23949.png",
+      "sha256": "c3afb89a476493d25f064154016f2c39fc2d17b11be7a345cc1da88edbc0a75c"
     }
   ],
   "duplicate_message_ids": [
