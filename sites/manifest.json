@@ -3107,6 +3107,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24384.png",
       "sha256": "3103b18bbad62c8fff7c82358205dcce884633accb9e76ba00e3dbecdb6fa711"
+    },
+    {
+      "message_id": 24382,
+      "filename": "경제 시대인재 서바이벌 C 단독 모의고사 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24382_.C.4.pdf",
+      "size_bytes": 11432529,
+      "telegram_date": "2026-09-16T14:17:16+00:00",
+      "title": "경제 시대인재 서바이벌 C 단독 모의고사 3, 4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "경제",
+      "thumbnail": "thumbnails/24382.png",
+      "sha256": "c56fc6100b7d053cac8ec1f69381256c1670f64da7571dae2914e64a02ff6c03"
     }
   ],
   "duplicate_message_ids": []
