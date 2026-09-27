@@ -6803,6 +6803,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/23990.png",
       "sha256": "d5f4e8a3fafb407c0ebac9e1ab6ffa216ec69537979cf3236f5441562eb36c15"
+    },
+    {
+      "message_id": 23988,
+      "filename": "서바이벌+9주차+필기노트+1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23988_.%2B9.%2B.%2B1.pdf",
+      "size_bytes": 1950445,
+      "telegram_date": "2026-09-08T14:40:15+00:00",
+      "title": "수학 강기원T 서바이벌 정규반 9주차 필기노트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23988.png",
+      "sha256": "14cb3926e65f09867aec376a00e40813081236baa1f0413020503f06b5cacd17"
     }
   ],
   "duplicate_message_ids": [
