@@ -3513,6 +3513,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24340.png",
       "sha256": "ae27b3e149958e9ac4ccc621e94755ba2cee3d5f0f9d91f90bffe52bc6bc8961"
+    },
+    {
+      "message_id": 24339,
+      "filename": "2027_지인선_모의고사_3회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24339_2027_._._3._.pdf",
+      "size_bytes": 2133306,
+      "telegram_date": "2026-09-16T11:07:09+00:00",
+      "title": "수학 지인선 실전 모의고사 1, 3회",
+      "year": "2027",
+      "instructor": "지인선",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24339.png",
+      "sha256": "94bc40e9a31e825b54a80d8198a432e158364d559ec31f36119aeed1454a05c2"
     }
   ],
   "duplicate_message_ids": []
