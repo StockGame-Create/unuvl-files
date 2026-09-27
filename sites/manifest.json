@@ -1142,6 +1142,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24593.png",
       "sha256": "fed2c5dc7d7a574aeda31cd6fb908c63490933d5ee0f9c2810113a32e95936be"
+    },
+    {
+      "message_id": 24591,
+      "filename": "세지_이것이_수능완성_총정리다.PDF",
+      "stored_as": "24591_세지_이것이_수능완성_총정리다.PDF",
+      "download_url": null,
+      "size_bytes": 3838218,
+      "telegram_date": "2026-09-23T08:12:02+00:00",
+      "title": "세지 이기상 이것이 수능완성 총정리다",
+      "year": "2027",
+      "instructor": "이기상",
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/24591.png",
+      "sha256": "162ee3097e40019c8fae818bff67d39398f03074e35f911f2e19c57c1a50df1d"
     }
   ],
   "duplicate_message_ids": []
