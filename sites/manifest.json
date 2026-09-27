@@ -3065,6 +3065,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24389.png",
       "sha256": "14af2deae89bf2547f964cf728452e57a7a59d85e30145a67e01add9c04f2ec3"
+    },
+    {
+      "message_id": 24388,
+      "filename": "마스터피스_시즌0_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24388_._.0_.pdf",
+      "size_bytes": 150942855,
+      "telegram_date": "2026-09-16T15:19:55+00:00",
+      "title": "영어 마스터피스 모의고사 시즌 zero 1, 2회",
+      "year": "2027",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24388.png",
+      "sha256": "60c5c34d28caba7d076119a9442a9bb1211bcf4ededada7390cc2b737e981216"
     }
   ],
   "duplicate_message_ids": []
