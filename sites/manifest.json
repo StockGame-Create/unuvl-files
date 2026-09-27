@@ -1763,6 +1763,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24542.png",
       "sha256": "b8b1bb84dd8236072fdffd02021dd4f15efb74970f737895bfb6cb544ae1ad51"
+    },
+    {
+      "message_id": 24538,
+      "filename": "해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24538_.pdf",
+      "size_bytes": 26036386,
+      "telegram_date": "2026-09-21T12:57:54+00:00",
+      "title": "국어 유신 시네모의고사 3회",
+      "year": "2027",
+      "instructor": "유신",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24538.png",
+      "sha256": "4e0c9dc194dfc0d22dfe0a819e58e3f7dbb5b36e3f8e2517d6d5181948abb52c"
     }
   ],
   "duplicate_message_ids": []
