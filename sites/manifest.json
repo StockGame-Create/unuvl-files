@@ -909,6 +909,19 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24623.png",
       "sha256": "b83ac638e66dc19ea78d9cff4dda9b6a965284a059cc9247dd521635d876fbbc"
+    },
+    {
+      "message_id": 24622,
+      "filename": "기본 폴더 2.pdf",
+      "stored_as": "24622_기본 폴더 2.pdf",
+      "size_bytes": 19734665,
+      "telegram_date": "2026-09-24T13:31:58+00:00",
+      "title": "기본 폴더 2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24622.png",
+      "sha256": "e4fa4ff6f0bd14c650260ba31217f72d7d24bdc41ab928ef31ef3d73db597551"
     }
   ],
   "duplicate_message_ids": []
