@@ -3849,6 +3849,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24308.png",
       "sha256": "eb6f9bb01978901d0587711aeafbca3573d135f10522de7a84f8905f4ecad51d"
+    },
+    {
+      "message_id": 24306,
+      "filename": "손끝 모의고사3 (1~5) 해설 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24306_.3.1.5.pdf",
+      "size_bytes": 24919322,
+      "telegram_date": "2026-09-15T12:16:38+00:00",
+      "title": "사문 손끝 모의고사 시즌3 1~5회",
+      "year": "2027",
+      "instructor": "손고운",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24306.png",
+      "sha256": "c3a1cf06cd542109d94f1ba2b98d207419f0d0286ab150475620fb46d8dd8014"
     }
   ],
   "duplicate_message_ids": []
