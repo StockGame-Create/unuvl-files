@@ -5949,6 +5949,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24104.png",
       "sha256": "e49cd7e3f9a2e86e1d36004373010c0987a4bc353c6a9e86781c0c578f4a7db5"
+    },
+    {
+      "message_id": 24102,
+      "filename": "이명학 실모 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24102_.2.pdf",
+      "size_bytes": 8597451,
+      "telegram_date": "2026-09-12T14:29:46+00:00",
+      "title": "영어 이명학 실전 모의고사 1~4회",
+      "year": "2027",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24102.png",
+      "sha256": "917e64fb5a0a4b49c6183fc8a0f31f879a85b2d6a6d104065103dbca787700d9"
     }
   ],
   "duplicate_message_ids": [
