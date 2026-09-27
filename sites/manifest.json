@@ -6495,6 +6495,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24040.png",
       "sha256": "46fc5dcd7f589a8825e9ee63425f144aabe8b842a9c443e921f403ef4ab38b4f"
+    },
+    {
+      "message_id": 24038,
+      "filename": "화2 27 강K 1-6 문제 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24038_.2.27.K.1-6.pdf",
+      "size_bytes": 10980300,
+      "telegram_date": "2026-09-10T10:47:25+00:00",
+      "title": "화2 강대모의고사k 1~6회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/24038.png",
+      "sha256": "2c505904fccacc9a36767b218a944b003225ee3cba1077a838bb9d530ed6a474"
     }
   ],
   "duplicate_message_ids": [
