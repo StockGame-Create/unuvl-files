@@ -3835,6 +3835,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24309.png",
       "sha256": "fd164affc999b0dd38974d4c519983e00c78591753e746ecccbd79a9edd495ae"
+    },
+    {
+      "message_id": 24308,
+      "filename": "스탠 서브 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24308_.2.pdf",
+      "size_bytes": 47961739,
+      "telegram_date": "2026-09-15T12:16:39+00:00",
+      "title": "수학 김현우 스탠다드 서브 모의고사 2회",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24308.png",
+      "sha256": "eb6f9bb01978901d0587711aeafbca3573d135f10522de7a84f8905f4ecad51d"
     }
   ],
   "duplicate_message_ids": []
