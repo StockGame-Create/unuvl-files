@@ -5263,6 +5263,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24172.png",
       "sha256": "d1ad0e69509229dd8435bf30ecd30c50eb34df0babc50bbcd0d541a3785c26d7"
+    },
+    {
+      "message_id": 24171,
+      "filename": "2027학년도_정병호_스피드러너_모의고사_시즌2_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24171_2027._._._._.2_.pdf",
+      "size_bytes": 14101009,
+      "telegram_date": "2026-09-13T15:49:10+00:00",
+      "title": "수학 호형훈제 스피드러너 모의고사 시즌2 1~4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24171.png",
+      "sha256": "5c40d5bea0185c3be0af8bb2cdba3a13734101fb6ef9249af8a365a241a9a6ce"
     }
   ],
   "duplicate_message_ids": [
