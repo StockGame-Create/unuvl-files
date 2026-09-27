@@ -4521,6 +4521,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24250.png",
       "sha256": "8a531cce395e5da803538861486899d3c679f45e86c8aa3a510a8d262045e792"
+    },
+    {
+      "message_id": 24248,
+      "filename": "한지_전국_서바_1회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24248_._._._1._.pdf",
+      "size_bytes": 2372758,
+      "telegram_date": "2026-09-14T14:47:32+00:00",
+      "title": "한지 시대인재 서바이벌 전국 모의고사 1회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "한국지리",
+      "thumbnail": "thumbnails/24248.png",
+      "sha256": "4bb85216c5b86fd6227c17d6acb945a46731082cc450f3b37b198257bc17fe2c"
     }
   ],
   "duplicate_message_ids": []
