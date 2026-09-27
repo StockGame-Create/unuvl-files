@@ -402,6 +402,19 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/24674.png",
       "sha256": "90842f0f2fdd421a8d66d2721994e9af944dcdfe0305e55d2b39349b7e3ee072"
+    },
+    {
+      "message_id": 24673,
+      "filename": "자이스토리_통합과학2_해설.pdf",
+      "stored_as": "24673_자이스토리_통합과학2_해설.pdf",
+      "size_bytes": 80270158,
+      "telegram_date": "2026-09-25T05:32:12+00:00",
+      "title": "자이스토리_통합과학2_해설",
+      "year": "2027",
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/24673.png",
+      "sha256": "5be7479a6309792a94582188a2d8de6057d2fbb83ed5cb81bb5f6e43f4725b90"
     }
   ],
   "duplicate_message_ids": []
