@@ -38,7 +38,7 @@
   }
 
   .wrap {
-    max-width: 1080px;
+    max-width: 1320px;
     margin: 0 auto;
     padding: 4rem 1.5rem 6rem;
   }
@@ -89,6 +89,73 @@
 
   .search-row input:focus {
     border-bottom: 1px solid var(--leather);
+  }
+
+  /* ---- 정렬 드롭다운 ---- */
+  .sort-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.9rem;
+  }
+
+  .sort-row label {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+  }
+
+  .sort-row select {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.78rem;
+    color: var(--ink);
+    background: var(--paper-raised);
+    border: 1.5px solid var(--rule);
+    padding: 0.35rem 0.6rem;
+    cursor: pointer;
+  }
+
+  .sort-row select:focus-visible {
+    outline: 2px solid var(--ink);
+    outline-offset: 2px;
+  }
+
+  /* ---- 최근 업데이트 로그 (신문 정정/알림란 느낌) ---- */
+  .update-log {
+    margin: 0 0 2rem;
+    padding: 0.9rem 1rem;
+    border: 1px solid var(--rule);
+    background: var(--paper-raised);
+  }
+
+  .update-log h2 {
+    margin: 0 0 0.5rem;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.74rem;
+    letter-spacing: 0.04em;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+  }
+
+  .update-log ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .update-log li {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.78rem;
+    color: var(--ink);
+    line-height: 1.5;
+  }
+
+  .update-log .log-date {
+    color: var(--leather);
+    margin-right: 0.5rem;
   }
 
   .count-line {
@@ -168,8 +235,8 @@
     margin: 0;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.6rem 1.4rem;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.6rem 1.2rem;
   }
 
   li.file-card {
@@ -313,33 +380,49 @@
     margin: 0;
   }
 
-  .download-btn {
+  .btn-row {
     margin-top: auto;
+    display: flex;
+    border-top: 1px solid var(--rule);
+  }
+
+  .download-btn,
+  .share-btn {
     text-align: center;
     font-family: "IBM Plex Mono", monospace;
     font-size: 0.78rem;
     color: var(--ink);
     border: none;
     background: transparent;
-    border-top: 1px solid var(--rule);
-    padding-top: 0.75rem;
-    display: block;
-    width: 100%;
+    padding: 0.75rem 0.4rem;
+    flex: 1;
     cursor: pointer;
     transition: background-color 0.15s ease, color 0.15s ease;
+  }
+
+  .share-btn {
+    border-left: 1px solid var(--rule);
+    flex: 0 0 32%;
   }
 
   .download-btn::after {
     content: "다운로드 ↓";
   }
 
-  .download-btn:hover {
+  .share-btn::after {
+    content: "링크 복사";
+  }
+
+  .download-btn:hover,
+  .share-btn:hover {
     background: var(--ink);
     color: var(--paper);
   }
 
   .download-btn[data-state="loading"]::after { content: "받는 중..."; }
   .download-btn[data-state="error"]::after { content: "다시 시도"; }
+  .share-btn[data-state="copied"]::after { content: "복사됨 ✓"; }
+
 
   .empty-state, .loading-state {
     grid-column: 1 / -1;
@@ -387,6 +470,45 @@
     background: var(--cat-english);
   }
 
+  /* ---- 페이지네이션 ---- */
+  .pagination {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4rem;
+    margin-top: 2.2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+  }
+
+  .page-btn {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.82rem;
+    min-width: 2.1rem;
+    padding: 0.4rem 0.5rem;
+    border: 1.5px solid var(--rule);
+    background: var(--paper-raised);
+    color: var(--ink-soft);
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+
+  .page-btn:hover {
+    border-color: var(--leather);
+    color: var(--ink);
+  }
+
+  .page-btn.active {
+    background: var(--ink);
+    border-color: var(--ink);
+    color: var(--paper);
+    cursor: default;
+  }
+
+  @media (max-width: 1100px) {
+    ul.file-grid { grid-template-columns: repeat(4, 1fr); }
+  }
+
   @media (max-width: 860px) {
     ul.file-grid { grid-template-columns: repeat(2, 1fr); }
   }
@@ -407,8 +529,23 @@
       <hr class="rule" />
     </header>
 
+    <div class="update-log" id="updateLog" hidden>
+      <h2>최근 업데이트</h2>
+      <ul id="updateLogList"></ul>
+    </div>
+
     <div class="search-row">
       <input type="text" id="searchInput" placeholder="제목, 강사, 과목, 파일명으로 찾기" autocomplete="off" />
+
+      <div class="sort-row">
+        <label for="sortSelect">정렬</label>
+        <select id="sortSelect">
+          <option value="newest">최신순</option>
+          <option value="oldest">오래된순</option>
+          <option value="name">이름순</option>
+          <option value="size_desc">용량 큰순</option>
+        </select>
+      </div>
 
       <div class="filter-row" id="filterRow">
         <span class="filter-pill" data-cat="korean">
@@ -444,6 +581,8 @@
       <li class="loading-state">목록을 불러오는 중...</li>
     </ul>
 
+    <div class="pagination" id="pagination"></div>
+
     <footer>
       마지막 동기화 이후 목록입니다. 새 자료는 자동으로 반영됩니다.
     </footer>
@@ -454,11 +593,18 @@
   <script>
     const fileListEl = document.getElementById("fileList");
     const searchInput = document.getElementById("searchInput");
+    const sortSelect = document.getElementById("sortSelect");
     const countLine = document.getElementById("countLine");
     const filterRow = document.getElementById("filterRow");
     const toastEl = document.getElementById("toast");
+    const updateLogEl = document.getElementById("updateLog");
+    const updateLogListEl = document.getElementById("updateLogList");
+    const paginationEl = document.getElementById("pagination");
 
+    const PAGE_SIZE = 15; // 한 페이지에 15개(5열 x 3행)까지만 표시
     let allFiles = [];
+    let filteredSorted = [];
+    let currentPage = 1;
     let toastTimer = null;
 
     // ---- 과목 -> 카테고리 분류 ----
@@ -520,6 +666,79 @@
         [f.subject, f.title, f.filename].filter(Boolean).join(" ")
       );
       return byKeyword || "other";
+    }
+
+    // ---- 정렬 ----
+    const SORTERS = {
+      newest: (a, b) => new Date(b.telegram_date) - new Date(a.telegram_date),
+      oldest: (a, b) => new Date(a.telegram_date) - new Date(b.telegram_date),
+      name: (a, b) => (a.title || a.filename).localeCompare(b.title || b.filename, "ko"),
+      size_desc: (a, b) => b.size_bytes - a.size_bytes,
+    };
+
+    function sortFiles(files) {
+      const sorter = SORTERS[sortSelect.value] || SORTERS.newest;
+      return files.slice().sort(sorter);
+    }
+
+    // 링크 복사: 절대 URL로 변환해서 클립보드에 담는다. clipboard API를 못 쓰는
+    // 환경(비-https 등)이면 임시 textarea + execCommand로 대체한다.
+    async function handleShare(btn, url) {
+      const absoluteUrl = new URL(url, window.location.href).href;
+      try {
+        if (navigator.clipboard && window.isSecureContext) {
+          await navigator.clipboard.writeText(absoluteUrl);
+        } else {
+          const ta = document.createElement("textarea");
+          ta.value = absoluteUrl;
+          ta.style.position = "fixed";
+          ta.style.opacity = "0";
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand("copy");
+          ta.remove();
+        }
+        btn.dataset.state = "copied";
+        showToast("링크가 복사되었습니다");
+        setTimeout(() => { btn.dataset.state = ""; }, 1500);
+      } catch (err) {
+        showToast("링크 복사에 실패했어요.", true);
+      }
+    }
+
+    // 업데이트 로그: sync.py를 건드리지 않고, 이미 있는 files[].telegram_date만
+    // 가지고 날짜별로 묶어서 만든다 (서버 쪽에 별도 로그 필드가 없어도 동작).
+    function buildUpdateLog(files) {
+      const groups = new Map(); // "YYYY-MM-DD" -> { date, count, titles: [] }
+      for (const f of files) {
+        const d = new Date(f.telegram_date);
+        if (isNaN(d)) continue;
+        const key = d.toISOString().slice(0, 10);
+        if (!groups.has(key)) groups.set(key, { date: f.telegram_date, count: 0, titles: [] });
+        const g = groups.get(key);
+        g.count += 1;
+        if (g.titles.length < 5) g.titles.push(f.title || f.filename);
+      }
+      return Array.from(groups.values())
+        .sort((a, b) => new Date(b.date) - new Date(a.date))
+        .slice(0, 5);
+    }
+
+    function renderUpdateLog(log) {
+      if (!log || log.length === 0) {
+        updateLogEl.hidden = true;
+        return;
+      }
+      updateLogListEl.innerHTML = "";
+      for (const entry of log) {
+        const li = document.createElement("li");
+        const shown = entry.titles || [];
+        const extra = entry.count > shown.length ? ` 외 ${entry.count - shown.length}개` : "";
+        const titles = shown.join(", ");
+        li.innerHTML = `<span class="log-date">${escapeHtml(formatDate(entry.date))}</span>새 파일 ${entry.count}개${titles ? ` — ${escapeHtml(titles)}${escapeHtml(extra)}` : ""}`;
+        updateLogListEl.appendChild(li);
+      }
+      updateLogEl.hidden = false;
     }
 
     function formatSize(bytes) {
@@ -592,14 +811,6 @@
     function render(files) {
       fileListEl.innerHTML = "";
 
-      if (files.length === 0) {
-        fileListEl.innerHTML = '<li class="empty-state">조건에 맞는 자료가 없습니다.</li>';
-        countLine.textContent = "";
-        return;
-      }
-
-      countLine.textContent = `총 ${files.length}개 파일`;
-
       for (const f of files) {
         const li = document.createElement("li");
         li.className = "file-card";
@@ -631,7 +842,10 @@
               <span>${formatDate(f.telegram_date)}</span>
               <span>${formatSize(f.size_bytes)}</span>
             </div>
+          </div>
+          <div class="btn-row">
             <button type="button" class="download-btn" data-state=""></button>
+            <button type="button" class="share-btn" data-state=""></button>
           </div>
         `;
 
@@ -642,7 +856,48 @@
         const downloadUrl = f.download_url || `files/${encodeURIComponent(f.stored_as)}`;
         btn.addEventListener("click", () => handleDownload(btn, downloadUrl, f.filename, isExternal));
 
+        const shareBtn = li.querySelector(".share-btn");
+        shareBtn.addEventListener("click", () => handleShare(shareBtn, downloadUrl));
+
         fileListEl.appendChild(li);
+      }
+    }
+
+    // ---- 페이지네이션 ----
+    function renderPage() {
+      if (filteredSorted.length === 0) {
+        fileListEl.innerHTML = '<li class="empty-state">조건에 맞는 자료가 없습니다.</li>';
+        countLine.textContent = "";
+        paginationEl.innerHTML = "";
+        return;
+      }
+
+      countLine.textContent = `총 ${filteredSorted.length}개 파일`;
+
+      const totalPages = Math.max(1, Math.ceil(filteredSorted.length / PAGE_SIZE));
+      if (currentPage > totalPages) currentPage = totalPages;
+
+      const start = (currentPage - 1) * PAGE_SIZE;
+      render(filteredSorted.slice(start, start + PAGE_SIZE));
+      renderPagination(totalPages);
+    }
+
+    function renderPagination(totalPages) {
+      paginationEl.innerHTML = "";
+      if (totalPages <= 1) return;
+
+      for (let p = 1; p <= totalPages; p++) {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "page-btn" + (p === currentPage ? " active" : "");
+        btn.textContent = String(p);
+        btn.addEventListener("click", () => {
+          if (p === currentPage) return;
+          currentPage = p;
+          renderPage();
+          fileListEl.scrollIntoView({ behavior: "smooth", block: "start" });
+        });
+        paginationEl.appendChild(btn);
       }
     }
 
@@ -666,11 +921,14 @@
         return haystack.includes(q);
       });
 
-      render(filtered);
+      filteredSorted = sortFiles(filtered);
+      currentPage = 1;
+      renderPage();
     }
 
     searchInput.addEventListener("input", applyFilter);
     filterRow.addEventListener("change", applyFilter);
+    sortSelect.addEventListener("change", applyFilter);
 
     fetch("manifest.json", { cache: "no-store" })
       .then(res => {
@@ -678,10 +936,9 @@
         return res.json();
       })
       .then(data => {
-        allFiles = (data.files || []).slice().sort(
-          (a, b) => new Date(b.telegram_date) - new Date(a.telegram_date)
-        );
-        render(allFiles);
+        allFiles = data.files || [];
+        renderUpdateLog(buildUpdateLog(allFiles));
+        applyFilter();
       })
       .catch(err => {
         fileListEl.innerHTML = `<li class="empty-state">목록을 불러오지 못했습니다 (${err.message})</li>`;
