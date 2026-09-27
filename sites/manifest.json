@@ -3359,6 +3359,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24353.png",
       "sha256": "8035ea17034d76998e3fa7a5ecedbf2a75956cff3e3bb02378e723f48e31592c"
+    },
+    {
+      "message_id": 24352,
+      "filename": "2027학년도_9월_더프_모의고사_과학탐구_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24352_2027._9._._._._._._.pdf",
+      "size_bytes": 7669103,
+      "telegram_date": "2026-09-16T12:55:40+00:00",
+      "title": "과학 THE PREMIUM 9월 모의고사 #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/24352.png",
+      "sha256": "80a607bc5ecec6abad7a12c41421aff4376dfe5754a49076837c525d14758971"
     }
   ],
   "duplicate_message_ids": []
