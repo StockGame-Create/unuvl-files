@@ -2365,6 +2365,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24469.png",
       "sha256": "566c08900a3c11f2c7bdef154f2b7a08a91a3df3571766ea83d139c16646f87d"
+    },
+    {
+      "message_id": 24468,
+      "filename": "이신혁 pre 1회 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24468_.pre.1.pdf",
+      "size_bytes": 7369606,
+      "telegram_date": "2026-09-19T00:23:29+00:00",
+      "title": "지1 이신혁 모의평가 PRE 시즌1 1, 2회",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24468.png",
+      "sha256": "d5d5279d3dcf4644694b9d3eece2c0f2cb84d3e15e3b7dc37c208b39017d9dd9"
     }
   ],
   "duplicate_message_ids": []
