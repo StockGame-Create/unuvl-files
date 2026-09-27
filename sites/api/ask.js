@@ -36,7 +36,13 @@
 // }
 // 응답 형식: { answer: string, file_state: {...} } 또는 { error: string }
 
-const GEMINI_MODEL = "gemini-3.8-flash"; // gemini-2.5-flash가 신규 사용자에게 막혀서 교체 (2026-09), PDF 네이티브 이해 지원
+// 최근 몇 주 사이 3.6 -> 3.7 -> 3.8 Flash가 연달아 나왔는데(5주 만에 3개),
+// 막 나온 모델일수록 용량이 덜 확보돼서 429/503(과부하)이 잦은 것으로 보인다.
+// 그래서 모델 하나만 쓰지 않고, 같은 Flash 라인(가격/성능대가 사실상 동일하고
+// API 파라미터도 호환됨) 안에서 앞 모델이 과부하면 뒤 모델로 자동 전환한다.
+// (Flash-Lite나 Pro로 내려가면 가격/답변 품질이 달라지므로 후보에서 제외했다 -
+//  "다른 모델도 해봤는데 별로였다"는 게 품질 문제였다면 이 목록을 조정해야 함.)
+const GEMINI_MODEL_CANDIDATES = ["gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.6-flash"];
 const MAX_QUESTION_LENGTH = 1000;
 const MAX_HISTORY_TURNS = 40; // user+assistant 메시지 합쳐서 최대 개수 (그 이상은 오래된 것부터 자름)
 
@@ -188,6 +194,51 @@ async function uploadFreshFile(messageId, apiKey, base) {
   return { name: fileName, uri: fileUri, mimeType: fileMimeType };
 }
 
+// 후보 모델을 순서대로 시도한다. 429(RESOURCE_EXHAUSTED)나 503(과부하)이면
+// 그 모델은 포기하고 바로 다음 후보로 넘어간다 (Vercel Hobby 60초 제한 안에
+// 끝나야 하므로, 같은 모델을 여러 번 재시도하며 기다리기보다 즉시 전환하는 쪽을 택함).
+// 그 외 오류(400 등, 요청 자체가 잘못된 경우)는 모델을 바꿔도 똑같이 실패할
+// 것이므로 재시도 없이 바로 던진다.
+async function generateContentWithFallback(contents, apiKey) {
+  let lastOverloadDetail = null;
+
+  for (const model of GEMINI_MODEL_CANDIDATES) {
+    const geminiRes = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          system_instruction: { parts: [{ text: SYSTEM_INSTRUCTION }] },
+          contents,
+        }),
+      }
+    );
+
+    if (geminiRes.ok) {
+      const geminiData = await geminiRes.json();
+      return { geminiData, modelUsed: model };
+    }
+
+    const geminiData = await geminiRes.json().catch(() => ({}));
+    const detail = geminiData?.error?.message || `HTTP ${geminiRes.status}`;
+
+    if (geminiRes.status === 429 || geminiRes.status === 503) {
+      console.warn(`[모델 과부하, 다음 후보로 전환] ${model}: ${detail}`);
+      lastOverloadDetail = detail;
+      continue; // 다음 후보 모델로
+    }
+
+    // 과부하가 아닌 오류는 모델을 바꿔도 소용없으므로 즉시 실패 처리.
+    throw new Error(`Gemini API 오류 (${model}): ${detail}`);
+  }
+
+  // 후보를 다 돌았는데도 전부 과부하였던 경우.
+  throw new Error(
+    `지금 사용 가능한 AI 모델이 전부 혼잡합니다 (마지막 오류: ${lastOverloadDetail}). 잠시 후 다시 시도해주세요.`
+  );
+}
+
 module.exports = async function handler(req, res) {
   if (req.method !== "POST") {
     res.status(405).json({ error: "POST만 지원합니다." });
@@ -252,22 +303,7 @@ module.exports = async function handler(req, res) {
       ],
     });
 
-    const geminiRes = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`,
-      {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          system_instruction: { parts: [{ text: SYSTEM_INSTRUCTION }] },
-          contents,
-        }),
-      }
-    );
-    const geminiData = await geminiRes.json();
-    if (!geminiRes.ok) {
-      const detail = geminiData?.error?.message || JSON.stringify(geminiData);
-      throw new Error(`Gemini API 오류: ${detail}`);
-    }
+    const { geminiData, modelUsed } = await generateContentWithFallback(contents, apiKey);
 
     const answer = geminiData?.candidates?.[0]?.content?.parts?.map((p) => p.text || "").join("") || "";
     if (!answer) {
@@ -275,6 +311,7 @@ module.exports = async function handler(req, res) {
       return;
     }
 
+    console.log(`[답변 생성 완료] model=${modelUsed}`); // 어떤 모델이 응답했는지는 서버 로그로만 확인
     res.status(200).json({ answer, file_state: fileState });
   } catch (err) {
     console.error(err);
