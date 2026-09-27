@@ -2043,6 +2043,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24505.png",
       "sha256": "33f2b39ea6cb632825dabd01dd4f226b55a3deb16829d5c346cd123d908ab5a8"
+    },
+    {
+      "message_id": 24504,
+      "filename": "2027_리바_지구과학I_2권_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24504_2027_._.I_2._.pdf",
+      "size_bytes": 293113,
+      "telegram_date": "2026-09-19T14:19:14+00:00",
+      "title": "지1 REVIVAL 1~3권 #리바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24504.png",
+      "sha256": "4eed3073c74476da285148c494e32e6001840654a81b427501e01411e97552a6"
     }
   ],
   "duplicate_message_ids": []
