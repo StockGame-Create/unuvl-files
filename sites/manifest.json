@@ -350,6 +350,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24683.png",
       "sha256": "1db6aed6245129f93f7df97fb5834a7dfbeefc5b146e0a94155d59b0b908a4d3"
+    },
+    {
+      "message_id": 24681,
+      "filename": "이해원 트렌드 해설.pdf",
+      "stored_as": "24681_이해원 트렌드 해설.pdf",
+      "size_bytes": 93778300,
+      "telegram_date": "2026-09-25T12:05:56+00:00",
+      "title": "수학 이해원 N제 trend",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24681.png",
+      "sha256": "41c5e9de58aa380ba6dfc0bfcc9d06aa87506967bf3ecfec39fc3cc099e9bee5"
     }
   ],
   "duplicate_message_ids": []
