@@ -5851,6 +5851,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/24117.png",
       "sha256": "cbbfbe85778ddce4316dd526eb7a792df2773789b46f6e75c68ccd51e414c031"
+    },
+    {
+      "message_id": 24116,
+      "filename": "김용택 모의고사 시즌2 2~4회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24116_.2.2.4.pdf",
+      "size_bytes": 12200364,
+      "telegram_date": "2026-09-13T00:17:54+00:00",
+      "title": "정법 김용택 실전 모의고사 시즌2 2~4회",
+      "year": "2027",
+      "instructor": "김용택",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/24116.png",
+      "sha256": "1847bc6212c9446df2a8a3524c5e38a7f6a8ddf71dfe1b6d9e5349761e272634"
     }
   ],
   "duplicate_message_ids": [
