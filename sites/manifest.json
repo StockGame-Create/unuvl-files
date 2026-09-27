@@ -688,6 +688,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24648.png",
       "sha256": "f0e05d83a72dd6ba59a5fc3d3b57931defddc796ea83c53c582bf52779e70e5c"
+    },
+    {
+      "message_id": 24647,
+      "filename": "2027 이해원 모의고사 시즌3 해설.pdf",
+      "stored_as": "24647_2027 이해원 모의고사 시즌3 해설.pdf",
+      "size_bytes": 10052402,
+      "telegram_date": "2026-09-24T13:57:56+00:00",
+      "title": "수학 이해원 모의고사 시즌3 통합본 #이해원모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24647.png",
+      "sha256": "f2af97b129174f38b231dead77efbf02ed5eb1a67ec9d617b6067784bc25c6a3"
     }
   ],
   "duplicate_message_ids": []
