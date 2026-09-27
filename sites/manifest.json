@@ -7209,6 +7209,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/23939.png",
       "sha256": "2ed6b3782b3be01078d0ede1ac57d4016c9f46d8fd1152f5fcdb61fad1784346"
+    },
+    {
+      "message_id": 23936,
+      "filename": "오메가 9회 지1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23936_.9.1.pdf",
+      "size_bytes": 1453670,
+      "telegram_date": "2026-09-05T09:11:05+00:00",
+      "title": "지1 OMEGA 모의고사 9회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23936.png",
+      "sha256": "560146f099e5997d36e0d3a4db0bfad5004051a0c029d56421f6cf1c0aa6ea79"
     }
   ],
   "duplicate_message_ids": [
