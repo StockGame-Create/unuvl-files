@@ -4969,6 +4969,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24201.png",
       "sha256": "d0a66438af53cc61b740d22796426a3754643d0fb45e7beec79812440f5faad5"
+    },
+    {
+      "message_id": 24200,
+      "filename": "Vertex_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24200_Vertex_2.pdf",
+      "size_bytes": 42440399,
+      "telegram_date": "2026-09-13T15:49:44+00:00",
+      "title": "수학 시대인재 Vertex 모의고사 2, 3회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24200.png",
+      "sha256": "454c3bc0e2d1aa941c1170b6bf282ada6dcfcbcbd1316a3c2471d267f0917d7d"
     }
   ],
   "duplicate_message_ids": [
