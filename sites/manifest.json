@@ -4927,6 +4927,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24206.png",
       "sha256": "f86826ad430391975d9f057649cd0d0764d73b11fc34bc24d24fe06c7c327a81"
+    },
+    {
+      "message_id": 24205,
+      "filename": "드릴4 확통.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24205_.4.pdf",
+      "size_bytes": 143957776,
+      "telegram_date": "2026-09-14T10:55:11+00:00",
+      "title": "수학 2024 드릴 확률과 통계",
+      "year": "2024",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24205.png",
+      "sha256": "296fe10cc49fd765ef979567d2ace51aff6fc25bac7de8bc4b3b2369f6beeb14"
     }
   ],
   "duplicate_message_ids": [
