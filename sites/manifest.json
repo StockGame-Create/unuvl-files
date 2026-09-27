@@ -883,6 +883,19 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24626.png",
       "sha256": "72a4cf16b4475171828cac0037018a25a35f4f6e0d0af8f19ca46461a4722afa"
+    },
+    {
+      "message_id": 24625,
+      "filename": "기본 폴더 3.pdf",
+      "stored_as": "24625_기본 폴더 3.pdf",
+      "size_bytes": 3552128,
+      "telegram_date": "2026-09-24T13:31:59+00:00",
+      "title": "기본 폴더 3",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24625.png",
+      "sha256": "ee52ea04f5ce8a97e8eec47d79dc538b5b725c0e5dd30d0c19ba69127c982d98"
     }
   ],
   "duplicate_message_ids": []
