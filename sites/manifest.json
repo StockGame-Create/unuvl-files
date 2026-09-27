@@ -2869,6 +2869,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24413.png",
       "sha256": "3b02a260059b20fc980722ba3f9c4f9c163cbbc04ea727676939fbbf65e71f35"
+    },
+    {
+      "message_id": 24412,
+      "filename": "어텐션 수2 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24412_.2.pdf",
+      "size_bytes": 165113230,
+      "telegram_date": "2026-09-17T15:18:05+00:00",
+      "title": "수학 이동준 어텐션 수학2 (인쇄소퀄)",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24412.png",
+      "sha256": "9b29399d526eaa3088cf03d063c2afaf8c72da9c5f1cfab671220cfe052c31f2"
     }
   ],
   "duplicate_message_ids": []
