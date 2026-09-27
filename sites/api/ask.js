@@ -23,7 +23,7 @@
 // 요청 형식: POST { message_id: number, question: string }
 // 응답 형식: { answer: string } 또는 { error: string }
 
-const GEMINI_MODEL = "gemini-2.5-flash"; // 2026년 기준 무료 티어 기본 모델, PDF 네이티브 이해 지원
+const GEMINI_MODEL = "gemini-3.8-flash"; // 2026년 기준 무료 티어 기본 모델, PDF 네이티브 이해 지원
 const MAX_QUESTION_LENGTH = 1000;
 
 // Vercel 서버리스 함수 실행시간 한도(아래 config.maxDuration) 안에 "다운로드 +
