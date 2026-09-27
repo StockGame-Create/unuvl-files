@@ -5781,6 +5781,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/24127.png",
       "sha256": "d47b62d6bb03fba5e75c50cd037520740b297e3538c50e50a113b436fc960cda"
+    },
+    {
+      "message_id": 24126,
+      "filename": "2027_파이널브릿지_정치와법_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24126_2027_._._1.pdf",
+      "size_bytes": 4303604,
+      "telegram_date": "2026-09-13T07:12:05+00:00",
+      "title": "정법 시대인재 서바이벌 전국 파이널브릿지 1회 #파브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/24126.png",
+      "sha256": "d0e74d3dda03e411d631f317786cfab14dd60059d67cee33b3e40eec27db5d62"
     }
   ],
   "duplicate_message_ids": [
