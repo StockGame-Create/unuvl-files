@@ -1847,6 +1847,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24530.png",
       "sha256": "30f7b3d133610bab00700e7cd7f07679e90a5f81898bb1dea9d52bb515dbee18"
+    },
+    {
+      "message_id": 24527,
+      "filename": "혜윰 모의고사 4-2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24527_.4-2.pdf",
+      "size_bytes": 70491232,
+      "telegram_date": "2026-09-21T12:56:26+00:00",
+      "title": "국어 혜윰 모의고사 시즌4 2회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24527.png",
+      "sha256": "22f6473ecf068469db8b5f88911f88ea1ce23d27a2a5fa1a8012762979c105b6"
     }
   ],
   "duplicate_message_ids": []
