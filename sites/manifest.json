@@ -701,6 +701,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24647.png",
       "sha256": "f2af97b129174f38b231dead77efbf02ed5eb1a67ec9d617b6067784bc25c6a3"
+    },
+    {
+      "message_id": 24646,
+      "filename": "2027 이해원 모의고사 시즌3 문제.pdf",
+      "stored_as": "24646_2027 이해원 모의고사 시즌3 문제.pdf",
+      "size_bytes": 8931535,
+      "telegram_date": "2026-09-24T13:57:55+00:00",
+      "title": "2027 이해원 모의고사 시즌3 문제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24646.png",
+      "sha256": "410ba02b052942e214a6c07f6cce37177ddd8baf6712e76c7de510ae803b1647"
     }
   ],
   "duplicate_message_ids": []
