@@ -1464,6 +1464,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24558.png",
       "sha256": "a26d71cb03cc7131be9494e9851361cc6ade0130707dbe6fd964b243224f352f"
+    },
+    {
+      "message_id": 24557,
+      "filename": "스탠모 6회.pdf",
+      "stored_as": "24557_스탠모 6회.pdf",
+      "download_url": null,
+      "size_bytes": 23339284,
+      "telegram_date": "2026-09-22T14:42:29+00:00",
+      "title": "스탠모 6회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24557.png",
+      "sha256": "faca4c89d912daef283b735d0a31bdbcc80842ffe74ed4ce332fa99beb1d5299"
     }
   ],
   "duplicate_message_ids": []
