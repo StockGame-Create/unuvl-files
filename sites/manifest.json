@@ -1819,6 +1819,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24534.png",
       "sha256": "185e45078f064d68d1a159cfc8c929bf6546da09be32239f3eea8eb6307c8a1c"
+    },
+    {
+      "message_id": 24532,
+      "filename": "2027학년도_물1지1_시대_전국.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24532_2027._.1.1_._.pdf",
+      "size_bytes": 45130088,
+      "telegram_date": "2026-09-21T12:57:31+00:00",
+      "title": "물1 + 지1 시대인재 3월~8월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학2 + 지구과학2",
+      "thumbnail": "thumbnails/24532.png",
+      "sha256": "0efabb4a48773e870e36c9bd225f7cf17271484a0bae3dc680d11ed18647b29f"
     }
   ],
   "duplicate_message_ids": []
