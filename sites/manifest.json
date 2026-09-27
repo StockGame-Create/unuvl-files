@@ -1044,6 +1044,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/24604.png",
       "sha256": "a5c5393e48304d82c00f4504dc977ffa75a8b658a4919b25debce601757b80af"
+    },
+    {
+      "message_id": 24603,
+      "filename": "해설.pdf",
+      "stored_as": "24603_해설.pdf",
+      "download_url": null,
+      "size_bytes": 16528029,
+      "telegram_date": "2026-09-24T02:31:25+00:00",
+      "title": "해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24603.png",
+      "sha256": "c25444e98f2f4a581a140c3e0785c90254089978f4eae7eeb70c501c2d39a004"
     }
   ],
   "duplicate_message_ids": []
