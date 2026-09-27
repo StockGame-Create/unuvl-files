@@ -3947,6 +3947,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24298.png",
       "sha256": "6b7340014843b2df9ef41d35d506dd8e1252d003141d152637f5823f6bb3cdbd"
+    },
+    {
+      "message_id": 24297,
+      "filename": "27 김승리 아수라일지라도.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24297_27.pdf",
+      "size_bytes": 277814849,
+      "telegram_date": "2026-09-15T01:23:52+00:00",
+      "title": "국어 아수라일지라도 본교재 + 총정리과제",
+      "year": "2027",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24297.png",
+      "sha256": "e4f6a08bb5a89530227045211c2f60a0c563e541fabafb66a713996a0fd299aa"
     }
   ],
   "duplicate_message_ids": []
