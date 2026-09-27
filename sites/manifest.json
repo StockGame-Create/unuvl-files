@@ -285,6 +285,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24689.png",
       "sha256": "a6f016d85e7f1bc9ca9180cbcb6b16d51a5f142408e88d46619fc7a4f25d4d51"
+    },
+    {
+      "message_id": 24688,
+      "filename": "2027_이해원_N제_시즌1_기하.pdf",
+      "stored_as": "24688_2027_이해원_N제_시즌1_기하.pdf",
+      "size_bytes": 8065398,
+      "telegram_date": "2026-09-25T12:06:04+00:00",
+      "title": "2027_이해원_N제_시즌1_기하",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24688.png",
+      "sha256": "73e712d5e4e5c6a4fd338ef96fe73b93dab7d1a79142b02a903b2c166f2f8ca8"
     }
   ],
   "duplicate_message_ids": []
