@@ -4619,6 +4619,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24239.png",
       "sha256": "928e908d4bec77e51d77df630a06be7de0d5746ac9eaa805da370aef2463bf11"
+    },
+    {
+      "message_id": 24238,
+      "filename": "이명학_실모_해설_5_7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24238_._._._5_7.pdf",
+      "size_bytes": 23529877,
+      "telegram_date": "2026-09-14T14:47:17+00:00",
+      "title": "영어 이명학 실전 모의고사 5~7회",
+      "year": "2027",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24238.png",
+      "sha256": "c8a1ce4d69fe14f252865ad20bf8dda100cc8ff03ac774d065cea461fcc2c479"
     }
   ],
   "duplicate_message_ids": []
