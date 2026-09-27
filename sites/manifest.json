@@ -2449,6 +2449,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/24459.png",
       "sha256": "06c8865f06fd796f867ca7d9a95aedee3aafb161d354f78c6ca991685c591ec4"
+    },
+    {
+      "message_id": 24458,
+      "filename": "생윤_시대인재_파이널_브릿지_10회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24458_._._._._10.pdf",
+      "size_bytes": 26887542,
+      "telegram_date": "2026-09-18T14:10:14+00:00",
+      "title": "생윤 시대인재 Final 브릿지 전국 모의고사 10회 #파브전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/24458.png",
+      "sha256": "190a0297b337e9081376276e21e8425ca5f773571c0389f4a2fceb1eac13ed74"
     }
   ],
   "duplicate_message_ids": []
