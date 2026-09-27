@@ -3415,6 +3415,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/24349.png",
       "sha256": "b41e93a9f788f976a9903f17d30cf232fcc76cb9d50ee70a10764100f88a13e5"
+    },
+    {
+      "message_id": 24348,
+      "filename": "2027학년도_9월_더프_모의고사_수학_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24348_2027._9._._._._._._.pdf",
+      "size_bytes": 2504258,
+      "telegram_date": "2026-09-16T12:55:33+00:00",
+      "title": "수학 THE PREMIUM 9월 모의고사 #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24348.png",
+      "sha256": "48ada6297d8f62d92a33dbb8dc50106b869c5e90d1e30159246cb4a5f7185e01"
     }
   ],
   "duplicate_message_ids": []
