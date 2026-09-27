@@ -6,7 +6,7 @@
 <title>Unvul Files</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+KR:wght@400;500;600&family=IBM+Plex+Sans+KR:wght@400;500;600&display=swap" rel="stylesheet" />
 <!-- AI 채팅 답변을 마크다운 + 수식(LaTeX)으로 렌더링하기 위한 라이브러리 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
@@ -38,7 +38,7 @@
     margin: 0;
     background: var(--paper);
     color: var(--ink);
-    font-family: "Source Serif 4", Georgia, serif;
+    font-family: "Source Serif 4", "Noto Serif KR", Georgia, serif;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
   }
@@ -79,7 +79,7 @@
 
   .search-row input {
     width: 100%;
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.95rem;
     background: transparent;
     border: none;
@@ -106,13 +106,13 @@
   }
 
   .sort-row label {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.78rem;
     color: var(--ink-soft);
   }
 
   .sort-row select {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.78rem;
     color: var(--ink);
     background: var(--paper-raised);
@@ -136,7 +136,7 @@
 
   .update-log h2 {
     margin: 0 0 0.5rem;
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.74rem;
     letter-spacing: 0.04em;
     color: var(--ink-soft);
@@ -153,7 +153,7 @@
   }
 
   .update-log li {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.78rem;
     color: var(--ink);
     line-height: 1.5;
@@ -165,7 +165,7 @@
   }
 
   .count-line {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.8rem;
     color: var(--ink-soft);
     margin-top: 0.5rem;
@@ -194,7 +194,7 @@
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.78rem;
     padding: 0.4rem 0.8rem;
     border: 1.5px solid var(--rule);
@@ -318,7 +318,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: "Source Serif 4", Georgia, serif;
+    font-family: "Source Serif 4", "Noto Serif KR", Georgia, serif;
     font-style: italic;
     font-size: 1.1rem;
     color: var(--ink-soft);
@@ -330,7 +330,7 @@
     right: 0.6rem;
     background: var(--teal);
     color: var(--paper);
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.72rem;
     padding: 0.22rem 0.5rem;
     letter-spacing: 0.02em;
@@ -353,7 +353,7 @@
   }
 
   .file-tags {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.78rem;
     color: var(--leather);
     margin: 0;
@@ -370,7 +370,7 @@
   }
 
   .file-name-sub {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.74rem;
     color: var(--ink-soft);
     word-break: break-word;
@@ -378,7 +378,7 @@
   }
 
   .file-meta {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.74rem;
     color: var(--ink-soft);
     display: flex;
@@ -395,7 +395,7 @@
   .download-btn,
   .share-btn {
     text-align: center;
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.78rem;
     color: var(--ink);
     border: none;
@@ -432,7 +432,7 @@
 
   .empty-state, .loading-state {
     grid-column: 1 / -1;
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.9rem;
     color: var(--ink-soft);
     padding: 2rem 0;
@@ -443,7 +443,7 @@
     margin-top: 3.5rem;
     padding-top: 1.2rem;
     border-top: 1px solid var(--rule);
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.75rem;
     color: var(--ink-soft);
   }
@@ -456,7 +456,7 @@
     transform: translate(-50%, 0.5rem);
     background: var(--ink);
     color: var(--paper);
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.82rem;
     padding: 0.75rem 1.2rem;
     max-width: calc(100% - 2rem);
@@ -485,7 +485,7 @@
   }
 
   .tab-btn {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.85rem;
     background: none;
     border: none;
@@ -516,7 +516,7 @@
 
   .ai-field-label {
     display: block;
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.74rem;
     color: var(--ink-soft);
     text-transform: uppercase;
@@ -526,7 +526,7 @@
 
   #aiFileSearch {
     width: 100%;
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.88rem;
     background: var(--paper);
     border: 1.5px solid var(--rule);
@@ -568,7 +568,7 @@
   }
 
   .ai-selected button {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.72rem;
     background: none;
     border: 1px solid var(--rule);
@@ -584,7 +584,7 @@
     margin: 0.6rem 0 0;
     font-size: 0.76rem;
     color: var(--ink-soft);
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
   }
 
   /* ---- AI 탭: 대화창 ---- */
@@ -609,7 +609,7 @@
     margin: auto;
     text-align: center;
     color: var(--ink-soft);
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.85rem;
     max-width: 32ch;
     line-height: 1.7;
@@ -620,7 +620,7 @@
   .msg.assistant { align-self: flex-start; align-items: flex-start; }
 
   .msg-role {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.68rem;
     color: var(--ink-soft);
     text-transform: uppercase;
@@ -638,7 +638,7 @@
   .msg.user .msg-bubble {
     background: var(--ink);
     color: var(--paper);
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.88rem;
     white-space: pre-wrap;
   }
@@ -649,7 +649,7 @@
   .msg.assistant .msg-bubble {
     background: var(--paper-raised);
     border: 1px solid var(--rule);
-    font-family: "Source Serif 4", Georgia, serif;
+    font-family: "Source Serif 4", "Noto Serif KR", Georgia, serif;
   }
 
   .msg-bubble p { margin: 0 0 0.85em; }
@@ -658,7 +658,7 @@
   .msg-bubble li { margin-bottom: 0.3em; }
   .msg-bubble strong { color: var(--leather); }
   .msg-bubble code {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.85em;
     background: var(--paper);
     padding: 0.1em 0.35em;
@@ -725,7 +725,7 @@
   #chatInput {
     flex: 1;
     resize: none;
-    font-family: "Source Serif 4", Georgia, serif;
+    font-family: "Source Serif 4", "Noto Serif KR", Georgia, serif;
     font-size: 0.94rem;
     background: var(--paper);
     border: 1.5px solid var(--rule);
@@ -737,7 +737,7 @@
   #chatInput:focus { border-color: var(--leather); outline: none; }
 
   #chatSendBtn {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.85rem;
     background: var(--ink);
     color: var(--paper);
@@ -750,7 +750,7 @@
   #chatSendBtn:not(:disabled):hover { background: var(--leather); }
 
   #chatResetBtn {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.72rem;
     background: none;
     border: 1px solid var(--rule);
@@ -773,7 +773,7 @@
   }
 
   .page-btn {
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "IBM Plex Mono", "IBM Plex Sans KR", monospace;
     font-size: 0.82rem;
     min-width: 2.1rem;
     padding: 0.4rem 0.5rem;
@@ -822,7 +822,7 @@
 
     <div class="tab-nav">
       <button type="button" class="tab-btn active" id="tabBtnFiles">파일 보관함</button>
-      <button type="button" class="tab-btn" id="tabBtnAi">AI에게 물어보기</button>
+      <button type="button" class="tab-btn" id="tabBtnAi">🤖 AI에게 물어보기</button>
     </div>
 
     <section class="tab-panel" id="tabFiles">
