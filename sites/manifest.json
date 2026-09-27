@@ -6691,6 +6691,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24015.png",
       "sha256": "891c21de13d5df139465179beaef2a6a3526466982800796a726bceea4475306"
+    },
+    {
+      "message_id": 24014,
+      "filename": "강은양 KEY모 4회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24014_.KEY.4.pdf",
+      "size_bytes": 41845393,
+      "telegram_date": "2026-09-08T14:40:57+00:00",
+      "title": "국어 강은양 KEY 모의고사 4~6회",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24014.png",
+      "sha256": "124fa2a8014b1f6f0c00adfdcee19945cd023e95b6dbad0831041ea0573697b4"
     }
   ],
   "duplicate_message_ids": [
