@@ -5193,6 +5193,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/24182.png",
       "sha256": "56c6e0d45f46cbe728425fa9670414c0384f8cc0a85265677790ae4aa5d28ef3"
+    },
+    {
+      "message_id": 24180,
+      "filename": "상상_파이널_4차_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24180_._._4._.pdf",
+      "size_bytes": 29994444,
+      "telegram_date": "2026-09-13T15:49:21+00:00",
+      "title": "국어 파이널1 4차 모의고사 상상 국어평가연구소 #상상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24180.png",
+      "sha256": "f2b06f220cc1d70b6837af1c42483689fdd9a0bd73420283ecadb13532a4160d"
     }
   ],
   "duplicate_message_ids": [
