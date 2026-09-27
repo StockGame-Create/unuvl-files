@@ -2967,6 +2967,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24402.png",
       "sha256": "5ad31e92991b1e78b932798da1bea2eb34e7f5d2b175f6ec4806111e41bfc79d"
+    },
+    {
+      "message_id": 24400,
+      "filename": "9덮 화학 정정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24400_9.pdf",
+      "size_bytes": 478216,
+      "telegram_date": "2026-09-17T15:17:53+00:00",
+      "title": "화1 THE PREMIUM 9월 모의고사 정정사항 #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/24400.png",
+      "sha256": "b11a5e6e7a58f43255eb9e63ef15bb6e9a11ad1bd5a2e31cc7122d795ca1641a"
     }
   ],
   "duplicate_message_ids": []
