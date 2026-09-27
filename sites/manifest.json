@@ -1226,6 +1226,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24582.png",
       "sha256": "d1089d47a929331417a7bb224cbb804e6baf0afcce9dfbbf1c0812ebfb2aead7"
+    },
+    {
+      "message_id": 24581,
+      "filename": "2027 정병호 토탈리콜 인강용.pdf",
+      "stored_as": "24581_2027 정병호 토탈리콜 인강용.pdf",
+      "download_url": null,
+      "size_bytes": 72608825,
+      "telegram_date": "2026-09-23T07:51:45+00:00",
+      "title": "수학 정병호 토탈리콜 파이널",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24581.png",
+      "sha256": "d28be7729d01a60d5e813b1dee952aa82b6a8b1d2c56a51b74456f3e5b89b2f9"
     }
   ],
   "duplicate_message_ids": []
