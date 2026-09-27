@@ -6831,6 +6831,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23986.png",
       "sha256": "8963bc760cd64f8da6fba763a721c3f9172ae2dc31dd4f979216e69ffd758262"
+    },
+    {
+      "message_id": 23985,
+      "filename": "상상 파이널2 제1,2차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23985_.2.1.2.pdf",
+      "size_bytes": 145376306,
+      "telegram_date": "2026-09-08T14:40:13+00:00",
+      "title": "국어 파이널2 1, 2차 모의고사 상상 국어평가연구소 #상상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23985.png",
+      "sha256": "2e2025358905113cb098a51f6aa3cc94dcbce096be0567161cd440326b121734"
     }
   ],
   "duplicate_message_ids": [
