@@ -7139,6 +7139,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23948.png",
       "sha256": "2c249becbd670c1719d8edbe56515fe0181515cc0458349fa240de50c408d7fe"
+    },
+    {
+      "message_id": 23947,
+      "filename": "2027 강대K 지1 01~16회 합본 시험지(인쇄소퀄).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23947_2027.K.1.01.16.pdf",
+      "size_bytes": 109513925,
+      "telegram_date": "2026-09-06T03:49:51+00:00",
+      "title": "지1 강대모의고사K 1~16회 통합본 (인쇄소퀄) #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23947.png",
+      "sha256": "564f07509d7802e069cb579d4548d0773552cc08ca4593bf738cc9453ee6a347"
     }
   ],
   "duplicate_message_ids": [
