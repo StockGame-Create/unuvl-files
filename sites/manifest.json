@@ -1380,6 +1380,20 @@
       "subject": null,
       "thumbnail": "thumbnails/24568.png",
       "sha256": "23add3f2113f0e53da43514391e0cd409da84c6ae8ca2641f760a44063b6fedb"
+    },
+    {
+      "message_id": 24566,
+      "filename": "2027_현강_스피드러너_5회차.pdf",
+      "stored_as": "24566_2027_현강_스피드러너_5회차.pdf",
+      "download_url": null,
+      "size_bytes": 1484521,
+      "telegram_date": "2026-09-22T14:42:39+00:00",
+      "title": "수학 호형훈제 스피드러너 파이널 5회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24566.png",
+      "sha256": "abbbae4691b51287d13793fb50859d2626ed87a698ecd5bea2f0c1e69f5d6f26"
     }
   ],
   "duplicate_message_ids": []
