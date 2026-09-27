@@ -5683,6 +5683,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24139.png",
       "sha256": "410c37184291379a75674658bb3491f0da83ae2bc7e1b49f8446f0888756f8b2"
+    },
+    {
+      "message_id": 24138,
+      "filename": "이감 6-1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24138_.6-1.pdf",
+      "size_bytes": 66207053,
+      "telegram_date": "2026-09-13T12:56:41+00:00",
+      "title": "국어 이감 파이널II 제1, 2차 예비평가 (인쇄소퀄)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24138.png",
+      "sha256": "82d0b87c237c11c2b2fe56eea9c983a7faab913ce2c80848e0d618b5a6791c53"
     }
   ],
   "duplicate_message_ids": [
