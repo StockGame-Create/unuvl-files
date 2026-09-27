@@ -2981,6 +2981,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/24400.png",
       "sha256": "b11a5e6e7a58f43255eb9e63ef15bb6e9a11ad1bd5a2e31cc7122d795ca1641a"
+    },
+    {
+      "message_id": 24398,
+      "filename": "스탠모5회해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24398_.5.pdf",
+      "size_bytes": 2003980,
+      "telegram_date": "2026-09-16T15:36:06+00:00",
+      "title": "수학 김현우 스탠다드 모의고사 5회",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24398.png",
+      "sha256": "276a09a4af529079da5a0a6730a569a72c59a2f31478e06c4bbad47594a0395a"
     }
   ],
   "duplicate_message_ids": []
