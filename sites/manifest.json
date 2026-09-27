@@ -2183,6 +2183,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24492.png",
       "sha256": "ba0259a1c24611474e511b17c0a52f448b4dca96b91718351d33a3bb29330106"
+    },
+    {
+      "message_id": 24489,
+      "filename": "강k 생명과학2 14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24489_.k.2.14.pdf",
+      "size_bytes": 7902140,
+      "telegram_date": "2026-09-19T04:46:45+00:00",
+      "title": "생2 강대모의고사K 14회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/24489.png",
+      "sha256": "72a4ab282a814f323a042d8d277afcacb189700e7573f2aa808df3215ac35532"
     }
   ],
   "duplicate_message_ids": []
