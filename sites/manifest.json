@@ -6355,6 +6355,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24060.png",
       "sha256": "ca319a651d0de1837c6357744309a3fae5b581ec820b0a536391ec67c9149b62"
+    },
+    {
+      "message_id": 24059,
+      "filename": "지구 서바 전국05.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24059_.05.pdf",
+      "size_bytes": 15359177,
+      "telegram_date": "2026-09-11T16:03:03+00:00",
+      "title": "지1 시대인재 서바이벌 전국 모의고사 5회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24059.png",
+      "sha256": "76f9053cda5e70d9b02eb8b240a326c9f23253e85b34a3d1c11a394875f38111"
     }
   ],
   "duplicate_message_ids": [
