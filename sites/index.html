@@ -906,7 +906,12 @@
     }
 
     function applyFilter() {
-      const q = searchInput.value.trim().toLowerCase();
+      // manifest.json의 filename/title 등 한글 필드가 NFD(자모 분리) 형태로
+      // 들어오는 경우가 있어서(텔레그램 클라이언트/OS에 따라 다름), 검색어와
+      // 대상 문자열을 둘 다 NFC로 정규화한 뒤 비교한다. 이걸 안 하면 화면에
+      // 보이는 글자는 똑같아 보여도 .includes()가 항상 false를 반환해서
+      // 한글 검색이 사실상 동작하지 않는다.
+      const q = searchInput.value.trim().toLowerCase().normalize("NFC");
       const checkedCats = getCheckedCategories();
 
       const filtered = allFiles.filter(f => {
@@ -917,7 +922,8 @@
         const haystack = [f.filename, f.title, f.instructor, f.subject, f.year]
           .filter(Boolean)
           .join(" ")
-          .toLowerCase();
+          .toLowerCase()
+          .normalize("NFC");
         return haystack.includes(q);
       });
 
