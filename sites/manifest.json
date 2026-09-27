@@ -4843,6 +4843,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24213.png",
       "sha256": "d98ec2cd824c8cccce463ef7d4ae476eee60eadb012e0815ef2f582efd1c2fb0"
+    },
+    {
+      "message_id": 24212,
+      "filename": "전형태 언매 모의고사 12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24212_.12.pdf",
+      "size_bytes": 187272083,
+      "telegram_date": "2026-09-14T10:55:19+00:00",
+      "title": "국어 전형태 언어와 매체 모의고사 1~12회",
+      "year": "2027",
+      "instructor": "전형태",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24212.png",
+      "sha256": "e19dd73088900261d5279f2a627c034fa99cad31c1661848069e11cc09917ee1"
     }
   ],
   "duplicate_message_ids": [
