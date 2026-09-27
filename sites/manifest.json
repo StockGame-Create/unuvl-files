@@ -2645,6 +2645,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24434.png",
       "sha256": "b3a48d94dbc6587f31f698ec70dbd3057e9fea893f06867bbe94bb7fb8228607"
+    },
+    {
+      "message_id": 24433,
+      "filename": "27 사문 전국서바 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24433_27.9.pdf",
+      "size_bytes": 37406521,
+      "telegram_date": "2026-09-17T15:18:31+00:00",
+      "title": "사문 시대인재 서바이벌 9회, 서바이벌 전국 9회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24433.png",
+      "sha256": "2f8cc87c8e913e778223d57e109c94ddffe3e16d61ea5398544009a9b142a060"
     }
   ],
   "duplicate_message_ids": []
