@@ -4395,6 +4395,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24265.png",
       "sha256": "977e21dba3e88046dbdbee82ba65b79c015d370d3d1719e0d590d0820ebefa37"
+    },
+    {
+      "message_id": 24263,
+      "filename": "~ 허들링 미적 1주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24263_.1.pdf",
+      "size_bytes": 1997710,
+      "telegram_date": "2026-09-15T01:08:07+00:00",
+      "title": "수학 김범준 허들링 현장 미적분 1주차",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24263.png",
+      "sha256": "f44c6ca8c89617f0d711d1e5807976ca565ef4f5e54563e45db2b8cb71190447"
     }
   ],
   "duplicate_message_ids": []
