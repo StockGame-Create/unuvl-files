@@ -545,6 +545,19 @@
       "subject": "국어",
       "thumbnail": "thumbnails/24659.png",
       "sha256": "44af11925027f18743b812e4f633675ca5ee0e4b5fc7afd9b1c062a5eb6f4e2b"
+    },
+    {
+      "message_id": 24658,
+      "filename": "상상 파이널2 3차 문제.pdf",
+      "stored_as": "24658_상상 파이널2 3차 문제.pdf",
+      "size_bytes": 36553419,
+      "telegram_date": "2026-09-24T13:58:07+00:00",
+      "title": "상상 파이널2 3차 문제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24658.png",
+      "sha256": "243a45d900809af90afcbdc4b2af16e57f23df6a754f5fb71e4d799fc9f4d479"
     }
   ],
   "duplicate_message_ids": []
