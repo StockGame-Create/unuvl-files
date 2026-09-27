@@ -2463,6 +2463,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/24458.png",
       "sha256": "190a0297b337e9081376276e21e8425ca5f773571c0389f4a2fceb1eac13ed74"
+    },
+    {
+      "message_id": 24457,
+      "filename": "V n제 1권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24457_V.n.1.pdf",
+      "size_bytes": 14685471,
+      "telegram_date": "2026-09-18T14:10:13+00:00",
+      "title": "영어 김지영 V N제 문제편 1권",
+      "year": "2027",
+      "instructor": "김지영",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24457.png",
+      "sha256": "942677864443c8f5f85cbfb08efcb324a28ac2fb77df463ef3c3682c49667bd0"
     }
   ],
   "duplicate_message_ids": []
