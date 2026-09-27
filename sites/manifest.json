@@ -5081,6 +5081,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24192.png",
       "sha256": "871c10376d632d5dd0d259a8984f5009c8e78cb78dfd8fbcd7246731f8388a38"
+    },
+    {
+      "message_id": 24191,
+      "filename": "시즌3 정답및해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24191_.3.pdf",
+      "size_bytes": 6950363,
+      "telegram_date": "2026-09-13T15:49:30+00:00",
+      "title": "수학 한석원 X 한석만 모의고사 JUST MOCK TEST 시즌3 1~3회, 시즌4 1~3회 #JMT",
+      "year": "2027",
+      "instructor": "한석원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24191.png",
+      "sha256": "5e1866053ed8aa83559987f9689440a5751d01cad7d1c3db4f1d392be45da4dd"
     }
   ],
   "duplicate_message_ids": [
