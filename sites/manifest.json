@@ -961,6 +961,19 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/24615.png",
       "sha256": "19638725041ef38de075f74b07667108e0294953d175d4473b0def147c18ac06"
+    },
+    {
+      "message_id": 24612,
+      "filename": "2027학년도_시대인재_서바이벌_C_단독_모의고사_9회_260924_210039.pdf",
+      "stored_as": "24612_2027학년도_시대인재_서바이벌_C_단독_모의고사_9회_260924_210039.pdf",
+      "size_bytes": 2245623,
+      "telegram_date": "2026-09-24T12:39:12+00:00",
+      "title": "지1 시대인재 서바이벌 C 단독 모의고사9회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24612.png",
+      "sha256": "4e9fddde5ea69923b36db3363261da2bc7462715084a86870d01d1373bda7c43"
     }
   ],
   "duplicate_message_ids": []
