@@ -7251,6 +7251,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/23932.png",
       "sha256": "c6e3b1cd0e4051da7b1e2e0ac77de2e3d2f0df83c53cfc033db2c2f77183e2d7"
+    },
+    {
+      "message_id": 23930,
+      "filename": "2027 나르샤 6평해체 분석서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23930_2027.6.pdf",
+      "size_bytes": 8032625,
+      "telegram_date": "2026-09-05T04:18:47+00:00",
+      "title": "사문 나르샤 6평 해체 분석서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23930.png",
+      "sha256": "02fe16b305fa0f2d6ede89bd27514fb7003c233fd56522db9a15a8a0b7a606f8"
     }
   ],
   "duplicate_message_ids": [
