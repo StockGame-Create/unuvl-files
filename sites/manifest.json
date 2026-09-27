@@ -1665,6 +1665,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24551.png",
       "sha256": "b1f47db59cf6e74647640b4412a72a43db1a4c4fbc5a0afa06d6f373cb19f3a8"
+    },
+    {
+      "message_id": 24550,
+      "filename": "강대K_수학_19회_해설600dpi.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24550_.K_._19._.600dpi.pdf",
+      "size_bytes": 46501889,
+      "telegram_date": "2026-09-22T14:42:20+00:00",
+      "title": "수학 강대모의고사K 19, 20회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24550.png",
+      "sha256": "1afc68f6d2b4833034e9261f3787a884f93f745e389283933c075eba433ab3c2"
     }
   ],
   "duplicate_message_ids": []
