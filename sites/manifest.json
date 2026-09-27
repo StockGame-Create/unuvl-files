@@ -714,6 +714,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24646.png",
       "sha256": "410ba02b052942e214a6c07f6cce37177ddd8baf6712e76c7de510ae803b1647"
+    },
+    {
+      "message_id": 24644,
+      "filename": "2027학년도_지구2_시대_전국.pdf",
+      "stored_as": "24644_2027학년도_지구2_시대_전국.pdf",
+      "size_bytes": 15805715,
+      "telegram_date": "2026-09-24T13:57:54+00:00",
+      "title": "과학 시대인재 3~8월 전국모의평가 통합본 (물1, 지1 X) #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/24644.png",
+      "sha256": "950f1d1b64dcfd05e1c724b35f1ed90a8845e9be321beebcae5efb889757f8de"
     }
   ],
   "duplicate_message_ids": []
