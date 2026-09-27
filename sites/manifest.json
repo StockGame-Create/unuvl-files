@@ -1408,6 +1408,20 @@
       "subject": null,
       "thumbnail": "thumbnails/24565.png",
       "sha256": "4d3924ac059623786aa2e53662bc20a16e04b9be01a85acde32ea6b9d9245ed4"
+    },
+    {
+      "message_id": 24563,
+      "filename": "기특한 잘잘잘.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24563_.pdf",
+      "size_bytes": 102335142,
+      "telegram_date": "2026-09-22T14:42:38+00:00",
+      "title": "생윤 김종익 기특한 잘잘잘 심화정리",
+      "year": "2027",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/24563.png",
+      "sha256": "ddc49d8cfd033413ea8be5cf78ea5baaf76fccdbd1b05d3ede287828f8618359"
     }
   ],
   "duplicate_message_ids": []
