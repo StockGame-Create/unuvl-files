@@ -6061,6 +6061,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24093.png",
       "sha256": "78614751c54df05ee9b1e27e37adec7d3d54f995d3c0597983bd0926c81eb434"
+    },
+    {
+      "message_id": 24091,
+      "filename": "2027 현정훈 모의고사 시즌3 V.02 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24091_2027.3.V.02.pdf",
+      "size_bytes": 35668441,
+      "telegram_date": "2026-09-12T03:54:07+00:00",
+      "title": "물1 현정훈 모의고사 시즌3 vol2 1~8회",
+      "year": "2027",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/24091.png",
+      "sha256": "8a1fdc5ea2e4656d9d4e32c6d3738d04816f55ee703da9dfb9f22e820c2a84ab"
     }
   ],
   "duplicate_message_ids": [
