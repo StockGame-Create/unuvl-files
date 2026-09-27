@@ -4815,6 +4815,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24216.png",
       "sha256": "e61349b89ecc08f0ec7e67f092d577f0a1ba4e6e2abc469428a0f431c3a68ed7"
+    },
+    {
+      "message_id": 24215,
+      "filename": "2027 한완기 수학1 교사경.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24215_2027.1.pdf",
+      "size_bytes": 300505129,
+      "telegram_date": "2026-09-14T10:55:21+00:00",
+      "title": "수학 한완기 수학1, 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24215.png",
+      "sha256": "d1e4efe9892e3a3b651ee0f5eef4f61cac40e0ae0f3fa04b1f05f53f7cbcf94c"
     }
   ],
   "duplicate_message_ids": [
