@@ -7083,6 +7083,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23954.png",
       "sha256": "baeac6ecce8a4ac319e0a84a5d66435aed6a037cd8bc483fe55984c768cf9743"
+    },
+    {
+      "message_id": 23952,
+      "filename": "22개정고등_하이탑_역학과에너지27정답과해설보안.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23952_22._._.27.pdf",
+      "size_bytes": 8137413,
+      "telegram_date": "2026-09-06T03:49:54+00:00",
+      "title": "과학 22개정 하이탑 역학과 에너지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/23952.png",
+      "sha256": "decb54d4ec6ed1c176a0fa52f091a34d061efe51054e6bcbb202923b2be552a6"
     }
   ],
   "duplicate_message_ids": [
