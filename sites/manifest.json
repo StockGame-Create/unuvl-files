@@ -4941,6 +4941,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24205.png",
       "sha256": "296fe10cc49fd765ef979567d2ace51aff6fc25bac7de8bc4b3b2369f6beeb14"
+    },
+    {
+      "message_id": 24203,
+      "filename": "2027_정석_문학_모의고사_4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24203_2027_._._._4.pdf",
+      "size_bytes": 11766323,
+      "telegram_date": "2026-09-14T10:55:10+00:00",
+      "title": "국어 정석 문학 모의고사 4회",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24203.png",
+      "sha256": "bce2a878003c53f4d96ba6b2fde3fb32693c8c0dba3cbb92a1e443b6c9b6916c"
     }
   ],
   "duplicate_message_ids": [
