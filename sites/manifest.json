@@ -3037,6 +3037,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24392.png",
       "sha256": "0c568d89de3c735ff0a0bbde5a6faa0cf98b07b09232e3e36e74f9beb5441832"
+    },
+    {
+      "message_id": 24391,
+      "filename": "수학 강K 1-10회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24391_.K.1-10.pdf",
+      "size_bytes": 106954799,
+      "telegram_date": "2026-09-16T15:19:57+00:00",
+      "title": "수학 강대모의고사K 1~10회 통합본 (인쇄소퀄) #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24391.png",
+      "sha256": "346360d1e9994807226202026fe93b27263a90372a5294c4f3fdea9857321ae2"
     }
   ],
   "duplicate_message_ids": []
