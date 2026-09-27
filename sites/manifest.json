@@ -1338,6 +1338,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/24572.png",
       "sha256": "7b429cb8c3ed92b849cd3336ca33ab1824847f232ea9316f0c8566a4533c197a"
+    },
+    {
+      "message_id": 24571,
+      "filename": "하트 생윤 1회 해설.pdf",
+      "stored_as": "24571_하트 생윤 1회 해설.pdf",
+      "download_url": null,
+      "size_bytes": 4203575,
+      "telegram_date": "2026-09-23T07:50:36+00:00",
+      "title": "하트 생윤 1회 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/24571.png",
+      "sha256": "4071bfd086abbfb7910c39b55996370c52bb823c9bf0bcfaa046d617587b0f1d"
     }
   ],
   "duplicate_message_ids": []
