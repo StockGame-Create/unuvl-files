@@ -636,6 +636,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24652.png",
       "sha256": "e7ca8c7b163ccf3d8af951c80273326962692bbfbd1ef83f9a68e0f475c53fd0"
+    },
+    {
+      "message_id": 24651,
+      "filename": "27 강대K 22회.pdf",
+      "stored_as": "24651_27 강대K 22회.pdf",
+      "size_bytes": 58664773,
+      "telegram_date": "2026-09-24T13:57:58+00:00",
+      "title": "수학 강대모의고사K 19~22회 (인쇄소퀄) #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24651.png",
+      "sha256": "21236eb49b2674c9b12ffff8a273abde41c7806a32e840b1098befb5ef575199"
     }
   ],
   "duplicate_message_ids": []
