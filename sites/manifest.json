@@ -584,6 +584,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24656.png",
       "sha256": "dc60881d5c4a04f9cb573da145a725c8afab626c8aafc99deb50c419b31a1e61"
+    },
+    {
+      "message_id": 24655,
+      "filename": "27 시대인재 서바이벌 모의고사 12회.pdf",
+      "stored_as": "24655_27 시대인재 서바이벌 모의고사 12회.pdf",
+      "size_bytes": 9064912,
+      "telegram_date": "2026-09-24T13:58:05+00:00",
+      "title": "27 시대인재 서바이벌 모의고사 12회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24655.png",
+      "sha256": "534cd7c434c9fda0010506a233b1f7f43f305cac938be7e4d62d4bdc33ba7816"
     }
   ],
   "duplicate_message_ids": []
