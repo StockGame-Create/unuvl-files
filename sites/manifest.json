@@ -6845,6 +6845,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23985.png",
       "sha256": "2e2025358905113cb098a51f6aa3cc94dcbce096be0567161cd440326b121734"
+    },
+    {
+      "message_id": 23982,
+      "filename": "27학년도_9평_솔직히_이랬다.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23982_27._9._._.pdf",
+      "size_bytes": 141819,
+      "telegram_date": "2026-09-08T14:40:08+00:00",
+      "title": "국어 2027 9월 모의평가 솔의눈",
+      "year": "2027",
+      "instructor": "김한솔",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23982.png",
+      "sha256": "873c129a432a76eaa04c26df3fbb56329b2dfcc6c90fc4dcc22bfe75685e0e2e"
     }
   ],
   "duplicate_message_ids": [
