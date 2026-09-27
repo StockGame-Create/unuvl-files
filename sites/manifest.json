@@ -6327,6 +6327,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/24062.png",
       "sha256": "63f9e26db9c598208dc18cf4e42ef2ff9ce81d5ebce1120ea86707f1d9266036"
+    },
+    {
+      "message_id": 24061,
+      "filename": "신혁모 즌2 05.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24061_.2.05.pdf",
+      "size_bytes": 15400384,
+      "telegram_date": "2026-09-11T16:08:37+00:00",
+      "title": "지1 이신혁 모의평가 시즌2 5회",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24061.png",
+      "sha256": "bfac286e0c2c6e2802a5037767118ae0357c279eb681a6573d1b783cff1e16ba"
     }
   ],
   "duplicate_message_ids": [
