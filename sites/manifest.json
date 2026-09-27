@@ -3317,6 +3317,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24357.png",
       "sha256": "7d4a8538f248bf1378e775a5ea746739e62b60cd349ac0226fe56a57491cfbb1"
+    },
+    {
+      "message_id": 24356,
+      "filename": "SSGPoiler1회 손해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24356_SSGPoiler1.pdf",
+      "size_bytes": 12770512,
+      "telegram_date": "2026-09-16T13:32:45+00:00",
+      "title": "수학 SSG 모의고사 3회, SSG_Poiler 모의고사 1회",
+      "year": "2027",
+      "instructor": "신성규",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24356.png",
+      "sha256": "9005ba30f5ac03f50f644ce131821de2a451b000f116ea9bd8556424b6f28da6"
     }
   ],
   "duplicate_message_ids": []
