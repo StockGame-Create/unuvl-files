@@ -610,6 +610,19 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24654.png",
       "sha256": "277d3e9c7e5389db69b7cb8e5eff586e3e29071d990116b54d156d1defdd7835"
+    },
+    {
+      "message_id": 24653,
+      "filename": "27 시대인재 서바이벌 모의고사 10회.pdf",
+      "stored_as": "24653_27 시대인재 서바이벌 모의고사 10회.pdf",
+      "size_bytes": 39353081,
+      "telegram_date": "2026-09-24T13:58:04+00:00",
+      "title": "27 시대인재 서바이벌 모의고사 10회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24653.png",
+      "sha256": "2b34e8449882c6c24ad15654890934cfa697a709b62cf80b63c199eb7d188d6e"
     }
   ],
   "duplicate_message_ids": []
