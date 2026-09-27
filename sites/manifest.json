@@ -4633,6 +4633,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24238.png",
       "sha256": "c8a1ce4d69fe14f252865ad20bf8dda100cc8ff03ac774d065cea461fcc2c479"
+    },
+    {
+      "message_id": 24236,
+      "filename": "Bricks 5회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24236_Bricks.5.pdf",
+      "size_bytes": 12234307,
+      "telegram_date": "2026-09-14T14:47:16+00:00",
+      "title": "수학 최지욱 Bricks 5회 모의고사",
+      "year": "2027",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24236.png",
+      "sha256": "42da761b9fa47ca3109918c86ed5c53a1407fb0e4917f160e3182d5d2d20766b"
     }
   ],
   "duplicate_message_ids": []
