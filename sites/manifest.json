@@ -4703,6 +4703,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24230.png",
       "sha256": "a900c7660cc19e845878763d3d3e04cf93b9b8ee3ecd104545d118991cc0275b"
+    },
+    {
+      "message_id": 24228,
+      "filename": "윤사_잘푸모1_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24228_._.1_.pdf",
+      "size_bytes": 24379528,
+      "telegram_date": "2026-09-14T14:47:07+00:00",
+      "title": "윤사 잘 푸는 모의고사 시즌1 2~7회 #잘푸모",
+      "year": "2027",
+      "instructor": "김종익",
+      "subject": "윤리와사상",
+      "thumbnail": "thumbnails/24228.png",
+      "sha256": "ec457b9b3910bc5385a23f0c8facfd39005a9453205ebe9d790a5819a8161d74"
     }
   ],
   "duplicate_message_ids": []
