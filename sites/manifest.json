@@ -248,6 +248,20 @@
       "sha256": "955d66fd4f34ebf3d9f226ea9366f0b90cacd2c20379f25b997dabff6e83ee64"
     },
     {
+      "message_id": 24696,
+      "filename": "홍준용 컨택트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24696_.pdf",
+      "size_bytes": 166624591,
+      "telegram_date": "2026-09-25T12:06:13+00:00",
+      "title": "생1 홍즌용 컨택트",
+      "year": "2027",
+      "instructor": "홍준용",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/24696.png",
+      "sha256": "700ea4fc0fe66a534239715753651317d2801e017e203e3ae8c87af8ac32e8f6"
+    },
+    {
       "message_id": 24694,
       "filename": "TDYD 시즌0 해설.pdf",
       "stored_as": "24694_TDYD 시즌0 해설.pdf",
