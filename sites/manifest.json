@@ -5907,6 +5907,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/24109.png",
       "sha256": "c48415c337f0c21500836c3cc11a3a2b49ed0982f3be2523ee9f4d78ad57f349"
+    },
+    {
+      "message_id": 24107,
+      "filename": "27윤사_기시감_해설인쇄소퀄.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24107_27._._.pdf",
+      "size_bytes": 620399078,
+      "telegram_date": "2026-09-12T14:39:13+00:00",
+      "title": "윤사 현자의 돌 기시감 해설",
+      "year": "2027",
+      "instructor": null,
+      "subject": "윤리와사상",
+      "thumbnail": "thumbnails/24107.png",
+      "sha256": "f4579254850c84fdca120c9f94e56c33f28efd8a494bce19256b8f623c2799c9"
     }
   ],
   "duplicate_message_ids": [
