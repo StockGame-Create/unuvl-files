@@ -2617,6 +2617,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/24439.png",
       "sha256": "4c0383ea938bfd460a87e815344ee9efbb6e888a4db19881b982269352686257"
+    },
+    {
+      "message_id": 24435,
+      "filename": "2023. 11. 22..pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24435_2023.11.22.pdf",
+      "size_bytes": 12680274,
+      "telegram_date": "2026-09-17T15:23:02+00:00",
+      "title": "지1 강대모의고사K 20회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24435.png",
+      "sha256": "19aa3254d574f031fee072671abf03a09913d2f6b3f6b1d519a5fd78b9d563c3"
     }
   ],
   "duplicate_message_ids": []
