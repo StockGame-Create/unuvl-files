@@ -4689,6 +4689,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/24231.png",
       "sha256": "9dc8b466a2ce702beac3a9d59935b6b534bf913431ccb2f06d402d0271d51adf"
+    },
+    {
+      "message_id": 24230,
+      "filename": "TalkFile_이미지_N티켓_시즌2_확률과통계_pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/24230_TalkFile_._N._.2_._pdf.pdf",
+      "size_bytes": 7240686,
+      "telegram_date": "2026-09-14T14:47:08+00:00",
+      "title": "수학 N티켓 시즌2 확률과 통계",
+      "year": "2027",
+      "instructor": "이미지",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24230.png",
+      "sha256": "a900c7660cc19e845878763d3d3e04cf93b9b8ee3ecd104545d118991cc0275b"
     }
   ],
   "duplicate_message_ids": []
