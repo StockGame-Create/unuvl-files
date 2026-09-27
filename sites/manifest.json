@@ -831,6 +831,19 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/24633.png",
       "sha256": "0128cffea396de9beaf3532642f8beee6872f3bf150c66aebd9ac21ebf7448b7"
+    },
+    {
+      "message_id": 24632,
+      "filename": "생윤_시대인재_파이널_브릿지_전국_11회.pdf",
+      "stored_as": "24632_생윤_시대인재_파이널_브릿지_전국_11회.pdf",
+      "size_bytes": 19631189,
+      "telegram_date": "2026-09-24T13:32:07+00:00",
+      "title": "생윤 시대인재 Final 브릿지 전국 모의고사 11회 #파브전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/24632.png",
+      "sha256": "f050328e591bd345c6efff17e47f54254efa4c48aa4647a1f940e242ac6f5251"
     }
   ],
   "duplicate_message_ids": []
