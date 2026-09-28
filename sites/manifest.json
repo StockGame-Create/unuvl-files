@@ -10247,6 +10247,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23560.png",
       "sha256": "b4da9abd672453e453ed00d9b7892a318cea480c1511e4b9fdb4d90f188c526c"
+    },
+    {
+      "message_id": 23559,
+      "filename": "브릿지_전국모의고사_FINAL_14_수학영역_정답_및_해설6_기울기_보정_664499.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23559_._._FINAL_14_._._._.6_._._664499.pdf",
+      "size_bytes": 2133800,
+      "telegram_date": "2026-08-22T04:07:46+00:00",
+      "title": "수학 시대인재 파이널 브릿지 전국 모의고사 13, 14회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23559.png",
+      "sha256": "1f57f216d4bd71a10c721fcb053442875a015d612b769bdadfd722cf356762f7"
     }
   ],
   "duplicate_message_ids": [
