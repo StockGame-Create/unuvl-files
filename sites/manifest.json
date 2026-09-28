@@ -14909,6 +14909,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23004.png",
       "sha256": "c34af9d90ac272fa9d4c3fc2b4469a72927c6d98167e2abdaa6483cd22f03c6e"
+    },
+    {
+      "message_id": 23003,
+      "filename": "바탕 2027-6.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23003_.2027-6.pdf",
+      "size_bytes": 6267136,
+      "telegram_date": "2026-08-02T15:48:12+00:00",
+      "title": "국어 바탕 6회 모의고사  #바탕",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23003.png",
+      "sha256": "8fb7b575eea86cd47e49dfbbd92282eabbb9f3f856f6d71e0507f98d23776f5c"
     }
   ],
   "duplicate_message_ids": [
