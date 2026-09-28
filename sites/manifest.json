@@ -7797,6 +7797,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23865.png",
       "sha256": "c602924482c8c2a4536db155fb51a2b705cdd74251246da0412eea8340614dbf"
+    },
+    {
+      "message_id": 23859,
+      "filename": "서바이벌+8주차+필기노트+(2).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23859_.%2B8.%2B.%2B.2.pdf",
+      "size_bytes": 1907649,
+      "telegram_date": "2026-09-01T15:00:04+00:00",
+      "title": "수학 강기원T 서바이벌 정규반 8주차 필기노트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23859.png",
+      "sha256": "231e615608c797f931248ae91bcde5d7568f122c9d7c44190495c827df4265e2"
     }
   ],
   "duplicate_message_ids": [
