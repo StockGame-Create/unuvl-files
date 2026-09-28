@@ -13901,6 +13901,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/23102.png",
       "sha256": "0b9931a4f1dd7c68de23f4abd437661b94e16dabc75211d82824d1af235e623c"
+    },
+    {
+      "message_id": 23100,
+      "filename": "화학 반응의 세계_본문(학생용) (22개정).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23100_._.22.pdf",
+      "size_bytes": 38649100,
+      "telegram_date": "2026-08-06T17:53:19+00:00",
+      "title": "과학 22개정 하이탑 화학 반응의 세계",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학반응의세계",
+      "thumbnail": "thumbnails/23100.png",
+      "sha256": "857daabe3d4bbb54a60fb99cf585812c17a8918baf3530b9b6b88a4a6f321acb"
     }
   ],
   "duplicate_message_ids": [
