@@ -7587,6 +7587,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23892.png",
       "sha256": "777f4bcffe47a8a91551aabaa05cd5d647a418a9990ea1e20f61df2c6bd878fc"
+    },
+    {
+      "message_id": 23890,
+      "filename": "2027_이명학_리드앤로직_순삽편_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23890_2027_._._._1.pdf",
+      "size_bytes": 47442680,
+      "telegram_date": "2026-09-03T14:10:49+00:00",
+      "title": "영어 이명학 리드앤로직 빈칸편, 순삽편",
+      "year": "2027",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/23890.png",
+      "sha256": "d68016c3e173e4eeb66b6b8552f3c1c8f9af2f05f595cd41575c41d2828e5006"
     }
   ],
   "duplicate_message_ids": [
