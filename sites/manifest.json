@@ -14937,6 +14937,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23002.png",
       "sha256": "d5626208d291c05d8ee9ceca0bc099b13d8958362bae4ccf0f9eb5f81771c132"
+    },
+    {
+      "message_id": 23000,
+      "filename": "1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23000_1.pdf",
+      "size_bytes": 502994,
+      "telegram_date": "2026-08-02T15:48:12+00:00",
+      "title": "화1 시대인재 서바이벌 6월 월례고사",
+      "year": "2027",
+      "instructor": "나진환",
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/23000.png",
+      "sha256": "c154153efa2c6c0a2b683817bf338a2a34f78c046f85768b792e43e4259d851d"
     }
   ],
   "duplicate_message_ids": [
