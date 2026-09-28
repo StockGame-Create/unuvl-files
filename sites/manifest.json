@@ -239,6 +239,20 @@
       "sha256": "5c56a428dc5b041f1604d0ddd41ca42746d6ae0db74951b878edb022b8ccd425"
     },
     {
+      "message_id": 24742,
+      "filename": "마피 ONE_1~3회 (답지포함).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/24742_.ONE_1.3.pdf",
+      "size_bytes": 37817749,
+      "telegram_date": "2026-09-28T14:26:36+00:00",
+      "title": "영어 마스터피스 모의고사 시즌 One 1~3회",
+      "year": "2027",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24742.png",
+      "sha256": "c092a83f1ac1956827db6a332edd1191ba550cf5f503408052fe0046c1ed1ff3"
+    },
+    {
       "message_id": 24735,
       "filename": "시즌2 교재해설.pdf",
       "stored_as": null,
