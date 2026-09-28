@@ -8693,6 +8693,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23762.png",
       "sha256": "6fe25b0fb87fd3154f797d01f46f36c862b33fd195a357d3132a570ad4d7ff7c"
+    },
+    {
+      "message_id": 23761,
+      "filename": "2027 이신혁 Apollo.N 시즌3 1호.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23761_2027.Apollo.N.3.1.pdf",
+      "size_bytes": 182151108,
+      "telegram_date": "2026-08-28T14:04:30+00:00",
+      "title": "지1 아폴로.N 시즌3 1~7호",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23761.png",
+      "sha256": "659f25220d71b6a36ef2902a9d256c5da0fddaa1eacd73c21121492e240e2b5d"
     }
   ],
   "duplicate_message_ids": [
