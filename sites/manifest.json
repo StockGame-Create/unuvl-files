@@ -13915,6 +13915,20 @@
       "subject": "화학반응의세계",
       "thumbnail": "thumbnails/23100.png",
       "sha256": "857daabe3d4bbb54a60fb99cf585812c17a8918baf3530b9b6b88a4a6f321acb"
+    },
+    {
+      "message_id": 23098,
+      "filename": "2027_최지욱_시즌1_Arch_공통_필기_03주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23098_2027_._.1_Arch_._._03.pdf",
+      "size_bytes": 4179769,
+      "telegram_date": "2026-08-06T17:53:19+00:00",
+      "title": "수학 최지욱 시즌1 ARCH 3주차 필기노트",
+      "year": "2027",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23098.png",
+      "sha256": "fe4f8991b3b31736f48644c8d72ccee5a69e7e2789fc88f0b04a8986acac540a"
     }
   ],
   "duplicate_message_ids": [
