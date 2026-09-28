@@ -9631,6 +9631,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23641.png",
       "sha256": "8f21252479d95938091fde2e02ff4d417f020dcd15d69989e369b27416a23e4e"
+    },
+    {
+      "message_id": 23639,
+      "filename": "사문 서바 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23639_.7.pdf",
+      "size_bytes": 5996631,
+      "telegram_date": "2026-08-23T14:39:26+00:00",
+      "title": "사문 시대인재 서바이벌 모의고사 7회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23639.png",
+      "sha256": "2136fc76a71eceb5f7c5a5570b6df9e28e62aa768b8bce4f81fdca9e3f006bff"
     }
   ],
   "duplicate_message_ids": [
