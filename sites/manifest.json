@@ -11451,6 +11451,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23422.png",
       "sha256": "b2c39eb792dfc009bfe389be674095daf176deba40d39f042c7482adfb832e3d"
+    },
+    {
+      "message_id": 23420,
+      "filename": "2027 강대모의고사K+ 물리학1 1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23420_2027.K%2B.1.1.pdf",
+      "size_bytes": 4570396,
+      "telegram_date": "2026-08-19T14:54:42+00:00",
+      "title": "물1 강대모의고사K+ 1회 #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/23420.png",
+      "sha256": "ff1ce7af796cb66439262b860c8855aa36856a22fdd69fddd5821bbacdff30b8"
     }
   ],
   "duplicate_message_ids": [
