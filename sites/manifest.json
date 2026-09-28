@@ -10863,6 +10863,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23490.png",
       "sha256": "bb6505ea2b7cb7dd142c15077e3b5f21ead412bba0c691060a180653992e1feb"
+    },
+    {
+      "message_id": 23484,
+      "filename": "사문_서바전국_05_260809_020943.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23484_._._05_260809_020943.pdf",
+      "size_bytes": 20062821,
+      "telegram_date": "2026-08-20T14:35:25+00:00",
+      "title": "사문 시대인재 서바이벌 전국 모의고사 5회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23484.png",
+      "sha256": "3c0ba6b0ce5981a2daff2e48174a905a2a31f40b11c7bf1007c09444c44c56cf"
     }
   ],
   "duplicate_message_ids": [
