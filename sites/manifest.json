@@ -11913,6 +11913,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23372.png",
       "sha256": "cfd46506665c89391c2f32c8da87bb009b3da55c572e48482c12998026a84d3f"
+    },
+    {
+      "message_id": 23371,
+      "filename": "2027 SSG 모의고사 1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23371_2027.SSG.1.pdf",
+      "size_bytes": 3751990,
+      "telegram_date": "2026-08-16T15:31:42+00:00",
+      "title": "수학 SSG 모의고사 1회",
+      "year": "2027",
+      "instructor": "신성규",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23371.png",
+      "sha256": "e08b4deff50f9d64c647eb5be1e49c523dd147e075f84bab3af6e1c6bee4721b"
     }
   ],
   "duplicate_message_ids": [
