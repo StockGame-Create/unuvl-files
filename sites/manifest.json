@@ -16155,6 +16155,20 @@
       "subject": "과학",
       "thumbnail": "thumbnails/22856.png",
       "sha256": "3fb9fffde7c0573284a372e587d571ba56d896b26bd10832c594cbffa2067382"
+    },
+    {
+      "message_id": 22855,
+      "filename": "지구시스템과학_본문(학생용) (22개정).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22855_._.22.pdf",
+      "size_bytes": 39270547,
+      "telegram_date": "2026-07-28T16:00:24+00:00",
+      "title": "과학 HIGH TOP 역학과 에너지, 물질과 에너지, 지구시스템과학, 세포와 물질대사",
+      "year": null,
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/22855.png",
+      "sha256": "e076c2c7701477cbaf263987d1d0479efb207af27f5b11eb8757f6d2a54b48ad"
     }
   ],
   "duplicate_message_ids": [
