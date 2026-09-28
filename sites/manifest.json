@@ -11717,6 +11717,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23395.png",
       "sha256": "32f9a1aaaf5750046a7e108cc504b5244e5f595fd96dc0b7014408516a231604"
+    },
+    {
+      "message_id": 23393,
+      "filename": "최지욱 불도저 2권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23393_.2.pdf",
+      "size_bytes": 136074723,
+      "telegram_date": "2026-08-18T12:58:39+00:00",
+      "title": "수학 최지욱 BULLDOZER 2권",
+      "year": "2027",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23393.png",
+      "sha256": "960662fca58909be0f74f59d5218f6114e5a94d72f0997be999f6b9eb3d4c38a"
     }
   ],
   "duplicate_message_ids": [
