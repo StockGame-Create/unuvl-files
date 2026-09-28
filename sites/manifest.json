@@ -7699,6 +7699,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/23880.png",
       "sha256": "b3a88afc045985d049425757c6da8e3ccd813c4a4fd1b8c22e3e05e7e24c2c54"
+    },
+    {
+      "message_id": 23875,
+      "filename": "유대종 모의고사 01회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23875_.01.pdf",
+      "size_bytes": 26456844,
+      "telegram_date": "2026-09-02T13:26:41+00:00",
+      "title": "국어 유대종 모의고사 1회",
+      "year": "2027",
+      "instructor": "유대종",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23875.png",
+      "sha256": "3305f1e518b8c7d19e2164098cb04a2706184dfce003d7d52e85b50d129c330a"
     }
   ],
   "duplicate_message_ids": [
