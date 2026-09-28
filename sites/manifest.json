@@ -11311,6 +11311,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23435.png",
       "sha256": "c390c67bf2ae7cf0072323f0cce95ee24a8db13a8f76c7ee8534799ba544cafb"
+    },
+    {
+      "message_id": 23434,
+      "filename": "2027학년도_이해원_모의고사_시즌2_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23434_2027._._._.2_2.pdf",
+      "size_bytes": 2074342,
+      "telegram_date": "2026-08-19T14:54:54+00:00",
+      "title": "수학 이해원 모의고사 시즌2 0~2회 #이해원모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23434.png",
+      "sha256": "cf9f423249f3b3565b69f6f7892bda8b751cfa978a2b0910269c9813b5d37885"
     }
   ],
   "duplicate_message_ids": [
