@@ -15245,6 +15245,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/22955.png",
       "sha256": "8c96141984c86dea9eb29837603d53873d219b035a0983d783e396d31f0f238a"
+    },
+    {
+      "message_id": 22953,
+      "filename": "2027_지2_서바_1회_&_2회_해설포함.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22953_2027_.2_._1._._2._.pdf",
+      "size_bytes": 17916054,
+      "telegram_date": "2026-08-01T17:13:44+00:00",
+      "title": "지2 나진환 서바이벌 모의고사 1, 2회",
+      "year": "2027",
+      "instructor": "나진환",
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/22953.png",
+      "sha256": "e9bca249d2c0a20e870ace3bdbc8ea1ce55e44366e08c485369673fbd8b7eb48"
     }
   ],
   "duplicate_message_ids": [
