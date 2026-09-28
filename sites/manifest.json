@@ -11549,6 +11549,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23411.png",
       "sha256": "b6c40ed90b6167334f2f003a1105c965e265cc63557bb872e1c3ae6090584af1"
+    },
+    {
+      "message_id": 23409,
+      "filename": "간쓸개 SEASON5 2 해설편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23409_.SEASON5.2.pdf",
+      "size_bytes": 60900829,
+      "telegram_date": "2026-08-18T12:58:52+00:00",
+      "title": "국어 간쓸개 시즌5 2권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23409.png",
+      "sha256": "5dcb74148f0ffe305e088f09dcc6723f45609f6c2831fcac04686232ee803c25"
     }
   ],
   "duplicate_message_ids": [
