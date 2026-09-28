@@ -7643,6 +7643,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23886.png",
       "sha256": "9d41f05b7da2508b216967bea789229abca495bed20a86637e84237bf6cd0d88"
+    },
+    {
+      "message_id": 23884,
+      "filename": "이감 5-8 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23884_.5-8.pdf",
+      "size_bytes": 63677538,
+      "telegram_date": "2026-09-02T13:30:22+00:00",
+      "title": "국어 이감 파이널I 시즌 5-8차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23884.png",
+      "sha256": "d1cddb7dcee611d19da1361341c3daac4d6067619743d32a61eb234c025a9f06"
     }
   ],
   "duplicate_message_ids": [
