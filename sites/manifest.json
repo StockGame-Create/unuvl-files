@@ -13257,6 +13257,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23170.png",
       "sha256": "4cd59a9d9b741f126e1f69eb716116730466062acfc5071a1bcdfe1052a5f200"
+    },
+    {
+      "message_id": 23169,
+      "filename": "스캔_문서,_2026_8_8_오후_10_27_04.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23169_._._2026_8_8_._10_27_04.pdf",
+      "size_bytes": 80213844,
+      "telegram_date": "2026-08-08T15:38:38+00:00",
+      "title": "국어 이감 파이널I(시즌5) 제 4차 예비평가 (폰스캔) #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23169.png",
+      "sha256": "5c47c75e329774da4ff76c18c336e415947775159c3f6206add4fe2eff06e95e"
     }
   ],
   "duplicate_message_ids": [
