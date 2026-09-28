@@ -14321,6 +14321,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23082.png",
       "sha256": "fdd2a96dbc76a9723e6a8e58fba6f97f37a3bd07f04d036c5dc134a51472a811"
+    },
+    {
+      "message_id": 23080,
+      "filename": "상상 시즌4 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23080_.4.1.pdf",
+      "size_bytes": 21548925,
+      "telegram_date": "2026-08-05T15:03:55+00:00",
+      "title": "국어 파이널1 1차 모의고사 상상 국어평가연구소 #상상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23080.png",
+      "sha256": "36b34e6827452865827f6dc84040c7ade5e4d0699fb3109901212051a7d2f39d"
     }
   ],
   "duplicate_message_ids": [
