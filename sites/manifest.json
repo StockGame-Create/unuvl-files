@@ -13565,6 +13565,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23136.png",
       "sha256": "a72354067ec642d71634e06289725392d1f24a27531903deb13a2e03f0635008"
+    },
+    {
+      "message_id": 23134,
+      "filename": "강x s2 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23134_.x.s2.5.pdf",
+      "size_bytes": 8847984,
+      "telegram_date": "2026-08-08T04:55:17+00:00",
+      "title": "수학 강대X 시즌2 5회 #강x",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23134.png",
+      "sha256": "653d8a10e15341bd4414101ea9504c321a3ff01f29491f31e64c072b49708b81"
     }
   ],
   "duplicate_message_ids": [
