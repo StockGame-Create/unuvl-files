@@ -15161,6 +15161,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22966.png",
       "sha256": "dba619147d5b780104f72092675fd54885a79371cb66cfb8e0bbe59c86521022"
+    },
+    {
+      "message_id": 22965,
+      "filename": "2027 수학 브릿지 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22965_2027.3.pdf",
+      "size_bytes": 2833439,
+      "telegram_date": "2026-08-01T17:14:13+00:00",
+      "title": "수학 시대인재 브릿지 모의고사 2~4회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22965.png",
+      "sha256": "c1d3af8ea0e5e3376aa47cd13ed78f480f7e0e7f0ad98d21a97cd52508c14113"
     }
   ],
   "duplicate_message_ids": [
