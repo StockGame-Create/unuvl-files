@@ -7881,6 +7881,20 @@
       "subject": "과학",
       "thumbnail": "thumbnails/23847.png",
       "sha256": "397323db855b6698be6b297daf1faba29367dc6a22860494413cda73fa6e7c80"
+    },
+    {
+      "message_id": 23846,
+      "filename": "1등급_만들기_역학과에너지_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23846_1._._._.pdf",
+      "size_bytes": 21314268,
+      "telegram_date": "2026-08-31T15:28:15+00:00",
+      "title": "과학 1등급 만들기 역학과 에너지",
+      "year": null,
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/23846.png",
+      "sha256": "eef8e884379304626eaa34a97532805bba395b6b8f690a393f839ce9c0e07003"
     }
   ],
   "duplicate_message_ids": [
