@@ -12851,6 +12851,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23234.png",
       "sha256": "d6ad4c97c52eb328fcc010e4c434acb8c0e718d1880f70654535111b0fcc45a4"
+    },
+    {
+      "message_id": 23233,
+      "filename": "[강대K] 수학 8회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23233_.K.8.pdf",
+      "size_bytes": 3351316,
+      "telegram_date": "2026-08-11T14:21:45+00:00",
+      "title": "수학 강대모의고사K 8회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23233.png",
+      "sha256": "2611dfb0e49053f30388ad65399785842ac3f79b294b0de85a64c81159f64a6d"
     }
   ],
   "duplicate_message_ids": [
