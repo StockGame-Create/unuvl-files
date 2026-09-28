@@ -9127,6 +9127,20 @@
       "subject": "통합사회",
       "thumbnail": "thumbnails/23713.png",
       "sha256": "e437a3e1f93768feb5d481d195092ed0c52f223a52d104c4ebfd6a3ea49db7d7"
+    },
+    {
+      "message_id": 23711,
+      "filename": "2027학년도_정병호_딥마인드100제_수학Ⅰ+Ⅱ_빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23711_2027._._.100._.%2B._.pdf",
+      "size_bytes": 52655,
+      "telegram_date": "2026-08-26T08:08:46+00:00",
+      "title": "수학 딥마인드 100제 수학1+수학2",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23711.png",
+      "sha256": "ca774ba74dfe0d06c8e3cfc7c813d9aa2e34a6666a646fbd08e242cf7099b943"
     }
   ],
   "duplicate_message_ids": [
