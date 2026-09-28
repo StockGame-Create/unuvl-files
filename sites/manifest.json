@@ -9659,6 +9659,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23637.png",
       "sha256": "0cb6ca3ee6b2096c95694addb467e2fedc50928b40655aeba3a5225396257d0e"
+    },
+    {
+      "message_id": 23636,
+      "filename": "2027학년도 9월 대비 스포일러 모의고사 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23636_2027.9.1.pdf",
+      "size_bytes": 1718990,
+      "telegram_date": "2026-08-23T14:39:25+00:00",
+      "title": "수학 2027학년도 9월 대비 김동환 스포일러 모의고사",
+      "year": "2027",
+      "instructor": "김동환",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23636.png",
+      "sha256": "9f0569667c73098a859f549d24f0f6ce160932c19051479da853ed858d461ba6"
     }
   ],
   "duplicate_message_ids": [
