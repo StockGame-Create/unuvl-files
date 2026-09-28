@@ -14755,6 +14755,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23020.png",
       "sha256": "2068de2ce3d936d5c2d5bbe8b8eaf7bd0b685a0011a929341fe76db142bcb45f"
+    },
+    {
+      "message_id": 23017,
+      "filename": "27 생명 서바 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23017_27.4.pdf",
+      "size_bytes": 7358068,
+      "telegram_date": "2026-08-02T16:00:34+00:00",
+      "title": "생1 시대인재 서바이벌 모의고사 4회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/23017.png",
+      "sha256": "d2da5410b8355578cf7c72f7969d470b08ca6dc36fa8ce588577d8c1f0b1c68e"
     }
   ],
   "duplicate_message_ids": [
