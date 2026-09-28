@@ -9057,6 +9057,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23719.png",
       "sha256": "6b8565caec45730da7bedda8a6687b0e520a8132126ad0bac26fe87257600cc2"
+    },
+    {
+      "message_id": 23718,
+      "filename": "2027 THE HURDLING 수학Ⅰ.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23718_2027.THE.HURDLING.pdf",
+      "size_bytes": 13423723,
+      "telegram_date": "2026-08-26T10:45:07+00:00",
+      "title": "수학 THE HURDLING 수학1, 수학2",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23718.png",
+      "sha256": "d0a0176e5401b984c04f20214dfc2412dc2e00179108388d1121a9587a7100ff"
     }
   ],
   "duplicate_message_ids": [
