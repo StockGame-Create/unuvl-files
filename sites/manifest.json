@@ -13411,6 +13411,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23152.png",
       "sha256": "41e4dce9b9acf5bf04848a6788a83fa11ede594dd9674b883e4136686cf9d2fd"
+    },
+    {
+      "message_id": 23150,
+      "filename": "2027 생명과학1 강k 6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23150_2027.1.k.6.pdf",
+      "size_bytes": 6065191,
+      "telegram_date": "2026-08-08T14:34:40+00:00",
+      "title": "생1 강대모의고사K 5, 6회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/23150.png",
+      "sha256": "432e7d34161f5d2e00edefc1016a9ec5e3b9b8a9c286c7b30530dabac1817c46"
     }
   ],
   "duplicate_message_ids": [
