@@ -14587,6 +14587,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23035.png",
       "sha256": "e75b3d4757e99f7f26e050b35e8bb69a13e18c28bc8169719d6827f2857f3060"
+    },
+    {
+      "message_id": 23034,
+      "filename": "2027 이해원 N제 시즌2 미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23034_2027.N.2.pdf",
+      "size_bytes": 17603559,
+      "telegram_date": "2026-08-04T01:43:44+00:00",
+      "title": "수학 2027 이해원 N제 시즌2 미적분",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23034.png",
+      "sha256": "0b055bcb56c577d64f6c29cea1e8434eed818ea81ca74c5f843edcf537691700"
     }
   ],
   "duplicate_message_ids": [
