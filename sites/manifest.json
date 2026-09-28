@@ -13075,6 +13075,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/23197.png",
       "sha256": "cf2e7af5203a7b9395a9bdd8522cafc93919b3a0a55c44ba2e98b4a1032d35d6"
+    },
+    {
+      "message_id": 23195,
+      "filename": "EBS_올림포스_고난도_확률과_통계_22개정_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23195_EBS_._._._._22._.pdf",
+      "size_bytes": 138561974,
+      "telegram_date": "2026-08-10T05:05:43+00:00",
+      "title": "수학 올림포스 고난도 확률과 통계",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23195.png",
+      "sha256": "18c9b3a6faf23abf2eea655073ee9f452348b0fb4ba5d6c64d600acbdc530e6c"
     }
   ],
   "duplicate_message_ids": [
