@@ -7993,6 +7993,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/23833.png",
       "sha256": "5d7200ba4a0693c345ec05cdd3a83fa3c4fc20f04e862dbd9d01904f30ffc535"
+    },
+    {
+      "message_id": 23831,
+      "filename": "22개정완자_고등화학반응의세계26_정답친해.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23831_22._.26_.pdf",
+      "size_bytes": 7742322,
+      "telegram_date": "2026-08-31T10:25:12+00:00",
+      "title": "과학 완자 화학 반응의 세계",
+      "year": null,
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/23831.png",
+      "sha256": "fe43caf179018d9c7ef5a33b0c2de93bc78807800cb32d5789c30d97c8f84c82"
     }
   ],
   "duplicate_message_ids": [
