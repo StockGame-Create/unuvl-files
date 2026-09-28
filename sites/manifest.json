@@ -8091,6 +8091,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23823.png",
       "sha256": "11c6160f542f693b65b7e280c42ad220f3d2612cde5115c4f609a2d8901a3576"
+    },
+    {
+      "message_id": 23822,
+      "filename": "이감 5-6 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23822_.5-6.pdf",
+      "size_bytes": 13660992,
+      "telegram_date": "2026-08-30T13:33:45+00:00",
+      "title": "국어 이감 파이널I(시즌5) 제 6차 예비평가 #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23822.png",
+      "sha256": "e2d88efc12a801722945e882522c313bac85e47065888df942594de445cc7dca"
     }
   ],
   "duplicate_message_ids": [
