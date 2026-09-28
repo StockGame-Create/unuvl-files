@@ -13341,6 +13341,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23157.png",
       "sha256": "5eeb01e7df9915430eeefe5f7c13258a9ffdbbaa40e0a160cdc3cab957b22fad"
+    },
+    {
+      "message_id": 23156,
+      "filename": "숏컷 5권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23156_.5.pdf",
+      "size_bytes": 65061013,
+      "telegram_date": "2026-08-08T14:34:40+00:00",
+      "title": "수학 시대인재 SHORTCUT 수1 3~5권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23156.png",
+      "sha256": "97bed4f61a2d4474e7944d48b6d2d7ec6a4fbbce33c877737fd8bde2cf0af2c4"
     }
   ],
   "duplicate_message_ids": [
