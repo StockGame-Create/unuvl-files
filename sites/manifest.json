@@ -9155,6 +9155,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23710.png",
       "sha256": "3908177ac09d7e24c0301a8c091392b3dcd466860104714a11d5d386b4859e79"
+    },
+    {
+      "message_id": 23709,
+      "filename": "2027학년도_정병호_딥마인드100제_수학Ⅰ+Ⅱ_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23709_2027._._.100._.%2B._.pdf",
+      "size_bytes": 10485636,
+      "telegram_date": "2026-08-26T08:08:45+00:00",
+      "title": "수학 딥마인드 100제 수학1+수학2",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23709.png",
+      "sha256": "6e861158c08adc454918cf5da273e58d72717fe8ffcfee0c401c311202488672"
     }
   ],
   "duplicate_message_ids": [
