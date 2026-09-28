@@ -8259,6 +8259,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23805.png",
       "sha256": "4c63a0c73852a6c41759eb678739cfcef0deee5168cf96fa1c402eadfcff1004"
+    },
+    {
+      "message_id": 23803,
+      "filename": "풀리스트_경제_시즌2_1회_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23803_._._.2_1._.pdf",
+      "size_bytes": 7632196,
+      "telegram_date": "2026-08-29T04:48:21+00:00",
+      "title": "경제 FULLEST 시즌2 1, 2회",
+      "year": "2027",
+      "instructor": "우영호",
+      "subject": "경제",
+      "thumbnail": "thumbnails/23803.png",
+      "sha256": "d18c9473f15af5524c9a333d696ccb121402bb6ae931274529cfc141799a3b30"
     }
   ],
   "duplicate_message_ids": [
