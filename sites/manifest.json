@@ -13327,6 +13327,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23158.png",
       "sha256": "70372ce6084f191624dda0c91e9b8b8520ab61e902e1eb7abef3fe3e3b857582"
+    },
+    {
+      "message_id": 23157,
+      "filename": "숏컷 답지 5권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23157_.5.pdf",
+      "size_bytes": 24960912,
+      "telegram_date": "2026-08-08T14:34:40+00:00",
+      "title": "수학 시대인재 SHORTCUT 수1 3~5권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23157.png",
+      "sha256": "5eeb01e7df9915430eeefe5f7c13258a9ffdbbaa40e0a160cdc3cab957b22fad"
     }
   ],
   "duplicate_message_ids": [
