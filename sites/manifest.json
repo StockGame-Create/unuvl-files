@@ -13873,6 +13873,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23106.png",
       "sha256": "0a5bf735e96fbb71b42a477d7583bda194381bea1e103a0e6262a2206d00704d"
+    },
+    {
+      "message_id": 23104,
+      "filename": "강k+ 지1 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23104_.k%2B.1.4.pdf",
+      "size_bytes": 5029307,
+      "telegram_date": "2026-08-06T17:53:19+00:00",
+      "title": "지1 강대모의고사K+ 4회 #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23104.png",
+      "sha256": "9fbcad0a222b5097a6b18eff3d6ece14bcd95dea09bbac7070279d095d0a139b"
     }
   ],
   "duplicate_message_ids": [
