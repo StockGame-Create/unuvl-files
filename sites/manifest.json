@@ -14895,6 +14895,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23005.png",
       "sha256": "192166b02ae6ac023a0d2128a0ec100153107d6227fc7a956258d6c954efb978"
+    },
+    {
+      "message_id": 23004,
+      "filename": "2027+김현우T+파이널+1주차+수업+프리뷰테스트_빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23004_2027%2B.T%2B.%2B1.%2B.%2B._.pdf",
+      "size_bytes": 18789,
+      "telegram_date": "2026-08-02T15:48:12+00:00",
+      "title": "수학 김현우T 정규반 프리뷰 테스트 파이널 1주차",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23004.png",
+      "sha256": "c34af9d90ac272fa9d4c3fc2b4469a72927c6d98167e2abdaa6483cd22f03c6e"
     }
   ],
   "duplicate_message_ids": [
