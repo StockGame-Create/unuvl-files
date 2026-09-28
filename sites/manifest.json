@@ -12445,6 +12445,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23312.png",
       "sha256": "5d9c1d2fe13e87f1b3b0d4fa6bff1aef5605f5f26d679df433719b24376c7ab5"
+    },
+    {
+      "message_id": 23311,
+      "filename": "문학의 축.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23311_.pdf",
+      "size_bytes": 8651346,
+      "telegram_date": "2026-08-13T15:40:51+00:00",
+      "title": "국어 문학, 시간의 축 모의고사 1~3회",
+      "year": "2027",
+      "instructor": "박광일",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23311.png",
+      "sha256": "46959f5de1a66420d141d38933f7fd1ba67ae61a4057a0cf7220e93f05a9cf10"
     }
   ],
   "duplicate_message_ids": [
