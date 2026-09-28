@@ -15707,6 +15707,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/22900.png",
       "sha256": "535b45125ebf57390a0362aa1e67f23bd26642927b812e2feef8119f774d7379"
+    },
+    {
+      "message_id": 22897,
+      "filename": "강k_6회_확통_미적.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22897_.k_6._._.pdf",
+      "size_bytes": 10667952,
+      "telegram_date": "2026-07-29T17:12:41+00:00",
+      "title": "수학 강대모의고사K 6회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22897.png",
+      "sha256": "ef00e892a60f5c7abe8d5eb56e6382662923bbd27f453e2d9aee276ff5225fcc"
     }
   ],
   "duplicate_message_ids": [
