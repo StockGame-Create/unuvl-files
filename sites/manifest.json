@@ -15007,6 +15007,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22989.png",
       "sha256": "e08a2cc15ba27235898c7a1dffb4ce28ec3ca5a9233694ad6ab9f95c69885e39"
+    },
+    {
+      "message_id": 22988,
+      "filename": "수학 강k 3회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22988_.k.3.pdf",
+      "size_bytes": 8520574,
+      "telegram_date": "2026-08-02T15:48:11+00:00",
+      "title": "수학 강대모의고사K 3회, 4회 #강k (기하O)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22988.png",
+      "sha256": "befd89f36be800a5447610287301111372d23d14aac51248a3ec1335860cd2b8"
     }
   ],
   "duplicate_message_ids": [
