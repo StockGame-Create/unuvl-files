@@ -14629,6 +14629,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23029.png",
       "sha256": "2d7f832e012470cbd192d85514a498659b2696e513ca27f86c6de3503095b89f"
+    },
+    {
+      "message_id": 23028,
+      "filename": "2027 수학 강k 6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23028_2027.k.6.pdf",
+      "size_bytes": 32520135,
+      "telegram_date": "2026-08-02T16:05:56+00:00",
+      "title": "수학 강대모의고사K 2~6회 #강k (확통X, 미적X)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23028.png",
+      "sha256": "60a01112d01d49cc233195e801cafce9868e0738eb5ca75d45f142e55396d728"
     }
   ],
   "duplicate_message_ids": [
