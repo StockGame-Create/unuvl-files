@@ -85,6 +85,20 @@
       "sha256": "29ab521668fafe3bfa3073e17265d86343f4995691a6e880fc33f4b85a00b8eb"
     },
     {
+      "message_id": 24757,
+      "filename": "2027 바탕 모의고사 8회 문제 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/24757_2027.8.pdf",
+      "size_bytes": 28213792,
+      "telegram_date": "2026-09-28T14:26:54+00:00",
+      "title": "국어 바탕 8회 모의고사 #바탕",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24757.png",
+      "sha256": "0fb6a007163e667442fd238640c2da7bfc3aee75453ba5125c3b6cc84cbd6a54"
+    },
+    {
       "message_id": 24735,
       "filename": "시즌2 교재해설.pdf",
       "stored_as": null,
