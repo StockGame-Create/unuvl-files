@@ -11689,6 +11689,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23397.png",
       "sha256": "12a3c49f15fbfbf0c7263983fb771009a916022af66841dbbf4e377bcbef005d"
+    },
+    {
+      "message_id": 23396,
+      "filename": "어댑터 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23396_.pdf",
+      "size_bytes": 208906271,
+      "telegram_date": "2026-08-18T12:58:41+00:00",
+      "title": "사문 ADAPTER N제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23396.png",
+      "sha256": "9d7b92bb256297048196739d4a3ba4d29e5c05f26425972d87f5b3aa0d5d7c43"
     }
   ],
   "duplicate_message_ids": [
