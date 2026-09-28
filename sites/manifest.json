@@ -7755,6 +7755,20 @@
       "subject": "과학",
       "thumbnail": "thumbnails/23869.png",
       "sha256": "f2baf6dbcefa31efb8ae32f540851a00d3fb4885edda7911ca65ad26a49dd25d"
+    },
+    {
+      "message_id": 23868,
+      "filename": "22개정고등_하이탑_생물의_유전정답과_해설_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23868_22._._._._._1.pdf",
+      "size_bytes": 4030054,
+      "telegram_date": "2026-09-02T13:26:32+00:00",
+      "title": "과학 22개정 세포와 물질대사, 생물의 유전",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/23868.png",
+      "sha256": "4f533fcf3d8181089cb2172af5f73cd0ac32da1617de0a936d70a971b17e7f7d"
     }
   ],
   "duplicate_message_ids": [
