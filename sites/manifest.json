@@ -11493,6 +11493,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23417.png",
       "sha256": "c7db1cfaf9bccb7467f0851a38dc5dec3e698e4940a4cdc36d1fc5b5cc0804fb"
+    },
+    {
+      "message_id": 23415,
+      "filename": "Scan.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23415_Scan.pdf",
+      "size_bytes": 2850138,
+      "telegram_date": "2026-08-19T12:56:11+00:00",
+      "title": "사회 8월 전국 대단위 실전 모의고사 (사문, 정법 ×) #전대실모",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/23415.png",
+      "sha256": "4e6c503189143164d9d0b58d73de9af4046378f22613389898cc1fe09da44e58"
     }
   ],
   "duplicate_message_ids": [
