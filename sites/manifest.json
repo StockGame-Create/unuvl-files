@@ -15945,6 +15945,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22875.png",
       "sha256": "640c4768e26cb78a2280304e80de1ee135d0a8ae79a761551f413b908843d8ca"
+    },
+    {
+      "message_id": 22874,
+      "filename": "_2027_고난도_마더텅_미니_모고_고3_국어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22874__2027_._._._._.3_.pdf",
+      "size_bytes": 2512784,
+      "telegram_date": "2026-07-28T16:00:39+00:00",
+      "title": "국어 마더텅 수능기출 20분 고난도 미니모의고사 국어",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22874.png",
+      "sha256": "15d2a890e028dd2b489cf68dceacfa0714737a3c76efe86b07f40f02a8d229ce"
     }
   ],
   "duplicate_message_ids": [
