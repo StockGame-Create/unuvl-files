@@ -15679,6 +15679,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22903.png",
       "sha256": "c1254a341f777e875a4052e26db6a905889c0915e4b63bd6da3a6ec1483f621c"
+    },
+    {
+      "message_id": 22901,
+      "filename": "코드원 생윤 7회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22901_.7._.pdf",
+      "size_bytes": 86705416,
+      "telegram_date": "2026-07-29T17:12:46+00:00",
+      "title": "생윤 코드원 모의고사 7회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/22901.png",
+      "sha256": "7fae5f3a58ad2c208fa653b06a01f67fd4b768b3eaf3eb3a9144a56b68bd392d"
     }
   ],
   "duplicate_message_ids": [
