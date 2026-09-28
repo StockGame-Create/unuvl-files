@@ -7391,6 +7391,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23916.png",
       "sha256": "b6a3169d660399f388b1db1d1c71d23e82ae3bec55a898993a23d2d55595f007"
+    },
+    {
+      "message_id": 23914,
+      "filename": "사문 강k 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23914_.k.7.pdf",
+      "size_bytes": 63498052,
+      "telegram_date": "2026-09-04T13:08:08+00:00",
+      "title": "사문 강대모의고사K 7회  #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23914.png",
+      "sha256": "3118cadf6207ba78cab59ef032d0b9781ff4c35751c97651a65d1cb3108eac11"
     }
   ],
   "duplicate_message_ids": [
