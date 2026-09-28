@@ -9827,6 +9827,20 @@
       "subject": null,
       "thumbnail": "thumbnails/23618.png",
       "sha256": "b9d2c23daad1bce5a2618c1e88a66d0bc03f3f4f84f2dfec3931977a0087c49e"
+    },
+    {
+      "message_id": 23617,
+      "filename": "7월 메가 전대 실모 과탐_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23617_7._.pdf",
+      "size_bytes": 42815115,
+      "telegram_date": "2026-08-22T13:55:41+00:00",
+      "title": "전과목 7월 전국 대단위 실전 모의고사 #전대실모",
+      "year": "2027",
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/23617.png",
+      "sha256": "dc1f298504940340685b715909f757f290053931b7debcdec79ae96631130a3c"
     }
   ],
   "duplicate_message_ids": [
