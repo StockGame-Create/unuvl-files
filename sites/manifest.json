@@ -10737,6 +10737,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23504.png",
       "sha256": "f8b69f0d841055a385aed304a7406f0685877262a0b2c246f761e05ce44d6ea0"
+    },
+    {
+      "message_id": 23503,
+      "filename": "상상_퍼플_리마스터링_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23503_._._._1.pdf",
+      "size_bytes": 71687399,
+      "telegram_date": "2026-08-21T15:55:05+00:00",
+      "title": "국어 상상국어 리마스터링 모의고사 퍼플 1~3회 #상상",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23503.png",
+      "sha256": "2404e2277644fb954c89063fba9f3c0c7ea3169ae001b0a1c8530bb5194bb366"
     }
   ],
   "duplicate_message_ids": [
