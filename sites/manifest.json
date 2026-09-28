@@ -9505,6 +9505,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/23659.png",
       "sha256": "5f94a917d21286c22da927f1b334425e4fc5c0f06c3ab8873c388595e62ef541"
+    },
+    {
+      "message_id": 23656,
+      "filename": "오지모 S2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23656_.S2.pdf",
+      "size_bytes": 16713487,
+      "telegram_date": "2026-08-24T10:24:09+00:00",
+      "title": "지1 오지훈 OZ 모의고사 시즌2 1~4회",
+      "year": "2027",
+      "instructor": "오지훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23656.png",
+      "sha256": "c174ab874fc8f443a1edf7f3d1abede55c6b8328c547f48f24cde457504f21ce"
     }
   ],
   "duplicate_message_ids": [
