@@ -9687,6 +9687,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/23633.png",
       "sha256": "7211e65639ef574dab6eec9464b17e171d4270dfac3e36e2c64df802519f52ab"
+    },
+    {
+      "message_id": 23632,
+      "filename": "현모 the Red Vol 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23632_.the.Red.Vol.1.pdf",
+      "size_bytes": 5838047,
+      "telegram_date": "2026-08-23T03:26:52+00:00",
+      "title": "물1 2027 현정훈 the Red vol1 9회 문제지",
+      "year": "2027",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/23632.png",
+      "sha256": "ac2708dfd926e2ba5ed61be9b415e381c57a4028be4765edb133495d3ba2979b"
     }
   ],
   "duplicate_message_ids": [
