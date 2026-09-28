@@ -24,6 +24,10 @@
 - PDF 첫 페이지를 이미지로 렌더링해서 썸네일로 저장합니다 (sites/thumbnails/).
 - 2026-09-04 이후에 올라온 메시지만 대상으로 하며, 그보다 오래된 메시지가
   나오면 캐치업 스캔을 그 자리에서 중단합니다.
+- (v4) GitHub은 release 하나에 자산 1000개까지만 허용하므로, release를 번호로
+  나눠 씁니다 (large-files -> large-files-2 -> large-files-3 ...). 업로드 전에
+  자산 개수를 세어 990개에 닿으면 다음 release로 넘어가고, 그래도 422
+  (file_count)가 나면 재시도 없이 바로 다음 release로 전환합니다.
 - (v3) 파일 크기와 상관없이 모든 PDF를 GitHub Release 자산(asset)으로 업로드
   하고, 그 다운로드 URL만 manifest.json에 기록합니다. git commit으로는 더
   이상 아무 PDF도 저장하지 않습니다. 1.9GB를 초과하면 건너뜁니다.
@@ -93,7 +97,11 @@ CUTOFF = datetime(2025, 2, 4, tzinfo=timezone.utc)
 # 별도 과금되는 대역폭 쿼터도 없다. manifest.json에는 로컬 경로 대신
 # 다운로드 URL만 기록한다 (index.html이 download_url 유무로 분기해서
 # 다운로드 링크를 만듦).
-RELEASE_TAG = "large-files"              # 파일을 모아두는 release 태그(1개만 사용, 없으면 자동 생성)
+RELEASE_TAG = "large-files"              # release 태그의 기본 이름. 1번은 이 이름 그대로, 2번부터 -2, -3 ... 자동 생성
+RELEASE_ASSET_LIMIT = 1000               # GitHub이 release 하나에 허용하는 자산 개수 상한 (참고용)
+RELEASE_SOFT_LIMIT = 990                 # 이 개수에 닿으면 다음 release로 넘어감 (상한에 딱 맞추면 아슬아슬해서 여유를 둠)
+MAX_RELEASE_INDEX = 200                  # release 번호 상한 (무한 루프 방지용 안전장치)
+MAX_ROTATIONS_PER_UPLOAD = 5             # 파일 하나 올리다가 release를 연달아 바꿀 수 있는 최대 횟수
 MAX_SIZE_BYTES = 1900 * 1024 * 1024      # GitHub release asset 한도(2GB)에 여유를 둔 최종 상한
 
 # 썸네일 이미지의 가로 폭 (px). PDF 첫 페이지를 이 폭에 맞춰 렌더링함.
@@ -337,8 +345,12 @@ def trigger_next_run() -> None:
         print(f"[다음 실행 예약 실패] {e}", flush=True)
 
 
-# ---- GitHub Release 자산 업로드 (95MB~1.9GB 대용량 PDF 전용) ----------------
-_release_cache: dict = {"id": None}
+# ---- GitHub Release 자산 업로드 (샤딩: 1000개 제한 대응) ---------------------
+# GitHub은 release 하나당 자산을 최대 1000개까지만 허용한다(초과 시 HTTP 422
+# "file_count limited to 1000 assets per release"). 그래서 release를 번호로
+# 나눠서 쓴다: large-files(1번) -> large-files-2 -> large-files-3 ...
+# 이미 올라간 파일은 manifest의 download_url에 태그가 박혀 있으므로 영향 없다.
+_release_state: dict = {"index": 1, "id": None, "count": None}
 
 
 def _github_headers() -> dict:
@@ -349,32 +361,67 @@ def _github_headers() -> dict:
     }
 
 
-def _get_or_create_release_id() -> int | None:
-    """대용량 파일을 모아둘 release 하나를(RELEASE_TAG) 찾아서 id를 반환.
-    없으면 새로 만든다. 한 실행 안에서는 캐시해서 API를 반복 호출하지 않는다."""
-    if _release_cache["id"] is not None:
-        return _release_cache["id"]
+def _tag_for_index(index: int) -> str:
+    """1번은 기존 태그(large-files) 그대로, 2번부터는 large-files-2, -3 ..."""
+    return RELEASE_TAG if index == 1 else f"{RELEASE_TAG}-{index}"
 
+
+def _count_release_assets(release_id: int) -> int | None:
+    """release에 실제로 올라가 있는 자산 개수를 API로 센다 (페이지네이션 처리)."""
+    total = 0
+    for page in range(1, 51):  # 최대 5000개까지 (사실상 무제한)
+        url = (
+            f"https://api.github.com/repos/{GITHUB_REPOSITORY}/releases/"
+            f"{release_id}/assets?per_page=100&page={page}"
+        )
+        req = urllib.request.Request(url, headers=_github_headers())
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                items = json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            print(f"    [release 자산 개수 조회 실패] HTTP {e.code}: {e.read().decode('utf-8', 'ignore')}", flush=True)
+            return None
+        except Exception as e:
+            print(f"    [release 자산 개수 조회 실패] {e}", flush=True)
+            return None
+        total += len(items)
+        if len(items) < 100:
+            break
+    return total
+
+
+def _load_release(index: int) -> tuple[int, int] | None:
+    """index번 release를 찾아 (id, 현재 자산 개수)를 반환. 없으면 새로 만든다."""
+    tag = _tag_for_index(index)
     api_base = f"https://api.github.com/repos/{GITHUB_REPOSITORY}/releases"
 
-    req = urllib.request.Request(f"{api_base}/tags/{RELEASE_TAG}", headers=_github_headers())
+    release_id = None
+    req = urllib.request.Request(f"{api_base}/tags/{tag}", headers=_github_headers())
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-            _release_cache["id"] = data["id"]
-            return data["id"]
+            release_id = json.loads(resp.read().decode("utf-8"))["id"]
     except urllib.error.HTTPError as e:
         if e.code != 404:
-            print(f"    [release 조회 실패] HTTP {e.code}: {e.read().decode('utf-8', 'ignore')}", flush=True)
+            print(f"    [release 조회 실패] tag={tag} HTTP {e.code}: {e.read().decode('utf-8', 'ignore')}", flush=True)
             return None
     except Exception as e:
-        print(f"    [release 조회 실패] {e}", flush=True)
+        print(f"    [release 조회 실패] tag={tag} {e}", flush=True)
         return None
 
+    if release_id is not None:
+        count = _count_release_assets(release_id)
+        if count is None:
+            return None
+        print(f"    [release 사용] tag={tag} (현재 자산 {count}개)", flush=True)
+        return release_id, count
+
     body = json.dumps({
-        "tag_name": RELEASE_TAG,
-        "name": "대용량 파일 저장소 (git 100MB 제한 초과분)",
-        "body": "git 저장소 100MB 제한을 넘는 PDF를 담아두는 release입니다. sync.py가 자동으로 관리하니 직접 수정하지 마세요.",
+        "tag_name": tag,
+        "name": f"PDF 파일 저장소 #{index}",
+        "body": (
+            "sync.py가 PDF를 모아두는 release입니다. GitHub의 release당 자산 1000개 제한 때문에 "
+            "번호를 붙여 여러 개로 나눠 씁니다. 자동으로 관리되니 직접 수정하지 마세요."
+        ),
         "draft": False,
         "prerelease": False,
     }).encode("utf-8")
@@ -384,34 +431,75 @@ def _get_or_create_release_id() -> int | None:
     )
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-            _release_cache["id"] = data["id"]
-            print(f"    [release 생성됨] tag={RELEASE_TAG}", flush=True)
-            return data["id"]
+            release_id = json.loads(resp.read().decode("utf-8"))["id"]
+            print(f"    [release 생성됨] tag={tag}", flush=True)
+            return release_id, 0
+    except urllib.error.HTTPError as e:
+        print(f"    [release 생성 실패] tag={tag} HTTP {e.code}: {e.read().decode('utf-8', 'ignore')}", flush=True)
+        return None
     except Exception as e:
-        print(f"    [release 생성 실패] {e}", flush=True)
+        print(f"    [release 생성 실패] tag={tag} {e}", flush=True)
         return None
 
 
+def _advance_release() -> bool:
+    """현재 release를 '가득 참'으로 보고 다음 번호로 넘어간다. 한도(MAX_RELEASE_INDEX)를 넘으면 False."""
+    if _release_state["index"] >= MAX_RELEASE_INDEX:
+        return False
+    _release_state["index"] += 1
+    _release_state["id"] = None
+    _release_state["count"] = None
+    return True
+
+
+def _current_release_id() -> int | None:
+    """지금 업로드에 쓸 release id를 반환. 로드/생성이 필요하면 하고,
+    자산 개수가 RELEASE_SOFT_LIMIT 이상이면 자동으로 다음 번호로 넘어간다."""
+    while True:
+        if _release_state["id"] is None:
+            loaded = _load_release(_release_state["index"])
+            if loaded is None:
+                return None
+            _release_state["id"], _release_state["count"] = loaded
+
+        if _release_state["count"] >= RELEASE_SOFT_LIMIT:
+            print(
+                f"    [release 가득 참] tag={_tag_for_index(_release_state['index'])} "
+                f"({_release_state['count']}개) -> 다음 release로 넘어갑니다",
+                flush=True,
+            )
+            if not _advance_release():
+                print(f"    [release 번호 한도({MAX_RELEASE_INDEX}) 초과]", flush=True)
+                return None
+            continue
+
+        return _release_state["id"]
+
+
 def upload_release_asset(local_path: Path, asset_name: str, max_retries: int = 3) -> str | None:
-    """대용량 PDF를 GitHub Release 자산으로 업로드하고 다운로드 URL을 반환한다.
+    """PDF를 GitHub Release 자산으로 업로드하고 다운로드 URL을 반환한다.
+    현재 release가 꽉 찼으면(미리 센 개수 또는 422 file_count 응답) 재시도 횟수를
+    쓰지 않고 바로 다음 번호의 release로 바꿔서 다시 올린다.
     실패하면 None을 반환하며, 호출부는 이 메시지를 known으로 기록하지 않고 넘어가서
     다음 실행에서 자연스럽게 재시도하게 된다."""
     if not (GITHUB_REPOSITORY and GH_DISPATCH_TOKEN):
         print("    [release 업로드 건너뜀] GITHUB_REPOSITORY 또는 GH_DISPATCH_TOKEN이 없음", flush=True)
         return None
 
-    release_id = _get_or_create_release_id()
-    if release_id is None:
-        return None
-
-    upload_url = (
-        f"https://uploads.github.com/repos/{GITHUB_REPOSITORY}/releases/"
-        f"{release_id}/assets?name={urllib.parse.quote(asset_name)}"
-    )
     file_size = local_path.stat().st_size
+    attempt = 0
+    rotations = 0
 
-    for attempt in range(1, max_retries + 1):
+    while attempt < max_retries:
+        release_id = _current_release_id()
+        if release_id is None:
+            return None
+
+        upload_url = (
+            f"https://uploads.github.com/repos/{GITHUB_REPOSITORY}/releases/"
+            f"{release_id}/assets?name={urllib.parse.quote(asset_name)}"
+        )
+
         try:
             with open(local_path, "rb") as f:
                 req = urllib.request.Request(
@@ -426,12 +514,31 @@ def upload_release_asset(local_path: Path, asset_name: str, max_retries: int = 3
                 )
                 with urllib.request.urlopen(req, timeout=900) as resp:
                     data = json.loads(resp.read().decode("utf-8"))
-                    print(f"    [release 업로드 성공] {asset_name}", flush=True)
+                    _release_state["count"] = (_release_state["count"] or 0) + 1
+                    print(
+                        f"    [release 업로드 성공] {asset_name} "
+                        f"(tag={_tag_for_index(_release_state['index'])}, {_release_state['count']}개째)",
+                        flush=True,
+                    )
                     return data["browser_download_url"]
         except urllib.error.HTTPError as e:
             detail = e.read().decode("utf-8", "ignore")
+            if e.code == 422 and "file_count" in detail:
+                # 개수를 잘못 셌거나 다른 곳에서 채워진 경우: 시도 횟수/대기 없이 바로 다음 release로.
+                rotations += 1
+                print(
+                    f"    [release 자산 한도 도달] tag={_tag_for_index(_release_state['index'])} "
+                    f"-> 다음 release로 전환 ({rotations}회째)",
+                    flush=True,
+                )
+                if rotations > MAX_ROTATIONS_PER_UPLOAD or not _advance_release():
+                    print(f"    [release 전환 한도 초과] {asset_name}", flush=True)
+                    return None
+                continue
+            attempt += 1
             print(f"    [release 업로드 실패 (시도 {attempt}/{max_retries})] HTTP {e.code}: {detail}", flush=True)
         except Exception as e:
+            attempt += 1
             print(f"    [release 업로드 실패 (시도 {attempt}/{max_retries})] {e}", flush=True)
         time.sleep(min(2 ** attempt, 20))
 
