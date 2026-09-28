@@ -169,6 +169,20 @@
       "sha256": "bd42ebb5e79d23d331e559c94bff30914204eaf7698c132af0232406e5af68b2"
     },
     {
+      "message_id": 24749,
+      "filename": "27 러너스하이 미적 vol.2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/24749_27.vol.2.pdf",
+      "size_bytes": 115990526,
+      "telegram_date": "2026-09-28T14:26:44+00:00",
+      "title": "수학 Runners High 미적분 vo1.1~8",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24749.png",
+      "sha256": "95a05d2b943af2dc851a3aadad2adde5d62f04ecbda7ea751c1b593df4a4fed8"
+    },
+    {
       "message_id": 24735,
       "filename": "시즌2 교재해설.pdf",
       "stored_as": null,
