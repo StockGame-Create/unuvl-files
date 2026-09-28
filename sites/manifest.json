@@ -10177,6 +10177,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23565.png",
       "sha256": "95f894a688eec35197f286bf074c0818f05676a0abac651dfbce58be602d6571"
+    },
+    {
+      "message_id": 23564,
+      "filename": "2027학년도_시대인재_서바이벌_모의고사_7회_문제지_수학영역9_기울기_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23564_2027._._._._7._._.9_._.pdf",
+      "size_bytes": 4144558,
+      "telegram_date": "2026-08-22T04:07:49+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 7회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23564.png",
+      "sha256": "da9e704902beeb25538c1448d0d6157a43c95a5c7ba8f7785b41566dd6a2fd9e"
     }
   ],
   "duplicate_message_ids": [
