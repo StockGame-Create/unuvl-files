@@ -14545,6 +14545,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23043.png",
       "sha256": "3b5c960ec7e27fac2cf643deacd9c695c79e0b2aaba6921585941731ff337acd"
+    },
+    {
+      "message_id": 23041,
+      "filename": "강은양_리비에스_2027_수능완성_고전&현대문학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23041_._._2027_._.pdf",
+      "size_bytes": 419071526,
+      "telegram_date": "2026-08-04T01:43:44+00:00",
+      "title": "국어 강은양 rebs 수능완성 고전&현대문학",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23041.png",
+      "sha256": "7edb1f55942ae46d89047a90b67c461c1fbbb62f5503069a05e2cdaf3be0fbd3"
     }
   ],
   "duplicate_message_ids": [
