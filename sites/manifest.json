@@ -11941,6 +11941,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23370.png",
       "sha256": "642fc883f074ded7020bb35d79e06f35f263cb015b93c61ee68031fa9bd60685"
+    },
+    {
+      "message_id": 23368,
+      "filename": "강K+ 사문 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23368_.K%2B.5.pdf",
+      "size_bytes": 10894745,
+      "telegram_date": "2026-08-16T15:31:42+00:00",
+      "title": "사문 강대모의고사K+ 5회 #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23368.png",
+      "sha256": "d701ef7d5e3adb1e49bf104461dd6c34a13791fefe4be86cf30b2773de644f5d"
     }
   ],
   "duplicate_message_ids": [
