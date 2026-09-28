@@ -8217,6 +8217,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23810.png",
       "sha256": "025d1976d0b74b6f4a993e95d07d126b983645ea43fa99c661ace56cb316bace"
+    },
+    {
+      "message_id": 23808,
+      "filename": "04_오메가 8,9차_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23808_04_.8.9._.pdf",
+      "size_bytes": 61971743,
+      "telegram_date": "2026-08-29T13:52:59+00:00",
+      "title": "국어 OMEGA 모의고사 8, 9회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23808.png",
+      "sha256": "9985e40449a4825fd4dc1921ae96b26678a1f7840428823deaba9406329c4fd9"
     }
   ],
   "duplicate_message_ids": [
