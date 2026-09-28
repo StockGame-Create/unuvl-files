@@ -15553,6 +15553,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22916.png",
       "sha256": "4062c729b27dedd320baeec81e2dfaa840153b24962f017b66e563a38a9f3f10"
+    },
+    {
+      "message_id": 22914,
+      "filename": "국k 2회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22914_.k.2.pdf",
+      "size_bytes": 24179152,
+      "telegram_date": "2026-07-29T17:12:55+00:00",
+      "title": "국어 강대모의고사K 2회 해설포함 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22914.png",
+      "sha256": "d99df8db3dda254f78846046d623f56688383725e4bffd6d9b2b02697a016182"
     }
   ],
   "duplicate_message_ids": [
