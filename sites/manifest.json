@@ -12823,6 +12823,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23250.png",
       "sha256": "5007ba924529117e39410d1d9942ea5defb4f2d23d911f9ebeb6f710fbbe1a02"
+    },
+    {
+      "message_id": 23249,
+      "filename": "2027_시대인재_서바이벌_C단독_1회_확통,_미적_X.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23249_2027_._._C._1._._._X.pdf",
+      "size_bytes": 53719147,
+      "telegram_date": "2026-08-12T13:45:58+00:00",
+      "title": "수학 시대인재 서바이벌 C 단독 모의고사 1회 (기하만)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23249.png",
+      "sha256": "9a8a60dfa15361229f86c4698908af0b1858a722c66017511a1894b703d517f9"
     }
   ],
   "duplicate_message_ids": [
