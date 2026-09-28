@@ -10513,6 +10513,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23531.png",
       "sha256": "30b9bf3d95f54e7b76caf032a425fe396ff5c7e2246300db96a72dbfef57afef"
+    },
+    {
+      "message_id": 23529,
+      "filename": "해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23529_.pdf",
+      "size_bytes": 4760943,
+      "telegram_date": "2026-08-21T23:26:03+00:00",
+      "title": "수학 시대인재 서바이벌 전국 모의고사 7회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23529.png",
+      "sha256": "301fb1ffa1088a17099ad8c4407ff4768f5943ec5af846da8a728ec14dcfed74"
     }
   ],
   "duplicate_message_ids": [
