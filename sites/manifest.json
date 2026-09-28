@@ -14293,6 +14293,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23086.png",
       "sha256": "ba416674c0ba143a85ca7eb665b8e7f23b5a109273e29a4d032ae360f0203937"
+    },
+    {
+      "message_id": 23084,
+      "filename": "2027 VOCA 1800.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23084_2027.VOCA.1800.pdf",
+      "size_bytes": 57736602,
+      "telegram_date": "2026-08-05T15:04:00+00:00",
+      "title": "영어 연계교재 VOCA 1800",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/23084.png",
+      "sha256": "dc70a2fd0afb60f355f0875d44b90ec1363a15caa6a0e7d5cca7b1ef3dd9e303"
     }
   ],
   "duplicate_message_ids": [
