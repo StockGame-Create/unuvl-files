@@ -15217,6 +15217,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22960.png",
       "sha256": "f11e795deebe54c86bd85bdf0a3d6d9f74255deaf01ea4af6a6c6fbbc293b7ad"
+    },
+    {
+      "message_id": 22957,
+      "filename": "시대인재_파이널_브릿지_세게지리_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22957_._._._._2.pdf",
+      "size_bytes": 3630986,
+      "telegram_date": "2026-08-01T17:13:46+00:00",
+      "title": "세지 파이널 브릿지 전국 모의고사 2회 #파브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/22957.png",
+      "sha256": "177d0fccead3e5fafdd90f89ada6e60875f9556c2af30b28040339080154241a"
     }
   ],
   "duplicate_message_ids": [
