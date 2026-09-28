@@ -16127,6 +16127,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22859.png",
       "sha256": "403bf3cbfb1563b0400a13dc0cfe02e703739d4ee243da45baed300e4ac896e5"
+    },
+    {
+      "message_id": 22858,
+      "filename": "[수학] 2027 차영진 기출무한적용 수학II.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22858_.2027.II.pdf",
+      "size_bytes": 104746948,
+      "telegram_date": "2026-07-28T16:00:26+00:00",
+      "title": "수학 차영진 기출무한적용 수1, 수2",
+      "year": "2027",
+      "instructor": "차영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22858.png",
+      "sha256": "2c9ce1f30890a73e33600bc5c9ca1728304f9ae3cb83869530b276763a610041"
     }
   ],
   "duplicate_message_ids": [
