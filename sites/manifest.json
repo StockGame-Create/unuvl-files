@@ -15231,6 +15231,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/22957.png",
       "sha256": "177d0fccead3e5fafdd90f89ada6e60875f9556c2af30b28040339080154241a"
+    },
+    {
+      "message_id": 22955,
+      "filename": "브릿지 05.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22955_.05.pdf",
+      "size_bytes": 13636891,
+      "telegram_date": "2026-08-01T17:13:45+00:00",
+      "title": "지2 브릿지 모의고사 5회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/22955.png",
+      "sha256": "8c96141984c86dea9eb29837603d53873d219b035a0983d783e396d31f0f238a"
     }
   ],
   "duplicate_message_ids": [
