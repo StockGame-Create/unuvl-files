@@ -8035,6 +8035,20 @@
       "subject": "과학",
       "thumbnail": "thumbnails/23829.png",
       "sha256": "2626883b7d670ee36bbbc6321326ca9d0a4201f563622faa2b73cdf34e14c10c"
+    },
+    {
+      "message_id": 23827,
+      "filename": "정석민_문실정_3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23827_._._3.pdf",
+      "size_bytes": 41344467,
+      "telegram_date": "2026-08-31T10:25:09+00:00",
+      "title": "국어 정석 문학 모의고사 3회",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23827.png",
+      "sha256": "3c2a31c8f142a72f50fa4552fee20621154c20ceccd86a7514d8ef6c7ead4a6f"
     }
   ],
   "duplicate_message_ids": [
