@@ -14601,6 +14601,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23034.png",
       "sha256": "0b055bcb56c577d64f6c29cea1e8434eed818ea81ca74c5f843edcf537691700"
+    },
+    {
+      "message_id": 23031,
+      "filename": "2027 최지욱 시즌1 Arch 공통 필기 02주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23031_2027.1.Arch.02.pdf",
+      "size_bytes": 5460261,
+      "telegram_date": "2026-08-02T16:06:17+00:00",
+      "title": "수학 최지욱 시즌1 ARCH 2주차 필기노트",
+      "year": "2027",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23031.png",
+      "sha256": "f508b6e8e375f20ba824200ebe0f5176a96013738efc60a95f50255690f9229e"
     }
   ],
   "duplicate_message_ids": [
