@@ -10681,6 +10681,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23508.png",
       "sha256": "e7b7c0627eaf35069d713f009afd716abd4eb29d0652945e395a4494378f010e"
+    },
+    {
+      "message_id": 23507,
+      "filename": "베라디_이음_모의고사_사문_260810_161749_260810_181710.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23507_._._._._260810_161749_260810_181710.pdf",
+      "size_bytes": 22775667,
+      "telegram_date": "2026-08-21T15:59:00+00:00",
+      "title": "사문 VERADI 이음 모의고사 시즌1 0~3회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23507.png",
+      "sha256": "67dc5a8ce64ba88e984902ad89d4ef7e67ab11cd613fc4a9f914bb0a8d4fdf2d"
     }
   ],
   "duplicate_message_ids": [
