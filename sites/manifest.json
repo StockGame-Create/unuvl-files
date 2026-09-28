@@ -10289,6 +10289,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23556.png",
       "sha256": "64593d6ea839732b0f7c7847e0f7b0111f75db66ad4a438ddf497a1cbeabfccf"
+    },
+    {
+      "message_id": 23555,
+      "filename": "한수 파이널1 5,6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23555_.1.5.6.pdf",
+      "size_bytes": 139495633,
+      "telegram_date": "2026-08-22T03:33:37+00:00",
+      "title": "국어 한수 파이널1 제 5, 6차 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23555.png",
+      "sha256": "a379193be7939df7fad409af0827cedb53e9f81626091d810bafae3cbb05dcb4"
     }
   ],
   "duplicate_message_ids": [
