@@ -11129,6 +11129,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23451.png",
       "sha256": "30cb917c0e6dc4b26ff6e56a3c8785ee03674f901eff405e0a5c020ce1dab8cf"
+    },
+    {
+      "message_id": 23450,
+      "filename": "TalkFile_2027 시멘트 문제.pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23450_TalkFile_2027.pdf.pdf",
+      "size_bytes": 97120946,
+      "telegram_date": "2026-08-19T15:06:15+00:00",
+      "title": "사문 사만다 Cement N제 개념편",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23450.png",
+      "sha256": "5ac3f306e03ff52c0a0cf4f19fa30c5d535697fcd59aa9547f61931939eb2dec"
     }
   ],
   "duplicate_message_ids": [
