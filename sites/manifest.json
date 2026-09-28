@@ -15315,6 +15315,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22945.png",
       "sha256": "a78a638da19fcbb7e7112bb784ff6567b7dc64af8b291abd9fa050b770e58704"
+    },
+    {
+      "message_id": 22943,
+      "filename": "Key3회 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22943_Key3.pdf",
+      "size_bytes": 17494487,
+      "telegram_date": "2026-07-31T13:43:13+00:00",
+      "title": "국어 KEY 국어 모의고사 3회",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22943.png",
+      "sha256": "cb4e0394c9bcd4efe17e22b0accc713934d65d361f639e643ad6d72eb7659d8a"
     }
   ],
   "duplicate_message_ids": [
