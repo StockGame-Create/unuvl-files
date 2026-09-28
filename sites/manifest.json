@@ -11983,6 +11983,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23364.png",
       "sha256": "b227f9cfa0b771ae792563b9aac363b1fb42e36ac24e7d546bad4e8844d5c576"
+    },
+    {
+      "message_id": 23363,
+      "filename": "서킷x s2 해설_20260815.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23363_.x.s2._20260815.pdf",
+      "size_bytes": 10903800,
+      "telegram_date": "2026-08-16T15:31:41+00:00",
+      "title": "수학 강대 CIRCUIT X 시즌2 5회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23363.png",
+      "sha256": "9990a66eba2d6679b6b3474b70f3847ce2522d2f391af307e0d889eff3dba518"
     }
   ],
   "duplicate_message_ids": [
