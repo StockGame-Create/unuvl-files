@@ -12571,6 +12571,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23295.png",
       "sha256": "c0bc28e651f5a44cf9b7e9eba27ccd66d8b44f711d21f7383670b5443b3ebb44"
+    },
+    {
+      "message_id": 23294,
+      "filename": "유형on lite 공통수학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23294_.on.lite.1.pdf",
+      "size_bytes": 14780314,
+      "telegram_date": "2026-08-13T15:40:50+00:00",
+      "title": "수학 수학의 바이블 유형 on Lite 공통수학1, 2, 대수, 미적분1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23294.png",
+      "sha256": "775e9d9731aeea6ef9cf6d5c397e26a42d7b5039cb47622744a11a67dd37bb14"
     }
   ],
   "duplicate_message_ids": [
