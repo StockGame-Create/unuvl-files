@@ -15063,6 +15063,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/22981.png",
       "sha256": "ff4c766c1016df55082d91c8a23e7ef34e96b4c2254b9b1faafcd537578bd1ae"
+    },
+    {
+      "message_id": 22979,
+      "filename": "자이스토리_화법과_언어_고2_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22979_._._._.2_.pdf",
+      "size_bytes": 194459219,
+      "telegram_date": "2026-08-02T15:48:11+00:00",
+      "title": "화법과 언어 자이스토리 (22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화법과언어",
+      "thumbnail": "thumbnails/22979.png",
+      "sha256": "71ba79f011344bf1e2472a1135c5ac6ff0424351913e2cf241dc7620aece8268"
     }
   ],
   "duplicate_message_ids": [
