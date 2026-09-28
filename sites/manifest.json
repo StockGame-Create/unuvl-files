@@ -10303,6 +10303,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23555.png",
       "sha256": "a379193be7939df7fad409af0827cedb53e9f81626091d810bafae3cbb05dcb4"
+    },
+    {
+      "message_id": 23549,
+      "filename": "2027 강k 9회1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23549_2027.k.9.1.pdf",
+      "size_bytes": 77701752,
+      "telegram_date": "2026-08-22T00:20:42+00:00",
+      "title": "수학 강대모의고사K 9, 10회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23549.png",
+      "sha256": "855d2d1cbe6dc19c01c166893b54fdc833b1c4d1588fdd1d57f9ac71ae515e13"
     }
   ],
   "duplicate_message_ids": [
