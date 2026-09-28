@@ -10261,6 +10261,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23559.png",
       "sha256": "1f57f216d4bd71a10c721fcb053442875a015d612b769bdadfd722cf356762f7"
+    },
+    {
+      "message_id": 23558,
+      "filename": "지구과학1서바이벌전국07회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23558_.1.07.pdf",
+      "size_bytes": 2299484,
+      "telegram_date": "2026-08-22T03:33:39+00:00",
+      "title": "지1 시대인재 서바이벌 전국 모의고사 7회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23558.png",
+      "sha256": "97603c3ff47bbbd46974c7600dbc65137660448254d4d3b33a9d3454624d1a59"
     }
   ],
   "duplicate_message_ids": [
