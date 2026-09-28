@@ -13117,6 +13117,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23190.png",
       "sha256": "3d957383c3cd8df385ba206c03fd90647c0587b6ecd5f35154e970eb72533bde"
+    },
+    {
+      "message_id": 23188,
+      "filename": "09. ASAP.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23188_09.ASAP.pdf",
+      "size_bytes": 105760552,
+      "telegram_date": "2026-08-10T05:05:37+00:00",
+      "title": "생윤 시즌1, 2 아삽 문제지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/23188.png",
+      "sha256": "3e212198edaf1b87d2bdda38df7c7682a60e3eb4b75d5075fec4653878c460a4"
     }
   ],
   "duplicate_message_ids": [
