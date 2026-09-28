@@ -10751,6 +10751,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23503.png",
       "sha256": "2404e2277644fb954c89063fba9f3c0c7ea3169ae001b0a1c8530bb5194bb366"
+    },
+    {
+      "message_id": 23501,
+      "filename": "[2027서바이벌]+4주차+Preview+Test.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23501_.2027.%2B4.%2BPreview%2BTest.pdf",
+      "size_bytes": 618019,
+      "telegram_date": "2026-08-21T15:51:06+00:00",
+      "title": "수학 강기원T 서바이벌 정규반 4주차 Preview test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23501.png",
+      "sha256": "7b652c808167e1b4c430d4df7741c0614842efa4af3c0c039eec31820e7d3109"
     }
   ],
   "duplicate_message_ids": [
