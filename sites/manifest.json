@@ -10849,6 +10849,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23492.png",
       "sha256": "a8854b37997740637aa9c65a091f43346b273dc5a9d4376e760ac982a3246936"
+    },
+    {
+      "message_id": 23490,
+      "filename": "전대미니실모_기하만+해설도_나머진_빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23490_._.%2B._._.pdf",
+      "size_bytes": 10993165,
+      "telegram_date": "2026-08-21T14:37:16+00:00",
+      "title": "수학 8월 전국 대단위 실전 모의고사: 미니실모 #전대실모",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23490.png",
+      "sha256": "bb6505ea2b7cb7dd142c15077e3b5f21ead412bba0c691060a180653992e1feb"
     }
   ],
   "duplicate_message_ids": [
