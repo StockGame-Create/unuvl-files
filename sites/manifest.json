@@ -9743,6 +9743,20 @@
       "subject": null,
       "thumbnail": "thumbnails/23624.png",
       "sha256": "f9cb19dc46ed6c59699761fd51632703481d9727d976435af237ff8c1297617b"
+    },
+    {
+      "message_id": 23623,
+      "filename": "7월 메가 전대 실모 수학_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23623_7._.pdf",
+      "size_bytes": 15080946,
+      "telegram_date": "2026-08-22T13:55:49+00:00",
+      "title": "전과목 7월 전국 대단위 실전 모의고사 #전대실모",
+      "year": "2027",
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/23623.png",
+      "sha256": "e5e624f7c368b64bf0d2308fa5f7814b349401fffb27d10e89ba70aa08468fac"
     }
   ],
   "duplicate_message_ids": [
