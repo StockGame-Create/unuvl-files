@@ -15917,6 +15917,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/22879.png",
       "sha256": "16388526c334c75ff8307fb74475a166ee84354ae91d9ec5a43cf1a89bdcb781"
+    },
+    {
+      "message_id": 22877,
+      "filename": "문서연T_시대_사문_에티켓_01_2_전단원_총정리.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22877_.T_._._._01_2_._.pdf",
+      "size_bytes": 12451561,
+      "telegram_date": "2026-07-28T16:00:43+00:00",
+      "title": "사문 문서연 에티켓 전단원 총정리",
+      "year": "2027",
+      "instructor": "문서연",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/22877.png",
+      "sha256": "490067d00bfcdc8ee2df431057e37760e32d87368a58650c7d3b94a5355a5098"
     }
   ],
   "duplicate_message_ids": [
