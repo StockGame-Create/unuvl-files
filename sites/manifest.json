@@ -15721,6 +15721,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22897.png",
       "sha256": "ef00e892a60f5c7abe8d5eb56e6382662923bbd27f453e2d9aee276ff5225fcc"
+    },
+    {
+      "message_id": 22895,
+      "filename": "[손필기]2027+서바이벌+모의고사+3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22895_.2027%2B.%2B.%2B3.pdf",
+      "size_bytes": 9724653,
+      "telegram_date": "2026-07-29T17:12:40+00:00",
+      "title": "수학 이동준 서바이벌 모의고사 필기노트 1~3회",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22895.png",
+      "sha256": "45e3977187d2aabe5d67f695836c0632dc26f502d6f8b4978e5bc8c934550106"
     }
   ],
   "duplicate_message_ids": [
