@@ -9267,6 +9267,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23699.png",
       "sha256": "6ffa84d1a7bb4ce7e88bf0e2723e20ed37bc4b9f9c0f998ef4e10abad617c92e"
+    },
+    {
+      "message_id": 23698,
+      "filename": "영어 서바이벌 6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23698_.6.pdf",
+      "size_bytes": 14897343,
+      "telegram_date": "2026-08-26T07:36:24+00:00",
+      "title": "영어 서바이벌 모의고사 6회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/23698.png",
+      "sha256": "d76e3bc134078635cf70fa7b9eceb9a94cecc378e11f6b7a6928c5d1b14927c0"
     }
   ],
   "duplicate_message_ids": [
