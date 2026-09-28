@@ -15497,6 +15497,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22922.png",
       "sha256": "62bec730bc68d2457e1b241d141c3d39f359baa41899b20f813e1ff013ff1302"
+    },
+    {
+      "message_id": 22921,
+      "filename": "2027 강대모의고사K 영어 1회 정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22921_2027.K.1.pdf",
+      "size_bytes": 1284765,
+      "telegram_date": "2026-07-29T17:13:01+00:00",
+      "title": "영어 강대모의고사K 1, 2회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/22921.png",
+      "sha256": "0094d63fafccc956c81c78c80619fa05107333617c1dc6cb589ecf11bcd56483"
     }
   ],
   "duplicate_message_ids": [
