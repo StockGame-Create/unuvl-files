@@ -15035,6 +15035,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22987.png",
       "sha256": "d672d11837ee8166f85f711d6a8c84bb1527870b4b6d419fe53eb88b2648c973"
+    },
+    {
+      "message_id": 22982,
+      "filename": "2027_현자의돌모의고사_시즌1_1회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22982_2027_._.1_1._.pdf",
+      "size_bytes": 13417817,
+      "telegram_date": "2026-08-02T15:48:11+00:00",
+      "title": "생윤 현자의 돌 모의고사 시즌1 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/22982.png",
+      "sha256": "cf013f2d14e5816be1d441134d278187e28df3b9c4b4174b1ea36774feaf31c1"
     }
   ],
   "duplicate_message_ids": [
