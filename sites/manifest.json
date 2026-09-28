@@ -57,6 +57,20 @@
       "sha256": "0cf25e14c8d41e6729d73b51941014497ac83b6fb3fe120939030ae652a5c73f"
     },
     {
+      "message_id": 24759,
+      "filename": "이신혁_복테_아카이브.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/24759_._._.pdf",
+      "size_bytes": 26529028,
+      "telegram_date": "2026-09-28T14:26:55+00:00",
+      "title": "지1 이신혁 시즌2 1~7주차 복습테스트",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24759.png",
+      "sha256": "02afe179651c7f56ceaa00e413a0ce883b8f727fd9dd7ff5840d07e9fe21a51a"
+    },
+    {
       "message_id": 24735,
       "filename": "시즌2 교재해설.pdf",
       "stored_as": null,
