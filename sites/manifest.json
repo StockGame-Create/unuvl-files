@@ -13635,6 +13635,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23127.png",
       "sha256": "96e87e00921984b569dad4da69eaabbcdcb011c94e2deec0d6baee8914c139e3"
+    },
+    {
+      "message_id": 23126,
+      "filename": "2027 강K 국어 4회 소퀄좀...pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23126_2027.K.4.pdf",
+      "size_bytes": 30828339,
+      "telegram_date": "2026-08-07T16:40:42+00:00",
+      "title": "국어 강대모의고사K 4회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23126.png",
+      "sha256": "34006f369e553aaed4b23bc27947fdfc9200f6cdd451c863c0584f5811f4d613"
     }
   ],
   "duplicate_message_ids": [
