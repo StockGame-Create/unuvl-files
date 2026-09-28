@@ -11171,6 +11171,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/23447.png",
       "sha256": "62a76e65332102dc4b2841c25cdb191207106e2f44853a0178c3015412cfe384"
+    },
+    {
+      "message_id": 23446,
+      "filename": "2027학년도 8월 더프 영어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23446_2027.8.pdf",
+      "size_bytes": 32860067,
+      "telegram_date": "2026-08-19T14:55:03+00:00",
+      "title": "영어 THE PREMIUM 8월 모의고사 문제지 #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/23446.png",
+      "sha256": "0de71ed38cc9b00b354c705219bdf005ad0be5b1f55c8c1a8cc729c5753abcfc"
     }
   ],
   "duplicate_message_ids": [
