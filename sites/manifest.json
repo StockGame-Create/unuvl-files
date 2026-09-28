@@ -14349,6 +14349,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/23078.png",
       "sha256": "e8dc769d3a07926a35361e6c1034e31d8c245a8d75309b07cc47f85cac619dd0"
+    },
+    {
+      "message_id": 23076,
+      "filename": "2027 개념에센스 수학 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23076_2027.1.pdf",
+      "size_bytes": 50106790,
+      "telegram_date": "2026-08-05T15:03:53+00:00",
+      "title": "수학 오르새 개념에센스 수1",
+      "year": "2027",
+      "instructor": "오르새",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23076.png",
+      "sha256": "23742d897a614fd4b30a7920bf4a4f96aa7d8ad7e4cb52a2ded8e23374396c90"
     }
   ],
   "duplicate_message_ids": [
