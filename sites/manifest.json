@@ -14741,6 +14741,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23021.png",
       "sha256": "9004a6b0f27913c344737c7ccc8f1280f6a3f7b49bd63607b778aca109b24d96"
+    },
+    {
+      "message_id": 23020,
+      "filename": "2027 수학 서바이벌 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23020_2027.2.pdf",
+      "size_bytes": 11454808,
+      "telegram_date": "2026-08-02T16:05:56+00:00",
+      "title": "수학 강대모의고사K 2~6회 #강k (확통X, 미적X)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23020.png",
+      "sha256": "2068de2ce3d936d5c2d5bbe8b8eaf7bd0b685a0011a929341fe76db142bcb45f"
     }
   ],
   "duplicate_message_ids": [
