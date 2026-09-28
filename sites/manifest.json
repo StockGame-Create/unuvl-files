@@ -12473,6 +12473,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/23308.png",
       "sha256": "894c774a558735fe900dbef1d0f8072f4950d19b3d18961b0b4d21e11a349682"
+    },
+    {
+      "message_id": 23306,
+      "filename": "홍문연 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23306_.2.pdf",
+      "size_bytes": 17321268,
+      "telegram_date": "2026-08-13T15:40:50+00:00",
+      "title": "국어 홍지운 문학 연계 모의고사 시즌2 2회",
+      "year": "2027",
+      "instructor": "홍지운",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23306.png",
+      "sha256": "3749e0e1f17206167b753c43ce0dd78c562acad3cf50bce433c245b7f009d5b2"
     }
   ],
   "duplicate_message_ids": [
