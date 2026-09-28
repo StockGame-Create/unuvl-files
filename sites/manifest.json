@@ -8973,6 +8973,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23728.png",
       "sha256": "0e03219e06d62629e71c0bf20dd282d923b5d7c7ae549768cba77117cc37bd68"
+    },
+    {
+      "message_id": 23726,
+      "filename": "2027 시대인재 국어 서바이벌 1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23726_2027.1.pdf",
+      "size_bytes": 6468433,
+      "telegram_date": "2026-08-26T10:45:21+00:00",
+      "title": "국어 시대인재 서바이벌 모의고사 1회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23726.png",
+      "sha256": "0be5774efab1b9d5a6f92d8f1ec78a54c3315353866e67dada850776a3cc3943"
     }
   ],
   "duplicate_message_ids": [
