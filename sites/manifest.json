@@ -15539,6 +15539,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22918.png",
       "sha256": "089ca813bbc04f1b93a7b4dd9ad385feb2e8435b0e15c24b58c860d02dad5f26"
+    },
+    {
+      "message_id": 22916,
+      "filename": "시대인재_권구승T_Physical_B_2회확통.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22916_._.T_Physical_B_2.pdf",
+      "size_bytes": 9798263,
+      "telegram_date": "2026-07-29T17:12:58+00:00",
+      "title": "수학 권구승 Physical B 2회 모의고사",
+      "year": "2027",
+      "instructor": "권구승",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22916.png",
+      "sha256": "4062c729b27dedd320baeec81e2dfaa840153b24962f017b66e563a38a9f3f10"
     }
   ],
   "duplicate_message_ids": [
