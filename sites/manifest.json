@@ -7671,6 +7671,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23883.png",
       "sha256": "5aae298c0efec1d8183b65257220aba638ae541cf70174d96803855446165d24"
+    },
+    {
+      "message_id": 23881,
+      "filename": "EBS_2027_FINAL_과탐영역_화학Ⅰ_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23881_EBS_2027_FINAL_._._.pdf",
+      "size_bytes": 1017807,
+      "telegram_date": "2026-09-02T13:26:44+00:00",
+      "title": "화1 EBS 2027 FINAL 실전 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/23881.png",
+      "sha256": "9f1ca97aafc0d8c3925ee99ebb0129e3e8da476229f4e34c0d83b290d41601bb"
     }
   ],
   "duplicate_message_ids": [
