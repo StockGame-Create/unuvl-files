@@ -15189,6 +15189,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22964.png",
       "sha256": "ebb8795c914f3d679665022cb13895e59967a57055df57ddd27f8ba4e437a76d"
+    },
+    {
+      "message_id": 22962,
+      "filename": "강K 수학 7회.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22962_.K.7.PDF",
+      "size_bytes": 2398638,
+      "telegram_date": "2026-08-01T17:14:05+00:00",
+      "title": "수학 강대모의고사K 7회 #강k (폰스캔)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22962.png",
+      "sha256": "947ca6e697c7150fd69e701dda2cd1ecfbba4d3911c5d909db4b230f1dafbbe2"
     }
   ],
   "duplicate_message_ids": [
