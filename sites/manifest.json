@@ -16099,6 +16099,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22862.png",
       "sha256": "f7576cded4dfb3d092602624e0de145e1d5eb19c2f5f37d0f976e745fff358c3"
+    },
+    {
+      "message_id": 22861,
+      "filename": "이감_6차_예비평가_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22861_._6._._.pdf",
+      "size_bytes": 17196901,
+      "telegram_date": "2026-07-28T16:00:30+00:00",
+      "title": "국어 이감 국어 모의고사 제6차 예비평가 (인쇄소퀄) #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22861.png",
+      "sha256": "739f1873faff5cd605cd844e118257afb4f5a13a2b48b2060002f5e39167c74c"
     }
   ],
   "duplicate_message_ids": [
