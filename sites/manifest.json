@@ -11857,6 +11857,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23378.png",
       "sha256": "6ecf6ffc7000492b7b7e96f9b69f038602bf5f0e6aeb637aa85d2ce82c26b755"
+    },
+    {
+      "message_id": 23377,
+      "filename": "전국 4.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23377_.4.pdf",
+      "size_bytes": 3915822,
+      "telegram_date": "2026-08-16T15:31:42+00:00",
+      "title": "수학 시대인재 서바이벌 전국 모의고사 4회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23377.png",
+      "sha256": "cc8a54c34059a179fa435d35b582dd9d2ca31237a67e9c653b09ca0cb598e568"
     }
   ],
   "duplicate_message_ids": [
