@@ -7517,6 +7517,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/23901.png",
       "sha256": "7d5c90d48f1362f96220c77373ff484b0bcaef9fc89130b7d56fb714aff65fef"
+    },
+    {
+      "message_id": 23900,
+      "filename": "전국서바_4회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23900_._4._.pdf",
+      "size_bytes": 2549837,
+      "telegram_date": "2026-09-03T14:18:57+00:00",
+      "title": "세지 시대인재 서바이벌 전국 모의고사 4회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/23900.png",
+      "sha256": "18917311c96c47dda1485e246805a530d717efe342e6733457b1094ab46867d2"
     }
   ],
   "duplicate_message_ids": [
