@@ -13187,6 +13187,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23182.png",
       "sha256": "ed546d8f5c06c9ff211c4b9ac1560d5a77edac3d558b2a2d72d1a411be555f55"
+    },
+    {
+      "message_id": 23181,
+      "filename": "2027 마더텅 수능기출 모의고사 30회 영어 영역.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23181_2027.30.pdf",
+      "size_bytes": 331619293,
+      "telegram_date": "2026-08-10T05:05:32+00:00",
+      "title": "영어 마더텅 수능기출 모의고사 30회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/23181.png",
+      "sha256": "8537bb31deb4deba6ce27a9cf3ce872ed4ee649c77adec4a5ef9bdfeec3cb17f"
     }
   ],
   "duplicate_message_ids": [
