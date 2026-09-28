@@ -8875,6 +8875,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23742.png",
       "sha256": "7afebd5add498a8a718d43301ca8c9712ef1345b566eb5b13144bdf556b8060b"
+    },
+    {
+      "message_id": 23741,
+      "filename": "현정훈_모의고사_물리학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23741_._._.pdf",
+      "size_bytes": 347311,
+      "telegram_date": "2026-08-27T14:05:38+00:00",
+      "title": "물1 2027 현정훈 the Red vol2 4회 문제지",
+      "year": "2027",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/23741.png",
+      "sha256": "7834ba4904d068fa9f7dda6862ec2e0e8842cb355e4e2c5914b53448b64ea0fb"
     }
   ],
   "duplicate_message_ids": [
