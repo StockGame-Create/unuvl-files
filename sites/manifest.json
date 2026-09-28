@@ -12977,6 +12977,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23209.png",
       "sha256": "1445c983d27be07450686f0726c179e4625de84d3aa8ec8eea070403e1ade031"
+    },
+    {
+      "message_id": 23204,
+      "filename": "27_생명_파이널_브릿지_5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23204_27_._._._5.pdf",
+      "size_bytes": 6199383,
+      "telegram_date": "2026-08-10T05:05:50+00:00",
+      "title": "생1 시대인재 Final 브릿지 전국 모의고사 5회 #파브전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/23204.png",
+      "sha256": "fe42bd1965aec729c0519565ca0336ffa934f14e2ed80be8c0190930633285c2"
     }
   ],
   "duplicate_message_ids": [
