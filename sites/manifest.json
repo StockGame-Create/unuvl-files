@@ -12739,6 +12739,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23275.png",
       "sha256": "6cf8e8afca38e1c85980e600338ce8ac82b77efd1e9222964d375f7b8438c34f"
+    },
+    {
+      "message_id": 23273,
+      "filename": "강대모의고사K_사회문화_2회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23273_.K_._2.pdf",
+      "size_bytes": 6838004,
+      "telegram_date": "2026-08-13T15:40:49+00:00",
+      "title": "사문 강대모의고사K 2회  #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23273.png",
+      "sha256": "9f4a24697180df2aa6ad1024cce641c3566fbe562883749df9129add5556deb4"
     }
   ],
   "duplicate_message_ids": [
