@@ -9561,6 +9561,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23650.png",
       "sha256": "e1bb3debce8fcca3c234a78e2a0895ee9d73f6828b62c63a55893b345dda9494"
+    },
+    {
+      "message_id": 23647,
+      "filename": "오메가_블랙_모의고사_3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23647_._._._3.pdf",
+      "size_bytes": 14767663,
+      "telegram_date": "2026-08-24T10:23:59+00:00",
+      "title": "세지 OMEGA black 모의고사 3회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/23647.png",
+      "sha256": "a6d62c2d14a86a765e742b546be1feee396cf50ba6340d2d0d3981601ad9a6ff"
     }
   ],
   "duplicate_message_ids": [
