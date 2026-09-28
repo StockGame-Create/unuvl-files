@@ -9225,6 +9225,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23702.png",
       "sha256": "877e689bc746f2b477d4e8b67b9ec713da53a1b489b8d8de6cdcf8483cd3a110"
+    },
+    {
+      "message_id": 23701,
+      "filename": "바탕 7회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23701_.7._.pdf",
+      "size_bytes": 55312912,
+      "telegram_date": "2026-08-26T07:40:30+00:00",
+      "title": "국어 바탕 6-7회 모의고사  #바탕",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23701.png",
+      "sha256": "529997f5328d54b2eb53e2b521bd64a9348925ec28b385f50f17834f8332531f"
     }
   ],
   "duplicate_message_ids": [
