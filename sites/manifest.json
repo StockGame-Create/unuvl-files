@@ -13103,6 +13103,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23194.png",
       "sha256": "6990bbcdd2a879bc81ec6335b159915bea55dd2f106b1ffc7a9ac0350af47442"
+    },
+    {
+      "message_id": 23190,
+      "filename": "2027 TDYD S1 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23190_2027.TDYD.S1.pdf",
+      "size_bytes": 55498442,
+      "telegram_date": "2026-08-10T05:05:40+00:00",
+      "title": "영어 조정식 The Day is Your Day! 시즌1 1, 2회 #더데유데",
+      "year": "2027",
+      "instructor": "조정식",
+      "subject": "영어",
+      "thumbnail": "thumbnails/23190.png",
+      "sha256": "3d957383c3cd8df385ba206c03fd90647c0587b6ecd5f35154e970eb72533bde"
     }
   ],
   "duplicate_message_ids": [
