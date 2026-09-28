@@ -8231,6 +8231,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23808.png",
       "sha256": "9985e40449a4825fd4dc1921ae96b26678a1f7840428823deaba9406329c4fd9"
+    },
+    {
+      "message_id": 23807,
+      "filename": "04.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23807_04.pdf",
+      "size_bytes": 135170805,
+      "telegram_date": "2026-08-29T13:52:59+00:00",
+      "title": "국어 OMEGA 모의고사 8, 9회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23807.png",
+      "sha256": "954c6c0000103b795942ef25520b9e7db0f0b823c742b5b6549dc220fbdd56e6"
     }
   ],
   "duplicate_message_ids": [
