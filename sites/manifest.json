@@ -12697,6 +12697,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23280.png",
       "sha256": "fb2ee337124f3acbc79a5c95d0bce29804aa734ece305473e3fc44e6cbe287b4"
+    },
+    {
+      "message_id": 23278,
+      "filename": "08. D Archive.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23278_08.D.Archive.pdf",
+      "size_bytes": 186906175,
+      "telegram_date": "2026-08-13T15:40:49+00:00",
+      "title": "생윤 D.archive 시즌 1, 2 #디아카이브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/23278.png",
+      "sha256": "7420b0d5451f47f8121e67adc56edded4cf99241b6119f34c4e764fa4d4abaf8"
     }
   ],
   "duplicate_message_ids": [
