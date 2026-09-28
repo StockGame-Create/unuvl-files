@@ -13439,6 +13439,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/23149.png",
       "sha256": "b28946ea79355999fa28d69e0581ea5c94a1f66ed8cee4d7ed5549bd2c2b4a90"
+    },
+    {
+      "message_id": 23148,
+      "filename": "2027 생명과학1 강k+ 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23148_2027.1.k%2B.3.pdf",
+      "size_bytes": 6538164,
+      "telegram_date": "2026-08-08T14:34:40+00:00",
+      "title": "생1 강대모의고사K+ 3회 #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/23148.png",
+      "sha256": "9a80c6e118bdb182bc973bdfcb5320c3d81fa9e286739906ea555f707b05d763"
     }
   ],
   "duplicate_message_ids": [
