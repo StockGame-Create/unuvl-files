@@ -8931,6 +8931,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23736.png",
       "sha256": "32cc46a7f4714f3f920feabbebd770cabd94ff1a21c43fd6d6e26297c4b510b4"
+    },
+    {
+      "message_id": 23734,
+      "filename": "마스터피스_모의고사_시즌_One_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23734_._._._One_2.pdf",
+      "size_bytes": 10357796,
+      "telegram_date": "2026-08-27T14:05:30+00:00",
+      "title": "영어 마스터피스 모의고사 시즌 One 2회",
+      "year": "2027",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/23734.png",
+      "sha256": "82bbec6bd52b12b17ad796ddb21a99232ced602a564c16636d5f9cefa2402244"
     }
   ],
   "duplicate_message_ids": [
