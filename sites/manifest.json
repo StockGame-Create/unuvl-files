@@ -9197,6 +9197,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23706.png",
       "sha256": "d8429c1defe2813b56c929b8bd3aa47d4db061e2c195ff7262ce00ffbbdb6be8"
+    },
+    {
+      "message_id": 23703,
+      "filename": "유대종 이뮨 문학3_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23703_.3_.pdf",
+      "size_bytes": 23584357,
+      "telegram_date": "2026-08-26T07:40:31+00:00",
+      "title": "국어 유대종 E뮨 문학 모의고사",
+      "year": "2027",
+      "instructor": "유대종",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23703.png",
+      "sha256": "84d039650962b1068777323d86a59bf19adb267993ab9d2c078016ceced7913f"
     }
   ],
   "duplicate_message_ids": [
