@@ -12599,6 +12599,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/23292.png",
       "sha256": "8298678c6b1ed5a0efa6d0f7040a0615a293fd1844c4f4dda139381b684276b7"
+    },
+    {
+      "message_id": 23291,
+      "filename": "2027 강대모의고사K 물리학1 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23291_2027.K.1.1.pdf",
+      "size_bytes": 5906514,
+      "telegram_date": "2026-08-13T15:40:50+00:00",
+      "title": "물1 강대모의고사K 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/23291.png",
+      "sha256": "1f651a6b7f475386eaecadbdcd1021ab835b21cab2d776dd97edfc22c91a199b"
     }
   ],
   "duplicate_message_ids": [
