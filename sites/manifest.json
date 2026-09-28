@@ -8623,6 +8623,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23767.png",
       "sha256": "18233f7af01cde0605752b734b1d7cfcd5e8f72dd33a9dde8681acf95b0ae430"
+    },
+    {
+      "message_id": 23766,
+      "filename": "2027 이신혁 시즌3 필기노트 3주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23766_2027.3.3.pdf",
+      "size_bytes": 40444204,
+      "telegram_date": "2026-08-28T14:04:37+00:00",
+      "title": "지1 이신혁 시즌3 필기노트 1~7주차",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23766.png",
+      "sha256": "e446801c59fd8dab8ac56faf87c6a32d92e7d4af7ccf4facde476ccb00f87705"
     }
   ],
   "duplicate_message_ids": [
