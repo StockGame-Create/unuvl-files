@@ -12963,6 +12963,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23210.png",
       "sha256": "f1fe52ba5491d82d95e0412b38e295d43abb5dcffd168e422af765db4aff420b"
+    },
+    {
+      "message_id": 23209,
+      "filename": "27_김승리_모의고사_시즌2_4회차_빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23209_27_._._.2_4._.pdf",
+      "size_bytes": 2148248,
+      "telegram_date": "2026-08-10T15:08:39+00:00",
+      "title": "국어 김승리 실전 모의고사 시즌2 4회 #김승모",
+      "year": "2027",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23209.png",
+      "sha256": "1445c983d27be07450686f0726c179e4625de84d3aa8ec8eea070403e1ade031"
     }
   ],
   "duplicate_message_ids": [
