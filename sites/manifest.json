@@ -12683,6 +12683,20 @@
       "subject": "공통수학",
       "thumbnail": "thumbnails/23283.png",
       "sha256": "f7070eeae18c170c8dd1fd6ac5dc1bb04452635e94961f4155153a7193bc5897"
+    },
+    {
+      "message_id": 23280,
+      "filename": "지인선 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23280_.2.pdf",
+      "size_bytes": 6347587,
+      "telegram_date": "2026-08-13T15:40:49+00:00",
+      "title": "수학 지인선 실전 모의고사 2회",
+      "year": "2027",
+      "instructor": "지인선",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23280.png",
+      "sha256": "fb2ee337124f3acbc79a5c95d0bce29804aa734ece305473e3fc44e6cbe287b4"
     }
   ],
   "duplicate_message_ids": [
