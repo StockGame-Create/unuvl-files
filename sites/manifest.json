@@ -15413,6 +15413,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22934.png",
       "sha256": "bededf3d3319919d068d896b6711df521951b4aa878e6b85e5880aef525f1b86"
+    },
+    {
+      "message_id": 22932,
+      "filename": "2027 강영찬 visiON 수학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22932_2027.visiON.1.pdf",
+      "size_bytes": 136445952,
+      "telegram_date": "2026-07-30T06:04:05+00:00",
+      "title": "수학 강영찬 visiON 수학1",
+      "year": "2027",
+      "instructor": "강영찬",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22932.png",
+      "sha256": "00e631948b3c5a9e932bc1adbbd44cf3f9dea9074dadb6c615acd104130aab0a"
     }
   ],
   "duplicate_message_ids": [
