@@ -13271,6 +13271,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23169.png",
       "sha256": "5c47c75e329774da4ff76c18c336e415947775159c3f6206add4fe2eff06e95e"
+    },
+    {
+      "message_id": 23166,
+      "filename": "강기원 모의고사 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23166_.3.pdf",
+      "size_bytes": 6824236,
+      "telegram_date": "2026-08-08T15:32:29+00:00",
+      "title": "수학 강기원 모의고사 3회",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23166.png",
+      "sha256": "d89cb7aa232359eabcdf1aa56a18fb4f333cc15c7196754008e980bfc0579406"
     }
   ],
   "duplicate_message_ids": [
