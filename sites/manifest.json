@@ -10499,6 +10499,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23532.png",
       "sha256": "679900b12ef0d0684c37b8eb2354dd87e282043d9da06484da4ccc08583f7e9c"
+    },
+    {
+      "message_id": 23531,
+      "filename": "올림포스_확률과통계_본문 (2022개정).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23531_._._.2022.pdf",
+      "size_bytes": 44204753,
+      "telegram_date": "2026-08-21T23:26:09+00:00",
+      "title": "수학 올림포스, 올림포스 유형편 확률과 통계",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23531.png",
+      "sha256": "30b9bf3d95f54e7b76caf032a425fe396ff5c7e2246300db96a72dbfef57afef"
     }
   ],
   "duplicate_message_ids": [
