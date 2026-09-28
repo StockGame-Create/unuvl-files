@@ -8413,6 +8413,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23790.png",
       "sha256": "45464878d41246b16f6559f02611653c54299775e0d5ccc7f7c1cd4a16827cea"
+    },
+    {
+      "message_id": 23789,
+      "filename": "22개정 RPM 미적분2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23789_22.RPM.2.pdf",
+      "size_bytes": 188559480,
+      "telegram_date": "2026-08-29T04:48:04+00:00",
+      "title": "수학 개념원리 RPM 미적분2",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23789.png",
+      "sha256": "31b35b2e4af68c0d5268197d65be165fe0a4538dc1f818e18b11c85669ac19a4"
     }
   ],
   "duplicate_message_ids": [
