@@ -85,7 +85,7 @@ SESSION_STRING = os.environ.get("TELEGRAM_SESSION", "").strip() or None  # GitHu
 
 # ---- 동기화 조건 --------------------------------------------------------
 # 이 날짜 이후에 올라온 메시지만 동기화 (하드코딩: 2026-09-04부터)
-CUTOFF = datetime(2026, 7, 4, tzinfo=timezone.utc)
+CUTOFF = datetime(2025, 2, 4, tzinfo=timezone.utc)
 
 # ---- 저장 방식 ----------------------------------------------------------
 # (v3) 크기 상관없이 전부 GitHub Release 자산(asset)으로 업로드한다.
