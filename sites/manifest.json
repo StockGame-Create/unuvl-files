@@ -9071,6 +9071,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23718.png",
       "sha256": "d0a0176e5401b984c04f20214dfc2412dc2e00179108388d1121a9587a7100ff"
+    },
+    {
+      "message_id": 23716,
+      "filename": "9평대비고2_통합과학_모의고사_3회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23716_9.2_._._3.pdf",
+      "size_bytes": 4605214,
+      "telegram_date": "2026-08-26T10:45:06+00:00",
+      "title": "통과 고2 9월 대비 모의고사 3, 4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/23716.png",
+      "sha256": "056fb38301309dbff0818e5b9aee49aac9769fe0b550d309542a11d8fd04c4a6"
     }
   ],
   "duplicate_message_ids": [
