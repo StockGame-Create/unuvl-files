@@ -9897,6 +9897,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23594.png",
       "sha256": "7ed12d219c7f7d6d10e23c7169a119b0c68a1c9bfe7b1e553427bf2fc62bf8e6"
+    },
+    {
+      "message_id": 23592,
+      "filename": "얼숏 04.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23592_.04.pdf",
+      "size_bytes": 4489703,
+      "telegram_date": "2026-08-22T08:21:54+00:00",
+      "title": "수학 시대인재 ULTIMATE SHORTCUT 수1 4주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23592.png",
+      "sha256": "2922ed73d461219f385aa0db317c5b90f2c671f31244014359f7903655801929"
     }
   ],
   "duplicate_message_ids": [
