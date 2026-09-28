@@ -13663,6 +13663,20 @@
       "subject": "세포와물질대사",
       "thumbnail": "thumbnails/23125.png",
       "sha256": "7e98319ecdf4d17ea4121ad4f23c34277c89f99ce2fccb52ad8ba52f63c18802"
+    },
+    {
+      "message_id": 23124,
+      "filename": "메가스터디_한종철_세포와물질대사_내신N제_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23124_._._._.N._.pdf",
+      "size_bytes": 20606343,
+      "telegram_date": "2026-08-07T16:40:42+00:00",
+      "title": "과학 한종철 세포와 물질대사 N제",
+      "year": null,
+      "instructor": "한종철",
+      "subject": "세포와물질대사",
+      "thumbnail": "thumbnails/23124.png",
+      "sha256": "f2581c547317beef865a6a3c05f947be1ddb1c572417930265b9c2429e4f2891"
     }
   ],
   "duplicate_message_ids": [
