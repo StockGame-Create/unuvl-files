@@ -16197,6 +16197,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22851.png",
       "sha256": "08027e8a4931d93d0c1c691591954221b2647d7a23dc60d82a29eb8813987aea"
+    },
+    {
+      "message_id": 22850,
+      "filename": "2027 시대인재 서바프로 7월 국어 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22850_2027.7.pdf",
+      "size_bytes": 9840611,
+      "telegram_date": "2026-07-27T12:50:29+00:00",
+      "title": "국어 시대인재 7월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22850.png",
+      "sha256": "7ec87f3d4a5c2f4472ae44d691019d9d484bfffa1d9d4f287c0c51152134b7ae"
     }
   ],
   "duplicate_message_ids": [
