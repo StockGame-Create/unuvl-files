@@ -15133,6 +15133,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22972.png",
       "sha256": "b57885f675f84885a35b53f3b8f0720c5f17f7f1756c30a7744d4690218f5753"
+    },
+    {
+      "message_id": 22970,
+      "filename": "수학 강k 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22970_.k.3.pdf",
+      "size_bytes": 1868440,
+      "telegram_date": "2026-08-02T02:24:28+00:00",
+      "title": "수학 강대모의고사K 3회, 4회 #강k (기하X)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22970.png",
+      "sha256": "d698614c07c7d2a2d26595c9c07e9e00a96bb77b35d65a544f7f356f25c6c0c2"
     }
   ],
   "duplicate_message_ids": [
