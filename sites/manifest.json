@@ -12165,6 +12165,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23344.png",
       "sha256": "17a6c2f5a8246f6fef2a0609c7e8f27c176537131aae627bb566d8631922ac9b"
+    },
+    {
+      "message_id": 23343,
+      "filename": "2027 폴라리스 COLLECTION N제 천체 문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23343_2027.COLLECTION.N.pdf",
+      "size_bytes": 41916259,
+      "telegram_date": "2026-08-16T05:58:47+00:00",
+      "title": "지1 폴라리스 컬렉션 N",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23343.png",
+      "sha256": "389e5ce047f612d3d7c311f723391daed793b84c83995d85adaa718ae1f7fecd"
     }
   ],
   "duplicate_message_ids": [
