@@ -13621,6 +13621,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23129.png",
       "sha256": "9b7bc070ba3c68dafe860498a7d5f365b2b3bc4fe4601e496b4e9d4cfc5fd43f"
+    },
+    {
+      "message_id": 23127,
+      "filename": "강K 4회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23127_.K.4.pdf",
+      "size_bytes": 6533049,
+      "telegram_date": "2026-08-07T16:40:42+00:00",
+      "title": "국어 강대모의고사K 4회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23127.png",
+      "sha256": "96e87e00921984b569dad4da69eaabbcdcb011c94e2deec0d6baee8914c139e3"
     }
   ],
   "duplicate_message_ids": [
