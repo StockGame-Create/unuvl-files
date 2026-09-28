@@ -13131,6 +13131,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/23188.png",
       "sha256": "3e212198edaf1b87d2bdda38df7c7682a60e3eb4b75d5075fec4653878c460a4"
+    },
+    {
+      "message_id": 23187,
+      "filename": "09. [해설]ASAP.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23187_09.ASAP.pdf",
+      "size_bytes": 42269628,
+      "telegram_date": "2026-08-10T05:05:36+00:00",
+      "title": "생윤 시즌1, 2 아삽 문제지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/23187.png",
+      "sha256": "b64ddd3be5bed1b728d6c4643da721a1c576f5f41d3f56452c69717c0a022c61"
     }
   ],
   "duplicate_message_ids": [
