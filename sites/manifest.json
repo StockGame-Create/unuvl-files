@@ -7489,6 +7489,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/23905.png",
       "sha256": "1bd85df60c0621905dc43f90950c664088ad6699006c5617fe6e4874e3784d23"
+    },
+    {
+      "message_id": 23902,
+      "filename": "파브 4회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23902_.4.pdf",
+      "size_bytes": 2559371,
+      "telegram_date": "2026-09-03T14:18:59+00:00",
+      "title": "세지 파이널 브릿지 전국 모의고사 4회 #파브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/23902.png",
+      "sha256": "8e9feb1bb779c5ea8283aec9f3c75e817c332728a17d699e74ad6dc7f13ed037"
     }
   ],
   "duplicate_message_ids": [
