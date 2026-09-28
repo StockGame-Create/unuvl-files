@@ -10541,6 +10541,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23528.png",
       "sha256": "c0f37477567071634ecc2efd1286f45da410e9ee16ca9ae4be5ce4438268554e"
+    },
+    {
+      "message_id": 23526,
+      "filename": "더프리미엄 8월 수학 EX  (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23526_.8.EX.1.pdf",
+      "size_bytes": 14862004,
+      "telegram_date": "2026-08-21T23:26:01+00:00",
+      "title": "수학 THE PREMIUM EX 8월 모의고사 문제지 #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23526.png",
+      "sha256": "80070f71257646e9dfa3d66f42435e49a12ccb17d16ee332f86efab17df1583a"
     }
   ],
   "duplicate_message_ids": [
