@@ -14489,6 +14489,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23048.png",
       "sha256": "5c3486ea74b4d686566f3b54ad06f4af6990a040fa97a81b621d757890e75475"
+    },
+    {
+      "message_id": 23047,
+      "filename": "Omega black speed answer.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23047_Omega.black.speed.answer.pdf",
+      "size_bytes": 3719588,
+      "telegram_date": "2026-08-04T10:52:18+00:00",
+      "title": "수학 OMEGA black 모의고사 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23047.png",
+      "sha256": "02fcf6e861a9d12b6a4fbfb54e3428217e27e395a087c50e5e56e1ad3340913d"
     }
   ],
   "duplicate_message_ids": [
