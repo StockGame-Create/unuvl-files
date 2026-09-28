@@ -14531,6 +14531,20 @@
       "subject": null,
       "thumbnail": "thumbnails/23044.png",
       "sha256": "a3e0008a43216e8246a0cf9c163f9e66e11807bb0a616fdc4f7a1696ffe1213a"
+    },
+    {
+      "message_id": 23043,
+      "filename": "2027 마더텅 듣기.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23043_2027.pdf",
+      "size_bytes": 139576783,
+      "telegram_date": "2026-08-04T01:43:44+00:00",
+      "title": "영어 마더텅 수능기출문제집 영어 듣기",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/23043.png",
+      "sha256": "3b5c960ec7e27fac2cf643deacd9c695c79e0b2aaba6921585941731ff337acd"
     }
   ],
   "duplicate_message_ids": [
