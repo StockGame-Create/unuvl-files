@@ -8203,6 +8203,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23812.png",
       "sha256": "0638eb13db21c2d9e569d493880a8d8d4458cda93c1a6922ba92a3f098cb27dc"
+    },
+    {
+      "message_id": 23810,
+      "filename": "시험지 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23810_.1.pdf",
+      "size_bytes": 160636734,
+      "telegram_date": "2026-08-29T13:53:01+00:00",
+      "title": "지1 식‘s sense 모의고사 시즌2 통합본",
+      "year": "2027",
+      "instructor": "이훈식",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23810.png",
+      "sha256": "025d1976d0b74b6f4a993e95d07d126b983645ea43fa99c661ace56cb316bace"
     }
   ],
   "duplicate_message_ids": [
