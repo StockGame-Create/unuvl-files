@@ -13705,6 +13705,20 @@
       "subject": "과학",
       "thumbnail": "thumbnails/23122.png",
       "sha256": "1f1a4fb2d99cb59ccec430d0bbc83000c2dfd8ca8929a4df213b57dc2ff97456"
+    },
+    {
+      "message_id": 23121,
+      "filename": "1등급만들기_세포와물질대사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23121_1._.pdf",
+      "size_bytes": 40907515,
+      "telegram_date": "2026-08-07T16:40:41+00:00",
+      "title": "과학 1등급 만들기 물질과 에너지, 세포와 물질대사, 지구시스템과학",
+      "year": null,
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/23121.png",
+      "sha256": "f5f5f603853d4585281466f3a8a9e4b948cb6f378f5badfa111ceb1ef10e429b"
     }
   ],
   "duplicate_message_ids": [
