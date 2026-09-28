@@ -9365,6 +9365,20 @@
       "subject": "통합사회",
       "thumbnail": "thumbnails/23680.png",
       "sha256": "173d27ca27a8bb38f384c3d888dd056974ed1296435b40bb9d16f9d4cb127b76"
+    },
+    {
+      "message_id": 23677,
+      "filename": "답지.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23677_.PDF",
+      "size_bytes": 143132,
+      "telegram_date": "2026-08-25T11:23:10+00:00",
+      "title": "생1 9월 모평 대비 백호 모의고사",
+      "year": "2027",
+      "instructor": "백호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/23677.png",
+      "sha256": "4c8e668afd78f4d98afa92128631c2ee6733c9a25f7d4844171754704cec4347"
     }
   ],
   "duplicate_message_ids": [
