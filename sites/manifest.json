@@ -12487,6 +12487,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23306.png",
       "sha256": "3749e0e1f17206167b753c43ce0dd78c562acad3cf50bce433c245b7f009d5b2"
+    },
+    {
+      "message_id": 23304,
+      "filename": "이감 9모.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23304_.9.pdf",
+      "size_bytes": 1962541,
+      "telegram_date": "2026-08-13T15:40:50+00:00",
+      "title": "국어 2027 이감 9모 전 EBS 중요도 정리",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23304.png",
+      "sha256": "6d55f0f9407d30ede571627e4a23c890575634c4d953237d8c5856cbf31ce5c0"
     }
   ],
   "duplicate_message_ids": [
