@@ -11591,6 +11591,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23406.png",
       "sha256": "24d2c9fa8135da7cac95db5562b8b645d5dfd884cc416188e52f7a8f55ef2968"
+    },
+    {
+      "message_id": 23405,
+      "filename": "2027 Bricks 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23405_2027.Bricks.1.pdf",
+      "size_bytes": 17450088,
+      "telegram_date": "2026-08-18T12:58:48+00:00",
+      "title": "수학 최지욱 Bricks 1회 모의고사",
+      "year": "2027",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23405.png",
+      "sha256": "6d381bcced65d734a8a0fad3fc03abc07b665ec63530486fe48e207b3205b3a4"
     }
   ],
   "duplicate_message_ids": [
