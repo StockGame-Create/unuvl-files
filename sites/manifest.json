@@ -7363,6 +7363,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23920.png",
       "sha256": "ac196676cc2111b35f35f2ac25d5f0d1cfa4cb533a66e342bcc182446c8ca25a"
+    },
+    {
+      "message_id": 23918,
+      "filename": "2027 영어 강대K 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23918_2027.K.5.pdf",
+      "size_bytes": 4096296,
+      "telegram_date": "2026-09-04T13:22:07+00:00",
+      "title": "영어 강대모의고사K 5회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/23918.png",
+      "sha256": "c191b2ae188ff65c28e4ea304b94465ecb22581a5d6894e20495b42d078dd2d3"
     }
   ],
   "duplicate_message_ids": [
