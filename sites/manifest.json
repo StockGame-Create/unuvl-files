@@ -9617,6 +9617,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23642.png",
       "sha256": "19f5a94611656b96e7dd583c514a184975288d18bd06a3ac13b6889192e6c2a1"
+    },
+    {
+      "message_id": 23641,
+      "filename": "TalkFile_매월승리_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23641_TalkFile_._.pdf",
+      "size_bytes": 10032379,
+      "telegram_date": "2026-08-23T14:39:28+00:00",
+      "title": "국어 매월승리 07월호",
+      "year": "2027",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23641.png",
+      "sha256": "8f21252479d95938091fde2e02ff4d417f020dcd15d69989e369b27416a23e4e"
     }
   ],
   "duplicate_message_ids": [
