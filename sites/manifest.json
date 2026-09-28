@@ -13775,6 +13775,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23117.png",
       "sha256": "31cf02755074d866bffcecc06d392a1ef786a6e5586e4e851573a835e9056d74"
+    },
+    {
+      "message_id": 23115,
+      "filename": "11. 잘푸는모의고사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23115_11.pdf",
+      "size_bytes": 89613992,
+      "telegram_date": "2026-08-07T16:40:41+00:00",
+      "title": "생윤 잘 푸는 모의고사 시즌1 #잘푸모",
+      "year": "2027",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/23115.png",
+      "sha256": "55d387a190d92ed0acef4b7c773dc8b4e55477b1bf6c0dc5a084a2ac0733aba4"
     }
   ],
   "duplicate_message_ids": [
