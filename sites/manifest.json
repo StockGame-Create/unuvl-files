@@ -11801,6 +11801,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23386.png",
       "sha256": "a58aa4effddb308bede273a2c770f73f7fb37e79a0548e519d54ae871e656a83"
+    },
+    {
+      "message_id": 23383,
+      "filename": "Adobe Scan 2026년 8월 16일.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23383_Adobe.Scan.2026.8.16.pdf",
+      "size_bytes": 2590006,
+      "telegram_date": "2026-08-16T15:31:42+00:00",
+      "title": "지1 OMEGA 모의고사 8회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23383.png",
+      "sha256": "3b1ba7fa36eacce1e065c3b8537e218cc8c369743718c54e5e3b190655608fc6"
     }
   ],
   "duplicate_message_ids": [
