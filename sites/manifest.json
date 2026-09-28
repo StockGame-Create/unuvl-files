@@ -10387,6 +10387,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23543.png",
       "sha256": "c773df196f18e81f1791a87f2b131fcd902bb590125c2a3f4fa4f7f94ff2b441"
+    },
+    {
+      "message_id": 23542,
+      "filename": "김승리 모의고사 01~03회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23542_.01.03.pdf",
+      "size_bytes": 70679340,
+      "telegram_date": "2026-08-22T00:20:34+00:00",
+      "title": "국어 김승리 실전 모의고사 시즌1, 2 1~6회 (인쇄소퀄) #김승모",
+      "year": "2027",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23542.png",
+      "sha256": "c1c260fee17f2363853a0ac7d014ab3dbfdabd455f455dc51d7c4c53b2098059"
     }
   ],
   "duplicate_message_ids": [
