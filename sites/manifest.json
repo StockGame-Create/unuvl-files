@@ -10037,6 +10037,20 @@
       "subject": null,
       "thumbnail": "thumbnails/23576.png",
       "sha256": "06236391a732431182047c1f129ea9015410108eaf97219ade53479a93f74479"
+    },
+    {
+      "message_id": 23574,
+      "filename": "2027_박종민_프리뷰_퀴즈_7주차11_기울기_보정_664397662582487.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23574_2027_._._._7.11_._._664397662582487.pdf",
+      "size_bytes": 697632,
+      "telegram_date": "2026-08-22T04:07:59+00:00",
+      "title": "수학 박종민 서바 정규반 7주차 Preview Quiz",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23574.png",
+      "sha256": "e0f32ddbfd2f9f85ce1a0db7e644532b9f398805a85c874cc20879b84cc2cd75"
     }
   ],
   "duplicate_message_ids": [
