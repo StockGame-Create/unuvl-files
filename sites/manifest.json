@@ -10275,6 +10275,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23558.png",
       "sha256": "97603c3ff47bbbd46974c7600dbc65137660448254d4d3b33a9d3454624d1a59"
+    },
+    {
+      "message_id": 23556,
+      "filename": "한수 파이널1 5,6회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23556_.1.5.6._.pdf",
+      "size_bytes": 65887543,
+      "telegram_date": "2026-08-22T03:33:38+00:00",
+      "title": "국어 한수 파이널1 제 5, 6차 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23556.png",
+      "sha256": "64593d6ea839732b0f7c7847e0f7b0111f75db66ad4a438ddf497a1cbeabfccf"
     }
   ],
   "duplicate_message_ids": [
