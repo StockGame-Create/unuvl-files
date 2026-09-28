@@ -7825,6 +7825,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23857.png",
       "sha256": "a3e030a4011aa196336048473c63df376efca0dec8b69090806c22862684368a"
+    },
+    {
+      "message_id": 23855,
+      "filename": "2027학년도_엄기은_STEP모고_9월직전_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23855_2027._._STEP._9._.pdf",
+      "size_bytes": 264560,
+      "telegram_date": "2026-09-01T14:46:15+00:00",
+      "title": "지1 엄기은 STEP 모의고사 9월 직전 보강",
+      "year": "2027",
+      "instructor": "엄기은",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23855.png",
+      "sha256": "f031477f1e83d24a55173aff3b192efaa1920911f0da1e6573ef173499e56be2"
     }
   ],
   "duplicate_message_ids": [
