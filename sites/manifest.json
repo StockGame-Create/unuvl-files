@@ -14377,6 +14377,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/23065.png",
       "sha256": "bed193477b284aae51299904d0735c41cfdc4fce905d419561da08e9b95f8521"
+    },
+    {
+      "message_id": 23063,
+      "filename": "10지선다_비밀특강_시크릿_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23063_10._._._2.pdf",
+      "size_bytes": 11814607,
+      "telegram_date": "2026-08-05T12:56:12+00:00",
+      "title": "사문 10지선다 비밀특강 시크릿 1, 2회",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23063.png",
+      "sha256": "f3ff1b1cbc9482d4c9774551c550806af4a304e84836e5a78c84b0c9fb0ed448"
     }
   ],
   "duplicate_message_ids": [
