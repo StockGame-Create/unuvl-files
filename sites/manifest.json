@@ -12193,6 +12193,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23342.png",
       "sha256": "fc43c0e9f3c53d409959f5a5906a7baf8381f05e3dffaeeba1ea24bbbea8d32c"
+    },
+    {
+      "message_id": 23341,
+      "filename": "2027 폴라리스 COLLECTION N제 유체 문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23341_2027.COLLECTION.N.pdf",
+      "size_bytes": 46218829,
+      "telegram_date": "2026-08-16T05:58:47+00:00",
+      "title": "지1 폴라리스 컬렉션 N",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23341.png",
+      "sha256": "f0f8e51ef3a49e8ffac7fa85e64b4072030f200e3db5f42ea4551358214ed34c"
     }
   ],
   "duplicate_message_ids": [
