@@ -14419,6 +14419,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23060.png",
       "sha256": "ca735a0f2525d404187ea3b700e980cc2e47250607181db2c4d66f9f8257ef2b"
+    },
+    {
+      "message_id": 23059,
+      "filename": "라이트쎈_미적분1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23059_._.1.pdf",
+      "size_bytes": 34868122,
+      "telegram_date": "2026-08-05T12:56:10+00:00",
+      "title": "라이트쎈 미적분1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23059.png",
+      "sha256": "d1507893fa3c11fd37d74d64c3a48c6808e3728a0f7373658ef9638f03f8f345"
     }
   ],
   "duplicate_message_ids": [
