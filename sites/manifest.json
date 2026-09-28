@@ -15441,6 +15441,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22927.png",
       "sha256": "26473a3b09dc04d2a1c0069971158a8371d5bb871a3c814be4887bcf6cdee7e0"
+    },
+    {
+      "message_id": 22926,
+      "filename": "1,2회 답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22926_1.2.pdf",
+      "size_bytes": 1506475,
+      "telegram_date": "2026-07-29T17:13:06+00:00",
+      "title": "생1 DCAF 시놉시스 모의고사 1~4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22926.png",
+      "sha256": "65404f8e1a4e2481f9fea63d210579c6c68f5f3304b22ed73a2c1edbeedcf397"
     }
   ],
   "duplicate_message_ids": [
