@@ -12655,6 +12655,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23286.png",
       "sha256": "7ea1e67734f9443df34e49e2615bb04250cbf99cdd6476301210573dfb5df67e"
+    },
+    {
+      "message_id": 23284,
+      "filename": "유형내신_고쟁이_확률과_통계_22개정_해설_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23284_._._._._22._._1.pdf",
+      "size_bytes": 9446216,
+      "telegram_date": "2026-08-13T15:40:49+00:00",
+      "title": "수학 고쟁이 확률과 통계 (22개정)",
+      "year": null,
+      "instructor": null,
+      "subject": "공통수학",
+      "thumbnail": "thumbnails/23284.png",
+      "sha256": "84608c299a9c332df5027434aa86583418c981a9e0dc475ea8a10dc28264fc08"
     }
   ],
   "duplicate_message_ids": [
