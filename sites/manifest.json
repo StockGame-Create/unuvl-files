@@ -15077,6 +15077,20 @@
       "subject": "화법과언어",
       "thumbnail": "thumbnails/22979.png",
       "sha256": "71ba79f011344bf1e2472a1135c5ac6ff0424351913e2cf241dc7620aece8268"
+    },
+    {
+      "message_id": 22978,
+      "filename": "자이스토리_화법과언어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22978_._.pdf",
+      "size_bytes": 198631626,
+      "telegram_date": "2026-08-02T15:48:11+00:00",
+      "title": "화법과 언어 자이스토리 (22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화법과언어",
+      "thumbnail": "thumbnails/22978.png",
+      "sha256": "7bf8d2acc5901bb3313d90673e6664a4a61300e3c5dc88c244f1e72c40302401"
     }
   ],
   "duplicate_message_ids": [
