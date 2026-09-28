@@ -11605,6 +11605,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23405.png",
       "sha256": "6d381bcced65d734a8a0fad3fc03abc07b665ec63530486fe48e207b3205b3a4"
+    },
+    {
+      "message_id": 23403,
+      "filename": "다상다독 3,4회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23403_.3.4._.pdf",
+      "size_bytes": 115694605,
+      "telegram_date": "2026-08-18T12:58:46+00:00",
+      "title": "국어 다상다독 모의고사 3, 4회",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23403.png",
+      "sha256": "cd7f40074342957a0f496940b68db2f9f9dca0d5ccf00a98b57b9791857a151b"
     }
   ],
   "duplicate_message_ids": [
