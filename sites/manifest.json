@@ -11423,6 +11423,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23425.png",
       "sha256": "8c7438a4272951ce8e1f07a1f28725864dd99cee96ab36f9afa429aacb474d45"
+    },
+    {
+      "message_id": 23423,
+      "filename": "2027_전형태_EBS_연계_문학_모의고사_해설편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23423_2027_._EBS_._._._.pdf",
+      "size_bytes": 151922064,
+      "telegram_date": "2026-08-19T14:54:44+00:00",
+      "title": "국어 전형태 EBS 연계 문학 모의고사",
+      "year": "2027",
+      "instructor": "전형태",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23423.png",
+      "sha256": "d3bff2fedd017f71aa72d8ef1375fb1708828709f8e9ef64e04d3c1ac8219a9d"
     }
   ],
   "duplicate_message_ids": [
