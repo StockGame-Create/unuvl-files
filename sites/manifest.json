@@ -12417,6 +12417,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23318.png",
       "sha256": "0e42110aebec687e58468e6dadd954801a42483117bc7a0737ba4ae6b549a085"
+    },
+    {
+      "message_id": 23313,
+      "filename": "무제 3주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23313_.3.pdf",
+      "size_bytes": 32502388,
+      "telegram_date": "2026-08-13T15:42:20+00:00",
+      "title": "국어 강민철의 무제 3주차",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23313.png",
+      "sha256": "c5239d3597c61b76f2fdb596f867ef3bbbf69c7041d06b6927226ec949b87846"
     }
   ],
   "duplicate_message_ids": [
