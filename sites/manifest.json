@@ -11017,6 +11017,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23467.png",
       "sha256": "b51ac32de6163166065c2a4b63e5a00c7e005c2d16e2ab2573e29f8c147fea88"
+    },
+    {
+      "message_id": 23466,
+      "filename": "사문 일반서바 4회 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23466_.4.pdf",
+      "size_bytes": 18253427,
+      "telegram_date": "2026-08-20T14:21:45+00:00",
+      "title": "사문 시대인재 서바이벌 4회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23466.png",
+      "sha256": "36f86986b871cd6680a43938e7a65fa020a2fd04bac88043f668cf1af523c147"
     }
   ],
   "duplicate_message_ids": [
