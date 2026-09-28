@@ -10023,6 +10023,20 @@
       "subject": null,
       "thumbnail": "thumbnails/23577.png",
       "sha256": "f89fc351c28594d542aeaa2b00bba5f89c51a2bcd631ef4c46b174e789f401e6"
+    },
+    {
+      "message_id": 23576,
+      "filename": "8월_메가스터디_한국사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23576_8._._.pdf",
+      "size_bytes": 954285,
+      "telegram_date": "2026-08-22T05:34:06+00:00",
+      "title": "전과목 8월 전국 대단위 실전 모의고사 (수학X) #전대실모",
+      "year": "2027",
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/23576.png",
+      "sha256": "06236391a732431182047c1f129ea9015410108eaf97219ade53479a93f74479"
     }
   ],
   "duplicate_message_ids": [
