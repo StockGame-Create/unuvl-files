@@ -9463,6 +9463,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23664.png",
       "sha256": "65b0224b521ab65995f93b9664037e7c2965d76b40d6975d0cfdc85391f8ecf2"
+    },
+    {
+      "message_id": 23661,
+      "filename": "27서바 생1 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23661_27.1.7.pdf",
+      "size_bytes": 5642345,
+      "telegram_date": "2026-08-24T11:28:30+00:00",
+      "title": "생1 시대인재 서바이벌 모의고사 7회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/23661.png",
+      "sha256": "b6a1ba8fa6eb42a087d92ac056644831e5f94dbd7b173eae1970ec15ba9c3ed8"
     }
   ],
   "duplicate_message_ids": [
