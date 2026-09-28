@@ -11633,6 +11633,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23402.png",
       "sha256": "b611f01cc58199e2bc5b355907dc34fa2fcd67d68d91e5b28a4340ec9dc88310"
+    },
+    {
+      "message_id": 23401,
+      "filename": "EBS_2026_올림포스_기출_미적분Ⅰ_정답과해설(1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23401_EBS_2026_._._._.1.pdf",
+      "size_bytes": 3929929,
+      "telegram_date": "2026-08-18T12:58:45+00:00",
+      "title": "수학 올림포스 전국연합학력평가 기출문제집 미적분1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23401.png",
+      "sha256": "f17ee4a98f3fed402a96ee30570223a83a10103da7175505c51bc090b8c20ddd"
     }
   ],
   "duplicate_message_ids": [
