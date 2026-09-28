@@ -10975,6 +10975,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23472.png",
       "sha256": "4b8ea85165b4202a4374c90176b87dd3df4b8fc98d325e2325d28d1e8fd888b0"
+    },
+    {
+      "message_id": 23470,
+      "filename": "최적_적자생존_시즌2_4_6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23470_._._.2_4_6.pdf",
+      "size_bytes": 19434431,
+      "telegram_date": "2026-08-20T14:21:51+00:00",
+      "title": "정법 적자생존 모의고사 시즌2 4~6회 #적생모",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/23470.png",
+      "sha256": "2c0e1f935a16778b38a65149650ea51a6cf4c9dc58da8b32907ae8e785b90e0c"
     }
   ],
   "duplicate_message_ids": [
