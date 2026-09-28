@@ -7279,6 +7279,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/23928.png",
       "sha256": "2087764729ac4da7f5f3f11ac4b379151d3ef5fc0e8e7f167c600078d68198c9"
+    },
+    {
+      "message_id": 23927,
+      "filename": "JIT PRO n제 세계지리.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23927_JIT.PRO.n.pdf",
+      "size_bytes": 278147230,
+      "telegram_date": "2026-09-05T04:18:45+00:00",
+      "title": "세지 JIT PRO N제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/23927.png",
+      "sha256": "3ad6393561287e35eb0a5293495d487f5b88a5aae1c7bccdd3891523efdf1cc7"
     }
   ],
   "duplicate_message_ids": [
