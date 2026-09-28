@@ -10667,6 +10667,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23510.png",
       "sha256": "ef42a4c6ba13da4a21f936c455900a39c793b43545adbf17d70eb1194dbc472c"
+    },
+    {
+      "message_id": 23508,
+      "filename": "베라디 해설_260809_230528.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23508_._260809_230528.pdf",
+      "size_bytes": 17260426,
+      "telegram_date": "2026-08-21T15:59:00+00:00",
+      "title": "사문 VERADI 이음 모의고사 시즌1 0~3회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23508.png",
+      "sha256": "e7b7c0627eaf35069d713f009afd716abd4eb29d0652945e395a4494378f010e"
     }
   ],
   "duplicate_message_ids": [
