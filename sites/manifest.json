@@ -9519,6 +9519,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23656.png",
       "sha256": "c174ab874fc8f443a1edf7f3d1abede55c6b8328c547f48f24cde457504f21ce"
+    },
+    {
+      "message_id": 23654,
+      "filename": "적생모_사회문화_시즌2_정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23654_._._.2_.pdf",
+      "size_bytes": 11784926,
+      "telegram_date": "2026-08-24T10:24:02+00:00",
+      "title": "사문 적자생존 모의고사 시즌2 4~6회 #적생모",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23654.png",
+      "sha256": "623c1570ca0065442b112429ba999e20901cd9e251b67509d4153a48d7f494c3"
     }
   ],
   "duplicate_message_ids": [
