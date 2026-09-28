@@ -11885,6 +11885,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23375.png",
       "sha256": "07ce481942c0e35647e8caa4e3a1047e888f1debf6e7c515b704a28eafdcc193"
+    },
+    {
+      "message_id": 23374,
+      "filename": "이원준 리트 최신.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23374_.PDF",
+      "size_bytes": 7230988,
+      "telegram_date": "2026-08-16T15:31:42+00:00",
+      "title": "국어 이원준 Leet 300제 최신 (추가)",
+      "year": null,
+      "instructor": "이원준",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23374.png",
+      "sha256": "a32aff85537137a8421b9f7d4470d6d40501c3eea9477b5e6585f2c697ef9e4b"
     }
   ],
   "duplicate_message_ids": [
