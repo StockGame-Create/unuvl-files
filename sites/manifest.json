@@ -9645,6 +9645,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23639.png",
       "sha256": "2136fc76a71eceb5f7c5a5570b6df9e28e62aa768b8bce4f81fdca9e3f006bff"
+    },
+    {
+      "message_id": 23637,
+      "filename": "2027학년도_9월_대비_스포일러_모의고사_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23637_2027._9._._._._.pdf",
+      "size_bytes": 7463377,
+      "telegram_date": "2026-08-23T14:39:25+00:00",
+      "title": "수학 2027학년도 9월 대비 김동환 스포일러 모의고사",
+      "year": "2027",
+      "instructor": "김동환",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23637.png",
+      "sha256": "0cb6ca3ee6b2096c95694addb467e2fedc50928b40655aeba3a5225396257d0e"
     }
   ],
   "duplicate_message_ids": [
