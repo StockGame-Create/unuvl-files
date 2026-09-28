@@ -11213,6 +11213,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23444.png",
       "sha256": "a0ae081834bc0e85840263aac87a877f4922ad036e14d3fc9ff4ccf6f168519c"
+    },
+    {
+      "message_id": 23443,
+      "filename": "간쓸개 2027-월간3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23443_.2027-.3.pdf",
+      "size_bytes": 46147590,
+      "telegram_date": "2026-08-19T14:55:01+00:00",
+      "title": "국어 월간 간쓸개 3권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23443.png",
+      "sha256": "6677e4229f88448a3e276afb6dd880bae623289d980946d89c40d563e2dbc26d"
     }
   ],
   "duplicate_message_ids": [
