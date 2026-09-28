@@ -10625,6 +10625,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23519.png",
       "sha256": "0c42aef6670b78511c09de6c464b3f67a0f2b9c0bbe35cfa3767f1a82612c68d"
+    },
+    {
+      "message_id": 23518,
+      "filename": "업텐션 수2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23518_.2.pdf",
+      "size_bytes": 18377170,
+      "telegram_date": "2026-08-21T16:02:14+00:00",
+      "title": "수학 UPTENTION 수학1,2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23518.png",
+      "sha256": "96a2ad25253dd93ee0de218760985a3c1001feab00ae1c5727b2e1276f6107f6"
     }
   ],
   "duplicate_message_ids": [
