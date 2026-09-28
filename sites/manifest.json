@@ -15273,6 +15273,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/22951.png",
       "sha256": "cf083bd1c69994944af2c9702c1fc3a54d9b986a386a13a7beca0243ef188952"
+    },
+    {
+      "message_id": 22949,
+      "filename": "27 강k 아나토미 1,2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22949_27.k.1.2.pdf",
+      "size_bytes": 2676651,
+      "telegram_date": "2026-08-01T17:13:29+00:00",
+      "title": "수학 KICE ANATOMY 강대모의고사k 주요문항 1, 2회",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22949.png",
+      "sha256": "4ddf12a6f7bf7b80f3ade7ef3e2fd8a5e5c4da3d289d2d58862db577c3c06995"
     }
   ],
   "duplicate_message_ids": [
