@@ -12305,6 +12305,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23330.png",
       "sha256": "701e11f76360b8f2a33f4be0ab0088249851fdfc611dfead08f70252a7e3ab75"
+    },
+    {
+      "message_id": 23328,
+      "filename": "TalkFile_이뮨 시즌3.pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23328_TalkFile_.3.pdf.pdf",
+      "size_bytes": 5292327,
+      "telegram_date": "2026-08-14T14:31:36+00:00",
+      "title": "국어 이뮨 연계 모의고사 시즌3 통합본",
+      "year": "2027",
+      "instructor": "유대종",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23328.png",
+      "sha256": "79540688e758d1e5a5da20b3db7100f07299dde4a9c8f99f07046bf2eadd9b00"
     }
   ],
   "duplicate_message_ids": [
