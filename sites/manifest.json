@@ -11367,6 +11367,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23430.png",
       "sha256": "f9420b5788f035c67c73a3f4f6c06b650335d417d00bfe4ee67d5094f28f9908"
+    },
+    {
+      "message_id": 23429,
+      "filename": "2027_시대인재_엑셀러레이터_국어_02호.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23429_2027_._._._02.pdf",
+      "size_bytes": 65019277,
+      "telegram_date": "2026-08-19T14:54:49+00:00",
+      "title": "국어 2027 엑셀러레이터 2호",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23429.png",
+      "sha256": "e1d5e33c816506df440e1b5b9a959948f30e58215432d8ac6bf5593c309783df"
     }
   ],
   "duplicate_message_ids": [
