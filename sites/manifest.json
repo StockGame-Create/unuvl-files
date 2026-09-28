@@ -10555,6 +10555,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23526.png",
       "sha256": "80070f71257646e9dfa3d66f42435e49a12ccb17d16ee332f86efab17df1583a"
+    },
+    {
+      "message_id": 23524,
+      "filename": "2027_사문_적자생존_시즌1_3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23524_2027_._._.1_3.pdf",
+      "size_bytes": 1203025,
+      "telegram_date": "2026-08-21T23:26:00+00:00",
+      "title": "사문 적자생존 모의고사 시즌1 2, 3회 #적생모",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23524.png",
+      "sha256": "24aa970c0e29dc9cdd4891f3e8de3281fdabef93d7bd6470740c4ee564f7339b"
     }
   ],
   "duplicate_message_ids": [
