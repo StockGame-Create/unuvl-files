@@ -11969,6 +11969,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/23366.png",
       "sha256": "838559a46d8d570158833dd1f4b16683a4ef1cf7d17c077a50637c2fe223b779"
+    },
+    {
+      "message_id": 23364,
+      "filename": "서킷x s2_20260815.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23364_.x.s2_20260815.pdf",
+      "size_bytes": 5262845,
+      "telegram_date": "2026-08-16T15:31:41+00:00",
+      "title": "수학 강대 CIRCUIT X 시즌2 5회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23364.png",
+      "sha256": "b227f9cfa0b771ae792563b9aac363b1fb42e36ac24e7d546bad4e8844d5c576"
     }
   ],
   "duplicate_message_ids": [
