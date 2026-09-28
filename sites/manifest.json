@@ -12753,6 +12753,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23273.png",
       "sha256": "9f4a24697180df2aa6ad1024cce641c3566fbe562883749df9129add5556deb4"
+    },
+    {
+      "message_id": 23270,
+      "filename": "한수_파이널_시즌1_2회_모의고사_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23270_._._.1_2._._.pdf",
+      "size_bytes": 26454835,
+      "telegram_date": "2026-08-13T15:40:48+00:00",
+      "title": "국어 한수 파이널1 제2차 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23270.png",
+      "sha256": "f3bac5b7eca0af1a2ed6292ce2b73bba520a620f44eb85e68fa17122a66e7f3b"
     }
   ],
   "duplicate_message_ids": [
