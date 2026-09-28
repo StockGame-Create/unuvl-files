@@ -11199,6 +11199,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23445.png",
       "sha256": "8da35e84e1c9db626a30028471af4164d8fe3f3b9c2d58ffbb1d092f49b7bed0"
+    },
+    {
+      "message_id": 23444,
+      "filename": "2027학년도 8월 더프 국어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23444_2027.8.pdf",
+      "size_bytes": 75018053,
+      "telegram_date": "2026-08-19T14:55:02+00:00",
+      "title": "국어 THE PREMIUM 8월 모의고사 문제지 #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23444.png",
+      "sha256": "a0ae081834bc0e85840263aac87a877f4922ad036e14d3fc9ff4ccf6f168519c"
     }
   ],
   "duplicate_message_ids": [
