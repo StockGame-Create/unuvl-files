@@ -7377,6 +7377,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23918.png",
       "sha256": "c191b2ae188ff65c28e4ea304b94465ecb22581a5d6894e20495b42d078dd2d3"
+    },
+    {
+      "message_id": 23916,
+      "filename": "서바노트 4.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23916_.4.pdf",
+      "size_bytes": 30303216,
+      "telegram_date": "2026-09-04T13:22:06+00:00",
+      "title": "수학 박종민 서바 Review 4회",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23916.png",
+      "sha256": "b6a3169d660399f388b1db1d1c71d23e82ae3bec55a898993a23d2d55595f007"
     }
   ],
   "duplicate_message_ids": [
