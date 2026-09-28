@@ -14979,6 +14979,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/22997.png",
       "sha256": "33889b6f849e6ddad9d905bb4fc706feb688ad17ec1f74d67b2ac13b7a9f9c83"
+    },
+    {
+      "message_id": 22990,
+      "filename": "수학 강k 4회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22990_.k.4.pdf",
+      "size_bytes": 9040761,
+      "telegram_date": "2026-08-02T15:48:11+00:00",
+      "title": "수학 강대모의고사K 3회, 4회 #강k (기하O)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22990.png",
+      "sha256": "e4f4dcfbe656a76774827a51bd0f38d175d9d6ef89c39eba8356c6a1aa5c633e"
     }
   ],
   "duplicate_message_ids": [
