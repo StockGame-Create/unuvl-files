@@ -14811,6 +14811,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/23013.png",
       "sha256": "e61057c5f42b75bdcb545c82d39d442b590acae9e4d21976297487fe4be20ae8"
+    },
+    {
+      "message_id": 23012,
+      "filename": "2027 최지욱 시즌1 Arch 공통 필기 01주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23012_2027.1.Arch.01.pdf",
+      "size_bytes": 30698854,
+      "telegram_date": "2026-08-02T15:48:12+00:00",
+      "title": "수학 최지욱 시즌1 ARCH 1주차 필기노트",
+      "year": "2027",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23012.png",
+      "sha256": "70cfe1f5989523b01877760595109e9f1d7f3b10a2bb76980a927f3e01eebf36"
     }
   ],
   "duplicate_message_ids": [
