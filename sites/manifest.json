@@ -29,6 +29,20 @@
       "sha256": "5b61556324905f2c5eae06c8be5a628d36beee8e282dc12dca6794adc3443517"
     },
     {
+      "message_id": 24761,
+      "filename": "트레일러 시즌1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/24761_.1.pdf",
+      "size_bytes": 34943037,
+      "telegram_date": "2026-09-28T14:26:56+00:00",
+      "title": "생1 DCAF 트레일러 모의고사 1~5회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/24761.png",
+      "sha256": "96bac948a788ed5200b192f09e1e99e1e77e560a04969615a1e1234ce08b35ab"
+    },
+    {
       "message_id": 24735,
       "filename": "시즌2 교재해설.pdf",
       "stored_as": null,
