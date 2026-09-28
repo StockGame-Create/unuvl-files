@@ -11787,6 +11787,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23387.png",
       "sha256": "91bd7fc2c0b253e7021ff8b1cf063a0b3860a10c2a1832e7cc5220af771e5b05"
+    },
+    {
+      "message_id": 23386,
+      "filename": "사만다 시즌2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23386_.2.pdf",
+      "size_bytes": 10727205,
+      "telegram_date": "2026-08-16T15:31:43+00:00",
+      "title": "사문 2027 사만다 모의고사 시즌2 1~3회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23386.png",
+      "sha256": "a58aa4effddb308bede273a2c770f73f7fb37e79a0548e519d54ae871e656a83"
     }
   ],
   "duplicate_message_ids": [
