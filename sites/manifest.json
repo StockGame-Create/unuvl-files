@@ -12459,6 +12459,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23311.png",
       "sha256": "46959f5de1a66420d141d38933f7fd1ba67ae61a4057a0cf7220e93f05a9cf10"
+    },
+    {
+      "message_id": 23308,
+      "filename": "파브5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23308_.5.pdf",
+      "size_bytes": 2910308,
+      "telegram_date": "2026-08-13T15:40:50+00:00",
+      "title": "경제 파이널 브릿지 전국 모의고사 5회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "경제",
+      "thumbnail": "thumbnails/23308.png",
+      "sha256": "894c774a558735fe900dbef1d0f8072f4950d19b3d18961b0b4d21e11a349682"
     }
   ],
   "duplicate_message_ids": [
