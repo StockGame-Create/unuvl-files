@@ -10779,6 +10779,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23499.png",
       "sha256": "c30df1f6c1b421e1f8f0e508a38bd590d5813327ca83b5c4efc7371cf7886c53"
+    },
+    {
+      "message_id": 23498,
+      "filename": "시대 생윤1,2 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23498_.1.2.pdf",
+      "size_bytes": 31407786,
+      "telegram_date": "2026-08-21T15:47:03+00:00",
+      "title": "생윤 시대인재 서바이벌 C 단독 모의고사 1,2회 #서바C",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/23498.png",
+      "sha256": "2c9bc4af7365af452fb101021fcd1b96f27d2c9931dd29b0e075896b924b2c05"
     }
   ],
   "duplicate_message_ids": [
