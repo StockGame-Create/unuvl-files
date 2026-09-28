@@ -15203,6 +15203,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22962.png",
       "sha256": "947ca6e697c7150fd69e701dda2cd1ecfbba4d3911c5d909db4b230f1dafbbe2"
+    },
+    {
+      "message_id": 22960,
+      "filename": "2027 생명과학1 강k+ 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22960_2027.1.k%2B.2.pdf",
+      "size_bytes": 6978901,
+      "telegram_date": "2026-08-01T17:14:04+00:00",
+      "title": "생1 강대모의고사K+ 2회 #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22960.png",
+      "sha256": "f11e795deebe54c86bd85bdf0a3d6d9f74255deaf01ea4af6a6c6fbbc293b7ad"
     }
   ],
   "duplicate_message_ids": [
