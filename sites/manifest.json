@@ -15651,6 +15651,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22906.png",
       "sha256": "83f2ab464584cdc95a67437a5157838853ad0fd387e370e87c222c263bbe5c5d"
+    },
+    {
+      "message_id": 22905,
+      "filename": "국어,+김재훈,+여름특강+수업자료1_260729_071100.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22905_.%2B.%2B.%2B.1_260729_071100.pdf",
+      "size_bytes": 1945397,
+      "telegram_date": "2026-07-29T17:12:48+00:00",
+      "title": "국어 김재훈 여름특강 수업자료",
+      "year": "2027",
+      "instructor": "김재훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22905.png",
+      "sha256": "460985d30d1908c2ca6be8e9c21de8a64707142ef771b779c7f4dc2ad1b0bf56"
     }
   ],
   "duplicate_message_ids": [
