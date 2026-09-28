@@ -7559,6 +7559,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/23896.png",
       "sha256": "2947dba25696622828f1826006107cdf11ea23ca29fa906f75c467885f50dbdf"
+    },
+    {
+      "message_id": 23895,
+      "filename": "JIT n제 세계지리.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23895_JIT.n.pdf",
+      "size_bytes": 242689287,
+      "telegram_date": "2026-09-03T14:10:52+00:00",
+      "title": "세지 JIT N제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/23895.png",
+      "sha256": "64b0499ea9ada1324005be6e2a6e9d18ff6510ae0ae4eba6201aa9b1b9e2ad6d"
     }
   ],
   "duplicate_message_ids": [
