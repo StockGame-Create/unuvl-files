@@ -8329,6 +8329,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23798.png",
       "sha256": "ddcacea82394f781f7e435188d0323bcd872aa758800dba7178bb22d7cdf3013"
+    },
+    {
+      "message_id": 23797,
+      "filename": "2027_시대인재_서바이벌_수학_전국_모의고사_8회_정답_및_해설_2026_08_29_01_49_38.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23797_2027_._._._._._8._._._._2026_08_29_01_49_38.pdf",
+      "size_bytes": 1000926,
+      "telegram_date": "2026-08-29T04:48:13+00:00",
+      "title": "수학 시대인재 서바이벌 전국 모의고사 8회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23797.png",
+      "sha256": "abe48707de9567988f2dae4c516c39c47b70eefcdf3d93c7b73937b3a7737e33"
     }
   ],
   "duplicate_message_ids": [
