@@ -14335,6 +14335,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23080.png",
       "sha256": "36b34e6827452865827f6dc84040c7ade5e4d0699fb3109901212051a7d2f39d"
+    },
+    {
+      "message_id": 23078,
+      "filename": "C26FC59251LA031_1JUL.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23078_C26FC59251LA031_1JUL.PDF",
+      "size_bytes": 4519200,
+      "telegram_date": "2026-08-05T15:03:54+00:00",
+      "title": "세지 이것이 모의고사다 3회 #이모다",
+      "year": "2027",
+      "instructor": "이기상",
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/23078.png",
+      "sha256": "e8dc769d3a07926a35361e6c1034e31d8c245a8d75309b07cc47f85cac619dd0"
     }
   ],
   "duplicate_message_ids": [
