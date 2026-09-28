@@ -11185,6 +11185,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23446.png",
       "sha256": "0de71ed38cc9b00b354c705219bdf005ad0be5b1f55c8c1a8cc729c5753abcfc"
+    },
+    {
+      "message_id": 23445,
+      "filename": "2027학년도 8월 더프 수학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23445_2027.8.pdf",
+      "size_bytes": 28172145,
+      "telegram_date": "2026-08-19T14:55:03+00:00",
+      "title": "수학 THE PREMIUM 8월 모의고사 문제지 #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23445.png",
+      "sha256": "8da35e84e1c9db626a30028471af4164d8fe3f3b9c2d58ffbb1d092f49b7bed0"
     }
   ],
   "duplicate_message_ids": [
