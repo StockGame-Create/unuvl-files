@@ -12137,6 +12137,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23348.png",
       "sha256": "e613a0d7887285f7665e0085fd12c37de52d55fe19b4d1d3c0b00c793d41b36e"
+    },
+    {
+      "message_id": 23346,
+      "filename": "TalkFile_마플시너지_미적분Ⅰ_22개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23346_TalkFile_._._22.pdf",
+      "size_bytes": 19156322,
+      "telegram_date": "2026-08-16T15:31:40+00:00",
+      "title": "수학 마플시너지 미적분1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23346.png",
+      "sha256": "18dee2a8461a591b4e83163d41f040c0f0771a8187661d3bf3d8920ab67d6d41"
     }
   ],
   "duplicate_message_ids": [
