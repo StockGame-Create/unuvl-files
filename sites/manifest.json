@@ -8511,6 +8511,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23777.png",
       "sha256": "0af417c4190750b5ce247f7e7613f5809e2d54268c702e67e6625753e380dbff"
+    },
+    {
+      "message_id": 23775,
+      "filename": "강기원 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23775_.4.pdf",
+      "size_bytes": 153964760,
+      "telegram_date": "2026-08-28T14:04:46+00:00",
+      "title": "수학 강기원 모의고사 4회",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23775.png",
+      "sha256": "226a7c3efc294226980387c5cfcf995592b09b41b192d23d87162702a2b895a3"
     }
   ],
   "duplicate_message_ids": [
