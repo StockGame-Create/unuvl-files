@@ -11073,6 +11073,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/23461.png",
       "sha256": "7bb8fe28c73792e771f002ce36c9e46d1ff0fad891b142bdaca024a2e5d7e4bf"
+    },
+    {
+      "message_id": 23457,
+      "filename": "27 러너스하이 미적 vol.1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23457_27.vol.1.pdf",
+      "size_bytes": 116995405,
+      "telegram_date": "2026-08-20T00:15:21+00:00",
+      "title": "수학 Runners High 미적분 vol.1",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23457.png",
+      "sha256": "acbf7e2d329efaa8aade307dd400ce3956a6659a3b32ddd9b85375c46d3d20be"
     }
   ],
   "duplicate_message_ids": [
