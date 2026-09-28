@@ -7895,6 +7895,20 @@
       "subject": "과학",
       "thumbnail": "thumbnails/23846.png",
       "sha256": "eef8e884379304626eaa34a97532805bba395b6b8f690a393f839ce9c0e07003"
+    },
+    {
+      "message_id": 23844,
+      "filename": "P_I_R_A_M_국어_생각의_절정_7주차_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23844_P_I_R_A_M_._._._7._.pdf",
+      "size_bytes": 645888,
+      "telegram_date": "2026-08-31T15:28:09+00:00",
+      "title": "국어 P.I.R.A.M 피램 생각의 절정 7주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23844.png",
+      "sha256": "bac9490b703a377c84d0aa005b25472c01699622c76b5bad480b62f461e3ff91"
     }
   ],
   "duplicate_message_ids": [
