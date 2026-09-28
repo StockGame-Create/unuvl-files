@@ -14475,6 +14475,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/23049.png",
       "sha256": "32c8b843485916a627beaca26ce273858c6834e5848b447cadee692da6e7b5a8"
+    },
+    {
+      "message_id": 23048,
+      "filename": "오메가_블랙_1회_수학영역.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23048_._._1._.pdf",
+      "size_bytes": 3972733,
+      "telegram_date": "2026-08-04T10:52:18+00:00",
+      "title": "수학 OMEGA black 모의고사 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23048.png",
+      "sha256": "5c3486ea74b4d686566f3b54ad06f4af6990a040fa97a81b621d757890e75475"
     }
   ],
   "duplicate_message_ids": [
