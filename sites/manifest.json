@@ -12025,6 +12025,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/23360.png",
       "sha256": "d93a5f9cc5182ee2acaa75165c7bcbe8ac8fdbc42148baba97622fb40ed87b33"
+    },
+    {
+      "message_id": 23359,
+      "filename": "2027 생명과학1 강k 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23359_2027.1.k.7.pdf",
+      "size_bytes": 6665048,
+      "telegram_date": "2026-08-16T15:31:41+00:00",
+      "title": "생1 강대모의고사K 7, 8회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/23359.png",
+      "sha256": "b877f8fe7850762642682a203e3c2992572599719e9bbe5b591cfa42a4129280"
     }
   ],
   "duplicate_message_ids": [
