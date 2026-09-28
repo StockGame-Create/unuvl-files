@@ -14391,6 +14391,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23063.png",
       "sha256": "f3ff1b1cbc9482d4c9774551c550806af4a304e84836e5a78c84b0c9fb0ed448"
+    },
+    {
+      "message_id": 23062,
+      "filename": "10지선다_비밀특강_시크릿_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23062_10._._._1.pdf",
+      "size_bytes": 18713358,
+      "telegram_date": "2026-08-05T12:56:12+00:00",
+      "title": "사문 10지선다 비밀특강 시크릿 1, 2회",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/23062.png",
+      "sha256": "d74b5744b51adb2734ced8411f9cf519c672800ca75b7566334d0fad1a914141"
     }
   ],
   "duplicate_message_ids": [
