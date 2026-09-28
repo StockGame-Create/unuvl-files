@@ -7615,6 +7615,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23889.png",
       "sha256": "f37bf71a8091d872689006cdd56cb59b0cb3a05fca1fd874d8460a86223d5f66"
+    },
+    {
+      "message_id": 23887,
+      "filename": "27 범모 6회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23887_27.6.pdf",
+      "size_bytes": 3134731,
+      "telegram_date": "2026-09-03T04:15:43+00:00",
+      "title": "수학 김범준 모의고사 6회",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23887.png",
+      "sha256": "02bf8fdd80710010a869d5d0b52a34299b786cac1ea1da7342c8d80cb121a204"
     }
   ],
   "duplicate_message_ids": [
