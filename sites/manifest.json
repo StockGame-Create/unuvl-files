@@ -10835,6 +10835,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23493.png",
       "sha256": "0de788ce46147a845873fdfdf6efc3a1e8085a2031db28a4af40daa8b187bbf9"
+    },
+    {
+      "message_id": 23492,
+      "filename": "EBS_2027_만점봉투_시즌1_영어영역_정답과해설_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23492_EBS_2027_._.1_._._1.pdf",
+      "size_bytes": 6726368,
+      "telegram_date": "2026-08-21T14:40:35+00:00",
+      "title": "영어 EBS 만점 마무리 봉투 모의고사 시즌1",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/23492.png",
+      "sha256": "a8854b37997740637aa9c65a091f43346b273dc5a9d4376e760ac982a3246936"
     }
   ],
   "duplicate_message_ids": [
