@@ -13145,6 +13145,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/23187.png",
       "sha256": "b64ddd3be5bed1b728d6c4643da721a1c576f5f41d3f56452c69717c0a022c61"
+    },
+    {
+      "message_id": 23185,
+      "filename": "상상 파이널1 제1,2차_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23185_.1.1.2._.pdf",
+      "size_bytes": 94142949,
+      "telegram_date": "2026-08-10T05:05:35+00:00",
+      "title": "국어 파이널1 1, 2차 모의고사 상상 국어평가연구소 #상상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23185.png",
+      "sha256": "40628defea86904d73dfc556490ad58d20870a1e15286aba453ea16f3058ac59"
     }
   ],
   "duplicate_message_ids": [
