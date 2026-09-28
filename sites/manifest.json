@@ -12333,6 +12333,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/23326.png",
       "sha256": "a94347739e90a267817d55ea9e124ba3267063408754c5ffbf2fd344bdfe547b"
+    },
+    {
+      "message_id": 23325,
+      "filename": "2027 Final 브릿지 물리학1 5회_260810_003718.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23325_2027.Final.1.5._260810_003718.pdf",
+      "size_bytes": 1166905,
+      "telegram_date": "2026-08-14T14:31:32+00:00",
+      "title": "물1 시대인재 서바이벌 전국 모의고사 5회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/23325.png",
+      "sha256": "b9295bab130df66b9924ccb624ffa984f8cbad306bf42a0ec8692f4d8cb6326c"
     }
   ],
   "duplicate_message_ids": [
