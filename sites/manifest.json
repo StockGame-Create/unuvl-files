@@ -11535,6 +11535,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/23412.png",
       "sha256": "8affba918ef87fac5ca210358443b576c44705a865802b93d855f398c1241563"
+    },
+    {
+      "message_id": 23411,
+      "filename": "이명학 2026년 9월 모평 대비 insight모의고사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23411_.2026.9.insight.pdf",
+      "size_bytes": 16602345,
+      "telegram_date": "2026-08-19T12:56:11+00:00",
+      "title": "영어 9월 모평 대비 insight 모의고사",
+      "year": "2027",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/23411.png",
+      "sha256": "b6c40ed90b6167334f2f003a1105c965e265cc63557bb872e1c3ae6090584af1"
     }
   ],
   "duplicate_message_ids": [
