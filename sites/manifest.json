@@ -10373,6 +10373,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23544.png",
       "sha256": "2d994e2cf1623345a9be93d442651782fd49a0f9737b8349bfd4dd02d86a8042"
+    },
+    {
+      "message_id": 23543,
+      "filename": "김승리 모의고사 04회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23543_.04.pdf",
+      "size_bytes": 40848369,
+      "telegram_date": "2026-08-22T00:20:35+00:00",
+      "title": "국어 김승리 실전 모의고사 시즌1, 2 1~6회 (인쇄소퀄) #김승모",
+      "year": "2027",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23543.png",
+      "sha256": "c773df196f18e81f1791a87f2b131fcd902bb590125c2a3f4fa4f7f94ff2b441"
     }
   ],
   "duplicate_message_ids": [
