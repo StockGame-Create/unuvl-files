@@ -15595,6 +15595,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22911.png",
       "sha256": "29bf29ac9fe3cd5bb45474dd6d21043f9780dd2bfb5cd13eca0de81350fd3ac6"
+    },
+    {
+      "message_id": 22910,
+      "filename": "2027 강대k 수학 5회 (미적,확통) 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22910_2027.k.5.pdf",
+      "size_bytes": 8147514,
+      "telegram_date": "2026-07-29T17:12:53+00:00",
+      "title": "수학 강대모의고사K 5회 #강k (기하X)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22910.png",
+      "sha256": "35b84e0f8a33b20f6c9bd68e376025d1ada2c398a32c868e0bf04db943cadd6d"
     }
   ],
   "duplicate_message_ids": [
