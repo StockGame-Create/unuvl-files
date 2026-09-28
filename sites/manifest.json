@@ -16043,6 +16043,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22867.png",
       "sha256": "52dbcd91ad0bcf593ab94401d88127a27b1ae0d0d0faf8b99f94d5e327db2b04"
+    },
+    {
+      "message_id": 22866,
+      "filename": "[2026] 이감 모의고사 시즌 5 - 1(해설지).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22866_.2026.5.-.1.pdf",
+      "size_bytes": 1969511,
+      "telegram_date": "2026-07-28T16:00:33+00:00",
+      "title": "국어 이감 파이널 제 1~3차 예비평가",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22866.png",
+      "sha256": "241309cab80ad755b269fd7dfafcb46f264c1f0f89294f9fcf3ab482b7fb5917"
     }
   ],
   "duplicate_message_ids": [
