@@ -10079,6 +10079,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23572.png",
       "sha256": "81f8e3a95bb9e8856ffa9e1b49115877772f32947f48ce217386ccbbcfc677ad"
+    },
+    {
+      "message_id": 23571,
+      "filename": "2027_07_SHORTCUT_ULTIMATE17_기울기_보정_664339238966624.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23571_2027_07_SHORTCUT_ULTIMATE17_._._664339238966624.pdf",
+      "size_bytes": 1173495,
+      "telegram_date": "2026-08-22T04:07:57+00:00",
+      "title": "수학 시대인재 ULTIMATE SHORTCUT 수2 7주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23571.png",
+      "sha256": "a3ea5cad399fe7de1e11a62cc2140671885c6d46051fafcba2db1e5a2d91b19b"
     }
   ],
   "duplicate_message_ids": [
