@@ -8021,6 +8021,20 @@
       "subject": "과학",
       "thumbnail": "thumbnails/23830.png",
       "sha256": "4eb6cbcb136ead4104235ed0b335cb345afb0a6e155f5affac5f06d598ae23b9"
+    },
+    {
+      "message_id": 23829,
+      "filename": "완자_화학반응의_세계.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23829_._._.pdf",
+      "size_bytes": 28424161,
+      "telegram_date": "2026-08-31T10:25:11+00:00",
+      "title": "과학 완자 화학 반응의 세계",
+      "year": null,
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/23829.png",
+      "sha256": "2626883b7d670ee36bbbc6321326ca9d0a4201f563622faa2b73cdf34e14c10c"
     }
   ],
   "duplicate_message_ids": [
