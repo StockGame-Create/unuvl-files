@@ -9169,6 +9169,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23709.png",
       "sha256": "6e861158c08adc454918cf5da273e58d72717fe8ffcfee0c401c311202488672"
+    },
+    {
+      "message_id": 23707,
+      "filename": "상상 시즌4 3회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23707_.4.3.pdf",
+      "size_bytes": 31703748,
+      "telegram_date": "2026-08-26T08:08:44+00:00",
+      "title": "국어 파이널1 3차 모의고사 상상 국어평가연구소 #상상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23707.png",
+      "sha256": "e65548d276a24c60fd89fa3442408e80c8f10a4453a6f33354a4c4cf766fdb64"
     }
   ],
   "duplicate_message_ids": [
