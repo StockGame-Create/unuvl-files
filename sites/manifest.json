@@ -7727,6 +7727,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23872.png",
       "sha256": "33ea214d02e6db99228d46080cb540422d0af5a08778bcbf775864cf13e152ab"
+    },
+    {
+      "message_id": 23870,
+      "filename": "22개정고등_하이탑_세포와_물질대사정답과해설_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23870_22._._._._1.pdf",
+      "size_bytes": 5748262,
+      "telegram_date": "2026-09-02T13:26:33+00:00",
+      "title": "과학 22개정 세포와 물질대사, 생물의 유전",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/23870.png",
+      "sha256": "f307b8ddc8936dc8bb8d089ac0c972e03d8e4c1ec105ead52ec52391aaee2b1a"
     }
   ],
   "duplicate_message_ids": [
