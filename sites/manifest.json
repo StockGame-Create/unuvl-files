@@ -7349,6 +7349,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23922.png",
       "sha256": "1c7472946f64a59a151661a5288a7fafaa6b478400f31eddf3cc349437fc2b11"
+    },
+    {
+      "message_id": 23920,
+      "filename": "2027_강e분_독서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23920_2027_.e._.pdf",
+      "size_bytes": 145223045,
+      "telegram_date": "2026-09-04T13:22:08+00:00",
+      "title": "국어 강e분 독서 (수능완성)",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/23920.png",
+      "sha256": "ac196676cc2111b35f35f2ac25d5f0d1cfa4cb533a66e342bcc182446c8ca25a"
     }
   ],
   "duplicate_message_ids": [
