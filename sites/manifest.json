@@ -15301,6 +15301,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22947.png",
       "sha256": "52dcdb7aa2eb6385d159b0c267f7f1919ff4afdd5d98d9e0f00e17f4aca8e5c4"
+    },
+    {
+      "message_id": 22945,
+      "filename": "2027 날먹_시크릿 자료 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22945_2027._.1.pdf",
+      "size_bytes": 13223609,
+      "telegram_date": "2026-07-31T13:43:14+00:00",
+      "title": "영어 조정식 날마다 떠먹여줄게 시크릿 자료 부록",
+      "year": "2027",
+      "instructor": "조정식",
+      "subject": "영어",
+      "thumbnail": "thumbnails/22945.png",
+      "sha256": "a78a638da19fcbb7e7112bb784ff6567b7dc64af8b291abd9fa050b770e58704"
     }
   ],
   "duplicate_message_ids": [
