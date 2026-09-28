@@ -13845,6 +13845,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23108.png",
       "sha256": "3bcef10e439a289c71e086c6ded299ab83683a5b2c9e34ebd71a64d524299be2"
+    },
+    {
+      "message_id": 23107,
+      "filename": "2027 시대 사문 모의 1~4.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23107_2027.1.4.pdf",
+      "size_bytes": 30168409,
+      "telegram_date": "2026-08-07T06:22:43+00:00",
+      "title": "사문 시대인재C 브릿지 모의고사 1 ~ 4회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23107.png",
+      "sha256": "73bcda7aa76d22b9b7b0c7ac4d5b4dc06a583677f601165495f54b7fbf30410e"
     }
   ],
   "duplicate_message_ids": [
