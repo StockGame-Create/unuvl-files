@@ -10065,6 +10065,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23573.png",
       "sha256": "90d88aecaa3f08d1d90cc7a24110bcb15287b6231c5682eb777264221ee52266"
+    },
+    {
+      "message_id": 23572,
+      "filename": "2027_29_박봉민_Limit_X14_기울기_보정_664388654531032.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23572_2027_29_._Limit_X14_._._664388654531032.pdf",
+      "size_bytes": 3904330,
+      "telegram_date": "2026-08-22T04:07:58+00:00",
+      "title": "수학 박종민 Limit X 모의고사 29회",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23572.png",
+      "sha256": "81f8e3a95bb9e8856ffa9e1b49115877772f32947f48ce217386ccbbcfc677ad"
     }
   ],
   "duplicate_message_ids": [
