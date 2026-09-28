@@ -9883,6 +9883,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/23613.png",
       "sha256": "b33faa4c72d167f297258959472d117341ad479074920b50764523348a545481"
+    },
+    {
+      "message_id": 23594,
+      "filename": "TalkFile_22개정_미적분2_수매씽_본문학생용_pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23594_TalkFile_22._.2_._._pdf.pdf",
+      "size_bytes": 13084847,
+      "telegram_date": "2026-08-22T08:21:55+00:00",
+      "title": "수학 수매씽 미적분2",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23594.png",
+      "sha256": "7ed12d219c7f7d6d10e23c7169a119b0c68a1c9bfe7b1e553427bf2fc62bf8e6"
     }
   ],
   "duplicate_message_ids": [
