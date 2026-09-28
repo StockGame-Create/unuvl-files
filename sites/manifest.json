@@ -8245,6 +8245,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23807.png",
       "sha256": "954c6c0000103b795942ef25520b9e7db0f0b823c742b5b6549dc220fbdd56e6"
+    },
+    {
+      "message_id": 23805,
+      "filename": "download-proxy.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23805_download-proxy.pdf",
+      "size_bytes": 19250,
+      "telegram_date": "2026-08-29T13:52:58+00:00",
+      "title": "지1 이신혁 수능특강 선별문항",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23805.png",
+      "sha256": "4c63a0c73852a6c41759eb678739cfcef0deee5168cf96fa1c402eadfcff1004"
     }
   ],
   "duplicate_message_ids": [
