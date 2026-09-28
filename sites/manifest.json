@@ -13061,6 +13061,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/23198.png",
       "sha256": "cc30f6d8ef1262d3751010ca96f8eeb96aa7a9ee91c7685b244b0986d97f741f"
+    },
+    {
+      "message_id": 23197,
+      "filename": "2회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23197_2.pdf",
+      "size_bytes": 15274731,
+      "telegram_date": "2026-08-10T05:05:46+00:00",
+      "title": "물1 현정훈 시즌3 v02 1, 2회 모의고사",
+      "year": "2027",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/23197.png",
+      "sha256": "cf2e7af5203a7b9395a9bdd8522cafc93919b3a0a55c44ba2e98b4a1032d35d6"
     }
   ],
   "duplicate_message_ids": [
