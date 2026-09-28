@@ -11381,6 +11381,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23429.png",
       "sha256": "e1d5e33c816506df440e1b5b9a959948f30e58215432d8ac6bf5593c309783df"
+    },
+    {
+      "message_id": 23427,
+      "filename": "이미지_모의고사_시즌1_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23427_._._.1_.pdf",
+      "size_bytes": 15839789,
+      "telegram_date": "2026-08-19T14:54:48+00:00",
+      "title": "수학 The IMAGE 모의고사 시즌1 1, 2회",
+      "year": "2027",
+      "instructor": "이미지",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23427.png",
+      "sha256": "4dc479396513cf1ed808d7cb39d90b4ff7e8f0ca4660ac2eb529508c1153bd50"
     }
   ],
   "duplicate_message_ids": [
