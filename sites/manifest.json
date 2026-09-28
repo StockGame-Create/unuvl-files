@@ -10793,6 +10793,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/23498.png",
       "sha256": "2c9bc4af7365af452fb101021fcd1b96f27d2c9931dd29b0e075896b924b2c05"
+    },
+    {
+      "message_id": 23497,
+      "filename": "시대 생윤 1,2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23497_.1.2.pdf",
+      "size_bytes": 14392960,
+      "telegram_date": "2026-08-21T15:47:03+00:00",
+      "title": "생윤 시대인재 서바이벌 C 단독 모의고사 1,2회 #서바C",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/23497.png",
+      "sha256": "9f641c52a7898640280fc81cb4252aa5ed134c57f0ba3edff95058ffd9c5e014"
     }
   ],
   "duplicate_message_ids": [
