@@ -13607,6 +13607,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23130.png",
       "sha256": "2459465d831464731351d48a61da8aa3c3abc39e4522e27a7bb02ee85c85a58c"
+    },
+    {
+      "message_id": 23129,
+      "filename": "27 범모 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23129_27.1.pdf",
+      "size_bytes": 10582046,
+      "telegram_date": "2026-08-07T16:40:42+00:00",
+      "title": "수학 김범준 모의고사 1회",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23129.png",
+      "sha256": "9b7bc070ba3c68dafe860498a7d5f365b2b3bc4fe4601e496b4e9d4cfc5fd43f"
     }
   ],
   "duplicate_message_ids": [
