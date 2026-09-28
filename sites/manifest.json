@@ -7335,6 +7335,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23923.png",
       "sha256": "3184162456259b82b1b33e4868b7717c1077b3f82e469f5861aec55047bc7bdc"
+    },
+    {
+      "message_id": 23922,
+      "filename": "강기원 모의고사 1회 해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23922_.1.pdf",
+      "size_bytes": 4789585,
+      "telegram_date": "2026-09-04T13:22:09+00:00",
+      "title": "수학 강기원 모의고사 1~2회",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23922.png",
+      "sha256": "1c7472946f64a59a151661a5288a7fafaa6b478400f31eddf3cc349437fc2b11"
     }
   ],
   "duplicate_message_ids": [
