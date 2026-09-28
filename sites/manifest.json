@@ -13803,6 +13803,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/23114.png",
       "sha256": "cd4231e0ca065038f1385bcb0db5525d5e3bf1b88edaf30105f09fe825a7fbca"
+    },
+    {
+      "message_id": 23112,
+      "filename": "드릴제로1(2027)_대수_260629_133951.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23112_.1.2027._._260629_133951.pdf",
+      "size_bytes": 5001337,
+      "telegram_date": "2026-08-07T16:40:41+00:00",
+      "title": "수학 드릴 제로 대수",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23112.png",
+      "sha256": "ecd2e3808d30ca093cc3ff56682d33da0c4cfe14042897eb58b49e6bd67bcceb"
     }
   ],
   "duplicate_message_ids": [
