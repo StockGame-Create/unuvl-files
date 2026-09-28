@@ -12403,6 +12403,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23320.png",
       "sha256": "7c0997a256e8fb3c04ae36f1b538387a24df58bd6fe3e63546b3369a3ddfdf57"
+    },
+    {
+      "message_id": 23318,
+      "filename": "27 범모 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23318_27.3.pdf",
+      "size_bytes": 5934905,
+      "telegram_date": "2026-08-14T14:31:28+00:00",
+      "title": "수학 김범준 모의고사 3회 (미적O)",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23318.png",
+      "sha256": "0e42110aebec687e58468e6dadd954801a42483117bc7a0737ba4ae6b549a085"
     }
   ],
   "duplicate_message_ids": [
