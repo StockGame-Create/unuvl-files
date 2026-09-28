@@ -99,6 +99,20 @@
       "sha256": "0fb6a007163e667442fd238640c2da7bfc3aee75453ba5125c3b6cc84cbd6a54"
     },
     {
+      "message_id": 24755,
+      "filename": "2027 서준혁 항해일지 27회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/24755_2027.27.pdf",
+      "size_bytes": 118935899,
+      "telegram_date": "2026-09-28T14:26:52+00:00",
+      "title": "국어 서준혁 항해일지 27주차",
+      "year": "2027",
+      "instructor": "서준혁",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24755.png",
+      "sha256": "1bfc8ad295c2a9ae4984e599ae98d3e4b411582f402bb7c6032323a774be210b"
+    },
+    {
       "message_id": 24735,
       "filename": "시즌2 교재해설.pdf",
       "stored_as": null,
