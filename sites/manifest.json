@@ -9015,6 +9015,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/23723.png",
       "sha256": "0f46c76d2202f8b6de2ae0a89ecdbf8e526382780c0a2eb7c9a14b1a128342c6"
+    },
+    {
+      "message_id": 23721,
+      "filename": "2027 THE HURDLING 수학Ⅱ 정답과 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23721_2027.THE.HURDLING.pdf",
+      "size_bytes": 8583906,
+      "telegram_date": "2026-08-26T10:45:13+00:00",
+      "title": "수학 THE HURDLING 수학1, 수학2",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23721.png",
+      "sha256": "4b5dd0f69da1a612b92ee41bc5b5099d28cd2bc5b91a1ac8ab664eedff57bf3e"
     }
   ],
   "duplicate_message_ids": [
