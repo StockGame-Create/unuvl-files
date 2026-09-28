@@ -13495,6 +13495,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23142.png",
       "sha256": "2790249ae6b243b02fb3e05e68aa56b79a2e01b56a6fd4ad9c050860d39dea5f"
+    },
+    {
+      "message_id": 23141,
+      "filename": "2027 강대X 시즌2 7회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23141_2027.X.2.7.pdf",
+      "size_bytes": 4664371,
+      "telegram_date": "2026-08-08T14:34:39+00:00",
+      "title": "수학 강대X 시즌2 6~8회 #강x",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23141.png",
+      "sha256": "d484cc93489399c5d9eaf95549eede216b4930bc242fdb928607ba2521380ae5"
     }
   ],
   "duplicate_message_ids": [
