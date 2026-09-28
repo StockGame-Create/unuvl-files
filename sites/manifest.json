@@ -14517,6 +14517,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23046.png",
       "sha256": "9a9458ecf8841d6b9a2ab9fd547f1f51e9660925387e746d2c9de6e8b963b6d8"
+    },
+    {
+      "message_id": 23044,
+      "filename": "월례 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23044_.pdf",
+      "size_bytes": 13896682,
+      "telegram_date": "2026-08-04T05:19:13+00:00",
+      "title": "2027 학년도 시대인재 N서바이벌 월례고사 해설",
+      "year": "2027",
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/23044.png",
+      "sha256": "a3e0008a43216e8246a0cf9c163f9e66e11807bb0a616fdc4f7a1696ffe1213a"
     }
   ],
   "duplicate_message_ids": [
