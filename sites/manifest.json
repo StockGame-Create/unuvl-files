@@ -10653,6 +10653,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23511.png",
       "sha256": "2cf44242ba57f1db6bebeb13bcc3eee0112c3871568190ee3d3e41d5da2470dc"
+    },
+    {
+      "message_id": 23510,
+      "filename": "TalkFile_더개념_블랙라벨_대수_해설_pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23510_TalkFile_._._._._pdf.pdf",
+      "size_bytes": 4708414,
+      "telegram_date": "2026-08-21T16:00:20+00:00",
+      "title": "수학 THE 개념 블랙라벨 대수",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23510.png",
+      "sha256": "ef42a4c6ba13da4a21f936c455900a39c793b43545adbf17d70eb1194dbc472c"
     }
   ],
   "duplicate_message_ids": [
