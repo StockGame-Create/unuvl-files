@@ -10933,6 +10933,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/23477.png",
       "sha256": "0143db35bb7376f5265fd7ed8ada69ef969fc2ba24347f51620fc1158da4fc9f"
+    },
+    {
+      "message_id": 23475,
+      "filename": "서바 6.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23475_.6.pdf",
+      "size_bytes": 3376382,
+      "telegram_date": "2026-08-20T14:35:16+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 6회 (해설O)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23475.png",
+      "sha256": "a906d0276318e8d25a0c283cce7687ee3d5a98fc79e8a3d4e4cfc8ab7a9787b0"
     }
   ],
   "duplicate_message_ids": [
