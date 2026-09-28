@@ -8175,6 +8175,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23816.png",
       "sha256": "50033df9ff9569287dc267abc0fff215831a242a028d7658daf90051de73b616"
+    },
+    {
+      "message_id": 23815,
+      "filename": "2027학년도 한석원펀더멘털 수학Ⅰ 본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23815_2027.pdf",
+      "size_bytes": 5514819,
+      "telegram_date": "2026-08-30T03:57:32+00:00",
+      "title": "수학 한석원 Fundamental N제 수학1, 수학2",
+      "year": "2027",
+      "instructor": "한석원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23815.png",
+      "sha256": "22e361163e8db37c0b425500fd4f3a1272dd7fa0eba378e76983b1260c3b85aa"
     }
   ],
   "duplicate_message_ids": [
