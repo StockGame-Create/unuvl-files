@@ -14769,6 +14769,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/23017.png",
       "sha256": "d2da5410b8355578cf7c72f7969d470b08ca6dc36fa8ce588577d8c1f0b1c68e"
+    },
+    {
+      "message_id": 23016,
+      "filename": "27_생명_파이널_브릿지_전국_4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/23016_27_._._._._4.pdf",
+      "size_bytes": 7010836,
+      "telegram_date": "2026-08-02T16:00:34+00:00",
+      "title": "생1 시대인재 Final 브릿지 전국 모의고사 4회 #파브전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/23016.png",
+      "sha256": "e88a73b46386c6745029d6fca8fb9a1423ac2a4f837cdb1cb1c3b19bdf328609"
     }
   ],
   "duplicate_message_ids": [
