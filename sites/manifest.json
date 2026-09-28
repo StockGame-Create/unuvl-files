@@ -9421,6 +9421,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23669.png",
       "sha256": "092c26c26f8a0fe42031f28c201a517e5ac755ca4f4b3ac5f7dc7aa60f94eb2a"
+    },
+    {
+      "message_id": 23667,
+      "filename": "TalkFile_설레임_모의고사_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23667_TalkFile_._._1.pdf",
+      "size_bytes": 9811741,
+      "telegram_date": "2026-08-24T14:22:13+00:00",
+      "title": "수학 설레임 모의고사 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23667.png",
+      "sha256": "c72b652e17da5a65778f4dcaed1c322703d570ff5e7ad6aa1e7d4a6e53f3d41a"
     }
   ],
   "duplicate_message_ids": [
