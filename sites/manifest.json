@@ -15049,6 +15049,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/22982.png",
       "sha256": "cf013f2d14e5816be1d441134d278187e28df3b9c4b4174b1ea36774feaf31c1"
+    },
+    {
+      "message_id": 22981,
+      "filename": "즌1 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22981_.1.1.pdf",
+      "size_bytes": 4597590,
+      "telegram_date": "2026-08-02T15:48:11+00:00",
+      "title": "생윤 현자의 돌 모의고사 시즌1 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/22981.png",
+      "sha256": "ff4c766c1016df55082d91c8a23e7ef34e96b4c2254b9b1faafcd537578bd1ae"
     }
   ],
   "duplicate_message_ids": [
