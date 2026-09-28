@@ -12277,6 +12277,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23334.png",
       "sha256": "e6726c413a0562ceda55d328bb77de44ae20e190ed3275f25e24c9d7ea14ca1d"
+    },
+    {
+      "message_id": 23332,
+      "filename": "서바이벌_4주차_필기노트_3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23332_._4._._3.pdf",
+      "size_bytes": 1840406,
+      "telegram_date": "2026-08-14T14:31:38+00:00",
+      "title": "수학 강기원T 서바이벌 정규반 4주차 필기노트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23332.png",
+      "sha256": "a185326e6eee1eade0490a2b539b52ac13babbcaad087fb7106ee1ed164dd653"
     }
   ],
   "duplicate_message_ids": [
