@@ -9575,6 +9575,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/23647.png",
       "sha256": "a6d62c2d14a86a765e742b546be1feee396cf50ba6340d2d0d3981601ad9a6ff"
+    },
+    {
+      "message_id": 23645,
+      "filename": "2027_영어_시대인재_서바이벌_전국_모의고사_7회_정답_및_해설_2026_08_23_20_59_33.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23645_2027_._._._._._7._._._._2026_08_23_20_59_33.pdf",
+      "size_bytes": 1761312,
+      "telegram_date": "2026-08-23T14:39:35+00:00",
+      "title": "영어 시대인재 서바이벌 전국 모의고사 7회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/23645.png",
+      "sha256": "411be7bb43a7c8eef979c6c589dffeb40aa29f649a70ab14b24127f0738e553d"
     }
   ],
   "duplicate_message_ids": [
