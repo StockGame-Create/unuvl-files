@@ -9925,6 +9925,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23590.png",
       "sha256": "a09dd2ff799202570924be23146c4e891cb08e45678146f4230864b4efe48e93"
+    },
+    {
+      "message_id": 23587,
+      "filename": "대성_샐랙트_수2_준킬러.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23587_._._.2_.pdf",
+      "size_bytes": 3996973,
+      "telegram_date": "2026-08-22T05:34:16+00:00",
+      "title": "수학 대성 SELECT 수학2 준킬러",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23587.png",
+      "sha256": "d3b1e3782e164ad37235a0a294ab9f2c664710998b9b87c361293afa81b35897"
     }
   ],
   "duplicate_message_ids": [
