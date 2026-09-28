@@ -12067,6 +12067,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/23355.png",
       "sha256": "60bcf369dd42ef5b75752b80c587a7de94045f0e9ab840485d98a61c1298032e"
+    },
+    {
+      "message_id": 23354,
+      "filename": "엄기은 peak 2,3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23354_.peak.2.3.pdf",
+      "size_bytes": 5752262,
+      "telegram_date": "2026-08-16T15:31:41+00:00",
+      "title": "지1 엄기은 PEAK 모의고사 1~3회, 1회 유사기출",
+      "year": "2027",
+      "instructor": "엄기은",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/23354.png",
+      "sha256": "2072cf76cff8a2fa4090917a245dfc074b85e837d2c65168c86e9d00c720f197"
     }
   ],
   "duplicate_message_ids": [
