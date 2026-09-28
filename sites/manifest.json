@@ -8483,6 +8483,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23782.png",
       "sha256": "5b422630e4c6794dc9e4908c22c6a549837db533cdd01d89df5c612fce1f48e5"
+    },
+    {
+      "message_id": 23779,
+      "filename": "27_파이널_브릿지_11회소퀄.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23779_27_._._11.pdf",
+      "size_bytes": 2817066,
+      "telegram_date": "2026-08-28T14:45:54+00:00",
+      "title": "수학 시대인재 파이널 브릿지 전국 모의고사 11회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/23779.png",
+      "sha256": "7a9bfc3fd86e143bf99ef87d190428478bba0a297a7dbde390d0fd7b7a452211"
     }
   ],
   "duplicate_message_ids": [
