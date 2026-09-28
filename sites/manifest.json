@@ -13453,6 +13453,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/23148.png",
       "sha256": "9a80c6e118bdb182bc973bdfcb5320c3d81fa9e286739906ea555f707b05d763"
+    },
+    {
+      "message_id": 23145,
+      "filename": "27 강K 국어 6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23145_27.K.6.pdf",
+      "size_bytes": 54669440,
+      "telegram_date": "2026-08-08T14:34:39+00:00",
+      "title": "국어 강대모의고사K 6회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/23145.png",
+      "sha256": "310a546644fea430730aa93a63a264317a67d73bd4dfd2d11ddb577201161850"
     }
   ],
   "duplicate_message_ids": [
