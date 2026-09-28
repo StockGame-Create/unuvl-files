@@ -267,6 +267,20 @@
       "sha256": "9de1d577eb80d53a41256d9678dc312b128ae9a56e11ea9f1f8acb13b22aa0c7"
     },
     {
+      "message_id": 24739,
+      "filename": "2027 수학 CIRCUIT 1-42회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/24739_2027.CIRCUIT.1-42.pdf",
+      "size_bytes": 180145450,
+      "telegram_date": "2026-09-28T14:26:34+00:00",
+      "title": "수학 강대 CIRCUIT 서킷 1~42회 통합본 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24739.png",
+      "sha256": "1f2399e288940384e7e0bb67cc33a0b78376959d734dc33f330fb6937817c9f6"
+    },
+    {
       "message_id": 24735,
       "filename": "시즌2 교재해설.pdf",
       "stored_as": null,
