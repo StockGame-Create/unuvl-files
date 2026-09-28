@@ -15903,6 +15903,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/22880.png",
       "sha256": "c497e0798ef55cde4d130d4eb55121b31a868366e0eb27f5fefb67156d8f4a0e"
+    },
+    {
+      "message_id": 22879,
+      "filename": "이개다 3.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22879_.3.PDF",
+      "size_bytes": 1063776,
+      "telegram_date": "2026-07-28T16:00:45+00:00",
+      "title": "세지 이것이 개념이다 모의고사 2~10회차",
+      "year": "2027",
+      "instructor": "이기상",
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/22879.png",
+      "sha256": "16388526c334c75ff8307fb74475a166ee84354ae91d9ec5a43cf1a89bdcb781"
     }
   ],
   "duplicate_message_ids": [
