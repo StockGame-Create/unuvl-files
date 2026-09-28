@@ -14951,6 +14951,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/23000.png",
       "sha256": "c154153efa2c6c0a2b683817bf338a2a34f78c046f85768b792e43e4259d851d"
+    },
+    {
+      "message_id": 22998,
+      "filename": "현돌 해설 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22998_.pdf",
+      "size_bytes": 292946173,
+      "telegram_date": "2026-08-02T15:48:12+00:00",
+      "title": "생윤 현자의돌 모의고사 시즌1 1~20회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/22998.png",
+      "sha256": "db632ab5e81cfae5805c1c139b5628a70b891d0f4ece4a4fd2b92f88dd69ab87"
     }
   ],
   "duplicate_message_ids": [
