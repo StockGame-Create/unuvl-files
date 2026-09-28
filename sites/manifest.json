@@ -8539,6 +8539,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/23774.png",
       "sha256": "3b24d92a47a1391816067ad5090db6ddef99d7356bebc849ea41cba4e92e0c61"
+    },
+    {
+      "message_id": 23773,
+      "filename": "SSG9평대비미기확_모두_포함.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files/23773_SSG9._._.pdf",
+      "size_bytes": 34935804,
+      "telegram_date": "2026-08-28T14:04:45+00:00",
+      "title": "수학 9월 모평 대비 SSG 모의고사",
+      "year": "2027",
+      "instructor": "신성규",
+      "subject": "수학",
+      "thumbnail": "thumbnails/23773.png",
+      "sha256": "e437dd79c896ccff1ea8f7bd9d2be7ab54648d1f003debdf939a4e939939db09"
     }
   ],
   "duplicate_message_ids": [
