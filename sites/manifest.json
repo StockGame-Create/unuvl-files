@@ -30925,6 +30925,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21134.png",
       "sha256": "cbd617398d00eaa9bd0a01aef377aa52e80c66dc7dea758042182f5f22db311c"
+    },
+    {
+      "message_id": 21132,
+      "filename": "2027_김승모_시즌1_제3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21132_2027_._.1_.3.pdf",
+      "size_bytes": 57234832,
+      "telegram_date": "2026-05-19T04:34:10+00:00",
+      "title": "국어 김승리 실전 모의고사 시즌1 3회 #김승모",
+      "year": "2027",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21132.png",
+      "sha256": "93b9c0798c7949ab1f2163644ee0dfc8c9ff76514e6e9317177be4a88d6b19f1"
     }
   ],
   "duplicate_message_ids": [
