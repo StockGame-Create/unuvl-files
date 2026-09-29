@@ -26361,6 +26361,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/21730.png",
       "sha256": "a49f9d2f0de9e73a02861db7f3c07c821e2f7776e82c1efd4b5cf512381d4660"
+    },
+    {
+      "message_id": 21729,
+      "filename": "2027 수능완성 화학 I 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21729_2027.I.pdf",
+      "size_bytes": 6975554,
+      "telegram_date": "2026-06-10T16:28:01+00:00",
+      "title": "과탐 2027 수능완성 과학탐구영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/21729.png",
+      "sha256": "9ede7a31574b89e1d0cc5f6707e69312b475f49c04e20cccbffe8e45eb25de6a"
     }
   ],
   "duplicate_message_ids": [
