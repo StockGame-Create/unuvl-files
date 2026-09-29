@@ -17905,6 +17905,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22686.png",
       "sha256": "f4bacb4be22fc083d51caa4335e7e6c1c8395b1837fc13662e7d7023b8ff550f"
+    },
+    {
+      "message_id": 22685,
+      "filename": "기본 폴더.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22685_.pdf",
+      "size_bytes": 3031009,
+      "telegram_date": "2026-07-24T07:49:42+00:00",
+      "title": "지1 OMEGA 모의고사 4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22685.png",
+      "sha256": "b228593def8c2a574c848c322c52b9c79a63dd936496bcf0de677cb076a9edd9"
     }
   ],
   "duplicate_message_ids": [
