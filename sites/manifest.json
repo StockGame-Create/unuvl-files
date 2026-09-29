@@ -25087,6 +25087,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21885.png",
       "sha256": "0c6282e02e0fa4e3b7610b99fcfbd2e5d204b64e0d148bbab1e28efa32fefc83"
+    },
+    {
+      "message_id": 21883,
+      "filename": "531_킬러분석_미적분H_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21883_531_._.H_.pdf",
+      "size_bytes": 1725715,
+      "telegram_date": "2026-06-19T02:09:45+00:00",
+      "title": "수학 531 PROJECT 킬러분석 미적분 H",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21883.png",
+      "sha256": "ee8854d6697fd7c45698b69c849970b44fa78bc488dc3c3e4fbf1b7e95d2f6a8"
     }
   ],
   "duplicate_message_ids": [
