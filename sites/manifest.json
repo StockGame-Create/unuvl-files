@@ -30029,6 +30029,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21255.png",
       "sha256": "1ef082eb834543ea398ff47b7d1a7d9ee3d6d29482d53c61c6da47208d4372bd"
+    },
+    {
+      "message_id": 21252,
+      "filename": "2027 5월 더프 수학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21252_2027.5.pdf",
+      "size_bytes": 45555986,
+      "telegram_date": "2026-05-21T15:13:32+00:00",
+      "title": "수학 THE PREMIUM 5월 모의고사 수학 (인쇄소퀄) #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21252.png",
+      "sha256": "c710d1aa7a91cbc87ebe6d0071aa252681c20e86a44eac3132a4798f68e1ffc0"
     }
   ],
   "duplicate_message_ids": [
