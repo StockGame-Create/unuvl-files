@@ -20733,6 +20733,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22353.png",
       "sha256": "795c885e349dd2dbebe870b325108013423a4a5b788ea4f9bb004f25ef16b9af"
+    },
+    {
+      "message_id": 22352,
+      "filename": "스캔_문서,_2026_7_10_오후_10_53_41.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22352_._._2026_7_10_._10_53_41.pdf",
+      "size_bytes": 50523445,
+      "telegram_date": "2026-07-11T15:19:44+00:00",
+      "title": "수학 이해원 모의고사 시즌1 0회 (폰스캔) #이해원모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22352.png",
+      "sha256": "5717063c8116cb0a2af4650821b043bb1eef4bea999233bd793dd8b905bcfeab"
     }
   ],
   "duplicate_message_ids": [
