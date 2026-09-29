@@ -25759,6 +25759,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21789.png",
       "sha256": "e300e6a7bcf4fa1b51b328a1d00b8ca124fc3cdeca712b6c9e9eea8a9458680c"
+    },
+    {
+      "message_id": 21787,
+      "filename": "생명과학1 서킷 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21787_.1.7.pdf",
+      "size_bytes": 6263491,
+      "telegram_date": "2026-06-13T10:25:10+00:00",
+      "title": "생1 강대 CIRCUIT 생명과학1 서킷 7회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/21787.png",
+      "sha256": "402f533a459aa91602d161d9da8f0ac4c9b409284d1e6f9bc54d16a1f1c4dd55"
     }
   ],
   "duplicate_message_ids": [
