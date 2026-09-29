@@ -18395,6 +18395,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/22627.png",
       "sha256": "1a89bb03806cb034a6ef76b2c8f7f0406bbb4163b33fa3b786473d8436300aba"
+    },
+    {
+      "message_id": 22625,
+      "filename": "2027_강e분_현대소설하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22625_2027_.e._.pdf",
+      "size_bytes": 348532864,
+      "telegram_date": "2026-07-21T22:34:20+00:00",
+      "title": "국어 강e분 현대소설 (하)",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22625.png",
+      "sha256": "ae367ab75f7a6c133a897ab1396d0e7ed1303fe933c233caf1ec11d818346edf"
     }
   ],
   "duplicate_message_ids": [
