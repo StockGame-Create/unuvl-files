@@ -26641,6 +26641,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21707.png",
       "sha256": "591a180d13f88b0d1c6ae71b01c7c05c8340931b08d9e9c66ab564d169cd8113"
+    },
+    {
+      "message_id": 21704,
+      "filename": "확률과통계_아이디어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21704_._.pdf",
+      "size_bytes": 170285833,
+      "telegram_date": "2026-06-08T15:54:53+00:00",
+      "title": "수학 아이디어 확률과통계",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21704.png",
+      "sha256": "aafd33858713d67d53da2a334e971965d69684d1f5a9f80fd8b940d10148d670"
     }
   ],
   "duplicate_message_ids": [
