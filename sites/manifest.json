@@ -28041,6 +28041,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21512.png",
       "sha256": "7ece1e6cb9a2f358ca7460c36b434ba736aec5b3a93bd03505e36b49c19557fe"
+    },
+    {
+      "message_id": 21511,
+      "filename": "김기현_수_1_기생집_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21511_._._1_._.pdf",
+      "size_bytes": 69450231,
+      "telegram_date": "2026-05-30T05:22:31+00:00",
+      "title": "수학 기출생각집 수학1 + 수학2 #기생집",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21511.png",
+      "sha256": "6932cfc380bdb0951a2deee3785566ba633bab739ea6bbec03284e9a75f8e8d9"
     }
   ],
   "duplicate_message_ids": [
