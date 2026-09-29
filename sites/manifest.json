@@ -27663,6 +27663,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21560.png",
       "sha256": "239ae46fcefe6916233467104dd4742374a1873c9f907497bec383cde4a8d876"
+    },
+    {
+      "message_id": 21559,
+      "filename": "CSM17 x 신성규 6모대비.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21559_CSM17.x.6.pdf",
+      "size_bytes": 1148777,
+      "telegram_date": "2026-06-01T09:48:28+00:00",
+      "title": "수학 신성규 X CSM17 UNION 6월 모의고사",
+      "year": "2027",
+      "instructor": "신성규",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21559.png",
+      "sha256": "a22071467797437dcacc66ac904a6790d241e588d32a19f57176fc6fd280112c"
     }
   ],
   "duplicate_message_ids": [
