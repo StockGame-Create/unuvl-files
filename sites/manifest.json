@@ -28377,6 +28377,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21474.png",
       "sha256": "c036d2eb8aaefafa9fc3d36008eb79a975740f8290bcf97d15e1c22270944b33"
+    },
+    {
+      "message_id": 21473,
+      "filename": "인강민철1호 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21473_.1.pdf",
+      "size_bytes": 121975196,
+      "telegram_date": "2026-05-29T14:37:47+00:00",
+      "title": "2027 국어 인강민철 1호",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21473.png",
+      "sha256": "15331dd3ec708b891a258c2fdbfbb2e92d267caa8a08438cd4a51a997f77709b"
     }
   ],
   "duplicate_message_ids": [
