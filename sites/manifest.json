@@ -29973,6 +29973,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21263.png",
       "sha256": "5724afa5f72a120969422bc46a863a30a7de0c094c431fa548ad6907ee12590d"
+    },
+    {
+      "message_id": 21259,
+      "filename": "적중예감_시즌프리_4ㅎ.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21259_._._4.pdf",
+      "size_bytes": 8345222,
+      "telegram_date": "2026-05-22T01:04:05+00:00",
+      "title": "사문 적중예감 시즌프리 모의고사 3-4회 (폰스캔)",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/21259.png",
+      "sha256": "7f4f69d8282f8e6e839761ac7ac0cba00e11b0646830e416ddba3c3d5205f7d2"
     }
   ],
   "duplicate_message_ids": [
