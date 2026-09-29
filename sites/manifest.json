@@ -19935,6 +19935,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22465.png",
       "sha256": "9da082d3c31388fcb7e4ade61b740263c3a6e1f5e95257d2e161fe5114236ec7"
+    },
+    {
+      "message_id": 22463,
+      "filename": "수능완성_문학_평가원화.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22463_._._.pdf",
+      "size_bytes": 2605914,
+      "telegram_date": "2026-07-16T07:39:46+00:00",
+      "title": "국어 수능완성 독서+문학 평가원형식 문제지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22463.png",
+      "sha256": "1496874fbe58b33f1287c65d7416d39d8b9f100664fc9525adf775edeabe14b2"
     }
   ],
   "duplicate_message_ids": [
