@@ -27985,6 +27985,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21518.png",
       "sha256": "cd97dd29c99a1f6fdabed093ee20558d23d78b58d325775f472462a5a290e608"
+    },
+    {
+      "message_id": 21517,
+      "filename": "15개정_고쟁이_미적분_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21517_15._._._.pdf",
+      "size_bytes": 10571116,
+      "telegram_date": "2026-05-30T10:30:01+00:00",
+      "title": "수학 15개정 고쟁이 미적분",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21517.png",
+      "sha256": "137a2f5fae24f83bec671d37814189e8a987e4b9c0cc2af46ba0d6df2a00b69a"
     }
   ],
   "duplicate_message_ids": [
