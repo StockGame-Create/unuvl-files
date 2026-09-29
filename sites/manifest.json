@@ -19431,6 +19431,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22509.png",
       "sha256": "c1398402b222f3e40ae7f350851dc082b988613b05dc6ff644dbb38dffcf4bf6"
+    },
+    {
+      "message_id": 22508,
+      "filename": "26 7월 대성 정법 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22508_26.7.pdf",
+      "size_bytes": 1034081,
+      "telegram_date": "2026-07-16T14:25:50+00:00",
+      "title": "사회 THE PREMIUM 7월 모의고사 문제지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/22508.png",
+      "sha256": "bdb7edc8846d6a3c248d13ff2f43781df9e45ea620dec7d0021d4a59dcb3d38c"
     }
   ],
   "duplicate_message_ids": [
