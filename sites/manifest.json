@@ -16855,6 +16855,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/22789.png",
       "sha256": "8d38bb1bc99b4310b4690e390a29db8b794c87f7fe1ef318b5b234956bf612fd"
+    },
+    {
+      "message_id": 22787,
+      "filename": "2027 생명과학1 강k+ 1회 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22787_2027.1.k%2B.1.pdf",
+      "size_bytes": 7522418,
+      "telegram_date": "2026-07-25T15:47:44+00:00",
+      "title": "생1 강대모의고사K+ 1회 #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22787.png",
+      "sha256": "a4cbccc9c030f3046281ce2448f96a2623b5f0d5904462adede189977bf6ed2d"
     }
   ],
   "duplicate_message_ids": [
