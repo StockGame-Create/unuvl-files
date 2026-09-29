@@ -27243,6 +27243,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21608.png",
       "sha256": "e16b708128e9794fe1c4abc3695f6a723a7f18d1dc6fa140f596fe42c345d2fd"
+    },
+    {
+      "message_id": 21606,
+      "filename": "수능국어 일이삼.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21606_.pdf",
+      "size_bytes": 8847547,
+      "telegram_date": "2026-06-03T11:57:23+00:00",
+      "title": "국어 수능국어 일이삼",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21606.png",
+      "sha256": "eb65a415585ca125099fcb8a0f92b0d28ee9a9757b15a7ceb96b116d92b28daa"
     }
   ],
   "duplicate_message_ids": [
