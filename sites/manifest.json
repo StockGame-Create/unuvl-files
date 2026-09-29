@@ -19263,6 +19263,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22521.png",
       "sha256": "8cde62b23444d75d52399b35672196070258a49bfbc78098c9bd75fd6a26c413"
+    },
+    {
+      "message_id": 22520,
+      "filename": "26 7월 대성 윤사 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22520_26.7.pdf",
+      "size_bytes": 1259383,
+      "telegram_date": "2026-07-16T14:25:51+00:00",
+      "title": "사회 THE PREMIUM 7월 모의고사 문제지 세계사, 동아시아사, 세지, 윤사, 경제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/22520.png",
+      "sha256": "abcbc9b6e1ab8030f6cc6922c8ba779eb9b3903965eff1cf518a996bb0321302"
     }
   ],
   "duplicate_message_ids": [
