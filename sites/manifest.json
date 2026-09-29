@@ -20327,6 +20327,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22414.png",
       "sha256": "cb2c2bdc63b3fd7ec7101b965046a75f026829d2e4bc42c3f75d762c08ec5b9e"
+    },
+    {
+      "message_id": 22411,
+      "filename": "2027_이로운_모의고사_시즌1_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22411_2027_._._.1_1.pdf",
+      "size_bytes": 4575732,
+      "telegram_date": "2026-07-12T17:58:08+00:00",
+      "title": "수학 이로운 모의고사 시즌1 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22411.png",
+      "sha256": "ee908fd044b1b47f5881342586f14948971cf6398e9c8ed913a3a86e9343e992"
     }
   ],
   "duplicate_message_ids": [
