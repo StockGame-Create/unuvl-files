@@ -22735,6 +22735,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22106.png",
       "sha256": "d891b32c55bc80496ccdf15f51c8c3ffa2adad5e47fd7b85ca239a5828132866"
+    },
+    {
+      "message_id": 22105,
+      "filename": "2027 유신 기출정본 20학년도 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22105_2027.20.pdf",
+      "size_bytes": 21707077,
+      "telegram_date": "2026-06-28T15:38:54+00:00",
+      "title": "국어 2027 유신 기출정본 18학년도~22학년도",
+      "year": "2027",
+      "instructor": "유신",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22105.png",
+      "sha256": "ba23442d68dafea03ed42a2c9643144a614cc1adf097f0c85300f85a1c82ad5b"
     }
   ],
   "duplicate_message_ids": [
