@@ -25073,6 +25073,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21886.png",
       "sha256": "62a57e7c07000eb11275cdb53c9d17c91701262e0eff3f1daf0b52820d397e4b"
+    },
+    {
+      "message_id": 21885,
+      "filename": "이감 4-2 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21885_.4-2.pdf",
+      "size_bytes": 58655489,
+      "telegram_date": "2026-06-21T13:33:37+00:00",
+      "title": "국어 이감 국어 모의고사 시즌4 제2차 예비평가  #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21885.png",
+      "sha256": "0c6282e02e0fa4e3b7610b99fcfbd2e5d204b64e0d148bbab1e28efa32fefc83"
     }
   ],
   "duplicate_message_ids": [
