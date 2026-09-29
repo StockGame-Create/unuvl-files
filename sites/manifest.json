@@ -21461,6 +21461,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22278.png",
       "sha256": "bffbc40663fc6ecce6a80d003668c7932930e86dfbf027d85bb54fc072054555"
+    },
+    {
+      "message_id": 22275,
+      "filename": "미적분-8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22275_.-8.pdf",
+      "size_bytes": 4784104,
+      "telegram_date": "2026-07-08T13:06:52+00:00",
+      "title": "수학 THE HURDLING 미적분 점검테스트 8회 #허들링",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22275.png",
+      "sha256": "ea721ff5eceaba4023a87d6858b51a76e98fddea920645cff2bdbedb96b5d3ee"
     }
   ],
   "duplicate_message_ids": [
