@@ -17877,6 +17877,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22689.png",
       "sha256": "3b0987e4938672398d273b49572101ce9ddb0616977eafde5c7748f5d98be73f"
+    },
+    {
+      "message_id": 22688,
+      "filename": "완자_지구과학Ⅰ15개정_본문_unlocked.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22688_._.15._._unlocked.pdf",
+      "size_bytes": 208406433,
+      "telegram_date": "2026-07-24T07:49:42+00:00",
+      "title": "지1 완자 지구과학1",
+      "year": null,
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22688.png",
+      "sha256": "03da165d7f3643161f960b51c77db5fa0409e767996f786c98fad7b3a82db9a3"
     }
   ],
   "duplicate_message_ids": [
