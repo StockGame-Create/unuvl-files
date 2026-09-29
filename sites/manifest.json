@@ -28489,6 +28489,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21462.png",
       "sha256": "28eb6113c4b08c93b06ae65c489013d0f111d01b4d3ca151b1064963c0d87b59"
+    },
+    {
+      "message_id": 21460,
+      "filename": "2027학년도_최지욱_X_씨에스엠17_6월_모의고사_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21460_2027._._X_.17_6._._.pdf",
+      "size_bytes": 2981667,
+      "telegram_date": "2026-05-28T23:55:20+00:00",
+      "title": "2027학년도 최지욱XCSM17 6평 대비 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21460.png",
+      "sha256": "d8126b930829d16edb95bf4a3f1cc667d8ddec733307e7e8ec51b8e44475d808"
     }
   ],
   "duplicate_message_ids": [
