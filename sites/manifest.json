@@ -25465,6 +25465,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21844.png",
       "sha256": "5c081f24e17c202c95b05eb1f337e487064334149a07afee634280d07d49bab1"
+    },
+    {
+      "message_id": 21843,
+      "filename": "6평 리웨이크 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21843_6.pdf",
+      "size_bytes": 411883,
+      "telegram_date": "2026-06-16T10:09:42+00:00",
+      "title": "수학 6월 평가원 RE:WAKE 모의고사",
+      "year": "2027",
+      "instructor": "김성호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21843.png",
+      "sha256": "ed920d9fd411dc347e72b2722070ad26fcd546ab40f6933f2031f0ccca251e7f"
     }
   ],
   "duplicate_message_ids": [
