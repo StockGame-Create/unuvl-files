@@ -39,7 +39,10 @@
 // 최근 몇 주 사이 3.6 -> 3.7 -> 3.8 Flash가 연달아 나왔는데(5주 만에 3개),
 // 막 나온 모델일수록 용량이 덜 확보돼서 429/503(과부하)이 잦은 것으로 보인다.
 // 그래서 모델 하나만 쓰지 않고, 같은 Flash 라인(가격/성능대가 사실상 동일하고
-// API 파라미터도 호환됨) 안에서 앞 모델이 과부하면 뒤 모델로 자동 전환한다.
+// API 파라미터도 호환됨) 세 개를 매번 동시에(병렬로) 요청해서 가장 먼저
+// 성공하는 응답을 쓴다 (raceModels/generateContentWithFallback 참고). 순서대로
+// 하나씩 시도하던 예전 방식보다 느려지는 경로가 훨씬 짧아지고, 셋이 완전히
+// 동시에 다 같이 막히지 않는 한 성공 확률도 올라간다.
 // (Flash-Lite나 Pro로 내려가면 가격/답변 품질이 달라지므로 후보에서 제외했다 -
 //  "다른 모델도 해봤는데 별로였다"는 게 품질 문제였다면 이 목록을 조정해야 함.)
 const GEMINI_MODEL_CANDIDATES = ["gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.6-flash"];
@@ -73,6 +76,13 @@ const TOTAL_TIME_BUDGET_MS = 52000;
 // 실패하는 것보다는, 하나라도 시도해보고 끝내는 게 낫다.
 const RETRY_SAME_MODEL_DELAY_MS = 1200;
 const RETRY_MIN_REMAINING_MS = 15000;
+
+// 세 후보를 한 번에 몇 라운드까지 돌려볼지. 한 라운드 = 세 후보를 전부
+// 동시에(병렬로) 쏴서 하나라도 성공하면 나머지는 즉시 취소하는 것.
+// 라운드가 전부 실패(전원 429/503)하면 짧게 쉬었다가 다음 라운드로 넘어간다.
+// (라운드당 API 호출이 최대 3배로 늘어나므로, 쿼터/비용에 민감하면 이 값을
+// 낮추면 된다.)
+const MAX_WAVES = 4;
 
 // 학생들이 올리는 학습자료(모의고사/문제집 등)는 보통 "문제"와 "해설"이
 // 나뉘어 있는 경우가 많다. 답변 품질을 위해 이 두 영역을 먼저 구분해서
@@ -210,11 +220,84 @@ async function uploadFreshFile(messageId, apiKey, base) {
   return { name: fileName, uri: fileUri, mimeType: fileMimeType };
 }
 
-// 후보 모델을 순서대로 시도한다. 429(RESOURCE_EXHAUSTED)나 503(과부하)이면,
-// 남은 시간 예산이 넉넉할 때는 같은 모델을 아주 짧게 한 번 더 시도해보고
-// (RETRY_SAME_MODEL_DELAY_MS 참고), 그래도 안 되거나 예산이 부족하면 그
-// 모델은 포기하고 다음 후보로 넘어간다. 그 외 오류(400 등, 요청 자체가
-// 잘못된 경우)는 재시도/모델 전환 모두 소용없으므로 즉시 던진다.
+// 모델 하나에 요청을 보낸다. 성공하면 { model, ok: true, geminiData }를,
+// 실패하면 { model, ok: false, retryable, detail }를 반환한다 (예외를 던지지
+// 않는다 - 레이스에서 다른 후보들과 나란히 Promise.then으로 다뤄야 해서).
+// signal이 abort되면(다른 후보가 먼저 성공한 경우) { model, aborted: true }.
+async function callModel(model, contents, apiKey, signal) {
+  let res;
+  try {
+    res = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          system_instruction: { parts: [{ text: SYSTEM_INSTRUCTION }] },
+          contents,
+        }),
+        signal,
+      }
+    );
+  } catch (err) {
+    if (err.name === "AbortError") return { model, aborted: true };
+    // 네트워크 자체 오류(연결 끊김 등)는 일시적일 가능성이 높으므로 재시도 대상으로 취급.
+    return { model, ok: false, retryable: true, detail: err.message };
+  }
+
+  if (res.ok) {
+    const geminiData = await res.json();
+    return { model, ok: true, geminiData };
+  }
+
+  const geminiData = await res.json().catch(() => ({}));
+  const detail = geminiData?.error?.message || `HTTP ${res.status}`;
+  const retryable = res.status === 429 || res.status === 503;
+  return { model, ok: false, retryable, detail };
+}
+
+// 후보 모델 전부에 "동시에" 요청을 쏘고, 가장 먼저 성공하는 응답을 쓴다.
+// 성공하는 즉시 나머지 진행 중인 요청은 AbortController로 취소한다 (후보들은
+// 같은 Flash 라인이라 가격/품질이 사실상 동일하므로, 먼저 온 성공 응답을
+// 그냥 쓰면 된다 - 굳이 "더 우선순위 높은 후보"를 기다릴 필요 없음).
+// 전부 실패하면 { success: false, failures }를 반환한다.
+function raceModels(models, contents, apiKey) {
+  return new Promise((resolve) => {
+    const controllers = models.map(() => new AbortController());
+    const failures = [];
+    let remaining = models.length;
+    let done = false;
+
+    models.forEach((model, i) => {
+      callModel(model, contents, apiKey, controllers[i].signal).then((result) => {
+        remaining -= 1;
+        if (done) return;
+
+        if (result.ok) {
+          done = true;
+          controllers.forEach((c, j) => {
+            if (j !== i) c.abort();
+          });
+          resolve({ success: true, model: result.model, geminiData: result.geminiData });
+          return;
+        }
+
+        if (!result.aborted) failures.push(result);
+
+        if (remaining === 0 && !done) {
+          done = true;
+          resolve({ success: false, failures });
+        }
+      });
+    });
+  });
+}
+
+// 후보 모델들을 라운드 단위로 시도한다. 한 라운드 = 세 후보를 동시에 쏴서
+// 하나라도 성공하면 즉시 반환. 라운드 전체가 429/503(과부하)으로 실패하면,
+// 남은 시간 예산이 넉넉할 때만 짧게 쉬었다가 다음 라운드로 넘어간다.
+// 재시도해도 소용없는 오류(예: 요청 자체가 잘못됨)가 모든 후보에서
+// 나오면 그 자리에서 바로 던진다 - 기다려봤자 결과가 달라지지 않으므로.
 //
 // deadlineAt: 이 함수(및 그 이전의 다운로드/업로드 단계)를 합쳐 전체가
 // 넘으면 안 되는 시각(ms epoch). handler에서 요청 시작 시각 기준으로 계산해서
@@ -223,49 +306,30 @@ async function uploadFreshFile(messageId, apiKey, base) {
 async function generateContentWithFallback(contents, apiKey, deadlineAt) {
   let lastOverloadDetail = null;
 
-  for (const model of GEMINI_MODEL_CANDIDATES) {
-    for (let attempt = 0; attempt < 2; attempt++) {
-      const geminiRes = await fetch(
-        `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
-        {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            system_instruction: { parts: [{ text: SYSTEM_INSTRUCTION }] },
-            contents,
-          }),
-        }
-      );
+  for (let wave = 0; wave < MAX_WAVES; wave++) {
+    if (Date.now() >= deadlineAt) break;
 
-      if (geminiRes.ok) {
-        const geminiData = await geminiRes.json();
-        return { geminiData, modelUsed: model };
-      }
+    const result = await raceModels(GEMINI_MODEL_CANDIDATES, contents, apiKey);
+    if (result.success) return { geminiData: result.geminiData, modelUsed: result.model };
 
-      const geminiData = await geminiRes.json().catch(() => ({}));
-      const detail = geminiData?.error?.message || `HTTP ${geminiRes.status}`;
-
-      if (geminiRes.status !== 429 && geminiRes.status !== 503) {
-        // 과부하가 아닌 오류는 재시도/모델 전환 모두 소용없으므로 즉시 실패 처리.
-        throw new Error(`Gemini API 오류 (${model}): ${detail}`);
-      }
-
-      lastOverloadDetail = detail;
-
-      const isFirstAttempt = attempt === 0;
-      const remainingMs = deadlineAt - Date.now();
-      if (isFirstAttempt && remainingMs > RETRY_MIN_REMAINING_MS) {
-        console.warn(`[일시적 혼잡, ${RETRY_SAME_MODEL_DELAY_MS}ms 후 같은 모델 재시도] ${model}: ${detail}`);
-        await sleep(RETRY_SAME_MODEL_DELAY_MS);
-        continue; // 같은 모델로 한 번 더
-      }
-
-      console.warn(`[모델 과부하, 다음 후보로 전환] ${model}: ${detail}`);
-      break; // 다음 후보 모델로
+    const nonRetryable = result.failures.filter((f) => !f.retryable);
+    if (result.failures.length > 0 && nonRetryable.length === result.failures.length) {
+      throw new Error(`Gemini API 오류: ${nonRetryable[0].detail}`);
     }
+
+    const overload = result.failures.find((f) => f.retryable);
+    if (overload) lastOverloadDetail = overload.detail;
+
+    const remainingMs = deadlineAt - Date.now();
+    if (remainingMs <= RETRY_MIN_REMAINING_MS) break;
+
+    console.warn(
+      `[전체 후보 혼잡 (${wave + 1}라운드째), ${RETRY_SAME_MODEL_DELAY_MS}ms 후 다음 라운드] ${lastOverloadDetail}`
+    );
+    await sleep(RETRY_SAME_MODEL_DELAY_MS);
   }
 
-  // 후보를 다 돌았는데도 전부 과부하였던 경우.
+  // 라운드를 다 돌았는데도(또는 시간 예산이 다 돼서) 전부 과부하였던 경우.
   throw new Error(
     `지금 사용 가능한 AI 모델이 전부 혼잡합니다 (마지막 오류: ${lastOverloadDetail}). 잠시 후 다시 시도해주세요.`
   );
