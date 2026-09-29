@@ -30477,6 +30477,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21191.png",
       "sha256": "7a58cb41e8d9c84c2abf08ae49a629ff9e83f8ddd6c72dd9f4a10222221927a3"
+    },
+    {
+      "message_id": 21189,
+      "filename": "적생모 빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21189_.pdf",
+      "size_bytes": 3689329,
+      "telegram_date": "2026-05-21T02:01:30+00:00",
+      "title": "정법 적자생존 모의고사 시즌1 1-3회 (폰스캔) #적생모",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/21189.png",
+      "sha256": "025befb3214e346e3a07f91307475be27a1ddd274ba74044075b9f7dd7716a1b"
     }
   ],
   "duplicate_message_ids": [
