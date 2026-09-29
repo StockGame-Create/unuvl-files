@@ -18829,6 +18829,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22567.png",
       "sha256": "f94d22f3900f89caab5b98faf00e0520f724c71e9b6fb739ba92a3d14d563359"
+    },
+    {
+      "message_id": 22566,
+      "filename": "2027_시대인재_Final_브릿지_전국_모의고사_4회_문제지_2026_07_18_02_06_45_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22566_2027_._Final_._._._4._._2026_07_18_02_06_45_1.pdf",
+      "size_bytes": 842991,
+      "telegram_date": "2026-07-18T14:42:45+00:00",
+      "title": "수학 시대인재 파이널 브릿지 전국 모의고사 4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22566.png",
+      "sha256": "8b9d351ec20f3bc159dcfc71506cdacfc815d7cf4ff14559d6d7efb8050f61ea"
     }
   ],
   "duplicate_message_ids": [
