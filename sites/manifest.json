@@ -22273,6 +22273,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/22159.png",
       "sha256": "ab9161dcfb3d4e87f6d4a775f240752042c3501a3f5d80585431db6c438404be"
+    },
+    {
+      "message_id": 22158,
+      "filename": "2027학년도_6월_서바이벌프로_모의고사_수학_영역.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22158_2027._6._._._._.pdf",
+      "size_bytes": 10737192,
+      "telegram_date": "2026-06-30T16:32:27+00:00",
+      "title": "수학 시대인재 6월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22158.png",
+      "sha256": "33278c0a21103fffee52311aa2a2a22ed2b3edfd1940e8864a618097ffb82b01"
     }
   ],
   "duplicate_message_ids": [
