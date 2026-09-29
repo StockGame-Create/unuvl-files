@@ -17051,6 +17051,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22766.png",
       "sha256": "c76ac466042b083deb9182885e06a1fe21a857153e358b1d910c8090ff3fbee6"
+    },
+    {
+      "message_id": 22765,
+      "filename": "2027학년도_시대인재_7월_전국모의평가_4교시_사탐_전체_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22765_2027._._7._._4._._._.pdf",
+      "size_bytes": 14717293,
+      "telegram_date": "2026-07-25T12:06:28+00:00",
+      "title": "사회 시대인재 7월 전국모의평가 통합본 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/22765.png",
+      "sha256": "f00908023a634ae9f06df35aa1e0a8ebd27d0c27736d2ec7592bf5dc4664cc6f"
     }
   ],
   "duplicate_message_ids": [
