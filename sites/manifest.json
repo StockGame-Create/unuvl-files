@@ -26487,6 +26487,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/21721.png",
       "sha256": "0e1200dbb616d2c6589ba1d0622eaddf4da5d19d6d1c0c09f5d39f3d23a989a8"
+    },
+    {
+      "message_id": 21720,
+      "filename": "2027 수능완성 한국지리 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21720_2027.pdf",
+      "size_bytes": 89046066,
+      "telegram_date": "2026-06-10T16:26:55+00:00",
+      "title": "사탐 2027 수능완성 사회탐구영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/21720.png",
+      "sha256": "94fe90ff21aea2cd68bf9d1106550dfd156bcbc824bd408b6105d1d53a8a844f"
     }
   ],
   "duplicate_message_ids": [
