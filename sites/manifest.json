@@ -23771,6 +23771,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22032.png",
       "sha256": "f400ea37987ea7262b3f84603a391112169624e9f4b95a95060daf203ad52532"
+    },
+    {
+      "message_id": 22031,
+      "filename": "2027 김현우 스탠다드 미적분 10주차 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22031_2027.10.pdf",
+      "size_bytes": 66793283,
+      "telegram_date": "2026-06-28T15:37:50+00:00",
+      "title": "수학 2027 김현우 스탠다드 미적분 6주차~10주차 문제+해설 (인쇄소퀄)",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22031.png",
+      "sha256": "dff55fc514180589356882ef4ac04e52e4cbc8ee10319a3d8905b414480fb79b"
     }
   ],
   "duplicate_message_ids": [
