@@ -24331,6 +24331,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/21978.png",
       "sha256": "8a3ed2666ad314f1d578fa8fa7e30dafceb937c078d431f447ac9d9911af37f8"
+    },
+    {
+      "message_id": 21977,
+      "filename": "27대비26년_4월_시대전국모의_4교시_과탐_화학2_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21977_27.26._4._._4._._.2_.pdf",
+      "size_bytes": 701404,
+      "telegram_date": "2026-06-27T14:20:24+00:00",
+      "title": "화2 시대인재 4월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/21977.png",
+      "sha256": "559fecb03b880261b488925cfbca8a8501abfcda6169977d2ba2f88bb73876bf"
     }
   ],
   "duplicate_message_ids": [
