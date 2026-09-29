@@ -26599,6 +26599,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21713.png",
       "sha256": "e5c2c1776ac707e6d17562aa97291509a66ecdfe66ea6a0cafe6588ba9bcb579"
+    },
+    {
+      "message_id": 21712,
+      "filename": "2024 현우진 드릴 기하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21712_2024.pdf",
+      "size_bytes": 36141434,
+      "telegram_date": "2026-06-10T16:19:11+00:00",
+      "title": "수학 2024 드릴 기하",
+      "year": "2024",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21712.png",
+      "sha256": "ef92e0bc8399c5f208a1fc4bbe37bdfa8b3a5ae46330a2daa73a33dd8a6d4b96"
     }
   ],
   "duplicate_message_ids": [
