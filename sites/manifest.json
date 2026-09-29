@@ -25171,6 +25171,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21876.png",
       "sha256": "0349f57a821a830b9473448908039576d023764afd0d0f5599a2e0c99aefe519"
+    },
+    {
+      "message_id": 21875,
+      "filename": "2027_시대기출_미적분_CORE_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21875_2027_._._CORE_.pdf",
+      "size_bytes": 163058853,
+      "telegram_date": "2026-06-18T16:58:18+00:00",
+      "title": "수학 시대인재 수능기출 문제집 CORE 미적분",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21875.png",
+      "sha256": "dfbdd79aa94e51605bce232bc5928071c59267e5d6f8c71f8332f2aeca9bab47"
     }
   ],
   "duplicate_message_ids": [
