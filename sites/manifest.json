@@ -28825,6 +28825,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21423.png",
       "sha256": "e74857d826b9f94b7eafee6c460fc50282be4bf826fc9bb4fd231bf250f725e8"
+    },
+    {
+      "message_id": 21421,
+      "filename": "2027_미친개념_수학2_워크북_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21421_2027_._.2_._1.pdf",
+      "size_bytes": 66230868,
+      "telegram_date": "2026-05-27T17:19:28+00:00",
+      "title": "수학 2027 미친개념 수학1, 수학2 + 워크북",
+      "year": "2027",
+      "instructor": "이미지",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21421.png",
+      "sha256": "d5a1a9eb9b5da7be78bbb75c04870aba3f8bc2f989658d9d0cf97f5dc804d788"
     }
   ],
   "duplicate_message_ids": [
