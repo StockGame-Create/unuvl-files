@@ -16869,6 +16869,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22787.png",
       "sha256": "a4cbccc9c030f3046281ce2448f96a2623b5f0d5904462adede189977bf6ed2d"
+    },
+    {
+      "message_id": 22785,
+      "filename": "TalkFile_2027학년도_시대인재_브릿지_전국_모의고사_9회_생활과윤리.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22785_TalkFile_2027._._._._._9._.pdf",
+      "size_bytes": 4872353,
+      "telegram_date": "2026-07-25T15:47:42+00:00",
+      "title": "생윤 시대인재 전국 브릿지 모의고사 9회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/22785.png",
+      "sha256": "a928a0d959aa407e19672f2a4ca36927f5ca18a5623070a1a2753fb274d5e145"
     }
   ],
   "duplicate_message_ids": [
