@@ -25647,6 +25647,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21825.png",
       "sha256": "f295eca32d0f53e225aa65295ea471a425fb40252f02369f2a686fa135799e5b"
+    },
+    {
+      "message_id": 21804,
+      "filename": "폴라리스_2027_6월_모의평가_지구과학1_상세해설배포용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21804_._2027_6._._.1_.pdf",
+      "size_bytes": 3455838,
+      "telegram_date": "2026-06-15T12:09:11+00:00",
+      "title": "지1 폴라리스 2027 6평 해설서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/21804.png",
+      "sha256": "42b521262606b2b2011c5615c472187c97a999d78cdf2144b46928c52d2ceadf"
     }
   ],
   "duplicate_message_ids": [
