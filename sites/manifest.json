@@ -19165,6 +19165,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22528.png",
       "sha256": "8e3dc8aba8c8df35a83763c8ed691218f641126d39633b32d3ee042498199792"
+    },
+    {
+      "message_id": 22527,
+      "filename": "차영진_모의고사_순한맛_Season_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22527_._._._Season_2.pdf",
+      "size_bytes": 58580822,
+      "telegram_date": "2026-07-16T14:32:23+00:00",
+      "title": "수학 차영진 모의고사 순한맛 시즌1 1회, 시즌2 4회",
+      "year": "2027",
+      "instructor": "차영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22527.png",
+      "sha256": "ddcefdc86fd0b67401c1c4e57d28ea40e2ee0f16fecd92221150fe2d4a8bfd75"
     }
   ],
   "duplicate_message_ids": [
