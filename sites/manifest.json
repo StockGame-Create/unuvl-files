@@ -20999,6 +20999,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22327.png",
       "sha256": "adbb27402d076ed05f11e52ecc610867beac67818257684a831fcd42c82e4468"
+    },
+    {
+      "message_id": 22326,
+      "filename": "TalkFile_6평대비_천우신조_수학_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22326_TalkFile_6._._._1.pdf",
+      "size_bytes": 1968339,
+      "telegram_date": "2026-07-10T15:24:40+00:00",
+      "title": "수학 6모대비 천우신조 모의고사 1,2회",
+      "year": "2027",
+      "instructor": "오르새",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22326.png",
+      "sha256": "06246c48523e2e3528894b66f3bc3f4f266eaab75703376f6a48e5c56d66eaf4"
     }
   ],
   "duplicate_message_ids": [
