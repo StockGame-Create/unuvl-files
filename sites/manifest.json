@@ -20005,6 +20005,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22455.png",
       "sha256": "9c6615d87311f5d6e587ed44da7cc91860e0fac06baf890734fc8d9da4fdaafe"
+    },
+    {
+      "message_id": 22453,
+      "filename": "2027 강철중 셔플 1회 해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22453_2027.1.pdf",
+      "size_bytes": 1777197,
+      "telegram_date": "2026-07-16T07:39:46+00:00",
+      "title": "수학 강철중 Shuffle 모의고사 1회",
+      "year": "2027",
+      "instructor": "강철중",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22453.png",
+      "sha256": "481401915aa5788bd74a0b3f6c58c73ceb49233b8e9463f57960c24c6d2483b7"
     }
   ],
   "duplicate_message_ids": [
