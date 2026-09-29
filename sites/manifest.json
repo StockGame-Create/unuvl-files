@@ -24555,6 +24555,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/21950.png",
       "sha256": "a5a1bcdf1091f37bb6d8ae39b3c8f0c557085e369cb219a8bdb1eff6cc1169ae"
+    },
+    {
+      "message_id": 21948,
+      "filename": "강은양t rebs 수특 독서(상).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21948_.t.rebs.pdf",
+      "size_bytes": 335883254,
+      "telegram_date": "2026-06-25T18:01:25+00:00",
+      "title": "국어 강은양 rebs 수능특강 독서 (상)",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21948.png",
+      "sha256": "48777c25fe7d36580e3a713eb7616b486580db9c989a27ccd2951e0fb84af7c6"
     }
   ],
   "duplicate_message_ids": [
