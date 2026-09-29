@@ -30379,6 +30379,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/21205.png",
       "sha256": "27523d89ea24ed8d54d15175cfb779fef64123b8524f41a501d1d22cb516d78c"
+    },
+    {
+      "message_id": 21203,
+      "filename": "브릿지_전국 수학 14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21203_._.14.pdf",
+      "size_bytes": 10306365,
+      "telegram_date": "2026-05-21T06:56:39+00:00",
+      "title": "수학 시대인지 브릿지 전국 모의고사 14회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21203.png",
+      "sha256": "bc632cc6c548bff8333ae28484b4d3b4983ea15858785f29636792e24c6c8fe8"
     }
   ],
   "duplicate_message_ids": [
