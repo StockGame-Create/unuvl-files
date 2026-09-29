@@ -17387,6 +17387,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/22742.png",
       "sha256": "d87ce7755db1f5956ab8cc0d71a37d2cf2193b80ef5e7946e92dc2a8d88f5df8"
+    },
+    {
+      "message_id": 22741,
+      "filename": "2027학년도_시대인재_7월_전국모의평가_4교시_과탐_생명2_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22741_2027._._7._._4._._.2_.pdf",
+      "size_bytes": 1715022,
+      "telegram_date": "2026-07-25T12:06:26+00:00",
+      "title": "과학 시대인재 7월 전국모의평가 생1, 생2, 화2  #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/22741.png",
+      "sha256": "304830e6aa65d9f6c038daff3b1f3a6efd9b42edfcfa96e59137a96e2fb96551"
     }
   ],
   "duplicate_message_ids": [
