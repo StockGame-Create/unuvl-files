@@ -30631,6 +30631,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21169.png",
       "sha256": "dca3beb0806eb66bfde363a950717097e15efe1ed2a7cd224e3f5a5d33691f10"
+    },
+    {
+      "message_id": 21168,
+      "filename": "2027 아이디어 수1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21168_2027.1.pdf",
+      "size_bytes": 429679473,
+      "telegram_date": "2026-05-20T08:28:10+00:00",
+      "title": "수학 아이디어 IDEAL 수학1 + 워크북",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21168.png",
+      "sha256": "db63cc39749d504719768643e286c4fe20f6c9358b0c7368fd194860b197db78"
     }
   ],
   "duplicate_message_ids": [
