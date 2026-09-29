@@ -19305,6 +19305,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22518.png",
       "sha256": "051f7c06ee355973c631f1e85395e6e412917f67447e864aabcb91a88285b1d8"
+    },
+    {
+      "message_id": 22517,
+      "filename": "26 7월 대성 세계사 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22517_26.7.pdf",
+      "size_bytes": 1129603,
+      "telegram_date": "2026-07-16T14:25:51+00:00",
+      "title": "사회 THE PREMIUM 7월 모의고사 문제지 세계사, 동아시아사, 세지, 윤사, 경제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/22517.png",
+      "sha256": "68fa3b79d56e727e0238d819e6bc26274ca0e28dacf0f2ae532cd62991029c1a"
     }
   ],
   "duplicate_message_ids": [
