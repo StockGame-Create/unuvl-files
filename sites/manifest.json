@@ -26179,6 +26179,20 @@
       "subject": "제2외국어",
       "thumbnail": "thumbnails/21743.png",
       "sha256": "ca6e6239e786e3984b1b0e9b112e52b3facea3974a8d819822110dbc2e905f0b"
+    },
+    {
+      "message_id": 21742,
+      "filename": "2027 수능완성 일본어 I 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21742_2027.I.pdf",
+      "size_bytes": 6760680,
+      "telegram_date": "2026-06-10T16:29:44+00:00",
+      "title": "2027 수능완성 제2외국어영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "제2외국어",
+      "thumbnail": "thumbnails/21742.png",
+      "sha256": "396747f370e1cb9e86cfbd0163641ce2dd527eb5618857e1867457bf7ab7cced"
     }
   ],
   "duplicate_message_ids": [
