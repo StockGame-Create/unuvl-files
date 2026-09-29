@@ -31121,6 +31121,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21106.png",
       "sha256": "2678f21d429e1bbaefa7c412b91c4eab4bca7da3c2f5641155b8a2ca4ca5164b"
+    },
+    {
+      "message_id": 21103,
+      "filename": "블랙라벨 공통수학1 정답과해설_251227_112420.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21103_.1._251227_112420.pdf",
+      "size_bytes": 10825936,
+      "telegram_date": "2026-05-17T02:13:45+00:00",
+      "title": "수학 블랙라벨 공통수학1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21103.png",
+      "sha256": "8e8d1ec9f7c1e3f031b1b1d897d559e05a55422100b5771675423a0e21deba6d"
     }
   ],
   "duplicate_message_ids": [
