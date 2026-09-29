@@ -28867,6 +28867,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21419.png",
       "sha256": "c6ea9d695b9fb9856f73fbaa38dc838a7964a49aa19381e9d15c06aa5bce09f3"
+    },
+    {
+      "message_id": 21418,
+      "filename": "[2027] 미친개념 수학1 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21418_.2027.1.1.pdf",
+      "size_bytes": 101032440,
+      "telegram_date": "2026-05-27T17:19:27+00:00",
+      "title": "수학 2027 미친개념 수학1, 수학2 + 워크북",
+      "year": "2027",
+      "instructor": "이미지",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21418.png",
+      "sha256": "9d4d8d9a558e4d1bb1da3a07bbd233852dd8f192ce32f61736967b1867b41890"
     }
   ],
   "duplicate_message_ids": [
