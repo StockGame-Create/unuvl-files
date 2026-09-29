@@ -27789,6 +27789,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/21544.png",
       "sha256": "e1159d71d399f17ace17266bc4e7ac3ec8a526f09935e6821ca9adb7048c6838"
+    },
+    {
+      "message_id": 21543,
+      "filename": "5월 시대 사탐.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21543_5.pdf",
+      "size_bytes": 8029759,
+      "telegram_date": "2026-05-31T02:55:14+00:00",
+      "title": "사탐 시대인재 5월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/21543.png",
+      "sha256": "c2be4069200d27f2ed3c7d0e3e49b3e2a6cd032907ea63de8590f8ec5e85a764"
     }
   ],
   "duplicate_message_ids": [
