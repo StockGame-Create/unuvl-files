@@ -20663,6 +20663,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22362.png",
       "sha256": "5d9f4b84181791bc270c15d958f8bf2e704c24ecd151e8fb8dad9f2d9947acb2"
+    },
+    {
+      "message_id": 22360,
+      "filename": "BOSS.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22360_BOSS.pdf",
+      "size_bytes": 7633602,
+      "telegram_date": "2026-07-11T15:19:45+00:00",
+      "title": "수학 최지욱 BOSS N제",
+      "year": "2027",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22360.png",
+      "sha256": "acfaec9344028ae60393b7d60c005e27b08aceef8f9005f92baa332fa1bc8acd"
     }
   ],
   "duplicate_message_ids": [
