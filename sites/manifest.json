@@ -16771,6 +16771,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/22801.png",
       "sha256": "4e71360528606766196a8adbb43d4ffeef8d327fa2cd9cc51116ac5f2a9aed47"
+    },
+    {
+      "message_id": 22800,
+      "filename": "물리학1_파이널브릿지_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22800_.1_._2.pdf",
+      "size_bytes": 1960968,
+      "telegram_date": "2026-07-26T17:28:13+00:00",
+      "title": "물1 시대인재 파이널 브릿지 전국 모의고사 2, 3회 (해설O)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/22800.png",
+      "sha256": "6fa798047f228bf8610a8ddecc5d313ce1aaf738e738d48d3af5b8bbd493590c"
     }
   ],
   "duplicate_message_ids": [
