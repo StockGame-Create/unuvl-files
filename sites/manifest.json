@@ -25661,6 +25661,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/21804.png",
       "sha256": "42b521262606b2b2011c5615c472187c97a999d78cdf2144b46928c52d2ceadf"
+    },
+    {
+      "message_id": 21802,
+      "filename": "2027 9평대비 메가러셀 기하 주간지 2주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21802_2027.9.2.pdf",
+      "size_bytes": 27443746,
+      "telegram_date": "2026-06-15T02:41:30+00:00",
+      "title": "수학 QUEL SWITCH 기하 02",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21802.png",
+      "sha256": "9d3fa75593f4ec9b13199c82a865ad4115dd0206a2539bbb22e0a99b6f268c66"
     }
   ],
   "duplicate_message_ids": [
