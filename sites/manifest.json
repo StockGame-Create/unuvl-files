@@ -16463,6 +16463,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/22829.png",
       "sha256": "b4681d06399ca2f01e155439539cbe36f0509f48ae237c59d254a683db5943ce"
+    },
+    {
+      "message_id": 22828,
+      "filename": "최적파이널 현장FAQ1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22828_.FAQ1.pdf",
+      "size_bytes": 3097429,
+      "telegram_date": "2026-07-27T04:26:44+00:00",
+      "title": "정법 최적 파이널 현장 FAQ 1~4",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/22828.png",
+      "sha256": "0be255f55e3ccdce676c1d4127da88152f4fffd54168fa334f7ac4993762e540"
     }
   ],
   "duplicate_message_ids": [
