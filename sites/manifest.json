@@ -24863,6 +24863,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21906.png",
       "sha256": "a9d3e3731fc3aa27e3b13f38c7486b78b30411216954031690248123323e44a0"
+    },
+    {
+      "message_id": 21905,
+      "filename": "TalkFile_2022개정_미적분2_개념원리_정답과해설_pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21905_TalkFile_2022._.2_._._pdf.pdf",
+      "size_bytes": 12190020,
+      "telegram_date": "2026-06-21T16:46:11+00:00",
+      "title": "수학 개념원리 미적분2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21905.png",
+      "sha256": "486552f57ee655d6c7c1c41c6a92478ec18308256f34fc3c608d3aeac09c9cd6"
     }
   ],
   "duplicate_message_ids": [
