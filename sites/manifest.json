@@ -29749,6 +29749,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21300.png",
       "sha256": "a8f3f5ac651c8290883d25971c36d211b7ed46db1100c57ad45f5f4014835645"
+    },
+    {
+      "message_id": 21299,
+      "filename": "2027 6모 대비 박종민 모의고사 + 빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21299_2027.6.%2B.pdf",
+      "size_bytes": 7347322,
+      "telegram_date": "2026-05-23T03:29:59+00:00",
+      "title": "수학 6모 대비 박종민 모의고사",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21299.png",
+      "sha256": "c80c9f0847fb16b340d67541b3d757783f0c639a3f1e98ccd3eb0324657af39f"
     }
   ],
   "duplicate_message_ids": [
