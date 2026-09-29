@@ -24387,6 +24387,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21971.png",
       "sha256": "f5a457d6840a2b3a6cec5a3070093f8a1db53f10ddc426bd960e9f1872343afd"
+    },
+    {
+      "message_id": 21968,
+      "filename": "현우진_킬링캠프_시즌1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21968_._._.1.pdf",
+      "size_bytes": 30703774,
+      "telegram_date": "2026-06-27T13:04:46+00:00",
+      "title": "수학 현우진 모의고사 (현우진의 Killing Camp) season1 1회 (폰스캔) (미적X, 기하X) #킬캠",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21968.png",
+      "sha256": "b5ddf20bc4bd160276b1219b1f01c6bb9160ce719ddbc7bbabd5b0c03d2d07d0"
     }
   ],
   "duplicate_message_ids": [
