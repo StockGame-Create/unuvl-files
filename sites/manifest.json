@@ -21181,6 +21181,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/22309.png",
       "sha256": "18c6f502665a3ab2571ec4cf969220e190bc8f77726880fa8ca8a7f7a14a268d"
+    },
+    {
+      "message_id": 22307,
+      "filename": "2027 월간 간쓸개 1권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22307_2027.1.pdf",
+      "size_bytes": 345760222,
+      "telegram_date": "2026-07-09T15:04:09+00:00",
+      "title": "국어 월간 간쓸개 1, 2권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22307.png",
+      "sha256": "7deeb3d9d581573196f252f6d3ef162ba8efcaac152d7c1e7a0c74c2c0cf8afc"
     }
   ],
   "duplicate_message_ids": [
