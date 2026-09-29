@@ -18045,6 +18045,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22669.png",
       "sha256": "5d6913e8bcdc6ecdbe83f59a0e60dc651fef851a8ab1cda621871922c2aac03d"
+    },
+    {
+      "message_id": 22668,
+      "filename": "서바이벌+2주차+필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22668_.%2B2.%2B.pdf",
+      "size_bytes": 1933755,
+      "telegram_date": "2026-07-23T14:55:35+00:00",
+      "title": "수학 강기원T 서바이벌 정규반 2주차 필기노트, Preview test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22668.png",
+      "sha256": "15f4a7f7dc6865e2b2eb09909734619d2681a2e7b93da8af3b4b5251f5fa17c4"
     }
   ],
   "duplicate_message_ids": [
