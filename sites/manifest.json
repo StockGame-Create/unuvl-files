@@ -22483,6 +22483,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22137.png",
       "sha256": "ce9b4d56c57294db90009d886412b8637e68213ead75083bc55da83ad02e0e24"
+    },
+    {
+      "message_id": 22135,
+      "filename": "휴강+기출+자료.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22135_.%2B.%2B.pdf",
+      "size_bytes": 745773,
+      "telegram_date": "2026-06-29T09:54:52+00:00",
+      "title": "영어 김동하 수능 4개년 빈순삽/틀말유",
+      "year": "2027",
+      "instructor": "김동하",
+      "subject": "영어",
+      "thumbnail": "thumbnails/22135.png",
+      "sha256": "56940a86bc932aa320f1fe4548f5ae7ead5845bafbdf7e416b73311c8c304306"
     }
   ],
   "duplicate_message_ids": [
