@@ -19459,6 +19459,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22507.png",
       "sha256": "e04cc374b83fb6130dd538f4d3ce98516c95208e5280f33d2f53613b985a0ec0"
+    },
+    {
+      "message_id": 22506,
+      "filename": "26 7월 대성 생윤 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22506_26.7.pdf",
+      "size_bytes": 1592260,
+      "telegram_date": "2026-07-16T14:25:50+00:00",
+      "title": "사회 THE PREMIUM 7월 모의고사 문제지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/22506.png",
+      "sha256": "90ac272f1ccef2d40ca674c592712ab25973b1f8f6931ff08793069c0764843c"
     }
   ],
   "duplicate_message_ids": [
