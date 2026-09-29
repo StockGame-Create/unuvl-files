@@ -22889,6 +22889,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22095.png",
       "sha256": "bbe30b16d287f04c591c1c576830e3e399629d3e6f5dba6bcb32b8781f760aa7"
+    },
+    {
+      "message_id": 22094,
+      "filename": "2027 유신 시즌1 매튜효과 05주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22094_2027.1.05.pdf",
+      "size_bytes": 5890387,
+      "telegram_date": "2026-06-28T15:38:45+00:00",
+      "title": "국어 매튜효과 시즌1 3~9주차",
+      "year": "2027",
+      "instructor": "유신",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22094.png",
+      "sha256": "f0c62e769105dfe2b157eb4d0350a71d5b9b455e4627a73063e1ba6aea138fcd"
     }
   ],
   "duplicate_message_ids": [
