@@ -25031,6 +25031,20 @@
       "subject": "지구과학",
       "thumbnail": "thumbnails/21892.png",
       "sha256": "bfea362ca9ce465153fd7335374934f86412269fc7d07c9b71866a75001214ad"
+    },
+    {
+      "message_id": 21890,
+      "filename": "2027_KICE_Anatomy_미적분스블_중복문항,_삼도극프랙탈_제거본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21890_2027_KICE_Anatomy_._._._.pdf",
+      "size_bytes": 83200718,
+      "telegram_date": "2026-06-21T13:33:40+00:00",
+      "title": "수학 KICE ANATOMY 미적분 (스타팅블록 중복 제거) #카나토미",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21890.png",
+      "sha256": "3fea4406ab11b810f0d8e996a01c37679937ba2ffbd105513f560223e51bb28c"
     }
   ],
   "duplicate_message_ids": [
