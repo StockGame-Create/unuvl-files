@@ -20551,6 +20551,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22376.png",
       "sha256": "e9699e2f468bd738f575729fba078de3793827357aa5f14634f769ea85359784"
+    },
+    {
+      "message_id": 22372,
+      "filename": "lcs cutting edge 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22372_lcs.cutting.edge.1.pdf",
+      "size_bytes": 7302976,
+      "telegram_date": "2026-07-11T17:57:13+00:00",
+      "title": "생1 LCS Cutting Edge 1회",
+      "year": "2027",
+      "instructor": "김연호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22372.png",
+      "sha256": "24f23371a370e908dd3a78daf7ea6306cda261c4af08a0af15a6b1b10676c72b"
     }
   ],
   "duplicate_message_ids": [
