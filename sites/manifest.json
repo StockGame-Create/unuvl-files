@@ -30897,6 +30897,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21141.png",
       "sha256": "d94cca305024df5581ddae7c7921a69f77e99b30cca0307d8bd820af9ad3c6a9"
+    },
+    {
+      "message_id": 21140,
+      "filename": "2027 강대 CIRCUIT 수학 13.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21140_2027.CIRCUIT.13.pdf",
+      "size_bytes": 3269851,
+      "telegram_date": "2026-05-19T05:04:56+00:00",
+      "title": "수학 강대 CIRCUIT 서킷 13회, 14회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21140.png",
+      "sha256": "5dd35ba6d49c0527fe6e7d1eb97e753dad70ebdb9bac20d82796f8a6504a2feb"
     }
   ],
   "duplicate_message_ids": [
