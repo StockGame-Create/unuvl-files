@@ -19739,6 +19739,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/22487.png",
       "sha256": "ad16c43dee1d6039b852fb8568c80ddb27149231e30a7e40ef534d161bf9f2af"
+    },
+    {
+      "message_id": 22485,
+      "filename": "이동준 저스트 모의고사 파이널 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22485_.1.pdf",
+      "size_bytes": 5590965,
+      "telegram_date": "2026-07-16T14:16:13+00:00",
+      "title": "수학 이동준 저스트 모의고사 파이널 1회",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22485.png",
+      "sha256": "b999a0e2d963b5f8dff3ad646b55433f8ff5b7d62bb2ccf532443254fcb93d6c"
     }
   ],
   "duplicate_message_ids": [
