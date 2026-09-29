@@ -27971,6 +27971,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/21520.png",
       "sha256": "a73d1149e4b8475fd66c7bf2f4012c9845b501ba4931eac59198ea214b28c29d"
+    },
+    {
+      "message_id": 21518,
+      "filename": "15개정_고쟁이_미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21518_15._._.pdf",
+      "size_bytes": 15694899,
+      "telegram_date": "2026-05-30T10:30:02+00:00",
+      "title": "수학 15개정 고쟁이 미적분",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21518.png",
+      "sha256": "cd97dd29c99a1f6fdabed093ee20558d23d78b58d325775f472462a5a290e608"
     }
   ],
   "duplicate_message_ids": [
