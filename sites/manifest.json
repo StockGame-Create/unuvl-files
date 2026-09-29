@@ -26977,6 +26977,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/21652.png",
       "sha256": "ca30958a84f14b482a97a06c1f91b60d18e4586a4272eea37e96854fb970a4f5"
+    },
+    {
+      "message_id": 21649,
+      "filename": "히든트랙 경제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21649_.pdf",
+      "size_bytes": 31710918,
+      "telegram_date": "2026-06-06T16:11:48+00:00",
+      "title": "국어 Hidden Track 경제",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21649.png",
+      "sha256": "fd6ed0687f57b980ca2860c98e58c033185678932d2cc0388a42ff2b06460e86"
     }
   ],
   "duplicate_message_ids": [
