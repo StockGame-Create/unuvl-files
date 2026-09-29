@@ -29063,6 +29063,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/21390.png",
       "sha256": "d46098b68106d900909a3ad15470b835654d24dfa777e13dd49a862665ebbfa4"
+    },
+    {
+      "message_id": 21388,
+      "filename": "19주차 필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21388_19.pdf",
+      "size_bytes": 1899953,
+      "telegram_date": "2026-05-27T01:33:10+00:00",
+      "title": "수학 강기원 정규반 Step 2 필기노트 19주차",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21388.png",
+      "sha256": "9f339aaf864e19fa33bd783298f614e6bb66a785356f8984f50055948675fa8d"
     }
   ],
   "duplicate_message_ids": [
