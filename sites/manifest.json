@@ -29427,6 +29427,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21340.png",
       "sha256": "c91f49c407c8921db2a0d9956be0e5e988c3a198128501ea9cf9b2ee6392dc25"
+    },
+    {
+      "message_id": 21339,
+      "filename": "강대 서킷 생명 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21339_.5.pdf",
+      "size_bytes": 5977468,
+      "telegram_date": "2026-05-24T09:25:42+00:00",
+      "title": "생1 강대 CIRCUIT 생명과학1 서킷 6회 (폰스캔) #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/21339.png",
+      "sha256": "494cbd2cd80876781469a6917bd98aeb29f5981d1f5656711841047874031f2e"
     }
   ],
   "duplicate_message_ids": [
