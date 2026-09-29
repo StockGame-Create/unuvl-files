@@ -21139,6 +21139,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22314.png",
       "sha256": "e966e7676e14b7ffeaae33261a07bbfaa129b89d32b19c95ff9e955a93690774"
+    },
+    {
+      "message_id": 22312,
+      "filename": "유대종_이뮨_모의고사_시즌1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22312_._._._.1.pdf",
+      "size_bytes": 40307535,
+      "telegram_date": "2026-07-10T01:17:35+00:00",
+      "title": "국어 이뮨 연계 모의고사 시즌1 통합본",
+      "year": "2027",
+      "instructor": "유대종",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22312.png",
+      "sha256": "a7e86bffffca88f1b3edc4ddd24b21ee5936cd71cbd565316b0c45b4d21c7f5a"
     }
   ],
   "duplicate_message_ids": [
