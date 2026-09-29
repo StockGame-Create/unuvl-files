@@ -31177,6 +31177,20 @@
       "subject": "생활과윤리, 윤리와사상",
       "thumbnail": "thumbnails/21099.png",
       "sha256": "4a502f43068bf9d5bcd7648617381c7ba4522aa6b5a306d234d1dad42734c5ba"
+    },
+    {
+      "message_id": 21098,
+      "filename": "1021679090-하이탑-22-지구과학-3권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21098_1021679090-.-22-.-3.pdf",
+      "size_bytes": 21977981,
+      "telegram_date": "2026-05-17T02:10:31+00:00",
+      "title": "통과 HIGH TOP 지구과학 #하이탑",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/21098.png",
+      "sha256": "73586dacff98aff6771abfd4fd071879dd0c47fe060e9ad84f15e4a4808d1b56"
     }
   ],
   "duplicate_message_ids": [
