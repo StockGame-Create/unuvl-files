@@ -21531,6 +21531,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22263.png",
       "sha256": "79b2c364d95dc8beca54bcb5ae9bef1f551d3c754f3234e7bb80c25ffe55a522"
+    },
+    {
+      "message_id": 22258,
+      "filename": "2027 커넥션 수1 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22258_2027.1.pdf",
+      "size_bytes": 60798835,
+      "telegram_date": "2026-07-06T16:38:43+00:00",
+      "title": "수학 커넥션 수1, 수2 해설",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22258.png",
+      "sha256": "558ea1f1be9cafdb944a340d796f9ddae370257428feb79e292d255b934f3335"
     }
   ],
   "duplicate_message_ids": [
