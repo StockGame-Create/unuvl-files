@@ -24303,6 +24303,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21982.png",
       "sha256": "6f909ece8ae6aebafd8e2a70b8ec35978993ed647c19c65ace9fe48ecda29ac4"
+    },
+    {
+      "message_id": 21980,
+      "filename": "사회와_문화_일등급만들기.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21980_._._.pdf",
+      "size_bytes": 42971255,
+      "telegram_date": "2026-06-27T14:20:24+00:00",
+      "title": "사문 22개정 일등급만들기",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/21980.png",
+      "sha256": "553b51455c41f2fdb3f48a8e862d6842acc78139a96496a99b84379d9e871bc3"
     }
   ],
   "duplicate_message_ids": [
