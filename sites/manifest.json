@@ -18703,6 +18703,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/22577.png",
       "sha256": "98ef7f8b4ded26fb679836631172af04ced4c68b8641b5c64048d0ef9c949abc"
+    },
+    {
+      "message_id": 22576,
+      "filename": "2027학년도_대수능_대비_적자생존_모의고사_시즌_1_….pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22576_2027._._._._._._1_.pdf",
+      "size_bytes": 6382480,
+      "telegram_date": "2026-07-18T14:42:46+00:00",
+      "title": "사문 적자생존 모의고사 시즌1 1회 (폰스캔) #적생모",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/22576.png",
+      "sha256": "d8ba4b1d73a54bdcb91627885825c1d387cfab214a325eb742d4621eb25a7f96"
     }
   ],
   "duplicate_message_ids": [
