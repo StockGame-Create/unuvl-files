@@ -26907,6 +26907,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21663.png",
       "sha256": "b227f705975834e45213c1b3924b0da7ef18dedfdd7e3780c6d92d2799e853cc"
+    },
+    {
+      "message_id": 21659,
+      "filename": "2027 수학 브릿지 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21659_2027.9.pdf",
+      "size_bytes": 4467890,
+      "telegram_date": "2026-06-07T06:01:47+00:00",
+      "title": "수학 시대인재 브릿지 모의고사 9회 (폰스캔) #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21659.png",
+      "sha256": "dfd10db8e7fa54d2cecd4470a9a8446403c3789f07dc32099cad2de33245459e"
     }
   ],
   "duplicate_message_ids": [
