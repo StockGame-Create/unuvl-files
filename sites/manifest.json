@@ -27509,6 +27509,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/21580.png",
       "sha256": "0ce80d3dbac1e236c21638d1a2506a51e2054ed6c9a9044006d78837052b5d3c"
+    },
+    {
+      "message_id": 21578,
+      "filename": "기생집 수2 2,3점.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21578_.2.2.3.pdf",
+      "size_bytes": 66967532,
+      "telegram_date": "2026-06-02T14:33:01+00:00",
+      "title": "수학 기출생각집 수학2 2,3점 #기생집",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21578.png",
+      "sha256": "b8988fb7aef42c4ba4ce77b9a55c99b006eaaf10cfb0b5f7afe4e4fb6a10daf3"
     }
   ],
   "duplicate_message_ids": [
