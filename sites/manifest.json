@@ -25829,6 +25829,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21780.png",
       "sha256": "65804a062a735dc517c5f9c557d1fef211b5d90b7bc5155f0dfef86ad8053623"
+    },
+    {
+      "message_id": 21778,
+      "filename": "C26FA59544JHT011_JUN.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21778_C26FA59544JHT011_JUN.PDF",
+      "size_bytes": 5026834,
+      "telegram_date": "2026-06-12T13:28:09+00:00",
+      "title": "국어 전형태 국어클리어",
+      "year": "2027",
+      "instructor": "전형태",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21778.png",
+      "sha256": "74dad06862ec0bee88c05a0a682a7fd0f485649ad1fda6136843999521d729d0"
     }
   ],
   "duplicate_message_ids": [
