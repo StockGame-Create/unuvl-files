@@ -25493,6 +25493,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/21841.png",
       "sha256": "64bbd1d7bc052d7a4fec3a9dddcaaf497a4ec494d1a6df93a0b0e76455a52b7c"
+    },
+    {
+      "message_id": 21840,
+      "filename": "2027학년도+이신혁T+시즌2+7주차+복습테스트+해설지_260612_1707_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21840_2027.%2B.T%2B.2%2B7.%2B.%2B._260612_1707_2.pdf",
+      "size_bytes": 31142,
+      "telegram_date": "2026-06-16T10:08:08+00:00",
+      "title": "지1 이신혁 시즌2 7주차 복습테스트 지구과학1",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/21840.png",
+      "sha256": "59c8cb89230e5404230760625f572039610dea63c84eae652e985c4a83d82a27"
     }
   ],
   "duplicate_message_ids": [
