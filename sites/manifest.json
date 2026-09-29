@@ -24233,6 +24233,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21989.png",
       "sha256": "02d9ca254c5af3a5e5438da775aacc7b5b5f6c11c3a07fd1d7be5f0172b16092"
+    },
+    {
+      "message_id": 21988,
+      "filename": "2027_최지욱_시즌1_Arch_공통_몰딩_06주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21988_2027_._.1_Arch_._._06.pdf",
+      "size_bytes": 34245716,
+      "telegram_date": "2026-06-27T15:32:41+00:00",
+      "title": "수학 최지욱 시즌1 ARCH 공통 몰딩 6주차",
+      "year": "2027",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21988.png",
+      "sha256": "124b85d9824c56d32ec1af80086e304db5b0b50118c26314ada73d2da1dd282a"
     }
   ],
   "duplicate_message_ids": [
