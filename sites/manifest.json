@@ -26403,6 +26403,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/21727.png",
       "sha256": "33d005c9e0381b6de2b5c1fb7174d7af7ed0967ada166937d77f64e399213dbd"
+    },
+    {
+      "message_id": 21726,
+      "filename": "2027 수능완성 경제 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21726_2027.pdf",
+      "size_bytes": 16180188,
+      "telegram_date": "2026-06-10T16:26:56+00:00",
+      "title": "사탐 2027 수능완성 사회탐구영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/21726.png",
+      "sha256": "f4592c48520352cba902ee670aa455e0d0e52e4cbd5abff0e21323116fcb3fff"
     }
   ],
   "duplicate_message_ids": [
