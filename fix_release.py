@@ -162,7 +162,9 @@ async def main() -> None:
 
     known_message_ids = {f["message_id"] for f in manifest["files"]}
     known_message_ids |= set(manifest["duplicate_message_ids"])
-    known_name_size = {(f["filename"].lower(), f["size_bytes"]) for f in manifest["files"]}
+    # 파일명은 유니코드 정규화(NFC) 후 비교한다 (sync.py와 동일한 이유:
+    # 한글 등은 완성형/조합형 표현이 달라 바이트 비교가 실패할 수 있다).
+    known_name_size = {(sync.normalize_name(f["filename"]).lower(), f["size_bytes"]) for f in manifest["files"]}
     known_hashes = {f["sha256"]: f for f in manifest["files"] if f.get("sha256")}
 
     log(f"모드: {'적용 (APPLY_FIXES=true)' if APPLY_FIXES else '미리보기 (dry-run, 아무것도 바꾸지 않음)'}")
@@ -185,6 +187,7 @@ async def main() -> None:
                 log(f"    [이름 형식 이상] {name} (message_id 접두어 없음, 건너뜀)")
                 continue
             prefix, _, filename = name.partition("_")
+            filename = sync.normalize_name(filename)
             if not prefix.isdigit():
                 log(f"    [이름 형식 이상] {name} (message_id가 숫자가 아님, 건너뜀)")
                 continue
