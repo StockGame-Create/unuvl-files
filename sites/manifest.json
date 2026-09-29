@@ -22553,6 +22553,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22129.png",
       "sha256": "470ce7b7f89723afd52ff736ba4cd0627dbc66fa00edb33dc0912207b562c10c"
+    },
+    {
+      "message_id": 22125,
+      "filename": "하프 4 회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22125_.4.pdf",
+      "size_bytes": 3338257,
+      "telegram_date": "2026-06-29T01:51:51+00:00",
+      "title": "사문 적중예감 SEASON FREE 현전용 하프모의고사 4회",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/22125.png",
+      "sha256": "6b9297c74aad8f5546eaa6c6a93951bafdf693e3a453266eef4037d03c776eef"
     }
   ],
   "duplicate_message_ids": [
