@@ -24611,6 +24611,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21942.png",
       "sha256": "f805fbd98bc1bc797df66413831dfa9930b3fe68f49eea22cad554c7b722d66a"
+    },
+    {
+      "message_id": 21939,
+      "filename": "블리츠 S1 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21939_.S1.4.pdf",
+      "size_bytes": 4588431,
+      "telegram_date": "2026-06-25T18:01:18+00:00",
+      "title": "생1 BLITZ 4회",
+      "year": "2027",
+      "instructor": "홍준용",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/21939.png",
+      "sha256": "64f60c4d52c33f8d3ee8ef0d36ea01254005dcdeabd69d33414700df35222eec"
     }
   ],
   "duplicate_message_ids": [
