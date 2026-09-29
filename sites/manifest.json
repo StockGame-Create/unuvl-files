@@ -29035,6 +29035,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/21395.png",
       "sha256": "ea5399a3131c15ee719b9d3fc78efaae22e78edd2431f37ec4ddbd9f10641a58"
+    },
+    {
+      "message_id": 21393,
+      "filename": "27 서킷 지구 13회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21393_27.13.pdf",
+      "size_bytes": 19878140,
+      "telegram_date": "2026-05-27T10:12:12+00:00",
+      "title": "지1 강대 CIRCUIT 지구과학1 서킷 13회  #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/21393.png",
+      "sha256": "6bde662362051fb52ad6efce0033c2c86137f0a8111458db4b5c9242c5bd1e5b"
     }
   ],
   "duplicate_message_ids": [
