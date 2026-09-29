@@ -25017,6 +25017,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/21894.png",
       "sha256": "192cfb9a78ef5e3a857b35fe5d6d80d5a652f7e37337cfb5dc491888d89d8c82"
+    },
+    {
+      "message_id": 21892,
+      "filename": "개념완성 지구과학(22개정).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21892_.22.pdf",
+      "size_bytes": 62731292,
+      "telegram_date": "2026-06-21T13:33:48+00:00",
+      "title": "지1 EBS 개념완성 지구과학 (22개정)",
+      "year": null,
+      "instructor": null,
+      "subject": "지구과학",
+      "thumbnail": "thumbnails/21892.png",
+      "sha256": "bfea362ca9ce465153fd7335374934f86412269fc7d07c9b71866a75001214ad"
     }
   ],
   "duplicate_message_ids": [
