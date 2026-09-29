@@ -22399,6 +22399,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22148.png",
       "sha256": "09e0e5a83f5d05ea958c769ea0504a3bd9de0f94b2d0b8df1ef2b000dfea4008"
+    },
+    {
+      "message_id": 22146,
+      "filename": "수1특강 프리뷰.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22146_.1.pdf",
+      "size_bytes": 467262,
+      "telegram_date": "2026-06-29T14:05:27+00:00",
+      "title": "수학 강기원T 수학1 특강 Preview Test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22146.png",
+      "sha256": "468430d0441f41a69b5b7edce7ad715db1d81f4d9505b54fc61978b732d9eb78"
     }
   ],
   "duplicate_message_ids": [
