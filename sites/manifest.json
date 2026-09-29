@@ -18185,6 +18185,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22652.png",
       "sha256": "bfc7335222d01572350dfe079ada188a3a2ae0f052c75d835c8ed81392d337b7"
+    },
+    {
+      "message_id": 22650,
+      "filename": "간쓸개 시즌5-2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22650_.5-2.pdf",
+      "size_bytes": 25408610,
+      "telegram_date": "2026-07-21T22:35:16+00:00",
+      "title": "국어 간쓸개 시즌5 2권 1주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22650.png",
+      "sha256": "2b1142ebcc30a1b9eecd980df36467352662fc1e055a28e8154237a0aa0849d2"
     }
   ],
   "duplicate_message_ids": [
