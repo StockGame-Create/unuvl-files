@@ -28027,6 +28027,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21513.png",
       "sha256": "b7a640375f0a89763e89d188b5b2bf36a79c9f5fb02d9291c469541b7457be9a"
+    },
+    {
+      "message_id": 21512,
+      "filename": "2027_기출생각집_수2_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21512_2027_._.2_.pdf",
+      "size_bytes": 71883226,
+      "telegram_date": "2026-05-30T05:22:31+00:00",
+      "title": "수학 기출생각집 수학1 + 수학2 #기생집",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21512.png",
+      "sha256": "7ece1e6cb9a2f358ca7460c36b434ba736aec5b3a93bd03505e36b49c19557fe"
     }
   ],
   "duplicate_message_ids": [
