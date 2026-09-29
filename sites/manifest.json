@@ -19417,6 +19417,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22510.png",
       "sha256": "45c8895129cd00bb18ccbff6967e7ba2710f0f22afcb28d3116ecb6752069dfc"
+    },
+    {
+      "message_id": 22509,
+      "filename": "26 7월 대성 한지 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22509_26.7.pdf",
+      "size_bytes": 1040288,
+      "telegram_date": "2026-07-16T14:25:50+00:00",
+      "title": "사회 THE PREMIUM 7월 모의고사 문제지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/22509.png",
+      "sha256": "c1398402b222f3e40ae7f350851dc082b988613b05dc6ff644dbb38dffcf4bf6"
     }
   ],
   "duplicate_message_ids": [
