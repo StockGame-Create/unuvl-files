@@ -19627,6 +19627,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/22495.png",
       "sha256": "a57f00765538132e3859bcd070f9e075877813748838a4adeff73163ad2c55bb"
+    },
+    {
+      "message_id": 22494,
+      "filename": "26 7월 대성 물리1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22494_26.7.1.pdf",
+      "size_bytes": 940567,
+      "telegram_date": "2026-07-16T14:25:50+00:00",
+      "title": "과학 THE PREMIUM 7월 모의고사 문제지 물1, 화1, 물2, 화2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/22494.png",
+      "sha256": "256ba2a20ceb833c3c84c7c4f02831657b2418c16b5155dfd76ea4a41c17a80a"
     }
   ],
   "duplicate_message_ids": [
