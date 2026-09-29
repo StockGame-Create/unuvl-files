@@ -25703,6 +25703,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/21797.png",
       "sha256": "f6dcdf55b4055aa0f236e72d206fa761dd396d4160c90b0ca129bae5be2daa01"
+    },
+    {
+      "message_id": 21794,
+      "filename": "2027학년도+6월+모의평가+해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21794_2027.%2B6.%2B.%2B.pdf",
+      "size_bytes": 1829914,
+      "telegram_date": "2026-06-13T17:46:45+00:00",
+      "title": "수학 김현우 스탠다드 2027 6평 해설",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21794.png",
+      "sha256": "e778d00af043387270c505201344f87cdcc810c8cf20153861f88fb60431f0f3"
     }
   ],
   "duplicate_message_ids": [
