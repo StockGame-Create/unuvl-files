@@ -27061,6 +27061,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21641.png",
       "sha256": "2bcc2d87623481f0d9cfebaff9a47928520ae6d35c320e72c226310f3552c62c"
+    },
+    {
+      "message_id": 21640,
+      "filename": "개념 때려잡기 수2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21640_.2.pdf",
+      "size_bytes": 54907396,
+      "telegram_date": "2026-06-06T06:19:30+00:00",
+      "title": "수학 2027 개념때려잡기 수학2 #개때잡",
+      "year": "2027",
+      "instructor": "정승제",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21640.png",
+      "sha256": "e57a0bd67824f3d004f4f94f68d80326262b9caee64315b474e8c817c8535f81"
     }
   ],
   "duplicate_message_ids": [
