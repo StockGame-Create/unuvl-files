@@ -16337,6 +16337,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/22838.png",
       "sha256": "9c57deb447975ea47d14bb28b67c3c66012942c6a7298447a0fec945a7fb7b96"
+    },
+    {
+      "message_id": 22837,
+      "filename": "2023 오지훈 지2 매직개념완성.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22837_2023.2.pdf",
+      "size_bytes": 100636486,
+      "telegram_date": "2026-07-27T04:26:44+00:00",
+      "title": "지2 2023 OZ 필기노트, 매직개념완성",
+      "year": "2023",
+      "instructor": "오지훈",
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/22837.png",
+      "sha256": "e467fae9497f1be3c8320cd86da89be2d4a4f2b621a03346b91771902a774aee"
     }
   ],
   "duplicate_message_ids": [
