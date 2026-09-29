@@ -27383,6 +27383,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21595.png",
       "sha256": "7f6b66c45dadb08e3d6c284d65b09002b2d8d341ba9a34c3b5cef8b08b5d6812"
+    },
+    {
+      "message_id": 21594,
+      "filename": "새기분_문학1_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21594_._.1_.pdf",
+      "size_bytes": 119784381,
+      "telegram_date": "2026-06-03T11:40:38+00:00",
+      "title": "국어 새기분 문학 1~2",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21594.png",
+      "sha256": "e6b567ca87c88d2af0ef20c949b9bfcb626512810694957b549fac38787c393f"
     }
   ],
   "duplicate_message_ids": [
