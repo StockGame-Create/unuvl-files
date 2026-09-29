@@ -27705,6 +27705,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/21553.png",
       "sha256": "250588dac8205352036907787d96dd7341e4336ed6f62a775a80443fa05a9016"
+    },
+    {
+      "message_id": 21551,
+      "filename": "스탠다드 모의고사 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21551_.3.pdf",
+      "size_bytes": 2962045,
+      "telegram_date": "2026-05-31T16:46:14+00:00",
+      "title": "수학 김현우 스탠다드 6평대비 모의고사 3회",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21551.png",
+      "sha256": "66d716daa736c890754e68ef55bb5ffda0ebababc50d7ec5ec83c8e1c6ff6b67"
     }
   ],
   "duplicate_message_ids": [
