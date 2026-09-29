@@ -20369,6 +20369,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22408.png",
       "sha256": "0b55fcdf08010d7b50adc3f8e584835e2c770e1ffe6a2a5e5bd4b3e32cce7bd9"
+    },
+    {
+      "message_id": 22405,
+      "filename": "27 지구과학 파브 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22405_27.1.pdf",
+      "size_bytes": 37341959,
+      "telegram_date": "2026-07-12T17:57:41+00:00",
+      "title": "지1 시대인재 서바이벌 피이널브릿지 1회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22405.png",
+      "sha256": "556df71cc0f7bae749dd886fa280980b9b6e2b086a85f0dab74f75f28c611819"
     }
   ],
   "duplicate_message_ids": [
