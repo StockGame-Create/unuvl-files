@@ -28097,6 +28097,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21505.png",
       "sha256": "fd5d86a0bbfe824cb7a9bd245b3e16a7ec6d0093c16a1fe1445bcb0bb19eebfd"
+    },
+    {
+      "message_id": 21502,
+      "filename": "2027학년도_5월_서바이벌프로_모의고사_3교시_영어_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21502_2027._5._._._3._._.pdf",
+      "size_bytes": 32315634,
+      "telegram_date": "2026-05-30T04:08:48+00:00",
+      "title": "2027 영어 시대인재 5월 전국모의평가 (인쇄소퀄) #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/21502.png",
+      "sha256": "ded3a4bacc0c0bab09ffe4a6bde56e346fd01a0c618b90e12431a28f32ed3f78"
     }
   ],
   "duplicate_message_ids": [
