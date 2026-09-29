@@ -26515,6 +26515,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/21719.png",
       "sha256": "61f4b1dd3f0858528592649466a5f7c468359e3e22f06c7d5ed0a26e434b968d"
+    },
+    {
+      "message_id": 21718,
+      "filename": "2027 수능완성 생활과 윤리 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21718_2027.pdf",
+      "size_bytes": 9530963,
+      "telegram_date": "2026-06-10T16:26:55+00:00",
+      "title": "사탐 2027 수능완성 사회탐구영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/21718.png",
+      "sha256": "29261419c728a812950d02aeea0cf725ea5b8a9bab328f86a8d183cc33facbef"
     }
   ],
   "duplicate_message_ids": [
