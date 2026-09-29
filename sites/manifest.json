@@ -16603,6 +16603,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/22816.png",
       "sha256": "c24c8d1aaeb8b830cc5a1e516f08bb8117a3a8e8cc0cd582567bb341040294fb"
+    },
+    {
+      "message_id": 22814,
+      "filename": "2027 생명과학1 강k 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22814_2027.1.k.2.pdf",
+      "size_bytes": 6218421,
+      "telegram_date": "2026-07-26T17:28:23+00:00",
+      "title": "생1 강대모의고사K 2회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22814.png",
+      "sha256": "e6aad173dba212c9ccffb3528f096c1c3445fda6ae44db659ea8b316973b0678"
     }
   ],
   "duplicate_message_ids": [
