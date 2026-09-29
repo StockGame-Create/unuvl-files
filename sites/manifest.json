@@ -24275,6 +24275,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/21985.png",
       "sha256": "056c76c09fb24072007d334222e74657eec2dd6b52bcbb7a946a4afc3e96ce87"
+    },
+    {
+      "message_id": 21983,
+      "filename": "킬캠 시즌1 기하 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21983_.1.pdf",
+      "size_bytes": 3284394,
+      "telegram_date": "2026-06-27T14:20:24+00:00",
+      "title": "수학 현우진 모의고사 (현우진의 Killing Camp) season1 (폰스캔) (기하만 O) #킬캠",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21983.png",
+      "sha256": "c12e3b0a90b51d36ea511dd32b1775eeb7773bfba35ef68f8abffb3355f22a6d"
     }
   ],
   "duplicate_message_ids": [
