@@ -28517,6 +28517,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21459.png",
       "sha256": "6691e033dfed38023242a38367257dab58a2df4d725508cd2b9914450185963e"
+    },
+    {
+      "message_id": 21456,
+      "filename": "6모 대비 꿀모 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21456_6.1.pdf",
+      "size_bytes": 5693438,
+      "telegram_date": "2026-05-28T15:53:13+00:00",
+      "title": "수학 6월 꿀모 제 1회",
+      "year": "2027",
+      "instructor": "장영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21456.png",
+      "sha256": "abe0be95611d64693f143a8ae77c7079f48ce4b67f8567422bafd9641ba8e187"
     }
   ],
   "duplicate_message_ids": [
