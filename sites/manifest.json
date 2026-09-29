@@ -28419,6 +28419,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/21470.png",
       "sha256": "9a9cda3a7ca2ab81719f46ef98de6c0a5f030dc3ff232319d189f7a164d602ea"
+    },
+    {
+      "message_id": 21469,
+      "filename": "2027 사만다 모고 시즌1 1회(+해설).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21469_2027.1.1.%2B.pdf",
+      "size_bytes": 7281402,
+      "telegram_date": "2026-05-29T13:29:37+00:00",
+      "title": "사문 2027 사만다 모의고사 시즌1 1,2,3회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/21469.png",
+      "sha256": "89869cd1dc822c600af5c3b6c80ea0cac011a287ec9fa5dd54ed46c32ad17641"
     }
   ],
   "duplicate_message_ids": [
