@@ -29203,6 +29203,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21368.png",
       "sha256": "f93852cbf2008d7a8c59ae298356273eb47885872698293fca26b5c5eba44441"
+    },
+    {
+      "message_id": 21367,
+      "filename": "2027 이해원 N제 시즌2 수학1_정답 및 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21367_2027.N.2.1_.pdf",
+      "size_bytes": 14798617,
+      "telegram_date": "2026-05-26T15:48:07+00:00",
+      "title": "수학 2027 이해원 N제 시즌2 수학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21367.png",
+      "sha256": "217786266303502f7dafdae9bc03bc5c1d6c2b697b953c7e9126607ad6ba8245"
     }
   ],
   "duplicate_message_ids": [
