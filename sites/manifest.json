@@ -25283,6 +25283,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21865.png",
       "sha256": "102fef55e70b6eae342b321c50507463088d80303157f83418b9ff03268d0801"
+    },
+    {
+      "message_id": 21864,
+      "filename": "2026년_이감_모의고사_시즌_3_1_국어_정답_및_해설_2026_05.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21864_2026._._._._3_1_._._._._2026_05.pdf",
+      "size_bytes": 5078978,
+      "telegram_date": "2026-06-18T14:19:55+00:00",
+      "title": "국어 이감 국어 모의고사 시즌3 제1~3차 예비평가  #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21864.png",
+      "sha256": "fb0030ee9234064cc8db09b808b4403db8273fda20faf5e818839d714d200d89"
     }
   ],
   "duplicate_message_ids": [
