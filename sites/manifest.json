@@ -27425,6 +27425,20 @@
       "subject": null,
       "thumbnail": "thumbnails/21590.png",
       "sha256": "d1d61f7fd38d3e3b48258512f0d729909580c28d97f2bc9989e47020b976bdc4"
+    },
+    {
+      "message_id": 21588,
+      "filename": "한완수 수학1 (상)_정답 및 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21588_.1._.pdf",
+      "size_bytes": 7875931,
+      "telegram_date": "2026-06-02T14:47:44+00:00",
+      "title": "수학 한완수 수학1(상) X 교과개념 (해설지)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21588.png",
+      "sha256": "871de56bfb2c5e174662e30548fc5dbf463bbd38997808037065bd5a7fc4b8c8"
     }
   ],
   "duplicate_message_ids": [
