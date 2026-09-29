@@ -22385,6 +22385,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22150.png",
       "sha256": "1949d28753c9d5e91b598d9ca35862e8c2cf9a8904bbb10963cfcba01454c7be"
+    },
+    {
+      "message_id": 22148,
+      "filename": "김재훈 운문교재.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22148_.pdf",
+      "size_bytes": 16801329,
+      "telegram_date": "2026-06-29T15:14:22+00:00",
+      "title": "국어 김재훈 수능기출분석 운문",
+      "year": "2027",
+      "instructor": "김재훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22148.png",
+      "sha256": "09e0e5a83f5d05ea958c769ea0504a3bd9de0f94b2d0b8df1ef2b000dfea4008"
     }
   ],
   "duplicate_message_ids": [
