@@ -21265,6 +21265,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22299.png",
       "sha256": "169a5e0e649ebc6a24005161d36e7becd4cfd251986077bc4bb048ac17994e52"
+    },
+    {
+      "message_id": 22297,
+      "filename": "Vision 수학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22297_Vision.1.pdf",
+      "size_bytes": 111156938,
+      "telegram_date": "2026-07-09T08:16:48+00:00",
+      "title": "수학 강영찬 Vision 수1 수2",
+      "year": "2027",
+      "instructor": "강영찬",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22297.png",
+      "sha256": "0c89f5d9971023c97b2e8cd8b28f1a138b6ad156c0fb60bba451a8d45796610f"
     }
   ],
   "duplicate_message_ids": [
