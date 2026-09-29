@@ -28671,6 +28671,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/21439.png",
       "sha256": "8982691b24243e3738115e4ba4afdbc4e6e1d4e3bb97d387f3fd97563f9d098e"
+    },
+    {
+      "message_id": 21437,
+      "filename": "Lcs.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21437_Lcs.pdf",
+      "size_bytes": 8399566,
+      "telegram_date": "2026-05-28T05:45:32+00:00",
+      "title": "생1 LCS basic bosters 9회 (폰스캔)",
+      "year": "2027",
+      "instructor": "김연호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/21437.png",
+      "sha256": "f0341e951d0592495ca8c1c52d1e32e1bab76fc4f06062d2bcebcbf260fc3bc7"
     }
   ],
   "duplicate_message_ids": [
