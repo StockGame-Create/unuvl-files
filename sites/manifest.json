@@ -21041,6 +21041,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22323.png",
       "sha256": "42f88c120ad1aaf9cd09c050f1b0650fdf0045cf7288723295703c9e5b95d90b"
+    },
+    {
+      "message_id": 22321,
+      "filename": "공통수학1_실전예감.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22321_.1_.pdf",
+      "size_bytes": 9647295,
+      "telegram_date": "2026-07-10T15:24:40+00:00",
+      "title": "수학 주예지 공통수학1 실전예감",
+      "year": "2027",
+      "instructor": "주예지",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22321.png",
+      "sha256": "6c5cf65b8375a5ddba39c41759d49fbf264f2b2fbee380a14ee8b19ada2f895f"
     }
   ],
   "duplicate_message_ids": [
