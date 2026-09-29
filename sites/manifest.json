@@ -30841,6 +30841,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21146.png",
       "sha256": "ea6c23c1a30aeb35e4d6470eb8c0df848f80717ddc19c7f5aaabd621f9d15969"
+    },
+    {
+      "message_id": 21145,
+      "filename": "이감3-1 지분분석.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21145_.3-1.pdf",
+      "size_bytes": 13169270,
+      "telegram_date": "2026-05-19T05:14:04+00:00",
+      "title": "국어 시즌3 제1차 예비평가 이감국어교육연구소 #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21145.png",
+      "sha256": "edafce2d2eeff29fa0ed3f95c25226228276c7898636f623b33bdce4658dd7e5"
     }
   ],
   "duplicate_message_ids": [
