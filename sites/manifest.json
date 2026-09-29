@@ -29021,6 +29021,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21400.png",
       "sha256": "190a1115eace671908a527d9f7fee5f0d310d20d25b374f603ad1ef7621cfc5a"
+    },
+    {
+      "message_id": 21395,
+      "filename": "스캔_문서,_2026_5_27_오후_6_23_59.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21395_._._2026_5_27_._6_23_59.pdf",
+      "size_bytes": 35606801,
+      "telegram_date": "2026-05-27T12:24:53+00:00",
+      "title": "영어 김지영 브이 모의고사 시즌1 1회",
+      "year": "2027",
+      "instructor": "김지영",
+      "subject": "영어",
+      "thumbnail": "thumbnails/21395.png",
+      "sha256": "ea5399a3131c15ee719b9d3fc78efaae22e78edd2431f37ec4ddbd9f10641a58"
     }
   ],
   "duplicate_message_ids": [
