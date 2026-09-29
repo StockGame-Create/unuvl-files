@@ -30407,6 +30407,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/21201.png",
       "sha256": "3ae604411d627176b014cd399c74cf126ef443644cc2382d29308f5234ce0fa8"
+    },
+    {
+      "message_id": 21199,
+      "filename": "5덮 수학 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21199_5.pdf",
+      "size_bytes": 1587988,
+      "telegram_date": "2026-05-21T04:37:41+00:00",
+      "title": "수학 THE PREMIUM 5월 모의고사 수학 (폰스캔) #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21199.png",
+      "sha256": "c8c5916c857b494ad513db6cfd7977f5a6bb7ab55c1c7c1416671b83c29b699a"
     }
   ],
   "duplicate_message_ids": [
