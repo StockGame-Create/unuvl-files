@@ -21013,6 +21013,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22326.png",
       "sha256": "06246c48523e2e3528894b66f3bc3f4f266eaab75703376f6a48e5c56d66eaf4"
+    },
+    {
+      "message_id": 22325,
+      "filename": "김종익 심주기.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22325_.PDF",
+      "size_bytes": 23451794,
+      "telegram_date": "2026-07-10T15:24:40+00:00",
+      "title": "생윤 김종익 주제별 심화 기출(정답률 50% 미만) 잘 되는 기출",
+      "year": "2027",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/22325.png",
+      "sha256": "e69c83f7a64da79217aa79e7afbb5c0fa5243b15b7dde3a8b6b6ffab699232d0"
     }
   ],
   "duplicate_message_ids": [
