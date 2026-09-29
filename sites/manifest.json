@@ -30785,6 +30785,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/21154.png",
       "sha256": "55f1732149d7fb35f16afbbf6e872face0d97420823b8f4498082662ac242793"
+    },
+    {
+      "message_id": 21153,
+      "filename": "서바이벌_프로_생윤_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21153_._._._.pdf",
+      "size_bytes": 415311,
+      "telegram_date": "2026-05-19T10:03:10+00:00",
+      "title": "사탐 시대인재 4월 전국모의평가 사회탐구 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/21153.png",
+      "sha256": "a9ca784022a7a0d4ac2f7f0d2a5fedcdd844f60f6eea418a80369fb278947539"
     }
   ],
   "duplicate_message_ids": [
