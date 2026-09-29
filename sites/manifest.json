@@ -28363,6 +28363,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21475.png",
       "sha256": "b176f5e58b627cc65ee87302bead45c4af062b9539970bf5e7f8cbc2fc600fb0"
+    },
+    {
+      "message_id": 21474,
+      "filename": "인강민철1호 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21474_.1.pdf",
+      "size_bytes": 272927770,
+      "telegram_date": "2026-05-29T14:37:48+00:00",
+      "title": "2027 국어 인강민철 1호",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21474.png",
+      "sha256": "c036d2eb8aaefafa9fc3d36008eb79a975740f8290bcf97d15e1c22270944b33"
     }
   ],
   "duplicate_message_ids": [
