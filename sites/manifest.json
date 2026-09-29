@@ -26081,6 +26081,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/21752.png",
       "sha256": "c16d355cbddfe84218b833ddc171e34efc4d23950d53ca16b384f610a8b0f27d"
+    },
+    {
+      "message_id": 21749,
+      "filename": "2027 수능완성 중국어 I 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21749_2027.I.pdf",
+      "size_bytes": 9639778,
+      "telegram_date": "2026-06-10T16:29:44+00:00",
+      "title": "2027 수능완성 제2외국어영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "제2외국어",
+      "thumbnail": "thumbnails/21749.png",
+      "sha256": "04b34665b778d60e83c789037dc2b5fb7326ad0277b9100c12b3fbed9d43b580"
     }
   ],
   "duplicate_message_ids": [
