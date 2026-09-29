@@ -21909,6 +21909,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22214.png",
       "sha256": "33bed635f1f40172676641bab2cd7a83efce42560a51480a24e259662b6bd24a"
+    },
+    {
+      "message_id": 22212,
+      "filename": "2027_국어영억_강은양T_SeasonK_3주차_주간지_교재.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22212_2027_._.T_SeasonK_3._._.pdf",
+      "size_bytes": 80338184,
+      "telegram_date": "2026-07-03T00:10:29+00:00",
+      "title": "국어 강은양 시즌K 3주차 주간지",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22212.png",
+      "sha256": "f392b77c437d279cc77536a65811556c508ca7536485ab004a1015d552dd7ca0"
     }
   ],
   "duplicate_message_ids": [
