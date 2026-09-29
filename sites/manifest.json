@@ -16967,6 +16967,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22776.png",
       "sha256": "5498d56de67bad8532f3ec2e9866363d5480f56e42be1a9a7d1001a45e9747de"
+    },
+    {
+      "message_id": 22774,
+      "filename": "2027 박종민 리사이트 7주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22774_2027.7.pdf",
+      "size_bytes": 18764124,
+      "telegram_date": "2026-07-25T15:47:34+00:00",
+      "title": "수학 리사이트 7주차",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22774.png",
+      "sha256": "76eb2a21331f498f061dfdfff5715228b14ed77cb52e5dbfa9a75176dc3d97a4"
     }
   ],
   "duplicate_message_ids": [
