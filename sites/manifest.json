@@ -20061,6 +20061,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22449.png",
       "sha256": "01c1899d8b4e5b99920d91dc331f43f1ec62e6368d1b9680b759b5a01ee55f49"
+    },
+    {
+      "message_id": 22448,
+      "filename": "물리학1_서바이벌_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22448_.1_._1.pdf",
+      "size_bytes": 2167099,
+      "telegram_date": "2026-07-16T07:39:46+00:00",
+      "title": "물1 시대인재 서바이벌 모의고사 1회  #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/22448.png",
+      "sha256": "77a806325062fa3a3e6c91b876344beb70053c70cc6afe276acc2cb8257ff320"
     }
   ],
   "duplicate_message_ids": [
