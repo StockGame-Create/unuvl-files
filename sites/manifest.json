@@ -28587,6 +28587,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/21448.png",
       "sha256": "9283423865475d748da3034b0e2f74fd0ab213befb2fff63f8a3d45601b3aaec"
+    },
+    {
+      "message_id": 21446,
+      "filename": "2027 원솔멀텍 기하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21446_2027.pdf",
+      "size_bytes": 61726601,
+      "telegram_date": "2026-05-28T15:01:27+00:00",
+      "title": "수학 원 솔루션 멀티 테크닉 기하  #원솔멀텍",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21446.png",
+      "sha256": "89a47e3ecd8dbcfa31bcf3f2a7f5947fd3375b98154b0b3ae4930bf83074a59e"
     }
   ],
   "duplicate_message_ids": [
