@@ -21965,6 +21965,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22206.png",
       "sha256": "d0a94a9c2728a33715af3412f0be563dbbdc3b7fbed515a4a828242c6d2e0755"
+    },
+    {
+      "message_id": 22205,
+      "filename": "2027_이동준_저스트X_수학1_해설_1주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22205_2027_._.X_.1_._1.pdf",
+      "size_bytes": 7056174,
+      "telegram_date": "2026-07-02T14:38:33+00:00",
+      "title": "수학 이동준 저스트X 수학1 상",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22205.png",
+      "sha256": "135b9191ea5fe09d805740f38f2828ba7d1079bb19196506081cf6ae3efe1ffa"
     }
   ],
   "duplicate_message_ids": [
