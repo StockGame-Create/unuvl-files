@@ -31275,6 +31275,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21087.png",
       "sha256": "34a0deac9a6df2c9bde758ffe8edf51026c091cec4d81896f70c93fbe2c70954"
+    },
+    {
+      "message_id": 21085,
+      "filename": "2027 N티켓 시즌2 미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21085_2027.N.2.pdf",
+      "size_bytes": 32872497,
+      "telegram_date": "2026-05-16T07:09:20+00:00",
+      "title": "수학 N티켓 미적분 시즌2",
+      "year": "2027",
+      "instructor": "이미지",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21085.png",
+      "sha256": "a7f596ae0f5a23f800cd132f141efb6f44802a6ab6d73ae2cdcc9c85a56c62ba"
     }
   ],
   "duplicate_message_ids": [
