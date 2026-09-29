@@ -25185,6 +25185,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21875.png",
       "sha256": "dfbdd79aa94e51605bce232bc5928071c59267e5d6f8c71f8332f2aeca9bab47"
+    },
+    {
+      "message_id": 21873,
+      "filename": "Full수록수능기출문제집_미적분26_교사용본문_compressed.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21873_Full._.26_._compressed.pdf",
+      "size_bytes": 10790867,
+      "telegram_date": "2026-06-18T16:58:18+00:00",
+      "title": "수학 Full 수록 수능기출문제집 미적분 교사용",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21873.png",
+      "sha256": "2b83014dd97ae0c5f4dca90536236541557c3412dab347f53c50d2f9c098cf31"
     }
   ],
   "duplicate_message_ids": [
