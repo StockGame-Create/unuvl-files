@@ -21923,6 +21923,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22212.png",
       "sha256": "f392b77c437d279cc77536a65811556c508ca7536485ab004a1015d552dd7ca0"
+    },
+    {
+      "message_id": 22210,
+      "filename": "강기원_수1_특강_필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22210_._.1_._.pdf",
+      "size_bytes": 7659481,
+      "telegram_date": "2026-07-03T00:10:29+00:00",
+      "title": "수학 강기원T 수학1 특강 1~6 주차 필기노트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22210.png",
+      "sha256": "382be2749aa69d940d46392bb467ebe30856bf1752566e30574b4c3b3eef23ae"
     }
   ],
   "duplicate_message_ids": [
