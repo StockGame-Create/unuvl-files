@@ -21853,6 +21853,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22218.png",
       "sha256": "c232e8ec9197486879532868d3e4d35a8d55e2432b5fdb6086bbbb9e2aa07785"
+    },
+    {
+      "message_id": 22217,
+      "filename": "김연호T_Test_02_세포매칭_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22217_.T_Test_02_._.pdf",
+      "size_bytes": 277326,
+      "telegram_date": "2026-07-04T09:54:03+00:00",
+      "title": "생1 김연호 Test 02 세포매칭",
+      "year": "2027",
+      "instructor": "김연호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22217.png",
+      "sha256": "eec794987a3a994914af0ab790d0034fa72f5b61eeebb0b3d14c4406ad2c68a8"
     }
   ],
   "duplicate_message_ids": [
