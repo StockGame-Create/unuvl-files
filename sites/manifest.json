@@ -22203,6 +22203,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22167.png",
       "sha256": "81b8e4bfa864b6bc776c8b96c0401f1b5153f369aa46716c34ec9f8ae59e4ccf"
+    },
+    {
+      "message_id": 22163,
+      "filename": "자이스토리_현대사회와_윤리_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22163_._._._2.pdf",
+      "size_bytes": 49048472,
+      "telegram_date": "2026-06-30T16:32:30+00:00",
+      "title": "자이스토리 현대사회와 윤리 (22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "현대사회와윤리",
+      "thumbnail": "thumbnails/22163.png",
+      "sha256": "702fb85b294d66876517e2b4552156ad61deccc00edd94a53afc6f919c6a362d"
     }
   ],
   "duplicate_message_ids": [
