@@ -17807,6 +17807,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22697.png",
       "sha256": "0130e9ed03efebdb8126214fe5a2ea11f05aa92ceee4e12f74f525399206f811"
+    },
+    {
+      "message_id": 22696,
+      "filename": "허들링 적분 #16~30.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22696_.16.30.pdf",
+      "size_bytes": 12171434,
+      "telegram_date": "2026-07-24T07:49:59+00:00",
+      "title": "수학 허들링 필기노트 2, 3주차",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22696.png",
+      "sha256": "9d58864911211761009097a24500b6db47e39fbefa686f451a991244ab7121b6"
     }
   ],
   "duplicate_message_ids": [
