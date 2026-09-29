@@ -22077,6 +22077,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22193.png",
       "sha256": "43c925ed7b02804abcca558c5b832c5213bf0c2d4a10885f5c771b106a6668dc"
+    },
+    {
+      "message_id": 22192,
+      "filename": "2027 손창빈 시즌1 13주차 주간지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22192_2027.1.13.pdf",
+      "size_bytes": 178068779,
+      "telegram_date": "2026-07-02T07:43:42+00:00",
+      "title": "수학 리사이트 6주차",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22192.png",
+      "sha256": "b8383f43bdc97ad16c88675a098f71c39255452cccdb0a1aa7138c351ecd6669"
     }
   ],
   "duplicate_message_ids": [
