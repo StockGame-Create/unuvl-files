@@ -24485,6 +24485,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/21955.png",
       "sha256": "ad4dc68a22b3a89516cd157c43835b8d02be4f2a34672aa2fa68244e16de0744"
+    },
+    {
+      "message_id": 21954,
+      "filename": "우영호_fullest_모의고사_시즌_zero_2회_260621_143917_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21954_._fullest_._._zero_2._260621_143917_1.pdf",
+      "size_bytes": 4815043,
+      "telegram_date": "2026-06-25T18:01:31+00:00",
+      "title": "경제 FULLEST 시즌0 1~2회, 시즌1 1~2회",
+      "year": "2027",
+      "instructor": "우영호",
+      "subject": "경제",
+      "thumbnail": "thumbnails/21954.png",
+      "sha256": "7542e5cf65fa276b6a5cc7e9eb8df6f2d8cf5461c28d5996d76612ed48eb3442"
     }
   ],
   "duplicate_message_ids": [
