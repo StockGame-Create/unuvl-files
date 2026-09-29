@@ -27747,6 +27747,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21548.png",
       "sha256": "ce9cd27c56387f11c74c4e0f3421fb6fc5bd32456669fffa291a833633f366d4"
+    },
+    {
+      "message_id": 21547,
+      "filename": "강e분독서 시즌4.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21547_.e.4.pdf",
+      "size_bytes": 161791326,
+      "telegram_date": "2026-05-31T05:56:00+00:00",
+      "title": "국어 강민철의 EBS 분석 수능특강 독서 시즌4 #강E분",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21547.png",
+      "sha256": "464f4e387e31141afea130fde4d990696c2e9612aea8d09a9b409880255b3316"
     }
   ],
   "duplicate_message_ids": [
