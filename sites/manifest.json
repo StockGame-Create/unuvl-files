@@ -18717,6 +18717,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/22576.png",
       "sha256": "d8ba4b1d73a54bdcb91627885825c1d387cfab214a325eb742d4621eb25a7f96"
+    },
+    {
+      "message_id": 22574,
+      "filename": "2027_시대인재_엑셀러레이터_13_6회_2026_07_18_02_06_29_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22574_2027_._._13_6._2026_07_18_02_06_29_1.pdf",
+      "size_bytes": 1047815,
+      "telegram_date": "2026-07-18T14:42:46+00:00",
+      "title": "수학 시대인재 뉴엑셀러레이터 13-6 #엑셀",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22574.png",
+      "sha256": "538d222a5332eb658922f3178d6fdbeebbe37b7ac76b99a9af486f9bf752c1b2"
     }
   ],
   "duplicate_message_ids": [
