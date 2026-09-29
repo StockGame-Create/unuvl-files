@@ -22497,6 +22497,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22135.png",
       "sha256": "56940a86bc932aa320f1fe4548f5ae7ead5845bafbdf7e416b73311c8c304306"
+    },
+    {
+      "message_id": 22134,
+      "filename": "세미플러스+문제지+1,2,3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22134_.%2B.%2B1.2.3.pdf",
+      "size_bytes": 420569,
+      "telegram_date": "2026-06-29T09:54:51+00:00",
+      "title": "영어 김동하 대치동 세미플러스 모의고사 1~3회",
+      "year": "2027",
+      "instructor": "김동하",
+      "subject": "영어",
+      "thumbnail": "thumbnails/22134.png",
+      "sha256": "afa8141cff10fb430979eadc6983db1f7ee4c1dda1af125c4b42bbb1fdf7ca10"
     }
   ],
   "duplicate_message_ids": [
