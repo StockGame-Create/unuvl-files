@@ -22413,6 +22413,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22146.png",
       "sha256": "468430d0441f41a69b5b7edce7ad715db1d81f4d9505b54fc61978b732d9eb78"
+    },
+    {
+      "message_id": 22144,
+      "filename": "6월 서프 세지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22144_6.pdf",
+      "size_bytes": 5065395,
+      "telegram_date": "2026-06-29T14:05:27+00:00",
+      "title": "세지 시대인재 6월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/22144.png",
+      "sha256": "eef9298f99efacfc6b682dba58416e8744500d0bec1ebf5bf0087561790ba119"
     }
   ],
   "duplicate_message_ids": [
