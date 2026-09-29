@@ -21391,6 +21391,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22286.png",
       "sha256": "4bee478cb8f60a555e82b549326b1fc6d5a29e3e9293a005bb22c16ca402ce3c"
+    },
+    {
+      "message_id": 22285,
+      "filename": "사문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22285_.pdf",
+      "size_bytes": 11526650,
+      "telegram_date": "2026-07-08T14:49:12+00:00",
+      "title": "사문 Time Control 2회 문제지",
+      "year": "2027",
+      "instructor": "정지만",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/22285.png",
+      "sha256": "59790215232aec6b67a7dd892b2b51d5003165d739515eb72286b0371687ddc0"
     }
   ],
   "duplicate_message_ids": [
