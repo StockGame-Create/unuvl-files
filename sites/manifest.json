@@ -28195,6 +28195,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/21491.png",
       "sha256": "fc9bccfa1590e9beb9bb74ed09f70b4c8c8c0545c997f77825ad1e7fffad05b7"
+    },
+    {
+      "message_id": 21488,
+      "filename": "이감 3-4 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21488_.3-4.pdf",
+      "size_bytes": 18048898,
+      "telegram_date": "2026-05-29T14:38:10+00:00",
+      "title": "국어 이감 국어 모의고사 시즌3 제4차 예비평가 (인쇄소퀄) #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21488.png",
+      "sha256": "3bf079036ff6d607efff770dfc3032a866c5c7ed290d1d7ce65674e3905c62fc"
     }
   ],
   "duplicate_message_ids": [
