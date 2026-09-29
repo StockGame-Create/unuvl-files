@@ -20565,6 +20565,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22372.png",
       "sha256": "24f23371a370e908dd3a78daf7ea6306cda261c4af08a0af15a6b1b10676c72b"
+    },
+    {
+      "message_id": 22370,
+      "filename": "2027_차영진_기하_십일워크북_정답해설포함.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22370_2027_._._._.pdf",
+      "size_bytes": 54546971,
+      "telegram_date": "2026-07-11T15:19:45+00:00",
+      "title": "수학 차영진 십일워 기하",
+      "year": "2027",
+      "instructor": "차영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22370.png",
+      "sha256": "5c0e5f85598462626ea10a63b93b8fef7709c6e25d2578c569e3fc5fee2793aa"
     }
   ],
   "duplicate_message_ids": [
