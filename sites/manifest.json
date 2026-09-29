@@ -24765,6 +24765,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21918.png",
       "sha256": "02460c9119c77dc9801844281db8df8b8966c11cae677eadef976c554af82d88"
+    },
+    {
+      "message_id": 21916,
+      "filename": "2027_Starting_Block_확률과_통계_필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21916_2027_Starting_Block_._._.pdf",
+      "size_bytes": 23590197,
+      "telegram_date": "2026-06-23T05:15:54+00:00",
+      "title": "수학 스타팅블록 확률과 통계 필기노트 #스블",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21916.png",
+      "sha256": "5721316124c74791aaf4f8a80bafb1a2d67e0294d2b1de407cdc6a600fe75154"
     }
   ],
   "duplicate_message_ids": [
