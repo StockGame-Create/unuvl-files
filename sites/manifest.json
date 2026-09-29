@@ -17345,6 +17345,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22745.png",
       "sha256": "00d1260dd29b453aeb033e8c645f3e080d49ddf4cb872908325785203d132069"
+    },
+    {
+      "message_id": 22744,
+      "filename": "2027학년도_시대인재_7월_전국모의평가_4교시_과탐_화학2_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22744_2027._._7._._4._._.2_.pdf",
+      "size_bytes": 1206668,
+      "telegram_date": "2026-07-25T12:06:27+00:00",
+      "title": "과학 시대인재 7월 전국모의평가 생1, 생2, 화2  #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/22744.png",
+      "sha256": "7dbc9a5e300a0737903fdd10f340b6688161fe1450fe4de52da202d6b1ac6b3e"
     }
   ],
   "duplicate_message_ids": [
