@@ -18003,6 +18003,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22674.png",
       "sha256": "3e25ad78c37bc984dd97e3238ab0a9b7670d471e347cac6efe0ebaa7919d8831"
+    },
+    {
+      "message_id": 22672,
+      "filename": "제 4교시.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22672_.4.pdf",
+      "size_bytes": 43185786,
+      "telegram_date": "2026-07-23T14:55:39+00:00",
+      "title": "화1 김준 BOB 모의고사 13회",
+      "year": "2027",
+      "instructor": "김준",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/22672.png",
+      "sha256": "293a46f5fb7b2856cadc7553124786c416c75285618f94599064a87f810d085b"
     }
   ],
   "duplicate_message_ids": [
