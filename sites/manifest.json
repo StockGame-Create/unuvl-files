@@ -27523,6 +27523,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21578.png",
       "sha256": "b8988fb7aef42c4ba4ce77b9a55c99b006eaaf10cfb0b5f7afe4e4fb6a10daf3"
+    },
+    {
+      "message_id": 21576,
+      "filename": "뉴런미적.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21576_.pdf",
+      "size_bytes": 157584278,
+      "telegram_date": "2026-06-02T14:33:01+00:00",
+      "title": "수학 뉴런 미적분",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21576.png",
+      "sha256": "11e15264c97bd7296ecf2327d0199178e1d335b620d7e195bbdb8b88a904d11b"
     }
   ],
   "duplicate_message_ids": [
