@@ -30533,6 +30533,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/21185.png",
       "sha256": "2053ac77495bd08a54dc1e5da0c6ecb400a18e5a1b626de0b0051b2b3dbd9b17"
+    },
+    {
+      "message_id": 21183,
+      "filename": "2027+김현우T+정규반+19주차+수업+예비과제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21183_2027%2B.T%2B.%2B19.%2B.%2B.pdf",
+      "size_bytes": 837045,
+      "telegram_date": "2026-05-20T23:21:36+00:00",
+      "title": "수학 김현우T 수1 19주차 수업자료+과제",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21183.png",
+      "sha256": "3930f7b44161b4e2c7da375ee6e8141f3483d46c61c67b8291cb0126ae741f92"
     }
   ],
   "duplicate_message_ids": [
