@@ -27607,6 +27607,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21567.png",
       "sha256": "4f6afb96c63ee40e90d315fb6713e696af1c82998af0af40be41684b7e9549ef"
+    },
+    {
+      "message_id": 21565,
+      "filename": "P.I.R.A.M 국어 생각의 절정 6주차 (해설편).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21565_P.I.R.A.M.6.pdf",
+      "size_bytes": 1192874,
+      "telegram_date": "2026-06-01T11:04:29+00:00",
+      "title": "국어 P.I.R.A.M 피램 생각의 절정 6주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21565.png",
+      "sha256": "c897c938bac9f51eac5da95d261e2f441cda0a3ddd63731560af9077f4c37407"
     }
   ],
   "duplicate_message_ids": [
