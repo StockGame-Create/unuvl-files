@@ -26613,6 +26613,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21712.png",
       "sha256": "ef92e0bc8399c5f208a1fc4bbe37bdfa8b3a5ae46330a2daa73a33dd8a6d4b96"
+    },
+    {
+      "message_id": 21710,
+      "filename": "27 불후의 명강 복습집.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21710_27.pdf",
+      "size_bytes": 5101031,
+      "telegram_date": "2026-06-10T11:10:50+00:00",
+      "title": "사문 윤성훈 불후의 명강 복습집",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/21710.png",
+      "sha256": "32c186396bb49bc8ff7e77e4996ff7187e4912bc1b56a6f9c9503bb30f0e5bd2"
     }
   ],
   "duplicate_message_ids": [
