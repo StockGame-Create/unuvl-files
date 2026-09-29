@@ -16897,6 +16897,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22784.png",
       "sha256": "68bf878a4b14ef0a3fb7390c5e9b91298480b65b4e4b2033e44aba5ba2e7c5bd"
+    },
+    {
+      "message_id": 22783,
+      "filename": "2027 EBS FINAL 실전모의고사 영어영역.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22783_2027.EBS.FINAL.pdf",
+      "size_bytes": 195058581,
+      "telegram_date": "2026-07-25T15:47:40+00:00",
+      "title": "영어 EBS 2027 FINAL 실전 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/22783.png",
+      "sha256": "e12d56f855e2d5431917a22b0b5a5fa852c4b0d96ff806fbcbc8565c1e0b0e5f"
     }
   ],
   "duplicate_message_ids": [
