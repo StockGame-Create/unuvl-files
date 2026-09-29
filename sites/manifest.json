@@ -31191,6 +31191,20 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/21098.png",
       "sha256": "73586dacff98aff6771abfd4fd071879dd0c47fe060e9ad84f15e4a4808d1b56"
+    },
+    {
+      "message_id": 21097,
+      "filename": "1021678036-하이탑-22-지구과학-2권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21097_1021678036-.-22-.-2.pdf",
+      "size_bytes": 20859367,
+      "telegram_date": "2026-05-17T02:10:31+00:00",
+      "title": "통과 HIGH TOP 지구과학 #하이탑",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/21097.png",
+      "sha256": "fe915acf1ed6c1b942f741a3320b1d1693328dc4a033f8a13085bd21efdb14d9"
     }
   ],
   "duplicate_message_ids": [
