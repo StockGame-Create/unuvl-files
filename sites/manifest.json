@@ -18843,6 +18843,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22566.png",
       "sha256": "8b9d351ec20f3bc159dcfc71506cdacfc815d7cf4ff14559d6d7efb8050f61ea"
+    },
+    {
+      "message_id": 22565,
+      "filename": "2027학년도_시대인재_서바이벌_시즌3_2주차_영어_정답_및_해설_2026_07_18_02_06_54.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22565_2027._._._.3_2._._._._._2026_07_18_02_06_54.pdf",
+      "size_bytes": 3288697,
+      "telegram_date": "2026-07-18T14:42:45+00:00",
+      "title": "수학 시대인재 서바이벌 전국 모의고사 2회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22565.png",
+      "sha256": "48596b96ad1a6b567713de32a7c0b5f0dbbd138535f6b4d0a4e98c4eb8271ef4"
     }
   ],
   "duplicate_message_ids": [
