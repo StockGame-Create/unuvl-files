@@ -29595,6 +29595,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21319.png",
       "sha256": "65109929726b42400bbc60639e3190fce19fdcd735dc206036ebe180fd1f15b5"
+    },
+    {
+      "message_id": 21318,
+      "filename": "2027 헤일로 모의고사 Preview 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21318_2027.Preview.1.pdf",
+      "size_bytes": 1024625,
+      "telegram_date": "2026-05-23T16:04:49+00:00",
+      "title": "수학 2027 헤일로 모의고사 preview 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21318.png",
+      "sha256": "c70c99e2ea807051dd1af1694b74b06f3a8017481f82662afce019240655df2a"
     }
   ],
   "duplicate_message_ids": [
