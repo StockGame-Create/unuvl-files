@@ -16561,6 +16561,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22820.png",
       "sha256": "de30615de7f8d110103b9ea4e7d035a1c80be9ff9209a2a3f838e831f032f630"
+    },
+    {
+      "message_id": 22819,
+      "filename": "2027_강e분_문학_고전.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22819_2027_.e._._.pdf",
+      "size_bytes": 222307587,
+      "telegram_date": "2026-07-26T17:28:28+00:00",
+      "title": "국어 강e분 고전문학, 현대문학 (수능완성)",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22819.png",
+      "sha256": "9da88d746a72df6b80c6c2be3027d46cbbc066c5a50a51e6fcc2d28c29838d64"
     }
   ],
   "duplicate_message_ids": [
