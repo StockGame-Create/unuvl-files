@@ -27285,6 +27285,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21603.png",
       "sha256": "2c29cd3bec48d3fbc60a37108d4037549e13af877237219670c8246cef9501bf"
+    },
+    {
+      "message_id": 21602,
+      "filename": "확통정규+시즌1_4주차_문제풀이노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21602_.%2B.1_4._.pdf",
+      "size_bytes": 1124437,
+      "telegram_date": "2026-06-03T11:40:45+00:00",
+      "title": "수학 김성호 확통정규반 1~4주차 문제풀이노트",
+      "year": "2027",
+      "instructor": "김성호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21602.png",
+      "sha256": "3c0da22faf840b87a1bbab019b902717704dc8613e395895c2a8d6b6030a752b"
     }
   ],
   "duplicate_message_ids": [
