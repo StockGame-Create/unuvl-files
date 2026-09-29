@@ -26137,6 +26137,20 @@
       "subject": "제2외국어",
       "thumbnail": "thumbnails/21746.png",
       "sha256": "49fd6e4fe817a99dfe93adf4b9379b70888e3ec9d3f860d38f09454c7b9f0484"
+    },
+    {
+      "message_id": 21745,
+      "filename": "2027 수능완성 베트남어 I 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21745_2027.I.pdf",
+      "size_bytes": 18741689,
+      "telegram_date": "2026-06-10T16:29:44+00:00",
+      "title": "2027 수능완성 제2외국어영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "제2외국어",
+      "thumbnail": "thumbnails/21745.png",
+      "sha256": "bee269c80e21f69cc7b06247971757791857f1a38612181cabc12d109c3ada23"
     }
   ],
   "duplicate_message_ids": [
