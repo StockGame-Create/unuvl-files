@@ -24793,6 +24793,20 @@
       "subject": "생명과학",
       "thumbnail": "thumbnails/21914.png",
       "sha256": "f26603ffdf3d7622b28b04e0c8a23e78e536401161dc636fa1a310c1ed16240f"
+    },
+    {
+      "message_id": 21913,
+      "filename": "22개정_완자_기출픽_생명과학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21913_22._._._.pdf",
+      "size_bytes": 68720837,
+      "telegram_date": "2026-06-21T23:53:48+00:00",
+      "title": "22개정_완자_기출픽_생명과학",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/21913.png",
+      "sha256": "a618c0c35df54edbde8850e79938f978cf1292b40f1e9119051894cdd64c15c6"
     }
   ],
   "duplicate_message_ids": [
