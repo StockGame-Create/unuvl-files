@@ -30169,6 +30169,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21227.png",
       "sha256": "faaf219a5be9e6e5a7fa3a2b86a047d3d44844d5354f2497fa7530580f578b26"
+    },
+    {
+      "message_id": 21226,
+      "filename": "2027학년도_05월_대성_더프리미엄_2교시_수학_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21226_2027._05._._._2._._.pdf",
+      "size_bytes": 4276706,
+      "telegram_date": "2026-05-21T07:50:11+00:00",
+      "title": "수학 THE PREMIUM 5월 모의고사 수학 (기하X) (인쇄소퀄) #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21226.png",
+      "sha256": "64a3fa5bf1c04461c527756b157d399679d8a0da2cf522b512acffc3bd14bcdb"
     }
   ],
   "duplicate_message_ids": [
