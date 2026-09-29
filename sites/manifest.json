@@ -26095,6 +26095,20 @@
       "subject": "제2외국어",
       "thumbnail": "thumbnails/21749.png",
       "sha256": "04b34665b778d60e83c789037dc2b5fb7326ad0277b9100c12b3fbed9d43b580"
+    },
+    {
+      "message_id": 21748,
+      "filename": "2027 수능완성 러시아어 I 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21748_2027.I.pdf",
+      "size_bytes": 9947162,
+      "telegram_date": "2026-06-10T16:29:44+00:00",
+      "title": "2027 수능완성 제2외국어영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "제2외국어",
+      "thumbnail": "thumbnails/21748.png",
+      "sha256": "caebad34bc32d100152b025bf030c98f7611ba9e2b1633ab6fa4103c8ca5fb63"
     }
   ],
   "duplicate_message_ids": [
