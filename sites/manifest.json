@@ -24121,6 +24121,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22003.png",
       "sha256": "53e7320f286bc6c711ee2e4ffa58fdbc48df5b78dd54f723919126139acad417"
+    },
+    {
+      "message_id": 22001,
+      "filename": "사탐 시즌 1 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22001_.1.1.pdf",
+      "size_bytes": 7283476,
+      "telegram_date": "2026-06-28T03:48:38+00:00",
+      "title": "경제 FULLEST 시즌1 1~2회 스캔 수정본",
+      "year": "2027",
+      "instructor": "우영호",
+      "subject": "경제",
+      "thumbnail": "thumbnails/22001.png",
+      "sha256": "db5ad630133357d1c2de95b21a9c75d0e776649e1bd17df56be4df172ce6dc81"
     }
   ],
   "duplicate_message_ids": [
