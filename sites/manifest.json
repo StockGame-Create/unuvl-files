@@ -19865,6 +19865,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22470.png",
       "sha256": "9cf02773ba9044846565a665d4fe063ac9ff81285c92d41fe8556f89210001d7"
+    },
+    {
+      "message_id": 22469,
+      "filename": "[2027 HOLYDAY 신비해 수2] 3주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22469_.2027.HOLYDAY.2.3.pdf",
+      "size_bytes": 13124442,
+      "telegram_date": "2026-07-16T07:39:47+00:00",
+      "title": "수학 신성규 HOLYDAY 신비해 수2 1~6주차",
+      "year": "2027",
+      "instructor": "신성규",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22469.png",
+      "sha256": "4d0c27e1bd23da28c843de502fc754ee1f77aeb3375826c6ab762f13ace3a39e"
     }
   ],
   "duplicate_message_ids": [
