@@ -26151,6 +26151,20 @@
       "subject": "제2외국어",
       "thumbnail": "thumbnails/21745.png",
       "sha256": "bee269c80e21f69cc7b06247971757791857f1a38612181cabc12d109c3ada23"
+    },
+    {
+      "message_id": 21744,
+      "filename": "2027 수능완성 한문 I 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21744_2027.I.pdf",
+      "size_bytes": 10755237,
+      "telegram_date": "2026-06-10T16:29:44+00:00",
+      "title": "2027 수능완성 제2외국어영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "제2외국어",
+      "thumbnail": "thumbnails/21744.png",
+      "sha256": "504d4728e80a8b9bd59d57b0fe2b104fe9edb8698272cb774d034163d58f2fbb"
     }
   ],
   "duplicate_message_ids": [
