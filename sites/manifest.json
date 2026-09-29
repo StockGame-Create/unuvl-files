@@ -21349,6 +21349,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22290.png",
       "sha256": "ff84bacd303503f939c7efa2fc8ebc8851c52eb8ca76540bcdec87d44c4d665d"
+    },
+    {
+      "message_id": 22289,
+      "filename": "17. 바탕 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22289_17.5.pdf",
+      "size_bytes": 72619471,
+      "telegram_date": "2026-07-09T06:47:51+00:00",
+      "title": "국어 바탕 5회 모의고사  #바탕",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22289.png",
+      "sha256": "81f1ad27850fd4a01562f0095ac252210731791fc3f94a708333ab5add916977"
     }
   ],
   "duplicate_message_ids": [
