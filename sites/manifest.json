@@ -27131,6 +27131,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21628.png",
       "sha256": "8cbc97f16ccb18d66284a14cea8f7ae663e1e5a3cf0b8834b7d774f78d175838"
+    },
+    {
+      "message_id": 21626,
+      "filename": "4전 준비.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21626_4.pdf",
+      "size_bytes": 30822199,
+      "telegram_date": "2026-06-04T13:54:53+00:00",
+      "title": "수학 강윤구 4전 준비",
+      "year": "2027",
+      "instructor": "강윤구",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21626.png",
+      "sha256": "c7d5ea5887db0634070d0e03914cfd6a32f29ae2782ee8ac45a9495f86b21778"
     }
   ],
   "duplicate_message_ids": [
