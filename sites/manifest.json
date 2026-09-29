@@ -18171,6 +18171,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/22654.png",
       "sha256": "cbb174575e77f6462c76eac35caf19c6daa1635f2ce86d65d86bb237dc219ccd"
+    },
+    {
+      "message_id": 22652,
+      "filename": "이뮨 문학 시즌2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22652_.2.pdf",
+      "size_bytes": 7940073,
+      "telegram_date": "2026-07-21T22:35:17+00:00",
+      "title": "국어 이뮨 연계 모의고사 시즌2 통합본",
+      "year": "2027",
+      "instructor": "유대종",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22652.png",
+      "sha256": "bfc7335222d01572350dfe079ada188a3a2ae0f052c75d835c8ed81392d337b7"
     }
   ],
   "duplicate_message_ids": [
