@@ -27019,6 +27019,20 @@
       "subject": "현대사회와윤리",
       "thumbnail": "thumbnails/21645.png",
       "sha256": "96b92d3c96feeb438ac1fbbf8da65281c49b85775bc4fa4e9a061179afb57720"
+    },
+    {
+      "message_id": 21643,
+      "filename": "혼자서_때려잡기_미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21643_._._.pdf",
+      "size_bytes": 24254877,
+      "telegram_date": "2026-06-06T06:19:30+00:00",
+      "title": "수학 2027 혼자서때려잡기 미적분 #혼때잡",
+      "year": "2027",
+      "instructor": "정승제",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21643.png",
+      "sha256": "ef7fddbd2a229eb4c5b4daca711c33604b2e8446cd84c805f6cde7e88b2011c6"
     }
   ],
   "duplicate_message_ids": [
