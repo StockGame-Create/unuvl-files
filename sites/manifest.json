@@ -29693,6 +29693,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21309.png",
       "sha256": "dd93c90492cb237153c84828501fd3a2ef9b82bf5030e76374a40245fecbc9bc"
+    },
+    {
+      "message_id": 21307,
+      "filename": "6평대비 강대X(폰스캔).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21307_6.X.pdf",
+      "size_bytes": 5195395,
+      "telegram_date": "2026-05-23T09:56:42+00:00",
+      "title": "수학 6평 대비 강대모의고사X 0회 #강x",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21307.png",
+      "sha256": "1551ef774d15b66604b87c431ac6ac399f2b7709d7158d633d9682544b054a9e"
     }
   ],
   "duplicate_message_ids": [
