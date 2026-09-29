@@ -25115,6 +25115,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21882.png",
       "sha256": "b875f3954a8f0ee3d776bce763e0a99fc278876390aecb9825135e410519d066"
+    },
+    {
+      "message_id": 21880,
+      "filename": "2027_HOLYDAYS_6월_모의평가_독해집_6평독해.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21880_2027_HOLYDAYS_6._._._6.pdf",
+      "size_bytes": 5585256,
+      "telegram_date": "2026-06-18T16:58:18+00:00",
+      "title": "수학 신성규 2027 6모 분석서",
+      "year": "2027",
+      "instructor": "신성규",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21880.png",
+      "sha256": "4cf411b0ce5ba4faa336b8899194166d579073191ce980ece64f65d2342ed0cb"
     }
   ],
   "duplicate_message_ids": [
