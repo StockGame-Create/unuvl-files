@@ -18871,6 +18871,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22564.png",
       "sha256": "40ff19bcb8edd5501cc973243984843d3a9be49697a9dc2048293ec19455d8e2"
+    },
+    {
+      "message_id": 22563,
+      "filename": "2027_한수_모의고사_1주차_문제지_2026_07_18_02_06_58.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22563_2027_._._1._._2026_07_18_02_06_58.pdf",
+      "size_bytes": 5506275,
+      "telegram_date": "2026-07-18T14:42:45+00:00",
+      "title": "국어 한수모의고사 파이널 시즌1 1차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22563.png",
+      "sha256": "5caaef2e3a8c6ace134d467a19c5087acd5953df1b371a3a910f316b5e8ccc4e"
     }
   ],
   "duplicate_message_ids": [
