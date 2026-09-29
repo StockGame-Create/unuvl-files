@@ -24569,6 +24569,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21948.png",
       "sha256": "48777c25fe7d36580e3a713eb7616b486580db9c989a27ccd2951e0fb84af7c6"
+    },
+    {
+      "message_id": 21946,
+      "filename": "생윤_시대인재_브릿지_전국_모의고사_5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21946_._._._._._5.pdf",
+      "size_bytes": 17534651,
+      "telegram_date": "2026-06-25T18:01:22+00:00",
+      "title": "생윤 시대인재 전국 브릿지 모의고사 5회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/21946.png",
+      "sha256": "b4c06c059d0a2ea9e09c81a44a65df7eacaf2cee0c95aaa5e4db5a9d5acd4dba"
     }
   ],
   "duplicate_message_ids": [
