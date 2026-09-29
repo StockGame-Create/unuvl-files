@@ -27271,6 +27271,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/21604.png",
       "sha256": "7b0a78d57eddcd1302015072bd75d1a6431883d034dbf8501e0f51423b3b62dd"
+    },
+    {
+      "message_id": 21603,
+      "filename": "국어,_김재훈,_특강반_주간지6_2025_7월,_2025_10월.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21603_._._._.6_2025_7._2025_10.pdf",
+      "size_bytes": 15306296,
+      "telegram_date": "2026-06-03T11:40:45+00:00",
+      "title": "국어 김재훈 특강반 주간지 6회",
+      "year": "2027",
+      "instructor": "김재훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21603.png",
+      "sha256": "2c29cd3bec48d3fbc60a37108d4037549e13af877237219670c8246cef9501bf"
     }
   ],
   "duplicate_message_ids": [
