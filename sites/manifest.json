@@ -28111,6 +28111,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/21502.png",
       "sha256": "ded3a4bacc0c0bab09ffe4a6bde56e346fd01a0c618b90e12431a28f32ed3f78"
+    },
+    {
+      "message_id": 21501,
+      "filename": "2027학년도_5월_서바이벌프로_모의고사_3교시_영어_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21501_2027._5._._._3._._.pdf",
+      "size_bytes": 13352844,
+      "telegram_date": "2026-05-30T04:08:47+00:00",
+      "title": "2027 영어 시대인재 5월 전국모의평가 (인쇄소퀄) #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/21501.png",
+      "sha256": "103aa2a935f189efcdfd37e93aba692f1da1f1453da5329d499ad4ba1fcffdb0"
     }
   ],
   "duplicate_message_ids": [
