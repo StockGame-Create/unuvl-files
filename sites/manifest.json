@@ -29245,6 +29245,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21362.png",
       "sha256": "cc60bed56814700653d9dc4f8ab342d3fe9d3256883ce3cadfb691e4c58b3758"
+    },
+    {
+      "message_id": 21360,
+      "filename": "[수학1+수학2+미적분+Step2]+18주차+복습테스트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21360_.1%2B.2%2B.%2BStep2.%2B18.%2B.pdf",
+      "size_bytes": 504917,
+      "telegram_date": "2026-05-24T15:04:00+00:00",
+      "title": "수학 강기원T 18주차 수1,수2 + 미적분 Review Test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21360.png",
+      "sha256": "54646ef0f4acd26c533a8e89ba1cec58d6152b2f53c8fe0b54228afb1884f8b2"
     }
   ],
   "duplicate_message_ids": [
