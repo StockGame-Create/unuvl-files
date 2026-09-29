@@ -26431,6 +26431,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/21725.png",
       "sha256": "568be93c610746189c72e2d3413e381f6f7e757ebcb8ac231bd39108f0b1a912"
+    },
+    {
+      "message_id": 21724,
+      "filename": "2027 수능완성 정치와법 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21724_2027.pdf",
+      "size_bytes": 9899706,
+      "telegram_date": "2026-06-10T16:26:56+00:00",
+      "title": "사탐 2027 수능완성 사회탐구영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/21724.png",
+      "sha256": "f91bac89fd16accc9ad1ed0a7bbe7c4289b3e4e952cc3ce455d872a3ad9b15c9"
     }
   ],
   "duplicate_message_ids": [
