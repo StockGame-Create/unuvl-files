@@ -19585,6 +19585,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/22498.png",
       "sha256": "f37b2b503e4b44eb0dbded5da54e16f35acc79d7a77ab4535378114bf3383287"
+    },
+    {
+      "message_id": 22497,
+      "filename": "26 7월 대성 지학1 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22497_26.7.1.pdf",
+      "size_bytes": 1696432,
+      "telegram_date": "2026-07-16T14:25:50+00:00",
+      "title": "과학 THE PREMIUM 7월 모의고사 문제지 생1, 지1, 생2, 지2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/22497.png",
+      "sha256": "f2a61d90c62abcdab043c53ca5634264b564ebf744a0784091be29651aef32a9"
     }
   ],
   "duplicate_message_ids": [
