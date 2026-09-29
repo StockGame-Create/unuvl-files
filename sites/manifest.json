@@ -28993,6 +28993,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21405.png",
       "sha256": "84ec7c47c9b9b46958bbaa0639ae74bb607f1383a319783c613c27c8fea64e83"
+    },
+    {
+      "message_id": 21401,
+      "filename": "2027_마더텅_국어_모의고사_28회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21401_2027_._._._28.pdf",
+      "size_bytes": 59045075,
+      "telegram_date": "2026-05-27T13:53:44+00:00",
+      "title": "국어 마더텅 수능기출 모의고사 28회 국어영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21401.png",
+      "sha256": "71a6d4cb66fae8a410cef3fd9b188cf5cf90ff3c8555469980e42d06a2eab849"
     }
   ],
   "duplicate_message_ids": [
