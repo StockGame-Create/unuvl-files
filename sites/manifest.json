@@ -27873,6 +27873,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21534.png",
       "sha256": "8ca4eaf07c190629d6e230f9e97dd90e50a3d43f0dff53ec7486f21269b9d8c4"
+    },
+    {
+      "message_id": 21533,
+      "filename": "2023학년도_한석원_화룡점정_수학1+2_본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21533_2023._._._.1%2B2_.pdf",
+      "size_bytes": 9605564,
+      "telegram_date": "2026-05-30T17:34:19+00:00",
+      "title": "수학 화룡점정 수학1 수학2",
+      "year": "2023",
+      "instructor": "한석원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21533.png",
+      "sha256": "66deae1e51b4beb1b955dbd1f54f8d389560db6fd15caa0a71cda6aa51128eeb"
     }
   ],
   "duplicate_message_ids": [
