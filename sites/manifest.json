@@ -21937,6 +21937,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22210.png",
       "sha256": "382be2749aa69d940d46392bb467ebe30856bf1752566e30574b4c3b3eef23ae"
+    },
+    {
+      "message_id": 22208,
+      "filename": "수학2+미적분+Step1+12주차+복습테스트_해설지_포함.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22208_.2%2B.%2BStep1%2B12.%2B._._.pdf",
+      "size_bytes": 3130042,
+      "telegram_date": "2026-07-02T14:38:33+00:00",
+      "title": "수학 강기원T 12주차 수1,수2 + 미적분 Review Test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22208.png",
+      "sha256": "cefdaa22edc574476bf5e41bc4da4af138febfed1118fc6b9b32e5b0fc40443d"
     }
   ],
   "duplicate_message_ids": [
