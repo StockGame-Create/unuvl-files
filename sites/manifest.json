@@ -17177,6 +17177,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22757.png",
       "sha256": "dbc24845c3f39644a2a2aeb13bdb2b26215290f8d42210cd0f352b66da456b29"
+    },
+    {
+      "message_id": 22756,
+      "filename": "2027학년도_시대인재_7월_전국모의평가_4교시_사탐_세계지리_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22756_2027._._7._._4._._._.pdf",
+      "size_bytes": 1353504,
+      "telegram_date": "2026-07-25T12:06:28+00:00",
+      "title": "사회 시대인재 7월 전국모의평가 세계사, 세계지리, 한국지리, 정법, 윤리와 사상  #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/22756.png",
+      "sha256": "31b1e75d0f8af128b2e4e434ffcfb0ae30cdf4f6caae6389bbdfaedc4ce0142b"
     }
   ],
   "duplicate_message_ids": [
