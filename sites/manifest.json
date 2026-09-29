@@ -21027,6 +21027,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/22325.png",
       "sha256": "e69c83f7a64da79217aa79e7afbb5c0fa5243b15b7dde3a8b6b6ffab699232d0"
+    },
+    {
+      "message_id": 22323,
+      "filename": "2027_강e분_현대소설상.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22323_2027_.e._.pdf",
+      "size_bytes": 313748668,
+      "telegram_date": "2026-07-10T15:24:40+00:00",
+      "title": "국어 강e분 현대소설 (상)",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22323.png",
+      "sha256": "42f88c120ad1aaf9cd09c050f1b0650fdf0045cf7288723295703c9e5b95d90b"
     }
   ],
   "duplicate_message_ids": [
