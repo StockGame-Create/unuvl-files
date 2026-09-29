@@ -20537,6 +20537,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22377.png",
       "sha256": "316696146910fc06493a6f4c0fe404c8f4a49f0748d13fe859ab199ea8c075f9"
+    },
+    {
+      "message_id": 22376,
+      "filename": "2027 백호 실전 모의고사 1-1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22376_2027.1-1.pdf",
+      "size_bytes": 2904986,
+      "telegram_date": "2026-07-11T18:06:11+00:00",
+      "title": "생1 백호 실전 모의고사 시즌1 1회~3회",
+      "year": "2027",
+      "instructor": "백호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22376.png",
+      "sha256": "e9699e2f468bd738f575729fba078de3793827357aa5f14634f769ea85359784"
     }
   ],
   "duplicate_message_ids": [
