@@ -24401,6 +24401,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21968.png",
       "sha256": "b5ddf20bc4bd160276b1219b1f01c6bb9160ce719ddbc7bbabd5b0c03d2d07d0"
+    },
+    {
+      "message_id": 21966,
+      "filename": "1782482317023 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21966_1782482317023.1.pdf",
+      "size_bytes": 26155991,
+      "telegram_date": "2026-06-27T12:44:19+00:00",
+      "title": "수학 2027 OMEGA 모의고사 5회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21966.png",
+      "sha256": "9a9a259fa1d2561eeb476c590525a12af055c8b4e56bbd1b50adb339a56764d9"
     }
   ],
   "duplicate_message_ids": [
