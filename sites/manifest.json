@@ -29637,6 +29637,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/21315.png",
       "sha256": "dffae55044e5e3ca826c8cd3fff51d87e6701953a67bff40276b54486dea270d"
+    },
+    {
+      "message_id": 21312,
+      "filename": "한수 시즌2 1차 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21312_.2.1.pdf",
+      "size_bytes": 32894714,
+      "telegram_date": "2026-05-23T10:37:10+00:00",
+      "title": "국어 한수모의고사 시즌2 1회차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21312.png",
+      "sha256": "2d12fb9c6dd5d62f429f464db82f1f1047b11b7b2ca5df70d044fb3ac65590ad"
     }
   ],
   "duplicate_message_ids": [
