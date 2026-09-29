@@ -19753,6 +19753,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22485.png",
       "sha256": "b999a0e2d963b5f8dff3ad646b55433f8ff5b7d62bb2ccf532443254fcb93d6c"
+    },
+    {
+      "message_id": 22482,
+      "filename": "27 강대K 생윤 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22482_27.K.1.pdf",
+      "size_bytes": 1300406,
+      "telegram_date": "2026-07-16T10:27:34+00:00",
+      "title": "생윤 강대모의고사K 1회 #강k (인쇄소퀄)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/22482.png",
+      "sha256": "7e9132e1441811d3b187fd44c77292a5a02106505dfe0769a0042009029e5428"
     }
   ],
   "duplicate_message_ids": [
