@@ -25577,6 +25577,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/21832.png",
       "sha256": "c52f15d30c98abfdabdae94954fe2e55f77a448080f64db0d68ebbd053120d1d"
+    },
+    {
+      "message_id": 21831,
+      "filename": "글의 흐름 정복_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21831_._2.pdf",
+      "size_bytes": 1354405,
+      "telegram_date": "2026-06-16T10:07:44+00:00",
+      "title": "영어 킹콩T 글의 흐름 정복 1~2,  순서 정복 1~2",
+      "year": "2027",
+      "instructor": "킹콩",
+      "subject": "영어",
+      "thumbnail": "thumbnails/21831.png",
+      "sha256": "3faae2c06fc84f9a1ba2f7bcad2e81be37b0a7810c442ab8e309be1d16f9b041"
     }
   ],
   "duplicate_message_ids": [
