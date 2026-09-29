@@ -18409,6 +18409,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22625.png",
       "sha256": "ae367ab75f7a6c133a897ab1396d0e7ed1303fe933c233caf1ec11d818346edf"
+    },
+    {
+      "message_id": 22623,
+      "filename": "[수학] 2027 차영진 팔로워 수학II.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22623_.2027.II.pdf",
+      "size_bytes": 332424839,
+      "telegram_date": "2026-07-21T22:34:19+00:00",
+      "title": "수학 차영진 팔로워 수학2",
+      "year": "2027",
+      "instructor": "차영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22623.png",
+      "sha256": "56cc59575b7d0094a578986a908c2092325484ce116c23907d0c110ce237c22f"
     }
   ],
   "duplicate_message_ids": [
