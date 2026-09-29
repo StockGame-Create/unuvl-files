@@ -30911,6 +30911,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21140.png",
       "sha256": "5dd35ba6d49c0527fe6e7d1eb97e753dad70ebdb9bac20d82796f8a6504a2feb"
+    },
+    {
+      "message_id": 21134,
+      "filename": "상상_시즌3_1차_스캔_최종.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21134_._.3_1._._.pdf",
+      "size_bytes": 21420191,
+      "telegram_date": "2026-05-19T04:34:52+00:00",
+      "title": "국어 시즌3 제1차 모의고사 상상국어평가연구소 (폰스캔) #상상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21134.png",
+      "sha256": "cbd617398d00eaa9bd0a01aef377aa52e80c66dc7dea758042182f5f22db311c"
     }
   ],
   "duplicate_message_ids": [
