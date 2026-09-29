@@ -30113,6 +30113,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21240.png",
       "sha256": "3aec2fca70e93bfb128b82e8797c064bf38dc34a5c2d148cb93c19432f6c8a6e"
+    },
+    {
+      "message_id": 21237,
+      "filename": "2027 OZ모의고사 시즌1 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21237_2027.OZ.1.1.pdf",
+      "size_bytes": 6915680,
+      "telegram_date": "2026-05-21T09:06:53+00:00",
+      "title": "지1 OZ 모의고사 시즌1 1회",
+      "year": "2027",
+      "instructor": "오지훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/21237.png",
+      "sha256": "872ee37891b6dc9f5587fa2087839bf9433fde39ba69c47577c1c1e81a1b6458"
     }
   ],
   "duplicate_message_ids": [
