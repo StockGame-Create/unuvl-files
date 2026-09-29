@@ -20747,6 +20747,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22352.png",
       "sha256": "5717063c8116cb0a2af4650821b043bb1eef4bea999233bd793dd8b905bcfeab"
+    },
+    {
+      "message_id": 22350,
+      "filename": "서지현t_수리논술_기하편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22350_.t_._.pdf",
+      "size_bytes": 98804180,
+      "telegram_date": "2026-07-11T11:21:10+00:00",
+      "title": "수학 서지현 수리논술 기하편",
+      "year": "2027",
+      "instructor": "서지현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22350.png",
+      "sha256": "7250aa59960214ba82e3b506e8ffd4a89598d9b0a599a83800b0c6fada557e92"
     }
   ],
   "duplicate_message_ids": [
