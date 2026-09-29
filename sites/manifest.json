@@ -21517,6 +21517,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22264.png",
       "sha256": "ead5fc9b0d5ef4dc4fa5b2c420175d313fceecf2a238eb2aecc2435fc6b4e6c8"
+    },
+    {
+      "message_id": 22263,
+      "filename": "file.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22263_file.pdf",
+      "size_bytes": 846952,
+      "telegram_date": "2026-07-07T05:55:06+00:00",
+      "title": "지1 이신혁 시즌2 5주차 복습테스트 지구과학1",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22263.png",
+      "sha256": "79b2c364d95dc8beca54bcb5ae9bef1f551d3c754f3234e7bb80c25ffe55a522"
     }
   ],
   "duplicate_message_ids": [
