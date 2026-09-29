@@ -26739,6 +26739,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21694.png",
       "sha256": "ebf3c80b12cdff39fd4be97badeb6d8be7cad38de39bf96d339e0ca5b4b8044d"
+    },
+    {
+      "message_id": 21681,
+      "filename": "STEP2.+6월+평가원+해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21681_STEP2.%2B6.%2B.%2B.pdf",
+      "size_bytes": 9155098,
+      "telegram_date": "2026-06-07T17:09:57+00:00",
+      "title": "국어 2027년도 6월 공통영역 독서 문학 상세분석지",
+      "year": "2027",
+      "instructor": "유신, 정미영",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21681.png",
+      "sha256": "55b7cd320c03da5d7de488ed698338828590435086e67abb54dc30f17558de76"
     }
   ],
   "duplicate_message_ids": [
