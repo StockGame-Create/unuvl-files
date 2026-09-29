@@ -21475,6 +21475,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22275.png",
       "sha256": "ea721ff5eceaba4023a87d6858b51a76e98fddea920645cff2bdbedb96b5d3ee"
+    },
+    {
+      "message_id": 22267,
+      "filename": "2027 어텐션 수학I 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22267_2027.I.pdf",
+      "size_bytes": 18637672,
+      "telegram_date": "2026-07-07T11:46:53+00:00",
+      "title": "수학 이동준 어텐션 수학1",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22267.png",
+      "sha256": "d7d55046c194b9ab23e54de0682d89086dd7934cb65543a4c62e61cda55f09c2"
     }
   ],
   "duplicate_message_ids": [
