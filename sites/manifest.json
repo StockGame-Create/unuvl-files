@@ -27537,6 +27537,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21576.png",
       "sha256": "11e15264c97bd7296ecf2327d0199178e1d335b620d7e195bbdb8b88a904d11b"
+    },
+    {
+      "message_id": 21574,
+      "filename": "2027 시냅스 확통.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21574_2027.pdf",
+      "size_bytes": 100769831,
+      "telegram_date": "2026-06-01T14:56:58+00:00",
+      "title": "수학 뉴런, 시냅스 확통",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21574.png",
+      "sha256": "f27d88470a027c87adb7c697e3c14f3b80d5d0218f3681b0662ccc92b0b2bd4b"
     }
   ],
   "duplicate_message_ids": [
