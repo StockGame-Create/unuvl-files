@@ -17555,6 +17555,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22729.png",
       "sha256": "3a68713c0ec30ae4d9a3fe6b550953cc0d937d34a14d53b7eb63de8ba87e4a29"
+    },
+    {
+      "message_id": 22728,
+      "filename": "2026_서바정규반_수업노트_3주차_업로드용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22728_2026_._._3._.pdf",
+      "size_bytes": 5427873,
+      "telegram_date": "2026-07-25T12:06:26+00:00",
+      "title": "수학 박종민 서바 정규반 3주차 수업노트",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22728.png",
+      "sha256": "e330b85d06b9b624cc530e3674cb588b2bc342f044aedaf0e5089b782a9f79f3"
     }
   ],
   "duplicate_message_ids": [
