@@ -18997,6 +18997,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/22550.png",
       "sha256": "6e604e15eca8cb64622d4359ad20b8738b21379f406d33ece7ad3943a10ebb0e"
+    },
+    {
+      "message_id": 22548,
+      "filename": "27 서바 수학 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22548_27.2.pdf",
+      "size_bytes": 6804309,
+      "telegram_date": "2026-07-18T14:42:44+00:00",
+      "title": "수학 서바이벌 2회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22548.png",
+      "sha256": "a6bbfc6c04a261a0c731e36978b74046395ebbab12c5feb1b999bcc63b90968c"
     }
   ],
   "duplicate_message_ids": [
