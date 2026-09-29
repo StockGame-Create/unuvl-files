@@ -24597,6 +24597,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/21944.png",
       "sha256": "82678fd9572a3a152a43a5dd380cff081bb2615755b91cf0ba5d5c9f9fd55640"
+    },
+    {
+      "message_id": 21942,
+      "filename": "국어,+김재훈,+특강반,+주간지2+_+2023_3월,+2023_4월.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21942_.%2B.%2B.%2B.2%2B_%2B2023_3.%2B2023_4.pdf",
+      "size_bytes": 2269296,
+      "telegram_date": "2026-06-25T18:01:20+00:00",
+      "title": "국어 김재훈 특강반 주간지 2회",
+      "year": "2027",
+      "instructor": "김재훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21942.png",
+      "sha256": "f805fbd98bc1bc797df66413831dfa9930b3fe68f49eea22cad554c7b722d66a"
     }
   ],
   "duplicate_message_ids": [
