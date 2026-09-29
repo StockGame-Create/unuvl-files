@@ -25787,6 +25787,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21785.png",
       "sha256": "522ac3c460cd34848a83bd9af3428e3c31e4de35b1126b80c333b899b4cd7b70"
+    },
+    {
+      "message_id": 21783,
+      "filename": "변화된 기출에서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21783_.pdf",
+      "size_bytes": 15375400,
+      "telegram_date": "2026-06-12T14:30:46+00:00",
+      "title": "수학 강윤구 변화구 미적분",
+      "year": "2027",
+      "instructor": "강윤구",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21783.png",
+      "sha256": "92c82540f29b38f582016a4429914c4de4bfd9cc4ae32f4ad513239a74cd4d91"
     }
   ],
   "duplicate_message_ids": [
