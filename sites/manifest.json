@@ -24219,6 +24219,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21994.png",
       "sha256": "3dad936b46305b57334a6d8787a98e4b03c97a5ffeb6b8a132a7c5c9df734fbf"
+    },
+    {
+      "message_id": 21989,
+      "filename": "2027_김현우_정규반_20주차_안내문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21989_2027_._._20._.pdf",
+      "size_bytes": 19498,
+      "telegram_date": "2026-06-27T15:32:41+00:00",
+      "title": "수학 김현우T 20주차 수업자료+테스트",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21989.png",
+      "sha256": "02d9ca254c5af3a5e5438da775aacc7b5b5f6c11c3a07fd1d7be5f0172b16092"
     }
   ],
   "duplicate_message_ids": [
