@@ -25815,6 +25815,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21781.png",
       "sha256": "5b4b008d9f9b3a09eb8058f305fd88dcf0034787d6a50d364f194188ed51ce03"
+    },
+    {
+      "message_id": 21780,
+      "filename": "2027 매월승리 05_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21780_2027.05_.pdf",
+      "size_bytes": 21450898,
+      "telegram_date": "2026-06-12T13:29:12+00:00",
+      "title": "국어 매월승리 05월호",
+      "year": "2027",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21780.png",
+      "sha256": "65804a062a735dc517c5f9c557d1fef211b5d90b7bc5155f0dfef86ad8053623"
     }
   ],
   "duplicate_message_ids": [
