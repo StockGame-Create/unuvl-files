@@ -18507,6 +18507,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22614.png",
       "sha256": "34c71296aeac733d4f4f7fe448f782139c5b3a824cb116343a09e99c9c987f9d"
+    },
+    {
+      "message_id": 22613,
+      "filename": "신혁모 시즌2 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22613_.2.1.pdf",
+      "size_bytes": 4492085,
+      "telegram_date": "2026-07-19T19:18:47+00:00",
+      "title": "지1 이신혁 모의고사 시즌2 1회",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22613.png",
+      "sha256": "61bd0784715b2a0b9de29b0ca527dce4a3ed67ff37a96c806569ab3923504361"
     }
   ],
   "duplicate_message_ids": [
