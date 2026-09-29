@@ -18941,6 +18941,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22558.png",
       "sha256": "94492c84a605b2111fcbff3c6ddd323db6f8f0217fbc84a93e791b145ca21866"
+    },
+    {
+      "message_id": 22557,
+      "filename": "숨라미적.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22557_.pdf",
+      "size_bytes": 234199483,
+      "telegram_date": "2026-07-18T14:42:45+00:00",
+      "title": "수학 숨마쿠라우데 미적분 1",
+      "year": "2022",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22557.png",
+      "sha256": "dfeb288966ccd221943f2fcb43ecae2f3059147301a8ab298559c9fab4e5328a"
     }
   ],
   "duplicate_message_ids": [
