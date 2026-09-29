@@ -22651,6 +22651,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22113.png",
       "sha256": "14cd48fea37ed8a6c28d73cb9eea9d1fb39f38616fd2f62199e10a01535e3dbe"
+    },
+    {
+      "message_id": 22112,
+      "filename": "김동하 대치동 모의고사_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22112_._.pdf",
+      "size_bytes": 1611813,
+      "telegram_date": "2026-06-28T15:39:06+00:00",
+      "title": "영어 김동하 대치동 현장 모의고사",
+      "year": "2027",
+      "instructor": "김동하",
+      "subject": "영어",
+      "thumbnail": "thumbnails/22112.png",
+      "sha256": "c3dabe1c2d0268d7bf781162d42500794e449fabb35a0535814d0657fce4895f"
     }
   ],
   "duplicate_message_ids": [
