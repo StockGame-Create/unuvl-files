@@ -20145,6 +20145,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22440.png",
       "sha256": "3df20d1e911e3b61631c738129c6cf18b125e7b02923960a8fc3b391bac43b3c"
+    },
+    {
+      "message_id": 22435,
+      "filename": "유신_언매_엔제_1&2회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22435_._._._1.2.pdf",
+      "size_bytes": 42107261,
+      "telegram_date": "2026-07-14T12:32:55+00:00",
+      "title": "국어 유신 언매 N제 1~2회",
+      "year": "2027",
+      "instructor": "유신",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22435.png",
+      "sha256": "3aef97e7d9ec7b80ac1f1c4c39053a6f4027a97d78cb19cc9c22a83503eda193"
     }
   ],
   "duplicate_message_ids": [
