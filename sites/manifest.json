@@ -21755,6 +21755,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22229.png",
       "sha256": "780153696c530dbd5d6f60bf66d9497045d96345fb51518ca880570bffd33592"
+    },
+    {
+      "message_id": 22226,
+      "filename": "박석준_ebs_자체제작_문항_.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22226_._ebs_._._.PDF",
+      "size_bytes": 3889455,
+      "telegram_date": "2026-07-04T09:54:04+00:00",
+      "title": "국어 박석준 6모 연계 ebs 자체제작 문항",
+      "year": "2027",
+      "instructor": "박석준",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22226.png",
+      "sha256": "cb128f1bbc7b0839fcb67869c52bd4afc17563c57e34c7546611e8b6a4121952"
     }
   ],
   "duplicate_message_ids": [
