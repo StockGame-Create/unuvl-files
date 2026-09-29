@@ -16995,6 +16995,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22773.png",
       "sha256": "cc3d9c761ccec74810a9c3e6d33197a8d2f9643167a69c118b90092b3711c811"
+    },
+    {
+      "message_id": 22771,
+      "filename": "세포와물질대사_본문 (22개정).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22771_._.22.pdf",
+      "size_bytes": 50721754,
+      "telegram_date": "2026-07-25T15:47:33+00:00",
+      "title": "완자 세포와 물질대사 (22개정)",
+      "year": null,
+      "instructor": null,
+      "subject": "세포와물질대사",
+      "thumbnail": "thumbnails/22771.png",
+      "sha256": "581b0e73b5220e4cbbac34df1a4cc262604e1d65947c55300e017a4e4fb5d24d"
     }
   ],
   "duplicate_message_ids": [
