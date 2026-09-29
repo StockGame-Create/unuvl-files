@@ -29343,6 +29343,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/21352.png",
       "sha256": "39609e3e05c1a76623f4c02dbfbf104ba19f6f76fe670a1c1fdf12ff6732ca68"
+    },
+    {
+      "message_id": 21350,
+      "filename": "범모 2회 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21350_.2.pdf",
+      "size_bytes": 10144217,
+      "telegram_date": "2026-05-24T13:50:29+00:00",
+      "title": "수학 김범준 6모 대비 모의고사 2회 #범모",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21350.png",
+      "sha256": "16d6df74088286b164b88ef233a083fd1e04b85ef4ca5ec6844dd34951045f5d"
     }
   ],
   "duplicate_message_ids": [
