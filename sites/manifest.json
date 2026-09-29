@@ -19795,6 +19795,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22479.png",
       "sha256": "778d87a71bf56b6c88d8901912cb5dc7bb7f81b3cbfa80f0dd1376af9e41b49f"
+    },
+    {
+      "message_id": 22477,
+      "filename": "적생모_1주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22477_._1.pdf",
+      "size_bytes": 15527727,
+      "telegram_date": "2026-07-16T10:23:35+00:00",
+      "title": "사문 적자생존 모의고사 Alpha, Beta, Gamma 1회 (폰스캔) #적생모",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/22477.png",
+      "sha256": "3108096fb6b55d4f8fcc82b90f060511801c45ac15df894fffc317e55824579e"
     }
   ],
   "duplicate_message_ids": [
