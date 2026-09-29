@@ -16659,6 +16659,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22809.png",
       "sha256": "02027c44220f6adc85e8dcaf4ae288f2dd452f18aa2eefdf50a21d94c65ccc8c"
+    },
+    {
+      "message_id": 22808,
+      "filename": "지구과학1_강케플_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22808_.1_._1.pdf",
+      "size_bytes": 1738639,
+      "telegram_date": "2026-07-26T17:28:20+00:00",
+      "title": "지1 강대모의고사K+ 1회 #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22808.png",
+      "sha256": "6c862db58eac9323579d98655e25d8f158baf14ea8db34bb6399eeaf190f5e39"
     }
   ],
   "duplicate_message_ids": [
