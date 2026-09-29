@@ -26571,6 +26571,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21715.png",
       "sha256": "c1132709db7955e910b7ab30d5ba75e7b9416bc9a02a24e9a6b25b67f1038a8d"
+    },
+    {
+      "message_id": 21714,
+      "filename": "2027 수능완성 기하 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21714_2027.pdf",
+      "size_bytes": 11499347,
+      "telegram_date": "2026-06-10T16:24:19+00:00",
+      "title": "수학 2027 수능완성 수학영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21714.png",
+      "sha256": "7361f7b1dc86c5279a7cff5a2158b48323285d5f8d469f93cc75c17944f565f3"
     }
   ],
   "duplicate_message_ids": [
