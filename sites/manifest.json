@@ -22007,6 +22007,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22200.png",
       "sha256": "eba229a55357ced9400a38862b8917326d847508903b6de18a4d8e9a0ee75bad"
+    },
+    {
+      "message_id": 22198,
+      "filename": "download-proxy 5.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22198_download-proxy.5.pdf",
+      "size_bytes": 1080213,
+      "telegram_date": "2026-07-02T11:14:00+00:00",
+      "title": "수학 강기원T 수학1 특강 5주차 Review Test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22198.png",
+      "sha256": "9bac477292b059dd1cbcd6c917ee059303e46d3ec58e6407e0f38fdf1228fdd4"
     }
   ],
   "duplicate_message_ids": [
