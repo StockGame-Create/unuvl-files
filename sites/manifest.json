@@ -17709,6 +17709,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22712.png",
       "sha256": "21007d17edbd3bed5926142588b3a3145232cd9980c7073f9914aa1cb1dc306e"
+    },
+    {
+      "message_id": 22709,
+      "filename": "이신혁모 시즌1 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22709_.1.5.pdf",
+      "size_bytes": 4207312,
+      "telegram_date": "2026-07-24T13:32:26+00:00",
+      "title": "지1 이신혁 모의고사 시즌1 5회",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22709.png",
+      "sha256": "c80cd93849fd6c8220e6124f75975de6cdcd1139fa11e070715b5044cd932398"
     }
   ],
   "duplicate_message_ids": [
