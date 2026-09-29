@@ -24849,6 +24849,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21908.png",
       "sha256": "c94ad9fff4a81af7244624370162dbafae45647b5af7475309897c23a32b26d5"
+    },
+    {
+      "message_id": 21906,
+      "filename": "884851567-2025학년도-한석원-4의규칙-기하-해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21906_884851567-2025.-.-4.-.-.pdf",
+      "size_bytes": 5255925,
+      "telegram_date": "2026-06-21T16:46:12+00:00",
+      "title": "수학 한석원 4의규칙 기하 해설",
+      "year": "2025",
+      "instructor": "한석원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21906.png",
+      "sha256": "a9d3e3731fc3aa27e3b13f38c7486b78b30411216954031690248123323e44a0"
     }
   ],
   "duplicate_message_ids": [
