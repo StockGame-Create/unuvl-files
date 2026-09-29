@@ -18801,6 +18801,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22569.png",
       "sha256": "2bc2607a44cf1128a8817ee78cbaadb808d821f96f17a76354b272cda60abcfa"
+    },
+    {
+      "message_id": 22568,
+      "filename": "2027_시대인재_엑셀러레이터_13_1회_2026_07_18_02_06_36_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22568_2027_._._13_1._2026_07_18_02_06_36_1.pdf",
+      "size_bytes": 1188326,
+      "telegram_date": "2026-07-18T14:42:45+00:00",
+      "title": "수학 시대인재 뉴엑셀러레이터 13-1 #엑셀",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22568.png",
+      "sha256": "0478d0d6ac025122c631cca4dab421dcc9b65feaf3b15715cac6802301ac8e89"
     }
   ],
   "duplicate_message_ids": [
