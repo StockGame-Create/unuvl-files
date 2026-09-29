@@ -29413,6 +29413,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/21343.png",
       "sha256": "50c90b610c5f05242fbd1f7c3f1cf81263f6fd55676d49835644d2dea74f27f1"
+    },
+    {
+      "message_id": 21340,
+      "filename": "김범준_6모_대비_모의고사_1회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21340_._6._._._1.pdf",
+      "size_bytes": 6607009,
+      "telegram_date": "2026-05-24T09:27:08+00:00",
+      "title": "수학 김범준 6모 대비 모의고사 1회 (폰스캔) #김범준모의고사",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21340.png",
+      "sha256": "c91f49c407c8921db2a0d9956be0e5e988c3a198128501ea9cf9b2ee6392dc25"
     }
   ],
   "duplicate_message_ids": [
