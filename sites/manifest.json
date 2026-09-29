@@ -26809,6 +26809,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21674.png",
       "sha256": "848b2109d12a199cfbb60ed50ee645d7f2a8a055143773cda4b3aa7bc4f8a705"
+    },
+    {
+      "message_id": 21672,
+      "filename": "2027_이해원_N제_시즌2_확률과_통계_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21672_2027_._N._.2_._._._._.pdf",
+      "size_bytes": 10301904,
+      "telegram_date": "2026-06-07T15:33:48+00:00",
+      "title": "수학 2027 이해원 N제 시즌2 확률과 통계",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21672.png",
+      "sha256": "6e844a9404dd17bf8dc2f7368a4cfe5b17619a92bee556e2bdbc313d08b1ef8d"
     }
   ],
   "duplicate_message_ids": [
