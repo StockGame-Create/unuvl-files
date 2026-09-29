@@ -19011,6 +19011,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22548.png",
       "sha256": "a6bbfc6c04a261a0c731e36978b74046395ebbab12c5feb1b999bcc63b90968c"
+    },
+    {
+      "message_id": 22547,
+      "filename": "26 이감 파이널1 1차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22547_26.1.1.pdf",
+      "size_bytes": 61765409,
+      "telegram_date": "2026-07-18T14:42:44+00:00",
+      "title": "국어 이감 파이널 시즌1 1차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22547.png",
+      "sha256": "134a23ba48bf0418f11ff3f98fc0b330b421cdb417bfb34e233a8f85ee61723d"
     }
   ],
   "duplicate_message_ids": [
