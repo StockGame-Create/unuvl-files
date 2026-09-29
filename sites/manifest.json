@@ -20103,6 +20103,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22445.png",
       "sha256": "ef24d4597f1486cda05979c1f95dda48a865e180e6790ed70d9ad25793d39d4b"
+    },
+    {
+      "message_id": 22443,
+      "filename": "사문 강k 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22443_.k.1.pdf",
+      "size_bytes": 8336942,
+      "telegram_date": "2026-07-16T07:39:46+00:00",
+      "title": "사문 강대모의고사K 1회  #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/22443.png",
+      "sha256": "f5cac48a63f9129c24d2a6c8c78b55ab3bb891a57d3f3203e52ac09ffcad5f74"
     }
   ],
   "duplicate_message_ids": [
