@@ -16225,6 +16225,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22848.png",
       "sha256": "06cc372c8caab3eb508e64aff332b26943f2523f370e6394d5e29b961ad90886"
+    },
+    {
+      "message_id": 22847,
+      "filename": "06. 한수 5차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22847_06.5.pdf",
+      "size_bytes": 71383587,
+      "telegram_date": "2026-07-27T04:26:45+00:00",
+      "title": "국어 한수모의고사 시즌1 3~5차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22847.png",
+      "sha256": "cda81935f4632b421c12cfc4b5a9345481631d608fad749020b6609ff4387de4"
     }
   ],
   "duplicate_message_ids": [
