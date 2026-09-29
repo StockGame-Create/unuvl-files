@@ -29399,6 +29399,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21345.png",
       "sha256": "287180dd8e60ffbe926e9186251b5b514d0f3cfb67c98c505fd0cee8d326fa27"
+    },
+    {
+      "message_id": 21343,
+      "filename": "무제 폴더.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21343_.pdf",
+      "size_bytes": 2621692,
+      "telegram_date": "2026-05-24T09:28:51+00:00",
+      "title": "물1 강민웅 특난도특강 현장 전용 모의고사",
+      "year": "2027",
+      "instructor": "강민웅",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/21343.png",
+      "sha256": "50c90b610c5f05242fbd1f7c3f1cf81263f6fd55676d49835644d2dea74f27f1"
     }
   ],
   "duplicate_message_ids": [
