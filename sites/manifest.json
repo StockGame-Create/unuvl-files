@@ -20705,6 +20705,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22357.png",
       "sha256": "56d9b53d11a05a570a926361be69c0a08d99d2d4f5485d95e066e429bbf9a44e"
+    },
+    {
+      "message_id": 22355,
+      "filename": "iteach4u_74219_물질과_에너지_본문_22개정2026판.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22355_iteach4u_74219_._._._22.2026.pdf",
+      "size_bytes": 90404875,
+      "telegram_date": "2026-07-11T15:19:44+00:00",
+      "title": "완자 22개정 물질과 에너지",
+      "year": null,
+      "instructor": null,
+      "subject": "물질과에너지",
+      "thumbnail": "thumbnails/22355.png",
+      "sha256": "c01f6948e96a329136525bc2726e3e3db5770c16df065912a1ff92c34ab12ba9"
     }
   ],
   "duplicate_message_ids": [
