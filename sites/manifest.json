@@ -20131,6 +20131,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22441.png",
       "sha256": "c5193ae10c9e0d306dd44045bb428c0f8cf1762e377195b06188835214a4fb03"
+    },
+    {
+      "message_id": 22440,
+      "filename": "생1 파이널브릿지 전국 1회_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22440_.1.1._.pdf",
+      "size_bytes": 2951146,
+      "telegram_date": "2026-07-15T02:22:51+00:00",
+      "title": "생1 시대인재 Final 브릿지 전국 모의고사 1회 #파브 (폰스캔)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22440.png",
+      "sha256": "3df20d1e911e3b61631c738129c6cf18b125e7b02923960a8fc3b391bac43b3c"
     }
   ],
   "duplicate_message_ids": [
