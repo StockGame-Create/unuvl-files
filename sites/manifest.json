@@ -20593,6 +20593,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22369.png",
       "sha256": "d23724f98b359c2f5cdf72c6b1f8ce58a290bc8c383f5450e0abda6c5b0399cc"
+    },
+    {
+      "message_id": 22367,
+      "filename": "개념플러스유형_기하_개념편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22367_._._.pdf",
+      "size_bytes": 16651381,
+      "telegram_date": "2026-07-11T15:19:45+00:00",
+      "title": "수학 개념 플러스 유형 기하",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22367.png",
+      "sha256": "6f76db8e936fc5d5e730cf3300b3c164fbcf28ac35de0384aef45d42c4894980"
     }
   ],
   "duplicate_message_ids": [
