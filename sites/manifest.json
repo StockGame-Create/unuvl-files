@@ -31163,6 +31163,20 @@
       "subject": "생활과윤리, 윤리와사상",
       "thumbnail": "thumbnails/21100.png",
       "sha256": "0443aeda21d8bf625c5e025b3ec37da2a9711e90c1f5b88542be06e8a30a0e9f"
+    },
+    {
+      "message_id": 21099,
+      "filename": "2027 쌍윤 선택자들을 위한 N제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21099_2027.N.pdf",
+      "size_bytes": 19089982,
+      "telegram_date": "2026-05-17T02:12:26+00:00",
+      "title": "생윤, 윤사 윤포생 300제 개괄",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리, 윤리와사상",
+      "thumbnail": "thumbnails/21099.png",
+      "sha256": "4a502f43068bf9d5bcd7648617381c7ba4522aa6b5a306d234d1dad42734c5ba"
     }
   ],
   "duplicate_message_ids": [
