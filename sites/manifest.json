@@ -29483,6 +29483,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/21335.png",
       "sha256": "af2673ff60adc8ad8a7a0c2272f22dfac8de200f2c4714d7c2b4fc6d482e0b2f"
+    },
+    {
+      "message_id": 21334,
+      "filename": "스캔 문서, 2026. 5. 24. 12.42.04.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21334_.2026.5.24.12.42.04.pdf",
+      "size_bytes": 9182922,
+      "telegram_date": "2026-05-24T05:16:20+00:00",
+      "title": "지1 OZ모의고사 시즌1 제3회",
+      "year": "2027",
+      "instructor": "오지훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/21334.png",
+      "sha256": "cb7d6728a0dcdf1b7785c70ed90a6a731fbfdbf6f43cb45b289be37bc9212e3d"
     }
   ],
   "duplicate_message_ids": [
