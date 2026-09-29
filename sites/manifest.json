@@ -27635,6 +27635,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21564.png",
       "sha256": "a530d4fc70c2d820959879e8fff418fbcde584c9e713d347388d31e4dd7ed08b"
+    },
+    {
+      "message_id": 21562,
+      "filename": "바탕 모의고사 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21562_.4.pdf",
+      "size_bytes": 21032363,
+      "telegram_date": "2026-06-01T09:48:30+00:00",
+      "title": "국어 바탕 4회 모의고사 (폰스캔) #바탕",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21562.png",
+      "sha256": "cce6d39ede1e5af232e0eab1982cb4a61186bbe73eb837fd0e484b82210a80de"
     }
   ],
   "duplicate_message_ids": [
