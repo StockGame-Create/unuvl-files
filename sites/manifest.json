@@ -20313,6 +20313,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22416.png",
       "sha256": "8410a394fb9bc51ec0ba990a87e5cfbd836e9e69728836de6168353ea7554794"
+    },
+    {
+      "message_id": 22414,
+      "filename": "2027_차영진_팔로워_기하_본권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22414_2027_._._._.pdf",
+      "size_bytes": 205186835,
+      "telegram_date": "2026-07-13T10:15:58+00:00",
+      "title": "수학 차영진 팔로워 기하",
+      "year": "2027",
+      "instructor": "차영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22414.png",
+      "sha256": "cb2c2bdc63b3fd7ec7101b965046a75f026829d2e4bc42c3f75d762c08ec5b9e"
     }
   ],
   "duplicate_message_ids": [
