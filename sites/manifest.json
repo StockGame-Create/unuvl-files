@@ -22441,6 +22441,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/22143.png",
       "sha256": "8f82c709823d4ec4beb8610fe08bbed36037af70a848d05ba50b083d9bd749af"
+    },
+    {
+      "message_id": 22141,
+      "filename": "자이스토리_사회와_문화.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22141_._._.pdf",
+      "size_bytes": 43792279,
+      "telegram_date": "2026-06-29T11:16:33+00:00",
+      "title": "사문 자이스토리 사회와 문화 (22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/22141.png",
+      "sha256": "efcbe713c1fb2ac9b16684387355a576c63ca9b91845de6bf36ccf8d6cb979bc"
     }
   ],
   "duplicate_message_ids": [
