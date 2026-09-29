@@ -25437,6 +25437,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/21850.png",
       "sha256": "0ad7dfd7422e40898679a5e11e878b098051b19f9a0c6f3e4b1f99c7a4dc98ee"
+    },
+    {
+      "message_id": 21848,
+      "filename": "2026년 엑셀레이터 8호.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21848_2026.8.pdf",
+      "size_bytes": 12785714,
+      "telegram_date": "2026-06-16T17:11:15+00:00",
+      "title": "국어 2027 엑셀러레이터 8호",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21848.png",
+      "sha256": "7459fbc7ba0d905318af0610524da0020eb0927e33e0588365913c4fb6006fa7"
     }
   ],
   "duplicate_message_ids": [
