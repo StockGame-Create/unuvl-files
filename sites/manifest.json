@@ -24821,6 +24821,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/21911.png",
       "sha256": "fa02f2bcd408863cbe0990c2d2454c8bd9d8968af1843be5657d18522ee2aea6"
+    },
+    {
+      "message_id": 21910,
+      "filename": "27대비26년_4월_시대전국모의_4교시_과탐_물리2_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21910_27.26._4._._4._._.2_.pdf",
+      "size_bytes": 634321,
+      "telegram_date": "2026-06-21T16:46:14+00:00",
+      "title": "물2 시대인재 4월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/21910.png",
+      "sha256": "0cc7f4c2e0400cf2591ee1e364def6ba43b3bfe3e4cf29f272c70f11ae4df9c1"
     }
   ],
   "duplicate_message_ids": [
