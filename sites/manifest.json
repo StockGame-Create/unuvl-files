@@ -21209,6 +21209,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22306.png",
       "sha256": "d252e806b458a34757e045d11dd0809131469180dd12b76705e5dbec3f477a88"
+    },
+    {
+      "message_id": 22304,
+      "filename": "2027 김재훈 문학 특강 수업자료 12주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22304_2027.12.pdf",
+      "size_bytes": 5742039,
+      "telegram_date": "2026-07-09T13:49:59+00:00",
+      "title": "국어 김재훈 문학 특강 12주차 수업자료",
+      "year": "2027",
+      "instructor": "김재훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22304.png",
+      "sha256": "1ddef0884a03aa9627ae3001ff84e4ecd6c67a45157cedbd7519832cdfc9d5b7"
     }
   ],
   "duplicate_message_ids": [
