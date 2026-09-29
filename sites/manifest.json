@@ -16589,6 +16589,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/22817.png",
       "sha256": "9652c15a4b28250af787a3447637fcf5d78b22a641bceec0499d9d0d4105c656"
+    },
+    {
+      "message_id": 22816,
+      "filename": "2027_시대인재_수능기출_문제집_경제_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22816_2027_._._._._.pdf",
+      "size_bytes": 215177687,
+      "telegram_date": "2026-07-26T17:28:27+00:00",
+      "title": "경제 시대인재 수능기출 문제집",
+      "year": "2027",
+      "instructor": null,
+      "subject": "경제",
+      "thumbnail": "thumbnails/22816.png",
+      "sha256": "c24c8d1aaeb8b830cc5a1e516f08bb8117a3a8e8cc0cd582567bb341040294fb"
     }
   ],
   "duplicate_message_ids": [
