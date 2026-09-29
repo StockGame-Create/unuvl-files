@@ -17765,6 +17765,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22705.png",
       "sha256": "74940d7eb151d45f4e59d0741024ef05b5630b4b16bcd2db5ac6f3611431c609"
+    },
+    {
+      "message_id": 22702,
+      "filename": "2027학년도_7월_전국_대단위_실전_모의고사_수학영역_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22702_2027._7._._._._._._.pdf",
+      "size_bytes": 15599106,
+      "telegram_date": "2026-07-24T13:32:22+00:00",
+      "title": "수학 7월 전국 대단위 실전 모의고사 #전대실모",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22702.png",
+      "sha256": "aba713b386f29727c1659dd0ec6ee571bc41ba16f1d24ed6cbc640c5d1ac68ca"
     }
   ],
   "duplicate_message_ids": [
