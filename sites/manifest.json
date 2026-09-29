@@ -26291,6 +26291,20 @@
       "subject": "직업탐구",
       "thumbnail": "thumbnails/21735.png",
       "sha256": "403e84147f4f1daaf057cd028c3a0f5534a362e226a69e9d45968cf283254379"
+    },
+    {
+      "message_id": 21734,
+      "filename": "2027 수능완성 지구과학 II 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21734_2027.II.pdf",
+      "size_bytes": 21397544,
+      "telegram_date": "2026-06-10T16:28:01+00:00",
+      "title": "과탐 2027 수능완성 과학탐구영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/21734.png",
+      "sha256": "c9d1a8f90a59d30caf10ef010229984c2ef61c2bf8cd65a5c3f36ab0be91554b"
     }
   ],
   "duplicate_message_ids": [
