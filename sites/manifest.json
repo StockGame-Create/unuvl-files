@@ -19837,6 +19837,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22474.png",
       "sha256": "f1a1594019724afbbc1b1d4327ed800bcb2e37ea1d8117a392439e43dd96983a"
+    },
+    {
+      "message_id": 22472,
+      "filename": "단원별_생명과학_기출_분석집_신경전도_편_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22472_._._._._._._.pdf",
+      "size_bytes": 6596717,
+      "telegram_date": "2026-07-16T07:39:47+00:00",
+      "title": "생1 생명과학 LAB 신경전도",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22472.png",
+      "sha256": "cd8bd6fa9a364f920e1f78f10ac69f21fb0286070b65b14f5164f6eeb424f41e"
     }
   ],
   "duplicate_message_ids": [
