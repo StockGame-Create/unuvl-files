@@ -22133,6 +22133,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22173.png",
       "sha256": "506b29b188b8853dd84be95213eda2c8dff3871e411683b345f48459fb29baa2"
+    },
+    {
+      "message_id": 22172,
+      "filename": "download-proxy.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22172_download-proxy.pdf",
+      "size_bytes": 420781,
+      "telegram_date": "2026-07-01T00:43:15+00:00",
+      "title": "수학 강기원T 수학1 특강 1주차 Review Test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22172.png",
+      "sha256": "f456a29f4672281d82c38ae47f03281a144295908c550db9796fd7df657e48a8"
     }
   ],
   "duplicate_message_ids": [
