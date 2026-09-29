@@ -24205,6 +24205,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21995.png",
       "sha256": "c4b026dd7cf79f90591d30a3247e911271a473a706c4684b5240480031d01bcc"
+    },
+    {
+      "message_id": 21994,
+      "filename": "2027_김현우_스탠다드_모의고사_03회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21994_2027_._._._03.pdf",
+      "size_bytes": 7754752,
+      "telegram_date": "2026-06-28T03:29:07+00:00",
+      "title": "수학 김현우 스탠다드 모의고사 3회 (인쇄소퀄)",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21994.png",
+      "sha256": "3dad936b46305b57334a6d8787a98e4b03c97a5ffeb6b8a132a7c5c9df734fbf"
     }
   ],
   "duplicate_message_ids": [
