@@ -30939,6 +30939,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21132.png",
       "sha256": "93b9c0798c7949ab1f2163644ee0dfc8c9ff76514e6e9317177be4a88d6b19f1"
+    },
+    {
+      "message_id": 21130,
+      "filename": "강민철의_아이트레킹_독서해설편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21130_._._.pdf",
+      "size_bytes": 136285811,
+      "telegram_date": "2026-05-19T01:18:02+00:00",
+      "title": "국어 강민철의 아이트래킹 독서",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21130.png",
+      "sha256": "1bc0cd99d6e54ee95ede8fa6ced49680f86bbea9da381e525dfd2ae30a737b05"
     }
   ],
   "duplicate_message_ids": [
