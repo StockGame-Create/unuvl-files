@@ -18451,6 +18451,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22620.png",
       "sha256": "b63121e2fddc553899a458f657d52714b9bd0653b8ec747722b3aee8aaebd375"
+    },
+    {
+      "message_id": 22619,
+      "filename": "메가스터디 E분석노트 수능완성 문학_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22619_.E._.pdf",
+      "size_bytes": 172548107,
+      "telegram_date": "2026-07-21T22:34:17+00:00",
+      "title": "국어 메가스터디 E분석노트 수능완성 문학",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22619.png",
+      "sha256": "d0dc2a7d9365ca548970aa0a3cc2b955c759ca19a0181630d76672054d7e37b2"
     }
   ],
   "duplicate_message_ids": [
