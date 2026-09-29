@@ -22595,6 +22595,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22122.png",
       "sha256": "8301a65012958ddbbf983f44d2e964428ed37c087dc20e0fdfdaeed514ff6b05"
+    },
+    {
+      "message_id": 22119,
+      "filename": "리비에스 독서 (하).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22119_.pdf",
+      "size_bytes": 147027680,
+      "telegram_date": "2026-06-28T16:14:29+00:00",
+      "title": "국어 강은양 rebs 독서 (하)",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22119.png",
+      "sha256": "2ca9ae4546945266885f7cb2a8e6844a7f650ee583315c24a63bf36b9d4e1320"
     }
   ],
   "duplicate_message_ids": [
