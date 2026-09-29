@@ -20957,6 +20957,20 @@
       "subject": "역학과에너지",
       "thumbnail": "thumbnails/22332.png",
       "sha256": "76a8ba09f5280666edc50686c60ede7058fbdf8c9caf7968fd3fedd35ef65468"
+    },
+    {
+      "message_id": 22330,
+      "filename": "2027 4월 서바프로 국어 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22330_2027.4.pdf",
+      "size_bytes": 21179598,
+      "telegram_date": "2026-07-10T15:24:40+00:00",
+      "title": "국어 시대인재 4월 전국모의평가 해설 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22330.png",
+      "sha256": "c5b696875f40b36ccbe54fca9d88caccee237cd97c1e4bad6682de44a3f548ff"
     }
   ],
   "duplicate_message_ids": [
