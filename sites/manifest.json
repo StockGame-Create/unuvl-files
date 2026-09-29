@@ -21685,6 +21685,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22240.png",
       "sha256": "1867aa7cdabf89822acfb737a26f31aee0ced6a1473919daa16edd3805626793"
+    },
+    {
+      "message_id": 22238,
+      "filename": "C26EC59249LA021_1JUN.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22238_C26EC59249LA021_1JUN.PDF",
+      "size_bytes": 4145777,
+      "telegram_date": "2026-07-05T14:36:43+00:00",
+      "title": "세지 이것이 위치다 모의고사 2회차 세계지리",
+      "year": "2027",
+      "instructor": "이기상",
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/22238.png",
+      "sha256": "2e7a69b71108c7a6ee33320ed50f13f722a15ddf8bd65acdb066bc6cdfa06a7f"
     }
   ],
   "duplicate_message_ids": [
