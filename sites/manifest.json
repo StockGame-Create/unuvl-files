@@ -27033,6 +27033,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21643.png",
       "sha256": "ef7fddbd2a229eb4c5b4daca711c33604b2e8446cd84c805f6cde7e88b2011c6"
+    },
+    {
+      "message_id": 21642,
+      "filename": "개념_때려잡기_미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21642_._._.pdf",
+      "size_bytes": 53969302,
+      "telegram_date": "2026-06-06T06:19:30+00:00",
+      "title": "수학 2027 개념때려잡기 미적분 #개때잡",
+      "year": "2027",
+      "instructor": "정승제",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21642.png",
+      "sha256": "38ecc3b52e7a3ad1f86a9e8c4311dabfae91ab104d39879193a73df9942877ca"
     }
   ],
   "duplicate_message_ids": [
