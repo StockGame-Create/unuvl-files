@@ -24625,6 +24625,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/21939.png",
       "sha256": "64f60c4d52c33f8d3ee8ef0d36ea01254005dcdeabd69d33414700df35222eec"
+    },
+    {
+      "message_id": 21936,
+      "filename": "2027_설맞이_아카이브_수학1_시즌2_정답과_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21936_2027_._._.1_.2_._.pdf",
+      "size_bytes": 12886782,
+      "telegram_date": "2026-06-25T04:11:46+00:00",
+      "title": "수학 FOR 2027 SEASON2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21936.png",
+      "sha256": "76e272404be3f68ad138bbac14faa3e07fa3c1c256391b4ed386f30d754b763b"
     }
   ],
   "duplicate_message_ids": [
