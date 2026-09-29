@@ -18647,6 +18647,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22586.png",
       "sha256": "ec97f1c60257911a841ed856ff55e27e2437ea6814caf8e184d96496e7115113"
+    },
+    {
+      "message_id": 22583,
+      "filename": "Lcs Cc 2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22583_Lcs.Cc.2.pdf",
+      "size_bytes": 3052019,
+      "telegram_date": "2026-07-18T14:42:46+00:00",
+      "title": "생1 LCS Challenge Crushers 2회",
+      "year": "2027",
+      "instructor": "김연호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22583.png",
+      "sha256": "8245a8faa4261f546957ae976f63afe0c9dfd4d43d2e13b97b202eef719b9d17"
     }
   ],
   "duplicate_message_ids": [
