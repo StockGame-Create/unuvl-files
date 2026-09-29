@@ -22539,6 +22539,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22131.png",
       "sha256": "1e3558fad947bf3fbd6c38d5c7dc4ffc29ff2efca4575a1e4d1f15826efd5ec3"
+    },
+    {
+      "message_id": 22129,
+      "filename": "2027_손창빈_시즌1_10주차_본교재.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22129_2027_._.1_10._.pdf",
+      "size_bytes": 116794650,
+      "telegram_date": "2026-06-29T06:29:27+00:00",
+      "title": "국어 손창빈 시즌1 10 주간교재",
+      "year": "2027",
+      "instructor": "손창빈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22129.png",
+      "sha256": "470ce7b7f89723afd52ff736ba4cd0627dbc66fa00edb33dc0912207b562c10c"
     }
   ],
   "duplicate_message_ids": [
