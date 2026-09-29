@@ -22259,6 +22259,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22160.png",
       "sha256": "9ec38ffa520bdbf27c72a7e93e127cfc050de2635f36a2adc502636d07ea23c0"
+    },
+    {
+      "message_id": 22159,
+      "filename": "2027학년도_6월_서바이벌프로_모의고사_과학탐구_영역.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22159_2027._6._._._._.pdf",
+      "size_bytes": 40150905,
+      "telegram_date": "2026-06-30T16:32:28+00:00",
+      "title": "과탐 시대인재 6월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/22159.png",
+      "sha256": "ab9161dcfb3d4e87f6d4a775f240752042c3501a3f5d80585431db6c438404be"
     }
   ],
   "duplicate_message_ids": [
