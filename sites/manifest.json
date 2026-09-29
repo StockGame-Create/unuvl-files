@@ -19067,6 +19067,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22541.png",
       "sha256": "c25014916e3ef91ee8c5659dba52f7d62055193801ce7110967916e4e992bf05"
+    },
+    {
+      "message_id": 22540,
+      "filename": "전국서바 지1 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22540_.1.2.pdf",
+      "size_bytes": 1287251,
+      "telegram_date": "2026-07-18T14:42:44+00:00",
+      "title": "지1 시대인재 서바이벌 전국 모의고사 2회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22540.png",
+      "sha256": "f5684959c7a80f877734337b67cf2af72d001fc661f0d833f60d64f49174e5e4"
     }
   ],
   "duplicate_message_ids": [
