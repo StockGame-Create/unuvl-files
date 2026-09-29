@@ -19977,6 +19977,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/22459.png",
       "sha256": "e1861d8b04ebe1d0e88a258a2e3b316e048af5de373da1f46449980e557fa544"
+    },
+    {
+      "message_id": 22457,
+      "filename": "27 데이브레이크 박선 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22457_27.1.pdf",
+      "size_bytes": 4837634,
+      "telegram_date": "2026-07-16T07:39:46+00:00",
+      "title": "지1 박선 DAYBREAK 1회",
+      "year": "2027",
+      "instructor": "박선",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22457.png",
+      "sha256": "b79404c3a0369497005142ad26be921be98808ff7f010eb0f66ea292b3dc4d72"
     }
   ],
   "duplicate_message_ids": [
