@@ -29357,6 +29357,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21350.png",
       "sha256": "16d6df74088286b164b88ef233a083fd1e04b85ef4ca5ec6844dd34951045f5d"
+    },
+    {
+      "message_id": 21348,
+      "filename": "lcs core 6회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21348_lcs.core.6.pdf",
+      "size_bytes": 16008920,
+      "telegram_date": "2026-05-24T11:48:44+00:00",
+      "title": "생1 김연호 LCS  EE CORE 6회",
+      "year": "2027",
+      "instructor": "김연호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/21348.png",
+      "sha256": "9ae4880bda6305ed9bc4d815a67c7540ec9e3021b8e8e550af73450933c0ab4c"
     }
   ],
   "duplicate_message_ids": [
