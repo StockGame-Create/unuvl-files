@@ -18563,6 +18563,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22608.png",
       "sha256": "d1a0faa4349c26aa41a7aec4ce1c45b3dc8caa1d1e28bba393c9fbb8f9dc3c66"
+    },
+    {
+      "message_id": 22607,
+      "filename": "2027 강대k 국어 1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22607_2027.k.1.pdf",
+      "size_bytes": 20040315,
+      "telegram_date": "2026-07-19T19:18:41+00:00",
+      "title": "국어 강대모의고사K 1회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22607.png",
+      "sha256": "d236dc665aa532332f6b98b69c786a3810f9caff8b630f5c9783aa1ab1d93177"
     }
   ],
   "duplicate_message_ids": [
