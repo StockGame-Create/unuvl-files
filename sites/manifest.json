@@ -18591,6 +18591,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22606.png",
       "sha256": "a5368954b9c5813ac18eee9f61f2e09396caaf34cf397e1cf6014383b1176815"
+    },
+    {
+      "message_id": 22605,
+      "filename": "2027 강대k 국어 3회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22605_2027.k.3.pdf",
+      "size_bytes": 9738812,
+      "telegram_date": "2026-07-19T19:18:40+00:00",
+      "title": "국어 강대모의고사K 3회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22605.png",
+      "sha256": "80e481fe943fc70eb87905717bfb7caceb73249147a9cda9c98e74226a16be25"
     }
   ],
   "duplicate_message_ids": [
