@@ -18143,6 +18143,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22658.png",
       "sha256": "7ce9f9f9cdc8cb35d8cab77f852258bb39b0c8d0252c7c50f26dac94ce600d0f"
+    },
+    {
+      "message_id": 22656,
+      "filename": "OZ모의고사 시즌1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22656_OZ.1.pdf",
+      "size_bytes": 81474949,
+      "telegram_date": "2026-07-21T22:35:22+00:00",
+      "title": "지1 오지훈 OZ 모의고사 시즌1 통합본",
+      "year": "2027",
+      "instructor": "오지훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22656.png",
+      "sha256": "0db22f975e1c4d79648409bcf344cf2852f5bc2c26ebf264b4be5028dd47370f"
     }
   ],
   "duplicate_message_ids": [
