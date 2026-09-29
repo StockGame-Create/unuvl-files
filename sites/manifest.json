@@ -28769,6 +28769,20 @@
       "subject": "생명과학1 + 지구과학1",
       "thumbnail": "thumbnails/21428.png",
       "sha256": "2598841e984c853a36eab97d410343fab1525f26786f62ce2f446103cdddedb0"
+    },
+    {
+      "message_id": 21427,
+      "filename": "5월 서프 지구1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21427_5.1.pdf",
+      "size_bytes": 8289529,
+      "telegram_date": "2026-05-27T23:42:58+00:00",
+      "title": "생1 + 지1 시대인재 5월 전국모의평가 (인쇄소퀄) #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1 + 지구과학1",
+      "thumbnail": "thumbnails/21427.png",
+      "sha256": "26eb5721fe095f0a08517729ba486239c0a2a7f020a5c8eb5adc04736dbbc8c6"
     }
   ],
   "duplicate_message_ids": [
