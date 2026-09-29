@@ -17023,6 +17023,20 @@
       "subject": "러시아어",
       "thumbnail": "thumbnails/22769.png",
       "sha256": "a0170c1e36d6e359c3a901386168ee17f18b885ff943a83314decf731e322d5f"
+    },
+    {
+      "message_id": 22768,
+      "filename": "CamScanner 2026. 07. 25. 19.17.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22768_CamScanner.2026.07.25.19.17.pdf",
+      "size_bytes": 6678528,
+      "telegram_date": "2026-07-25T12:06:28+00:00",
+      "title": "수학 시대인재 서바이벌 전국 2회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22768.png",
+      "sha256": "c8ac2f4c6ae6d6b05bfd1531a4e9926362ad69affbdba904d1ae06f3039bf97d"
     }
   ],
   "duplicate_message_ids": [
