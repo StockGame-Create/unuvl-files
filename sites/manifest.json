@@ -27103,6 +27103,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21638.png",
       "sha256": "e30e86349dbeb0450e8a7d00db222df2f0bc5db875c3520b60b3fe153567a417"
+    },
+    {
+      "message_id": 21629,
+      "filename": "2027수능_한완수_수학1하_실전개념_본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21629_2027._._.1._._.pdf",
+      "size_bytes": 21762504,
+      "telegram_date": "2026-06-04T14:38:26+00:00",
+      "title": "수학 한완수 수1 (하)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21629.png",
+      "sha256": "78ca6b5a979a340b8bc22825906d9abd19d1151256124f668769ecb7f8301bb1"
     }
   ],
   "duplicate_message_ids": [
