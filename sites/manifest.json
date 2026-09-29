@@ -29875,6 +29875,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21287.png",
       "sha256": "8d5d2c40612bb4d886f92b1ad6bc8cfbd7a1e4bf517a84da016f2691990ff0ae"
+    },
+    {
+      "message_id": 21285,
+      "filename": "브릿지전국 15회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21285_.15.pdf",
+      "size_bytes": 5383767,
+      "telegram_date": "2026-05-22T14:21:12+00:00",
+      "title": "수학 시대인지 브릿지 전국 모의고사 15~16회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21285.png",
+      "sha256": "26bb0e443d82cbdb3d74f4280b2a8f0ad9d378529f3b866fd4346153a48ad9af"
     }
   ],
   "duplicate_message_ids": [
