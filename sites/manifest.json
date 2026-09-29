@@ -18661,6 +18661,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22583.png",
       "sha256": "8245a8faa4261f546957ae976f63afe0c9dfd4d43d2e13b97b202eef719b9d17"
+    },
+    {
+      "message_id": 22580,
+      "filename": "2027_이뮨_문학_연계_모의고사_시즌2_1회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22580_2027_._._._._.2_1._.pdf",
+      "size_bytes": 2468181,
+      "telegram_date": "2026-07-18T14:42:46+00:00",
+      "title": "국어 이뮨 연계 모의고사 시즌2 1회",
+      "year": "2027",
+      "instructor": "유대종",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22580.png",
+      "sha256": "ca1d3357cb9bea04bbfd1b7de301b4804f45c9cf90a673e0e86bb53fc7fed3a7"
     }
   ],
   "duplicate_message_ids": [
