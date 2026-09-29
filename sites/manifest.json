@@ -20691,6 +20691,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22358.png",
       "sha256": "a66654b53c9dfe8b51236e1fd90f42bf60f900761377ac3abec4b57f9d1e4728"
+    },
+    {
+      "message_id": 22357,
+      "filename": "760370607-블랙라벨-수학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22357_760370607-.-.2.pdf",
+      "size_bytes": 23562196,
+      "telegram_date": "2026-07-11T15:19:44+00:00",
+      "title": "수학 블랙라벨 수학2",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22357.png",
+      "sha256": "56d9b53d11a05a570a926361be69c0a08d99d2d4f5485d95e066e429bbf9a44e"
     }
   ],
   "duplicate_message_ids": [
