@@ -20817,6 +20817,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22345.png",
       "sha256": "0379a5c5c8364d1d580c431a25b7d31a7f619f98981a78916a7632672418c573"
+    },
+    {
+      "message_id": 22344,
+      "filename": "설맞이_아카이브_기하_Ver_26.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22344_._._._Ver_26.pdf",
+      "size_bytes": 127470132,
+      "telegram_date": "2026-07-11T11:21:10+00:00",
+      "title": "수학 FOR 2026 설맞이 아카이브 기하",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22344.png",
+      "sha256": "a952b9a79eef68852f4545d908dff8208e6b7436dd6a37a10f3d5813e9b69d2c"
     }
   ],
   "duplicate_message_ids": [
