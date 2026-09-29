@@ -17779,6 +17779,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22702.png",
       "sha256": "aba713b386f29727c1659dd0ec6ee571bc41ba16f1d24ed6cbc640c5d1ac68ca"
+    },
+    {
+      "message_id": 22699,
+      "filename": "세지 파브 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22699_.1.pdf",
+      "size_bytes": 3359044,
+      "telegram_date": "2026-07-24T07:49:59+00:00",
+      "title": "세지 파이널 브릿지 전국 모의고사 1회 #파브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/22699.png",
+      "sha256": "4935ae9f636ebbd4ff9a36219962d13fbb7253a0b1baeebd303af4ebb0ebba61"
     }
   ],
   "duplicate_message_ids": [
