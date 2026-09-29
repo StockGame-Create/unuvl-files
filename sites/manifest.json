@@ -20075,6 +20075,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/22448.png",
       "sha256": "77a806325062fa3a3e6c91b876344beb70053c70cc6afe276acc2cb8257ff320"
+    },
+    {
+      "message_id": 22446,
+      "filename": "22개정고등_유형_해결의법칙_공통수학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22446_22._._._.2.pdf",
+      "size_bytes": 59890237,
+      "telegram_date": "2026-07-16T07:39:46+00:00",
+      "title": "수학 유형 해결의 법칙 공통수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22446.png",
+      "sha256": "714df204e6ac4b7e11baff0a41e8a0eccc7608bfad0c112ddc556cb46dba4a68"
     }
   ],
   "duplicate_message_ids": [
