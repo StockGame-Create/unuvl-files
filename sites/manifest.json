@@ -29161,6 +29161,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21372.png",
       "sha256": "7b18fa31139ad345366c40aed6d9e60ba39a59dda86eaad61e7963ac7cfc06f2"
+    },
+    {
+      "message_id": 21371,
+      "filename": "국어_6모대비_서바_1회_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21371_._6._._1._.pdf",
+      "size_bytes": 95223643,
+      "telegram_date": "2026-05-26T16:05:52+00:00",
+      "title": "국어 시대인재 서바이벌 6월 대비 모의고사 1회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21371.png",
+      "sha256": "c99922a5dcfe6a4c79a1855eac54e8b7999af2a3acfb1fbc782cb055095e0602"
     }
   ],
   "duplicate_message_ids": [
