@@ -27845,6 +27845,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21537.png",
       "sha256": "5119504c484d6ac5d65e0394696db14e8aa4f7081ca5eade865e777aa2dfed12"
+    },
+    {
+      "message_id": 21536,
+      "filename": "이해원 6평대비 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21536_.6.pdf",
+      "size_bytes": 55684904,
+      "telegram_date": "2026-05-30T18:13:52+00:00",
+      "title": "수학 이해원 모의고사 6월 모의평가 대비 (인쇄소퀄) #이해원모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21536.png",
+      "sha256": "23d457419b19e5cab9462c3ac46f6d932d4e08f918105ef28cc9b1182bd6567d"
     }
   ],
   "duplicate_message_ids": [
