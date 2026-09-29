@@ -22049,6 +22049,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22196.png",
       "sha256": "2bd392acf9c489131a2f598c1f4bbc6cd363f2a3de7223b3d5659c5ee4d7f6d5"
+    },
+    {
+      "message_id": 22195,
+      "filename": "2027_HALO-Nje_SEASON1_Solution.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22195_2027_HALO-Nje_SEASON1_Solution.pdf",
+      "size_bytes": 23134193,
+      "telegram_date": "2026-07-02T11:13:12+00:00",
+      "title": "수학 헤일로 N제 시즌 1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22195.png",
+      "sha256": "4ad78944a73035e40ddeed09b51de292f7ed90421341a9d9a863c4d7f442588f"
     }
   ],
   "duplicate_message_ids": [
