@@ -30183,6 +30183,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21226.png",
       "sha256": "64a3fa5bf1c04461c527756b157d399679d8a0da2cf522b512acffc3bd14bcdb"
+    },
+    {
+      "message_id": 21225,
+      "filename": "물2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21225_.2.pdf",
+      "size_bytes": 1343587,
+      "telegram_date": "2026-05-21T07:50:09+00:00",
+      "title": "THE PREMIUM 5월 모의고사 과학탐구 (인쇄소퀄) #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/21225.png",
+      "sha256": "ed65056cc256a50a1ed2cfa4f74a33fce42c172969a470b204ccd85365400e54"
     }
   ],
   "duplicate_message_ids": [
