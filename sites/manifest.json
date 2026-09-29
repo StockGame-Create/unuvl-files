@@ -26865,6 +26865,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/21668.png",
       "sha256": "f32225a25ad45740584db815d930cf42e0955c90176feb9d1a28d7c12419af0f"
+    },
+    {
+      "message_id": 21666,
+      "filename": "2027 김대순 현장 하프모고 2회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21666_2027.2.pdf",
+      "size_bytes": 374241,
+      "telegram_date": "2026-06-07T15:33:48+00:00",
+      "title": "영어 김대순 메다닥 하프모의고사 2회",
+      "year": "2027",
+      "instructor": "김대순",
+      "subject": "영어",
+      "thumbnail": "thumbnails/21666.png",
+      "sha256": "64b13c2507184477149075a07f1b7532dfb63b8c683170eefca973166a30b12c"
     }
   ],
   "duplicate_message_ids": [
