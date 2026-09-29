@@ -19207,6 +19207,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22525.png",
       "sha256": "9b184794f92f14acfafc006fb160c7ef43d01ac6656a99983c110e3369e32a6b"
+    },
+    {
+      "message_id": 22524,
+      "filename": "26 7월 대성 수학 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22524_26.7.pdf",
+      "size_bytes": 2173605,
+      "telegram_date": "2026-07-16T14:25:51+00:00",
+      "title": "수학 THE PREMIUM 7월 모의고사 문제지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22524.png",
+      "sha256": "cb20339432127e9b6b472c7e6172801b645712bac42e855dc95eaf625ee558f9"
     }
   ],
   "duplicate_message_ids": [
