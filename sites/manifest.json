@@ -21769,6 +21769,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22226.png",
       "sha256": "cb128f1bbc7b0839fcb67869c52bd4afc17563c57e34c7546611e8b6a4121952"
+    },
+    {
+      "message_id": 22224,
+      "filename": "22개정고등_유형해결의법칙_대수_정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22224_22._._._.pdf",
+      "size_bytes": 6535119,
+      "telegram_date": "2026-07-04T09:54:03+00:00",
+      "title": "수학 유형 해결의 법칙 대수",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22224.png",
+      "sha256": "9c47d12af62df0148289b3ad8ca5525cfd0b226459cf47467fd1212bb626165b"
     }
   ],
   "duplicate_message_ids": [
