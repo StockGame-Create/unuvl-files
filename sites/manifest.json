@@ -25381,6 +25381,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21857.png",
       "sha256": "b87dbe70c939cd1f551c013b4af3b138910d02d797899ff92d1d7397aa0a4153"
+    },
+    {
+      "message_id": 21855,
+      "filename": "이다지도_확실한_통합사회_고2_6월_학평_분석집.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21855_._._._.2_6._._.pdf",
+      "size_bytes": 14606374,
+      "telegram_date": "2026-06-17T16:00:48+00:00",
+      "title": "통사 이다지 2026 고2 6월 학평 분석서",
+      "year": "2027",
+      "instructor": "이다지",
+      "subject": "통합사회",
+      "thumbnail": "thumbnails/21855.png",
+      "sha256": "d97b2b479593bdd3f0f7674f93d94f6505e1b39c697b8d21d33fca013bcafa4a"
     }
   ],
   "duplicate_message_ids": [
