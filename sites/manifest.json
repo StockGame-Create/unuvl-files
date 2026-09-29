@@ -20635,6 +20635,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22365.png",
       "sha256": "f7b49ffbe5907d0985e9935d69f0792198aff45fd26a969df5fd6994fe61e607"
+    },
+    {
+      "message_id": 22363,
+      "filename": "서바이벌_모의고사_리부트_1회_해설_폰스캔.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22363_._._._1._._.pdf",
+      "size_bytes": 1718773,
+      "telegram_date": "2026-07-11T15:19:45+00:00",
+      "title": "수학 시대인재 서바이벌 리부트 모의고사 1회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22363.png",
+      "sha256": "bedacdf932cf2919c29363b9ce046fb37654aa23565b050e66b024881a2ade41"
     }
   ],
   "duplicate_message_ids": [
