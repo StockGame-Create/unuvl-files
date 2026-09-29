@@ -18619,6 +18619,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22604.png",
       "sha256": "1ee70f2de22dc4c1b539328e5ed0e18b95d57340b71acea8109b9f47ddc952b4"
+    },
+    {
+      "message_id": 22587,
+      "filename": "메가스터디 E실전 문학133제_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22587_.E.133._.pdf",
+      "size_bytes": 161482677,
+      "telegram_date": "2026-07-18T14:42:46+00:00",
+      "title": "국어 메가스터디 E실전 문학 133제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22587.png",
+      "sha256": "c33d3218e97438d3cf733f21c7556867589fed0d22e5bc55c32857bbea3e2d55"
     }
   ],
   "duplicate_message_ids": [
