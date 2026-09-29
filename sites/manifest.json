@@ -24905,6 +24905,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/21902.png",
       "sha256": "2d76e57c1dfa3f796aa55581222de628c790459f0f1c2186a56d244e119db3de"
+    },
+    {
+      "message_id": 21901,
+      "filename": "2027 현정훈 스팀팩 6.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21901_2027.6.pdf",
+      "size_bytes": 11471780,
+      "telegram_date": "2026-06-21T13:33:55+00:00",
+      "title": "물1 현정훈 STIMPACK 2027 1~4 주차, 6~10 주차",
+      "year": "2027",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/21901.png",
+      "sha256": "891c9184bd1a244a81ba5b3b3d73758e6901942fb51f75a3f2fc0e21a24b15b4"
     }
   ],
   "duplicate_message_ids": [
