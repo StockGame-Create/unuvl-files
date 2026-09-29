@@ -21993,6 +21993,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22203.png",
       "sha256": "17ea6f4bad84b971692cfb986904ca059eae60a6d4908c8b061600876568099d"
+    },
+    {
+      "message_id": 22200,
+      "filename": "블리츠 S1 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22200_.S1.3.pdf",
+      "size_bytes": 4668450,
+      "telegram_date": "2026-07-02T14:38:32+00:00",
+      "title": "생1 BLITZ 3회",
+      "year": "2027",
+      "instructor": "홍준용",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22200.png",
+      "sha256": "eba229a55357ced9400a38862b8917326d847508903b6de18a4d8e9a0ee75bad"
     }
   ],
   "duplicate_message_ids": [
