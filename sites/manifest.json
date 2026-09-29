@@ -31135,6 +31135,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21103.png",
       "sha256": "8e8d1ec9f7c1e3f031b1b1d897d559e05a55422100b5771675423a0e21deba6d"
+    },
+    {
+      "message_id": 21102,
+      "filename": "블랙라벨 공통수학1 본책_251227_112411.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21102_.1._251227_112411.pdf",
+      "size_bytes": 6530013,
+      "telegram_date": "2026-05-17T02:13:45+00:00",
+      "title": "수학 블랙라벨 공통수학1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21102.png",
+      "sha256": "ea4d6a35308748315127a4d9b20023930f20f66db6816225eac51f68fbed1605"
     }
   ],
   "duplicate_message_ids": [
