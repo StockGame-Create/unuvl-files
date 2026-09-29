@@ -21895,6 +21895,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22215.png",
       "sha256": "0a81499c4d12f394ed476bf1a505d68e8eec5caa99dc5fb0086ce815c7f4a904"
+    },
+    {
+      "message_id": 22214,
+      "filename": "2027 Extension 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22214_2027.Extension.1.pdf",
+      "size_bytes": 16682636,
+      "telegram_date": "2026-07-03T00:10:29+00:00",
+      "title": "수학 최지욱 Extension 1회",
+      "year": "2027",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22214.png",
+      "sha256": "33bed635f1f40172676641bab2cd7a83efce42560a51480a24e259662b6bd24a"
     }
   ],
   "duplicate_message_ids": [
