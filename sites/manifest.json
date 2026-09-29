@@ -25717,6 +25717,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21794.png",
       "sha256": "e778d00af043387270c505201344f87cdcc810c8cf20153861f88fb60431f0f3"
+    },
+    {
+      "message_id": 21792,
+      "filename": "2027 이감 4-1 정답및해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21792_2027.4-1.pdf",
+      "size_bytes": 8464797,
+      "telegram_date": "2026-06-13T10:25:13+00:00",
+      "title": "국어 이감 국어 모의고사 시즌4 제1차 예비평가  #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21792.png",
+      "sha256": "30fb729a6bc5e9a0471ad9cba4da93d25751dc54caa09d64a9e318573d417b21"
     }
   ],
   "duplicate_message_ids": [
