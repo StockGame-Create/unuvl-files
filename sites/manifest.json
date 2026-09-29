@@ -29049,6 +29049,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/21393.png",
       "sha256": "6bde662362051fb52ad6efce0033c2c86137f0a8111458db4b5c9242c5bd1e5b"
+    },
+    {
+      "message_id": 21390,
+      "filename": "마피 2027 ZERO 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21390_.2027.ZERO.1.pdf",
+      "size_bytes": 9206083,
+      "telegram_date": "2026-05-27T07:02:12+00:00",
+      "title": "영어 마스터피스 모의고사 시즌 zero 1회",
+      "year": "2027",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/21390.png",
+      "sha256": "d46098b68106d900909a3ad15470b835654d24dfa777e13dd49a862665ebbfa4"
     }
   ],
   "duplicate_message_ids": [
