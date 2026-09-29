@@ -22973,6 +22973,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22089.png",
       "sha256": "35804f244edea0a5359453abd2c3a079946064e1f1c5376b64057830377d9ea8"
+    },
+    {
+      "message_id": 22088,
+      "filename": "2027 유신 시즌1 글읽기의 3원리 07주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22088_2027.1.3.07.pdf",
+      "size_bytes": 157909563,
+      "telegram_date": "2026-06-28T15:38:40+00:00",
+      "title": "국어 유신 글읽기의 3원리 3~10주차",
+      "year": "2027",
+      "instructor": "유신",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22088.png",
+      "sha256": "cafbcf0d245dcb54478c82284e0ff9b635a8364f88f312f7475969209a2f32cb"
     }
   ],
   "duplicate_message_ids": [
