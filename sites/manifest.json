@@ -19823,6 +19823,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22475.png",
       "sha256": "384cff090e42ab92f2c5c32e89955a57417c2900b26def3edd242d6a0921e316"
+    },
+    {
+      "message_id": 22474,
+      "filename": "박종민 limity 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22474_.limity.2.pdf",
+      "size_bytes": 9684174,
+      "telegram_date": "2026-07-16T10:23:33+00:00",
+      "title": "수학 박종민 Limit Y 2회",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22474.png",
+      "sha256": "f1a1594019724afbbc1b1d4327ed800bcb2e37ea1d8117a392439e43dd96983a"
     }
   ],
   "duplicate_message_ids": [
