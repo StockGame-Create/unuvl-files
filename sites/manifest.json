@@ -18129,6 +18129,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22660.png",
       "sha256": "0581eb89e9b2a8a1e656b1378a52e1bed968a37b5eb1205c27a6a04778e58deb"
+    },
+    {
+      "message_id": 22658,
+      "filename": "재종허들링필노1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22658_.1.pdf",
+      "size_bytes": 4453681,
+      "telegram_date": "2026-07-22T05:46:31+00:00",
+      "title": "수학 허들링 필기노트 1주차",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22658.png",
+      "sha256": "7ce9f9f9cdc8cb35d8cab77f852258bb39b0c8d0252c7c50f26dac94ce600d0f"
     }
   ],
   "duplicate_message_ids": [
