@@ -26991,6 +26991,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21649.png",
       "sha256": "fd6ed0687f57b980ca2860c98e58c033185678932d2cc0388a42ff2b06460e86"
+    },
+    {
+      "message_id": 21647,
+      "filename": "연도로 정리하는 2026 동아시아사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21647_.2026.pdf",
+      "size_bytes": 21810390,
+      "telegram_date": "2026-06-06T13:56:23+00:00",
+      "title": "동사 연도로 정리하는 2026 동아시아사",
+      "year": null,
+      "instructor": null,
+      "subject": "동아시아사",
+      "thumbnail": "thumbnails/21647.png",
+      "sha256": "92c639c145fcb41b3ef0541e6af68f1cfe0aa13ed563eb2c9b66799c22b55163"
     }
   ],
   "duplicate_message_ids": [
