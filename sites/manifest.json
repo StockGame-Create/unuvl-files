@@ -22287,6 +22287,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22158.png",
       "sha256": "33278c0a21103fffee52311aa2a2a22ed2b3edfd1940e8864a618097ffb82b01"
+    },
+    {
+      "message_id": 22157,
+      "filename": "2027학년도_6월_서바이벌프로_모의고사_국어_영역.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22157_2027._6._._._._.pdf",
+      "size_bytes": 30791011,
+      "telegram_date": "2026-06-30T16:32:25+00:00",
+      "title": "국어 시대인재 6월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22157.png",
+      "sha256": "3068a039fc96d0ea61dc60ead6d07133f7dcbff733b453aa6d29df7ddcfd4526"
     }
   ],
   "duplicate_message_ids": [
