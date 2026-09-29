@@ -25353,6 +25353,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21860.png",
       "sha256": "5c3ee587669d3fbde7bff9ed33398d5efe2237a254b720b6dfcb8096222aff9a"
+    },
+    {
+      "message_id": 21859,
+      "filename": "2026년_이감_모의고사_시즌_3_1_국어_문제지_2026_05_12_07_54.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21859_2026._._._._3_1_._._2026_05_12_07_54.pdf",
+      "size_bytes": 5918953,
+      "telegram_date": "2026-06-18T14:19:52+00:00",
+      "title": "국어 이감 국어 모의고사 시즌3 제1~3차 예비평가  #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21859.png",
+      "sha256": "674ac850d3a411da129ea7fbf3f0db8daeedf411534d0c9800be35c7638b991f"
     }
   ],
   "duplicate_message_ids": [
