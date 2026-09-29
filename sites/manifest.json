@@ -25045,6 +25045,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21890.png",
       "sha256": "3fea4406ab11b810f0d8e996a01c37679937ba2ffbd105513f560223e51bb28c"
+    },
+    {
+      "message_id": 21888,
+      "filename": "TS 2권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21888_TS.2.pdf",
+      "size_bytes": 67529131,
+      "telegram_date": "2026-06-21T13:33:38+00:00",
+      "title": "생1 택앤스 2권",
+      "year": "2027",
+      "instructor": "홍준용",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/21888.png",
+      "sha256": "d280642ae0ce52934d3d8bc3653cc747c3195902b06deecbf693ced374fda323"
     }
   ],
   "duplicate_message_ids": [
