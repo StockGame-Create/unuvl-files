@@ -31233,6 +31233,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21092.png",
       "sha256": "11476fa454c7240c5eea38e632ab6016000747a8d6a35ae8cf926bb64eb41aaa"
+    },
+    {
+      "message_id": 21090,
+      "filename": "현정훈_시즌1모의고사_1_6.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21090_._.1._1_6.pdf",
+      "size_bytes": 27549678,
+      "telegram_date": "2026-05-16T07:43:50+00:00",
+      "title": "물1 현정훈 모의고사 시즌1 1회 ~ 6회",
+      "year": "2027",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/21090.png",
+      "sha256": "435274583c1d7cafa747f444ab540a440a08d967a783c291de70365a43e70818"
     }
   ],
   "duplicate_message_ids": [
