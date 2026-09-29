@@ -31219,6 +31219,20 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/21096.png",
       "sha256": "101f21019b7627e0323a43fe69d799f4fd40b1a1898afc53cc88ce7db4f283fb"
+    },
+    {
+      "message_id": 21092,
+      "filename": "시대인재 브릿지 13회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21092_.13.pdf",
+      "size_bytes": 3354734,
+      "telegram_date": "2026-05-16T07:48:00+00:00",
+      "title": "수학 시대인재 브릿지 전국 모의고사 13회 (폰스캔) (해설지X) #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21092.png",
+      "sha256": "11476fa454c7240c5eea38e632ab6016000747a8d6a35ae8cf926bb64eb41aaa"
     }
   ],
   "duplicate_message_ids": [
