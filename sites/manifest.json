@@ -28391,6 +28391,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21473.png",
       "sha256": "15331dd3ec708b891a258c2fdbfbb2e92d267caa8a08438cd4a51a997f77709b"
+    },
+    {
+      "message_id": 21471,
+      "filename": "2027 사만다 모고 시즌1 3회(+해설).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21471_2027.1.3.%2B.pdf",
+      "size_bytes": 7000584,
+      "telegram_date": "2026-05-29T13:29:39+00:00",
+      "title": "사문 2027 사만다 모의고사 시즌1 1,2,3회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/21471.png",
+      "sha256": "6763c1aa99d1b037652ac482ccd43b946dd82171069ac7df05ddc2e3ee0e1a47"
     }
   ],
   "duplicate_message_ids": [
