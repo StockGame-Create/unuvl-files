@@ -30099,6 +30099,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/21245.png",
       "sha256": "59cd119071672649056b51ceb7400a814df215e9305a9d0dc0b3d8bf3f072864"
+    },
+    {
+      "message_id": 21240,
+      "filename": "2027 더프 국어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21240_2027.pdf",
+      "size_bytes": 4463280,
+      "telegram_date": "2026-05-21T09:53:15+00:00",
+      "title": "국어 THE PREMIUM 5월 모의고사 국어 (인쇄소퀄) #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21240.png",
+      "sha256": "3aec2fca70e93bfb128b82e8797c064bf38dc34a5c2d148cb93c19432f6c8a6e"
     }
   ],
   "duplicate_message_ids": [
