@@ -29553,6 +29553,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/21325.png",
       "sha256": "ec8b088b636e48283535d4d48270ce2455d5ff1ccaaa3aa5f6aa17cb8c6379cf"
+    },
+    {
+      "message_id": 21323,
+      "filename": "2027 정석준 시즌1 crossout 6권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21323_2027.1.crossout.6.pdf",
+      "size_bytes": 37434815,
+      "telegram_date": "2026-05-23T16:52:12+00:00",
+      "title": "생1 정석준 크로스아웃 6주차",
+      "year": "2027",
+      "instructor": "정석준",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/21323.png",
+      "sha256": "8c0ce478d0d7126da2be3ae7e94cb4c0b8d2a904b000db8c37f39dee5698df6f"
     }
   ],
   "duplicate_message_ids": [
