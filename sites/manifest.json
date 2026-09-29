@@ -29567,6 +29567,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/21323.png",
       "sha256": "8c0ce478d0d7126da2be3ae7e94cb4c0b8d2a904b000db8c37f39dee5698df6f"
+    },
+    {
+      "message_id": 21321,
+      "filename": "2027 대성 D.ARCHIVE 수학 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21321_2027.D.ARCHIVE.7.pdf",
+      "size_bytes": 7859366,
+      "telegram_date": "2026-05-23T16:04:51+00:00",
+      "title": "수학 D.archive 제 7회 #디아카이브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21321.png",
+      "sha256": "7c42b5ac28b6699420c326d5d26746b5d4f170305ddf4783c074f9ca46c8e82f"
     }
   ],
   "duplicate_message_ids": [
