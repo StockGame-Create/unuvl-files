@@ -16533,6 +16533,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22824.png",
       "sha256": "43c102a479713ac004dfb91fe9488038d449ad121ee31709842de8f8239e770b"
+    },
+    {
+      "message_id": 22821,
+      "filename": "이감_6차_예비평가_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22821_._6._._.pdf",
+      "size_bytes": 18960745,
+      "telegram_date": "2026-07-26T17:28:30+00:00",
+      "title": "국어 이감 국어 모의고사 제6차 예비평가 #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22821.png",
+      "sha256": "99fc86673192c312f95cb491f25b71980b086bbac8638dc7acafbc934d7ee487"
     }
   ],
   "duplicate_message_ids": [
