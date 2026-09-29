@@ -19123,6 +19123,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22532.png",
       "sha256": "2e345f5b8b9326471cabb065b6b4b7e186b5edd8b5f2c768822bd520a837a1a3"
+    },
+    {
+      "message_id": 22530,
+      "filename": "차영진_모의고사_매운맛_Season_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22530_._._._Season_2.pdf",
+      "size_bytes": 30251548,
+      "telegram_date": "2026-07-16T14:32:23+00:00",
+      "title": "수학 차영진 모의고사 매운맛 시즌1 3회, 시즌2 6회",
+      "year": "2027",
+      "instructor": "차영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22530.png",
+      "sha256": "0b7eac08c32f65cd5728f33951519d2a60beaa651839952c2c13514d4769e483"
     }
   ],
   "duplicate_message_ids": [
