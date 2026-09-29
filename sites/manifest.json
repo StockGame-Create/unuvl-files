@@ -30449,6 +30449,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/21194.png",
       "sha256": "19abc324703ee2e1c72da1151655bbf4ebdcd3e962717ef09627629ce63aa471"
+    },
+    {
+      "message_id": 21192,
+      "filename": "5덮 국어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21192_5.pdf",
+      "size_bytes": 24313403,
+      "telegram_date": "2026-05-21T04:03:03+00:00",
+      "title": "국어 THE PREMIUM 5월 모의고사 국어(폰스캔) #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21192.png",
+      "sha256": "40fcc5a89ac0cab153eef92343c94ca282e94fb5b1c945648cf0aee0612677cb"
     }
   ],
   "duplicate_message_ids": [
