@@ -21545,6 +21545,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22258.png",
       "sha256": "558ea1f1be9cafdb944a340d796f9ddae370257428feb79e292d255b934f3335"
+    },
+    {
+      "message_id": 22257,
+      "filename": "2027 커넥션 수2 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22257_2027.2.pdf",
+      "size_bytes": 85825394,
+      "telegram_date": "2026-07-06T16:38:40+00:00",
+      "title": "수학 커넥션 수1, 수2 해설",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22257.png",
+      "sha256": "434897e54462b8956dc69d203419338d35784ce7eb46b5d0a57289685a64b038"
     }
   ],
   "duplicate_message_ids": [
