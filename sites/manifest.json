@@ -26585,6 +26585,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21714.png",
       "sha256": "7361f7b1dc86c5279a7cff5a2158b48323285d5f8d469f93cc75c17944f565f3"
+    },
+    {
+      "message_id": 21713,
+      "filename": "2027 수능완성 언어와매체 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21713_2027.pdf",
+      "size_bytes": 39582857,
+      "telegram_date": "2026-06-10T16:23:54+00:00",
+      "title": "국어 2027 수능완성 국어영역 독서•문학•언어와 매체",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21713.png",
+      "sha256": "e5c2c1776ac707e6d17562aa97291509a66ecdfe66ea6a0cafe6588ba9bcb579"
     }
   ],
   "duplicate_message_ids": [
