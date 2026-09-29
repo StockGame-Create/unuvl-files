@@ -23673,6 +23673,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22039.png",
       "sha256": "7ab98b83632df15efc45dec02e6ba41bdde7c6483b30a83e6a1cb335cbd5a25e"
+    },
+    {
+      "message_id": 22038,
+      "filename": "2027 김현우 정규반 4주차 복습테스트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22038_2027.4.pdf",
+      "size_bytes": 1367791,
+      "telegram_date": "2026-06-28T15:37:56+00:00",
+      "title": "수학 2027 김현우 정규반 미적분 1주차~10주차 복습테스트 (인쇄소퀄)",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22038.png",
+      "sha256": "f503511d94d620ba673753bbe201f6a197333b509def150d3ba376b37b533d15"
     }
   ],
   "duplicate_message_ids": [
