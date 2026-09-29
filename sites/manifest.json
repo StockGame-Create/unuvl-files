@@ -28811,6 +28811,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21424.png",
       "sha256": "90c390a946e81c7cc11edfba01eaa17413ffd515c0c1db6bcf3e083373cf25e6"
+    },
+    {
+      "message_id": 21423,
+      "filename": "BC 문제편_OCR.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21423_BC._OCR.pdf",
+      "size_bytes": 373228215,
+      "telegram_date": "2026-05-27T17:19:29+00:00",
+      "title": "국어 2027 브레인크래커cc",
+      "year": "2027",
+      "instructor": "이원준",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21423.png",
+      "sha256": "e74857d826b9f94b7eafee6c460fc50282be4bf826fc9bb4fd231bf250f725e8"
     }
   ],
   "duplicate_message_ids": [
