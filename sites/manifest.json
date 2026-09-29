@@ -28937,6 +28937,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21409.png",
       "sha256": "a1e102530b09e94cae345c5a5b8f295731d078749b3f47c7cefb76ad1c6bb490"
+    },
+    {
+      "message_id": 21408,
+      "filename": "스탠모 1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21408_.1.pdf",
+      "size_bytes": 2196723,
+      "telegram_date": "2026-05-27T17:16:50+00:00",
+      "title": "수학 김현우 스탠다드 6평대비 모의고사 1,2 회",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21408.png",
+      "sha256": "f186e922f03c8018976aa6a5e428b738dd2109db9b54d7ec69e4ca6bd2be2445"
     }
   ],
   "duplicate_message_ids": [
