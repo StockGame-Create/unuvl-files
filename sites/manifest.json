@@ -17457,6 +17457,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/22737.png",
       "sha256": "428d7b2a34e45d4a13f67e71fef945060b595013b3cd7042e8e315c5c82ce952"
+    },
+    {
+      "message_id": 22736,
+      "filename": "2027학년도_시대인재_7월_전국모의평가_4교시_과탐_지구1_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22736_2027._._7._._4._._.1_.pdf",
+      "size_bytes": 1983569,
+      "telegram_date": "2026-07-25T12:06:26+00:00",
+      "title": "과학 시대인재 7월 전국모의평가 물1, 물2, 지1, 지2  #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/22736.png",
+      "sha256": "428746376a4d998513ac96e0f585d60157692ee80b562e3b2d8ceb24a081c86e"
     }
   ],
   "duplicate_message_ids": [
