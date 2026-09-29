@@ -18115,6 +18115,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22662.png",
       "sha256": "13f507d1c5c84d2ce26d03d9c63da0b820e778a378b45ac47a2e4c07648a1220"
+    },
+    {
+      "message_id": 22660,
+      "filename": "수학의바이블_개념on_미적분ⅰ_학생용_pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22660_._.on_._._pdf.pdf",
+      "size_bytes": 10154428,
+      "telegram_date": "2026-07-22T05:46:31+00:00",
+      "title": "수학 수학의 바이블 개념ON 미적분1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22660.png",
+      "sha256": "0581eb89e9b2a8a1e656b1378a52e1bed968a37b5eb1205c27a6a04778e58deb"
     }
   ],
   "duplicate_message_ids": [
