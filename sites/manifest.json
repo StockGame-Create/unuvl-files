@@ -28685,6 +28685,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/21437.png",
       "sha256": "f0341e951d0592495ca8c1c52d1e32e1bab76fc4f06062d2bcebcbf260fc3bc7"
+    },
+    {
+      "message_id": 21435,
+      "filename": "2027 Step1 Assignment 2주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21435_2027.Step1.Assignment.2.pdf",
+      "size_bytes": 49315792,
+      "telegram_date": "2026-05-28T05:09:57+00:00",
+      "title": "수학 2027 Assignment 수학2+미적분 2주차  #어싸",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21435.png",
+      "sha256": "9645a25a8deb94d86695d5ead8586644f2db9dcb07c8f93979d296eda79dea08"
     }
   ],
   "duplicate_message_ids": [
