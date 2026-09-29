@@ -24247,6 +24247,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21988.png",
       "sha256": "124b85d9824c56d32ec1af80086e304db5b0b50118c26314ada73d2da1dd282a"
+    },
+    {
+      "message_id": 21986,
+      "filename": "지구과학_27_브릿지_전국_9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21986_._27_._._9.pdf",
+      "size_bytes": 4182801,
+      "telegram_date": "2026-06-27T14:20:24+00:00",
+      "title": "지1 시대인재 브릿지 전국 모의고사 9회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/21986.png",
+      "sha256": "f4b9bbfbe0036768c81d35f48d6f8e318cb2813f93682e730b8770e00730481b"
     }
   ],
   "duplicate_message_ids": [
