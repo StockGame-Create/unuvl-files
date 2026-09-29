@@ -16883,6 +16883,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/22785.png",
       "sha256": "a928a0d959aa407e19672f2a4ca36927f5ca18a5623070a1a2753fb274d5e145"
+    },
+    {
+      "message_id": 22784,
+      "filename": "2027 EBS FINAL 실전모의고사 영어영역 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22784_2027.EBS.FINAL.pdf",
+      "size_bytes": 4515566,
+      "telegram_date": "2026-07-25T15:47:41+00:00",
+      "title": "영어 EBS 2027 FINAL 실전 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/22784.png",
+      "sha256": "68bf878a4b14ef0a3fb7390c5e9b91298480b65b4e4b2033e44aba5ba2e7c5bd"
     }
   ],
   "duplicate_message_ids": [
