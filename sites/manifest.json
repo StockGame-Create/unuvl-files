@@ -26627,6 +26627,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/21710.png",
       "sha256": "32c186396bb49bc8ff7e77e4996ff7187e4912bc1b56a6f9c9503bb30f0e5bd2"
+    },
+    {
+      "message_id": 21707,
+      "filename": "브릿지 전국 19회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21707_.19.pdf",
+      "size_bytes": 3186833,
+      "telegram_date": "2026-06-09T16:09:59+00:00",
+      "title": "수학 시대인재 브릿지 전국 모의고사 19회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21707.png",
+      "sha256": "591a180d13f88b0d1c6ae71b01c7c05c8340931b08d9e9c66ab564d169cd8113"
     }
   ],
   "duplicate_message_ids": [
