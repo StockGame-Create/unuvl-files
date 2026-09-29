@@ -18213,6 +18213,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22648.png",
       "sha256": "a32d2136fda89382824e8ee4a660e1c12dd6cd634f86d334b16a2850b55e0d6a"
+    },
+    {
+      "message_id": 22647,
+      "filename": "03. 한수 2차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22647_03.2.pdf",
+      "size_bytes": 73697885,
+      "telegram_date": "2026-07-21T22:35:15+00:00",
+      "title": "국어 한수모의고사 시즌1 1, 2차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22647.png",
+      "sha256": "3246a05b6d3ebb4003127c5ed9fe1cb5eecb21976a9df77f50d178f3ac3adf67"
     }
   ],
   "duplicate_message_ids": [
