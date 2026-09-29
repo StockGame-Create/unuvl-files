@@ -29623,6 +29623,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/21316.png",
       "sha256": "b742b683b77a70e5343f1838baa3160db34ef4ba938def9861f42100723e9616"
+    },
+    {
+      "message_id": 21315,
+      "filename": "시대인재 브릿지 전국 모고 3회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21315_.3.pdf",
+      "size_bytes": 10199819,
+      "telegram_date": "2026-05-23T16:04:47+00:00",
+      "title": "사문 시대인재 전국 브릿지 모의고사 3회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/21315.png",
+      "sha256": "dffae55044e5e3ca826c8cd3fff51d87e6701953a67bff40276b54486dea270d"
     }
   ],
   "duplicate_message_ids": [
