@@ -16841,6 +16841,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22792.png",
       "sha256": "579517495066012562ae764199eff732cc69abb697b608fa51543841045fc970"
+    },
+    {
+      "message_id": 22789,
+      "filename": "2027 화1 파이널 브릿지 1회 문제 및 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22789_2027.1.1.pdf",
+      "size_bytes": 6634871,
+      "telegram_date": "2026-07-25T15:47:45+00:00",
+      "title": "화1 파이널 브릿지 전국 모의고사 1회 #파브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/22789.png",
+      "sha256": "8d38bb1bc99b4310b4690e390a29db8b794c87f7fe1ef318b5b234956bf612fd"
     }
   ],
   "duplicate_message_ids": [
