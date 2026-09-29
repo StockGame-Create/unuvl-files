@@ -24,6 +24,12 @@
 - PDF 첫 페이지를 이미지로 렌더링해서 썸네일로 저장합니다 (sites/thumbnails/).
 - 2026-09-04 이후에 올라온 메시지만 대상으로 하며, 그보다 오래된 메시지가
   나오면 캐치업 스캔을 그 자리에서 중단합니다.
+- (v5) 파일명을 유니코드 정규화(NFC)해서 다룬다. 한글 등은 완성형(NFC)/조합형
+  (NFD) 두 표현이 있어 눈에는 똑같아 보여도 바이트가 달라 '==' 비교가 실패할
+  수 있는데, 이 때문에 이미 manifest/release에 있는 파일을 계속 새 파일로
+  착각해서 재다운로드/재업로드를 시도하다가 422(already_exists)에 걸리고도
+  스스로 복구하지 못하는 문제가 있었다. 파일명을 뽑는 시점(is_pdf)과 이름을
+  비교하는 모든 지점(중복 검사, release 자산 조회)에서 정규화를 거친다.
 - (v4) GitHub은 release 하나에 자산 1000개까지만 허용하므로, release를 번호로
   나눠 씁니다 (large-files -> large-files-2 -> large-files-3 ...). 업로드 전에
   자산 개수를 세어 990개에 닿으면 다음 release로 넘어가고, 그래도 422
@@ -67,6 +73,7 @@ import os
 import re
 import subprocess
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -190,6 +197,15 @@ def parse_caption(caption: str | None) -> dict:
     return result
 
 
+def normalize_name(name: str | None) -> str | None:
+    """유니코드 정규화(NFC)를 적용한다. 한글 등은 완성형(NFC)/조합형(NFD) 두 표현이
+    있는데 눈에는 똑같아 보여도 바이트로는 다른 문자열이라 '==' 비교가 실패한다.
+    파일명이 오간 경로(텔레그램 API, GitHub API, 로컬 파일시스템, 과거 실행 결과)가
+    저마다 다른 정규화 형태를 쓸 수 있어서, 이름을 비교하거나 저장하기 전에는
+    항상 이걸 거쳐서 형태를 통일한다."""
+    return unicodedata.normalize("NFC", name) if name is not None else None
+
+
 def compute_sha256(path: Path) -> str:
     """파일 내용의 SHA-256 해시. 같은 내용의 파일(이름은 달라도)을 잡아내는 데 사용."""
     h = hashlib.sha256()
@@ -285,7 +301,9 @@ def is_pdf(message) -> tuple[bool, str | None]:
             filename = attr.file_name
     name_ok = filename is not None and filename.lower().endswith(".pdf")
     if mime_ok or name_ok:
-        return True, filename or f"document_{message.id}.pdf"
+        # 여기서 바로 정규화해서, 이후 모든 곳(로컬 파일명, release 자산 이름,
+        # manifest 저장, 중복 검사)이 하나의 통일된 형태만 다루게 만든다.
+        return True, normalize_name(filename) or f"document_{message.id}.pdf"
     return False, None
 
 
@@ -463,7 +481,10 @@ def _find_asset(release_id: int, asset_name: str) -> dict | None:
             print(f"    [자산 조회 실패] {e}", flush=True)
             return None
         for item in items:
-            if item.get("name") == asset_name:
+            # 정규화해서 비교: GitHub에 저장된 이름이 (예전 코드가 만들었거나,
+            # 다른 경로로 올라와서) 다른 유니코드 정규화 형태일 수 있어서,
+            # 바이트 그대로 비교하면 눈에는 같은 이름인데도 못 찾는 경우가 있다.
+            if normalize_name(item.get("name")) == normalize_name(asset_name):
                 return {
                     "id": item["id"],
                     "size": item.get("size"),
@@ -664,7 +685,9 @@ async def sync():
     known_message_ids |= set(manifest["duplicate_message_ids"])
 
     # 1단계(다운로드 전) 중복 검사용: 파일명+용량이 완전히 같으면 십중팔구 재업로드.
-    known_name_size = {(f["filename"].lower(), f["size_bytes"]) for f in manifest["files"]}
+    # 파일명은 유니코드 정규화(NFC) 후 비교한다 - 과거 항목이 다른 정규화
+    # 형태로 저장돼 있으면 눈에는 같은 이름인데도 매칭이 안 되는 문제가 있었다.
+    known_name_size = {(normalize_name(f["filename"]).lower(), f["size_bytes"]) for f in manifest["files"]}
     # 2단계(다운로드 후) 중복 검사용: 이름이 달라도 내용이 같은 파일을 잡아냄.
     known_hashes = {f["sha256"]: f for f in manifest["files"] if f.get("sha256")}
 
