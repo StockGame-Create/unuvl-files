@@ -17821,6 +17821,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22696.png",
       "sha256": "9d58864911211761009097a24500b6db47e39fbefa686f451a991244ab7121b6"
+    },
+    {
+      "message_id": 22694,
+      "filename": "27 서바 수학(미적,확통) 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22694_27.3.pdf",
+      "size_bytes": 7213261,
+      "telegram_date": "2026-07-24T07:49:59+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 3회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22694.png",
+      "sha256": "f6a66bce4651b899d34283232eff2709e51ed51140f927f1f1f5aa4401938b02"
     }
   ],
   "duplicate_message_ids": [
