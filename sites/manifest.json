@@ -31261,6 +31261,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/21089.png",
       "sha256": "070fb5591b1009cc777ad383f2da3d3b6183616d3016eede2347a3978ccaf65b"
+    },
+    {
+      "message_id": 21087,
+      "filename": "2027 N티켓 시즌2 수학 2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21087_2027.N.2.2.pdf",
+      "size_bytes": 33234565,
+      "telegram_date": "2026-05-16T07:10:15+00:00",
+      "title": "수학 N티켓 수학2 시즌2",
+      "year": "2027",
+      "instructor": "이미지",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21087.png",
+      "sha256": "34a0deac9a6df2c9bde758ffe8edf51026c091cec4d81896f70c93fbe2c70954"
     }
   ],
   "duplicate_message_ids": [
