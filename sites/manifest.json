@@ -16911,6 +16911,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22783.png",
       "sha256": "e12d56f855e2d5431917a22b0b5a5fa852c4b0d96ff806fbcbc8565c1e0b0e5f"
+    },
+    {
+      "message_id": 22781,
+      "filename": "C26ED59287KO011_JUN.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22781_C26ED59287KO011_JUN.PDF",
+      "size_bytes": 114064,
+      "telegram_date": "2026-07-25T15:47:39+00:00",
+      "title": "화1 고석용 베테랑 실전 모의고사 시즌1 1회",
+      "year": "2027",
+      "instructor": "고석용",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/22781.png",
+      "sha256": "8f62476843ac7c3ed284fe8d159e0eee7a9147c758c36f09fec970e098897809"
     }
   ],
   "duplicate_message_ids": [
