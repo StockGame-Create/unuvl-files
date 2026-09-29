@@ -22525,6 +22525,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/22133.png",
       "sha256": "75c1bd8c7174646c2f9b1127aed3716fa77eb482d7cf7085d9e068734fc5fec4"
+    },
+    {
+      "message_id": 22131,
+      "filename": "김지영_브이모의고사_시즌_1_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22131_._._._1_2.pdf",
+      "size_bytes": 6096943,
+      "telegram_date": "2026-06-29T09:54:50+00:00",
+      "title": "영어 김지영 브이 모의고사 시즌1 2회",
+      "year": "2027",
+      "instructor": "김지영",
+      "subject": "영어",
+      "thumbnail": "thumbnails/22131.png",
+      "sha256": "1e3558fad947bf3fbd6c38d5c7dc4ffc29ff2efca4575a1e4d1f15826efd5ec3"
     }
   ],
   "duplicate_message_ids": [
