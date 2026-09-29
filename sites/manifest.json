@@ -21741,6 +21741,20 @@
       "subject": null,
       "thumbnail": "thumbnails/22232.png",
       "sha256": "bf46356a7e0e79885c1a8709d4fff57cd14a302f2c161b84052c256da38ff834"
+    },
+    {
+      "message_id": 22229,
+      "filename": "브릿지 전국 21회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22229_.21.pdf",
+      "size_bytes": 15066938,
+      "telegram_date": "2026-07-04T13:33:00+00:00",
+      "title": "수학 시대인재 브릿지 전국 모의고사 21회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22229.png",
+      "sha256": "780153696c530dbd5d6f60bf66d9497045d96345fb51518ca880570bffd33592"
     }
   ],
   "duplicate_message_ids": [
