@@ -25633,6 +25633,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21827.png",
       "sha256": "df24f0dc14a8e31462fc7c7b21c1ab39bf44a6f08f840132e574463188f6adbc"
+    },
+    {
+      "message_id": 21825,
+      "filename": "드릴 기하 워크북.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21825_.pdf",
+      "size_bytes": 46153202,
+      "telegram_date": "2026-06-16T10:07:20+00:00",
+      "title": "수학 2024 드릴 기하 워크북",
+      "year": "2024",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21825.png",
+      "sha256": "f295eca32d0f53e225aa65295ea471a425fb40252f02369f2a686fa135799e5b"
     }
   ],
   "duplicate_message_ids": [
