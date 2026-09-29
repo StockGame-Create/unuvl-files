@@ -21615,6 +21615,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22250.png",
       "sha256": "20ee7c34e361676d5d5632337b71630fa66f324c484d149cc37552abba67ec51"
+    },
+    {
+      "message_id": 22248,
+      "filename": "자이스토리_세계시민과_지리.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22248_._._.pdf",
+      "size_bytes": 43271607,
+      "telegram_date": "2026-07-06T10:57:24+00:00",
+      "title": "자이스토리 세계시민과 지리 (22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계시민과지리",
+      "thumbnail": "thumbnails/22248.png",
+      "sha256": "94b9ec467ac9538de02bc7337a0fdaef87244f190bbe7f1b40a807101b5771f5"
     }
   ],
   "duplicate_message_ids": [
