@@ -30561,6 +30561,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/21179.png",
       "sha256": "ba85520f5ab88b63673e75598581240c7ee8c37ef35252feabb188013416f47e"
+    },
+    {
+      "message_id": 21176,
+      "filename": "현유찬 독서의틀.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21176_.pdf",
+      "size_bytes": 2828436,
+      "telegram_date": "2026-05-20T14:23:36+00:00",
+      "title": "국어 현유찬 독서의틀 1주차 STEP1",
+      "year": "2027",
+      "instructor": "현유찬",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21176.png",
+      "sha256": "046c435f53fba6e4829a1dd799de6fe34e18db513ad5a4ba9a5db0c2f3c081f5"
     }
   ],
   "duplicate_message_ids": [
