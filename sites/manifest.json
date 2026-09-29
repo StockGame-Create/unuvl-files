@@ -23183,6 +23183,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22074.png",
       "sha256": "ac27076f180c7cabcca76d946432a5cc3bc943c6c46b353c6bb88746be6a16a6"
+    },
+    {
+      "message_id": 22073,
+      "filename": "2027 김현우 스탠다드 수학1 18주차 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22073_2027.1.18.pdf",
+      "size_bytes": 31966500,
+      "telegram_date": "2026-06-28T15:38:27+00:00",
+      "title": "수학 2027 김현우 스탠다드 수학1 본교재, 16주차~19주차 문제+해설 (인쇄소퀄)",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22073.png",
+      "sha256": "6be425184f7c074491212d0313ce5499bfbd0d8a6bdc961cb69023aecdf6f3a8"
     }
   ],
   "duplicate_message_ids": [
