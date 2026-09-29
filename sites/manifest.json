@@ -25409,6 +25409,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21853.png",
       "sha256": "0c92f53885b0a77baa6f854fec74402b188293a37e0e853b5a9ea2e320815b73"
+    },
+    {
+      "message_id": 21852,
+      "filename": "개념원리_미적1_학생용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21852_._.1_.pdf",
+      "size_bytes": 73201202,
+      "telegram_date": "2026-06-17T16:00:47+00:00",
+      "title": "수학 개념원리 미적분1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21852.png",
+      "sha256": "d7af73037a85ac908d252ebbd54ae158e09daf896b2ad2f85ec7e907239a1a3c"
     }
   ],
   "duplicate_message_ids": [
