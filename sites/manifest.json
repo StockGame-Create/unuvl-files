@@ -24779,6 +24779,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21916.png",
       "sha256": "5721316124c74791aaf4f8a80bafb1a2d67e0294d2b1de407cdc6a600fe75154"
+    },
+    {
+      "message_id": 21914,
+      "filename": "22개정완자기출픽고등생명과학26_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21914_22.26_.pdf",
+      "size_bytes": 4283262,
+      "telegram_date": "2026-06-21T23:53:48+00:00",
+      "title": "생과 기출 PICK 생명과학 (22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학",
+      "thumbnail": "thumbnails/21914.png",
+      "sha256": "f26603ffdf3d7622b28b04e0c8a23e78e536401161dc636fa1a310c1ed16240f"
     }
   ],
   "duplicate_message_ids": [
