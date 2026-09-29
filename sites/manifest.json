@@ -26221,6 +26221,20 @@
       "subject": "직업탐구",
       "thumbnail": "thumbnails/21740.png",
       "sha256": "ca23362a557616dfb107452abcd7f83b85a043079843da3641802261f1cebdf4"
+    },
+    {
+      "message_id": 21739,
+      "filename": "2027 수능완성 농업 기초 기술 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21739_2027.pdf",
+      "size_bytes": 13913725,
+      "telegram_date": "2026-06-10T16:28:54+00:00",
+      "title": "직탐 2027 수능완성 직업탐구영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "직업탐구",
+      "thumbnail": "thumbnails/21739.png",
+      "sha256": "53e120d158aaa73658b9040a9fe1fc7f21425f2b3b22719c03a69edfe47ce11c"
     }
   ],
   "duplicate_message_ids": [
