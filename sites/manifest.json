@@ -28713,6 +28713,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21433.png",
       "sha256": "4a6f9121143dded5b5549dcaf24b46d34195537727d0419653a8b6fc83077aef"
+    },
+    {
+      "message_id": 21432,
+      "filename": "~ temp_1779679843832.-1264814884.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21432_.temp_1779679843832.-1264814884.pdf",
+      "size_bytes": 8728313,
+      "telegram_date": "2026-05-28T05:07:05+00:00",
+      "title": "수학 시대인재 5월 전국모의평가 (인쇄소퀄) #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21432.png",
+      "sha256": "6c164ba727d8b3572d617611c58e1eba74710eea738fb5248d89ed63d18106db"
     }
   ],
   "duplicate_message_ids": [
