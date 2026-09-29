@@ -21811,6 +21811,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22221.png",
       "sha256": "df960bd1073f1b737b27cde69c4fdd76b39ffc269ce28b6028aaa2b053f0bf5b"
+    },
+    {
+      "message_id": 22220,
+      "filename": "2027 김연호T 주간지01.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22220_2027.T.01.pdf",
+      "size_bytes": 16480222,
+      "telegram_date": "2026-07-04T09:54:03+00:00",
+      "title": "생1 김연호 주간지01",
+      "year": "2027",
+      "instructor": "김연호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22220.png",
+      "sha256": "d175d31783a0a533fb53a8a4566e770007873046522b4a835dbd75dd50d0b565"
     }
   ],
   "duplicate_message_ids": [
