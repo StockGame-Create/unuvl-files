@@ -17961,6 +17961,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22679.png",
       "sha256": "4c6f1b5ad57ae6620bb2af587a63ae45657363e26f6a8b040677e333ad74dc63"
+    },
+    {
+      "message_id": 22677,
+      "filename": "RPM_미적분1_해설_22개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22677_RPM_.1_._22.pdf",
+      "size_bytes": 8641946,
+      "telegram_date": "2026-07-23T14:55:42+00:00",
+      "title": "수학 개념원리 RPM 미적분1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22677.png",
+      "sha256": "217d1c44e0f1657affa92d771f2262fd33d27a91564363ccdf8d7d6481423290"
     }
   ],
   "duplicate_message_ids": [
