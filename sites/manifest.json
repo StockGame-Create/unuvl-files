@@ -21223,6 +21223,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22304.png",
       "sha256": "1ddef0884a03aa9627ae3001ff84e4ecd6c67a45157cedbd7519832cdfc9d5b7"
+    },
+    {
+      "message_id": 22302,
+      "filename": "평가원실전개념_그믐달_언어와_매체_2027_개념편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22302_._._._._2027_.pdf",
+      "size_bytes": 97768084,
+      "telegram_date": "2026-07-09T13:49:59+00:00",
+      "title": "국어 그믐달 평가원 실전 개념 언어와 매체",
+      "year": "2027",
+      "instructor": "그믐달",
+      "subject": "국어",
+      "thumbnail": "thumbnails/22302.png",
+      "sha256": "4d1216491392f720d6001e18df4c4285080b136a8c53d7907708dc06d02185a3"
     }
   ],
   "duplicate_message_ids": [
