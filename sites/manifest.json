@@ -22427,6 +22427,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/22144.png",
       "sha256": "eef9298f99efacfc6b682dba58416e8744500d0bec1ebf5bf0087561790ba119"
+    },
+    {
+      "message_id": 22143,
+      "filename": "시대인재_서바이벌_프로_6월_사탐_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22143_._._._6._._.pdf",
+      "size_bytes": 70439651,
+      "telegram_date": "2026-06-29T14:05:26+00:00",
+      "title": "세지 시대인재 6월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/22143.png",
+      "sha256": "8f82c709823d4ec4beb8610fe08bbed36037af70a848d05ba50b083d9bd749af"
     }
   ],
   "duplicate_message_ids": [
