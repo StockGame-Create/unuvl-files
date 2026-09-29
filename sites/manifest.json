@@ -27691,6 +27691,20 @@
       "subject": "지구과학",
       "thumbnail": "thumbnails/21555.png",
       "sha256": "d72aae36bb294203324ef0e82d934146b00489bab4abf78c84fbd2c78235a654"
+    },
+    {
+      "message_id": 21553,
+      "filename": "이기상_6모대비_세계지리_수특정리자료_.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21553_._6._._._.PDF",
+      "size_bytes": 4342630,
+      "telegram_date": "2026-05-31T16:46:15+00:00",
+      "title": "세지 이기상 6모대비 수능특강 자료정리",
+      "year": "2027",
+      "instructor": "이기상",
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/21553.png",
+      "sha256": "250588dac8205352036907787d96dd7341e4336ed6f62a775a80443fa05a9016"
     }
   ],
   "duplicate_message_ids": [
