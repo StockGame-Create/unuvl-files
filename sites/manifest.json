@@ -23113,6 +23113,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22079.png",
       "sha256": "1eac7d8eba208923ae3578d2ea59d6be3ee2c3b969a0f522976562f5e18c76bc"
+    },
+    {
+      "message_id": 22078,
+      "filename": "2027 김현우 정규반 19주차 6평대비 30제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22078_2027.19.6.30.pdf",
+      "size_bytes": 28456973,
+      "telegram_date": "2026-06-28T15:38:30+00:00",
+      "title": "수학 2027 김현우 정규반 16~19주차 예비과제, 19주차 6평대비 30제 (인쇄소퀄)",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22078.png",
+      "sha256": "f13434cdf0ad821699b290c10cfeff6aa9750958b769a004a11ad10249820f66"
     }
   ],
   "duplicate_message_ids": [
