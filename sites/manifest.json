@@ -24149,6 +24149,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/22000.png",
       "sha256": "3dc69d5b9a1e4d5f9e5858236fb52d4007407a1bed7ad20196f27cc90f4b4fe3"
+    },
+    {
+      "message_id": 21999,
+      "filename": "1등급_만들기_통과_1_답지_721.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21999_1._._._1_._721.pdf",
+      "size_bytes": 11536155,
+      "telegram_date": "2026-06-28T03:48:38+00:00",
+      "title": "과학 1등급 만들기 통합과학1",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/21999.png",
+      "sha256": "ce83fba21742e24672fb93df1dda1f5f2efb744f1d6931c22d512fe682138bb2"
     }
   ],
   "duplicate_message_ids": [
