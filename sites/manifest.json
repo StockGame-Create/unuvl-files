@@ -25423,6 +25423,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21852.png",
       "sha256": "d7af73037a85ac908d252ebbd54ae158e09daf896b2ad2f85ec7e907239a1a3c"
+    },
+    {
+      "message_id": 21850,
+      "filename": "2027학년도_수능_대비_자료_분석.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21850_2027._._._._.pdf",
+      "size_bytes": 4123590,
+      "telegram_date": "2026-06-16T17:11:16+00:00",
+      "title": "사문 이형수 수능 대비 자료 분석",
+      "year": "2027",
+      "instructor": "이형수",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/21850.png",
+      "sha256": "0ad7dfd7422e40898679a5e11e878b098051b19f9a0c6f3e4b1f99c7a4dc98ee"
     }
   ],
   "duplicate_message_ids": [
