@@ -25913,6 +25913,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21768.png",
       "sha256": "5560546ad94f11596be343136fff2c42db94aa184362e3ad2529ee11a6579b90"
+    },
+    {
+      "message_id": 21766,
+      "filename": "김연호T_5주차_복습테스트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21766_.T_5._.pdf",
+      "size_bytes": 192456,
+      "telegram_date": "2026-06-11T16:12:51+00:00",
+      "title": "생1 김연호 5주차 복습테스트",
+      "year": "2027",
+      "instructor": "김연호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/21766.png",
+      "sha256": "e33bfcfdf16cceeea7690498e507808ea39bbd9acaaefb73b727a5cdfa22aaa2"
     }
   ],
   "duplicate_message_ids": [
