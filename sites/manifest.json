@@ -27159,6 +27159,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21618.png",
       "sha256": "4dec57ee80a0b168fccab681bc6313f3e2ff9faea54ecf4a25530e9abd8e9b63"
+    },
+    {
+      "message_id": 21616,
+      "filename": "기본 폴더.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21616_.pdf",
+      "size_bytes": 4364305,
+      "telegram_date": "2026-06-03T13:15:07+00:00",
+      "title": "수학 시대인재 브릿지 전국 모의고사 18회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21616.png",
+      "sha256": "a8e5df2fa67059c769055fd5ad2931c82e0136b8aa4e66a4fd8fd81d42085505"
     }
   ],
   "duplicate_message_ids": [
