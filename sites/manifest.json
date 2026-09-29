@@ -22147,6 +22147,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22172.png",
       "sha256": "f456a29f4672281d82c38ae47f03281a144295908c550db9796fd7df657e48a8"
+    },
+    {
+      "message_id": 22170,
+      "filename": "악어 사관 영단어장.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22170_.pdf",
+      "size_bytes": 2481257,
+      "telegram_date": "2026-06-30T22:07:53+00:00",
+      "title": "영어 악어오름 사관학교 영어 기출 VOCA",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/22170.png",
+      "sha256": "c0da13dfb4d650b51027037be5d1c8b53ee03de6cdb6c2b92a43ddd8512a6025"
     }
   ],
   "duplicate_message_ids": [
