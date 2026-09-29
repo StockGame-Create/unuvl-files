@@ -20229,6 +20229,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22425.png",
       "sha256": "50afc9ff9cc25279a795e04467d93f598353a19954e34b892a7f833930495871"
+    },
+    {
+      "message_id": 22423,
+      "filename": "사회문화 강k+ 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22423_.k%2B.1.pdf",
+      "size_bytes": 1259929,
+      "telegram_date": "2026-07-13T10:59:03+00:00",
+      "title": "사문 강대모의고사 K+ 1회 (폰스캔)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/22423.png",
+      "sha256": "c4b83473046523ae3cf936e3b6ec230f7eb043ccac1c752a0d065bff1e266bd4"
     }
   ],
   "duplicate_message_ids": [
