@@ -22357,6 +22357,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/22152.png",
       "sha256": "fd418c78a6ff0de078337b53148a668d47d854f4d04a805e8e076732440e67c1"
+    },
+    {
+      "message_id": 22151,
+      "filename": "2027_정석준_시즌2_테스트_인간실격B_5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22151_2027_._.2_._.B_5.pdf",
+      "size_bytes": 7957273,
+      "telegram_date": "2026-06-30T16:32:21+00:00",
+      "title": "생1 정석준 인간실격 모의고사B 시즌2 1~6회",
+      "year": "2027",
+      "instructor": "정석준",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/22151.png",
+      "sha256": "ef352b0dc8d8857cadb2e0a87cb9519bb7ae2dfd973d701ab80e9b1985236b46"
     }
   ],
   "duplicate_message_ids": [
