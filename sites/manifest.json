@@ -26851,6 +26851,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/21669.png",
       "sha256": "e91d3a34e8a5d1cfa9395ba7bc21064f637bba363f4ee1f8f1f7e62a5fc3f3a1"
+    },
+    {
+      "message_id": 21668,
+      "filename": "2027 이훈식 식센모 시즌1 3회(해설 포함) (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21668_2027.1.3.1.pdf",
+      "size_bytes": 7152808,
+      "telegram_date": "2026-06-07T15:33:48+00:00",
+      "title": "지1 식‘s sense 모의고사 시즌1 1회, 3회",
+      "year": "2027",
+      "instructor": "이훈식",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/21668.png",
+      "sha256": "f32225a25ad45740584db815d930cf42e0955c90176feb9d1a28d7c12419af0f"
     }
   ],
   "duplicate_message_ids": [
