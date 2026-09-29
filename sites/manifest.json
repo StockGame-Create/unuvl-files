@@ -28125,6 +28125,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/21501.png",
       "sha256": "103aa2a935f189efcdfd37e93aba692f1da1f1453da5329d499ad4ba1fcffdb0"
+    },
+    {
+      "message_id": 21500,
+      "filename": "6평 대비 JUST 모고 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21500_6.JUST.2.pdf",
+      "size_bytes": 53035544,
+      "telegram_date": "2026-05-30T04:08:46+00:00",
+      "title": "수학 6평대비 이동준T 저스트 모의고사 2회",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21500.png",
+      "sha256": "9fda780306b7856bdb06dd4d5240cc400d8757b55ba97989056f4ba09e50559f"
     }
   ],
   "duplicate_message_ids": [
