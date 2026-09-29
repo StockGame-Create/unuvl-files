@@ -18885,6 +18885,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22563.png",
       "sha256": "5caaef2e3a8c6ace134d467a19c5087acd5953df1b371a3a910f316b5e8ccc4e"
+    },
+    {
+      "message_id": 22562,
+      "filename": "2027_한수_모의고사_1주차_정답과해설_2026_07_18_02_07_00.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22562_2027_._._1._._2026_07_18_02_07_00.pdf",
+      "size_bytes": 4553842,
+      "telegram_date": "2026-07-18T14:42:45+00:00",
+      "title": "국어 한수모의고사 파이널 시즌1 1차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22562.png",
+      "sha256": "7d4e4f967baa177fd68471d91ec175cd99bd5a7b1eb78d78502b42e2883d3b5d"
     }
   ],
   "duplicate_message_ids": [
