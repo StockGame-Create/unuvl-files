@@ -17569,6 +17569,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22728.png",
       "sha256": "e330b85d06b9b624cc530e3674cb588b2bc342f044aedaf0e5089b782a9f79f3"
+    },
+    {
+      "message_id": 22726,
+      "filename": "이알기 7회 모의고사.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22726_.7.PDF",
+      "size_bytes": 4088614,
+      "telegram_date": "2026-07-25T12:06:26+00:00",
+      "title": "세지 이기상 이것이 알짜 기출이다 7회",
+      "year": "2027",
+      "instructor": "이기상",
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/22726.png",
+      "sha256": "094f723cf6ca95c51234ad4b3b7a1d818a7c917df43ca095e33ce5359884d712"
     }
   ],
   "duplicate_message_ids": [
