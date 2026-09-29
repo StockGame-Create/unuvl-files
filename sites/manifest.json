@@ -28237,6 +28237,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/21485.png",
       "sha256": "8343af65a6e7ebfe643184f454153ec20026c8614bf40950623e19fd0ae35030"
+    },
+    {
+      "message_id": 21483,
+      "filename": "인강민철6해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21483_.6.pdf",
+      "size_bytes": 243152911,
+      "telegram_date": "2026-05-29T14:37:55+00:00",
+      "title": "2027 국어 인강민철 6호",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21483.png",
+      "sha256": "c77e6ca7eeedc5237f08697abe5fefe94dabfdc60ef5e3ab035e473f353191dd"
     }
   ],
   "duplicate_message_ids": [
