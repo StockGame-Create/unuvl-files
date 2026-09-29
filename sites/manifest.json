@@ -21069,6 +21069,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22319.png",
       "sha256": "d947899dbb4233ba14f2cef19b4a35adb695dc5e53c1951333e77a6951f659af"
+    },
+    {
+      "message_id": 22318,
+      "filename": "2027학년도_차영진_N제게임_킬러_free_process_수학2_본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22318_2027._._N._._free_process_.2_.pdf",
+      "size_bytes": 5819042,
+      "telegram_date": "2026-07-10T15:24:40+00:00",
+      "title": "수학 차영진 N제 게임 킬러 수1, 수2",
+      "year": "2027",
+      "instructor": "차영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22318.png",
+      "sha256": "b8934ff327cae455c31e1d46ebf592e7e941b496c3127d174f1a7fc9d82bf6cc"
     }
   ],
   "duplicate_message_ids": [
