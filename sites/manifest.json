@@ -24429,6 +24429,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21965.png",
       "sha256": "d7cde39418ccf6d4e0accfc019c92dcca5a6e6b491ffdc40e0f3af72692213e4"
+    },
+    {
+      "message_id": 21960,
+      "filename": "2027 설맞이 아카이브 수학2 시즌2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21960_2027.2.2.pdf",
+      "size_bytes": 12057056,
+      "telegram_date": "2026-06-27T10:55:39+00:00",
+      "title": "수학 FOR 2027 SEASON 2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21960.png",
+      "sha256": "22867765b8da0c002cb3f08af3b76ad5c9093e25ec1f325db3cdc6bb477381b0"
     }
   ],
   "duplicate_message_ids": [
