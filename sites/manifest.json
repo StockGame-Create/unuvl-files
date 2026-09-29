@@ -16925,6 +16925,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/22781.png",
       "sha256": "8f62476843ac7c3ed284fe8d159e0eee7a9147c758c36f09fec970e098897809"
+    },
+    {
+      "message_id": 22780,
+      "filename": "고석용 시즌1 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22780_.1.1.pdf",
+      "size_bytes": 12166390,
+      "telegram_date": "2026-07-25T15:47:39+00:00",
+      "title": "화1 고석용 베테랑 실전 모의고사 시즌1 1회",
+      "year": "2027",
+      "instructor": "고석용",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/22780.png",
+      "sha256": "41b3ad2739a56e3fefa192b522879dcbfe5bce0ebe0bad344079d51de15733ec"
     }
   ],
   "duplicate_message_ids": [
