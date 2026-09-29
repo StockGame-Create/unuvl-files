@@ -17737,6 +17737,20 @@
       "subject": null,
       "thumbnail": "thumbnails/22707.png",
       "sha256": "7a41e7028c42974af40f1768f21b916a4faa2d6c4417197ec4a803a8adf012bb"
+    },
+    {
+      "message_id": 22706,
+      "filename": "시대인재_수학_2027학년도_07월_전국_모의평가_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22706_._._2027._07._._._.pdf",
+      "size_bytes": 2282377,
+      "telegram_date": "2026-07-24T13:32:24+00:00",
+      "title": "수학 시대인재 7월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22706.png",
+      "sha256": "e5e83ddcabaf77cfcbc6ce9f4c0cf3cde0e033daba81cb89302da68145c6eeae"
     }
   ],
   "duplicate_message_ids": [
