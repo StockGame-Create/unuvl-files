@@ -29301,6 +29301,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21356.png",
       "sha256": "aa3e9dc5ccfabcc6b3bf699056ae1b2414070d096698ee79a51e85b56d44958f"
+    },
+    {
+      "message_id": 21354,
+      "filename": "2027_이신혁_모의평가_시즌1_4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21354_2027_._._.1_4.pdf",
+      "size_bytes": 5068995,
+      "telegram_date": "2026-05-24T14:16:43+00:00",
+      "title": "지1 이신혁 모의고사 시즌1 4회",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/21354.png",
+      "sha256": "797a0f30ae93020d0a6493e390da37e7d95a85dd7147d4653e48bc7fba937b77"
     }
   ],
   "duplicate_message_ids": [
