@@ -24751,6 +24751,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21920.png",
       "sha256": "48414059be873a7e5c71cd12ffd96964a7cb8885ffe3d1e82b8723f73d341eca"
+    },
+    {
+      "message_id": 21918,
+      "filename": "2027_유신_시즌1_매튜효과_01주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21918_2027_._.1_._01.pdf",
+      "size_bytes": 11323233,
+      "telegram_date": "2026-06-23T05:15:54+00:00",
+      "title": "국어 매튜효과 시즌1 1주차",
+      "year": "2027",
+      "instructor": "유신",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21918.png",
+      "sha256": "02460c9119c77dc9801844281db8df8b8966c11cae677eadef976c554af82d88"
     }
   ],
   "duplicate_message_ids": [
