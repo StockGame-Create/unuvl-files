@@ -19515,6 +19515,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22503.png",
       "sha256": "8580830dfe2d25531e569688175f733d28fe840b28b1a3af176385727a99bb0d"
+    },
+    {
+      "message_id": 22502,
+      "filename": "26 7월 대성 생명1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22502_26.7.1.pdf",
+      "size_bytes": 1004399,
+      "telegram_date": "2026-07-16T14:25:50+00:00",
+      "title": "과학 THE PREMIUM 7월 모의고사 문제지 생1, 지1, 생2, 지2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/22502.png",
+      "sha256": "a80bbfd537505dd16c62b4d4db3adb0d44e51bebe379254620c5a07ca21b5162"
     }
   ],
   "duplicate_message_ids": [
