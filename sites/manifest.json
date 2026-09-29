@@ -29665,6 +29665,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21311.png",
       "sha256": "321c2fd20f4517ff88b54f216521a04598d843ae94f2ca36b47fa298b75f9c73"
+    },
+    {
+      "message_id": 21310,
+      "filename": "강e분고전시가.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21310_.e.pdf",
+      "size_bytes": 192129288,
+      "telegram_date": "2026-05-23T10:32:17+00:00",
+      "title": "국어 강민철의 EBS 분석 수능특강 문학 고전시가 + 현대시 #강E분",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21310.png",
+      "sha256": "49d8b616ae3f8053da614b1fc8ddbf759e5fe155cdcf3d48edf6364e24f62285"
     }
   ],
   "duplicate_message_ids": [
