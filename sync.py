@@ -27,7 +27,11 @@
 - (v4) GitHub은 release 하나에 자산 1000개까지만 허용하므로, release를 번호로
   나눠 씁니다 (large-files -> large-files-2 -> large-files-3 ...). 업로드 전에
   자산 개수를 세어 990개에 닿으면 다음 release로 넘어가고, 그래도 422
-  (file_count)가 나면 재시도 없이 바로 다음 release로 전환합니다.
+  (file_count)가 나면 재시도 없이 바로 다음 release로 전환합니다. 또한 대용량
+  업로드 중 브로큰 파이프/커넥션 끊김이나 422(already_exists)로 실패한 것처럼
+  보여도, 실제로는 서버에 업로드가 끝났을 수 있어 재시도 전에 항상 먼저
+  확인합니다 - 용량까지 일치하면 재업로드 없이 그 자산을 그대로 쓰고, 이름만
+  겹치는 찌꺼기(용량 불일치)면 지우고 다시 올립니다.
 - (v3) 파일 크기와 상관없이 모든 PDF를 GitHub Release 자산(asset)으로 업로드
   하고, 그 다운로드 URL만 manifest.json에 기록합니다. git commit으로는 더
   이상 아무 PDF도 저장하지 않습니다. 1.9GB를 초과하면 건너뜁니다.
@@ -442,6 +446,70 @@ def _load_release(index: int) -> tuple[int, int] | None:
         return None
 
 
+def _find_asset(release_id: int, asset_name: str) -> dict | None:
+    """release 안에서 이름이 asset_name인 자산을 찾아 {id, size, browser_download_url}을
+    반환한다. 없으면 None. (already_exists 충돌이나, 업로드는 성공했는데 응답을
+    못 받아 실패로 오인한 경우를 확인하는 데 쓴다.)"""
+    for page in range(1, 51):
+        url = (
+            f"https://api.github.com/repos/{GITHUB_REPOSITORY}/releases/"
+            f"{release_id}/assets?per_page=100&page={page}"
+        )
+        req = urllib.request.Request(url, headers=_github_headers())
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                items = json.loads(resp.read().decode("utf-8"))
+        except Exception as e:
+            print(f"    [자산 조회 실패] {e}", flush=True)
+            return None
+        for item in items:
+            if item.get("name") == asset_name:
+                return {
+                    "id": item["id"],
+                    "size": item.get("size"),
+                    "browser_download_url": item["browser_download_url"],
+                }
+        if len(items) < 100:
+            break
+    return None
+
+
+def _delete_asset(asset_id: int) -> bool:
+    """찌꺼기/손상된 자산을 지운다 (이름 충돌을 풀고 재업로드하기 위함)."""
+    url = f"https://api.github.com/repos/{GITHUB_REPOSITORY}/releases/assets/{asset_id}"
+    req = urllib.request.Request(url, method="DELETE", headers=_github_headers())
+    try:
+        with urllib.request.urlopen(req, timeout=15):
+            return True
+    except Exception as e:
+        print(f"    [자산 삭제 실패] id={asset_id} {e}", flush=True)
+        return False
+
+
+def _reconcile_existing_asset(release_id: int, asset_name: str, expected_size: int) -> str | None:
+    """업로드가 실패한 것처럼 보였을 때, 사실은 서버에 이미 올라가 있는지 확인한다.
+    용량까지 일치하면 그 자산을 그대로 쓰고(재업로드 안 함) URL을 반환한다.
+    이름은 같은데 용량이 다르면(부분 업로드 등 찌꺼기) 지우고 None을 반환해서
+    호출부가 새로 업로드하게 한다. 아예 없으면 None."""
+    existing = _find_asset(release_id, asset_name)
+    if existing is None:
+        return None
+    if existing["size"] == expected_size:
+        print(
+            f"    [업로드 확인됨] {asset_name} 는 이미 release에 정상적으로 올라가 있음 "
+            "(이전 시도가 응답만 못 받고 실제로는 성공했던 것으로 보임)",
+            flush=True,
+        )
+        return existing["browser_download_url"]
+    print(
+        f"    [찌꺼기 자산 발견] {asset_name} (용량 불일치: 서버 {existing['size']} vs "
+        f"로컬 {expected_size}) -> 삭제 후 재업로드",
+        flush=True,
+    )
+    _delete_asset(existing["id"])
+    return None
+
+
 def _advance_release() -> bool:
     """현재 release를 '가득 참'으로 보고 다음 번호로 넘어간다. 한도(MAX_RELEASE_INDEX)를 넘으면 False."""
     if _release_state["index"] >= MAX_RELEASE_INDEX:
@@ -476,12 +544,20 @@ def _current_release_id() -> int | None:
         return _release_state["id"]
 
 
-def upload_release_asset(local_path: Path, asset_name: str, max_retries: int = 3) -> str | None:
+def upload_release_asset(local_path: Path, asset_name: str, max_retries: int = 5) -> str | None:
     """PDF를 GitHub Release 자산으로 업로드하고 다운로드 URL을 반환한다.
+
     현재 release가 꽉 찼으면(미리 센 개수 또는 422 file_count 응답) 재시도 횟수를
     쓰지 않고 바로 다음 번호의 release로 바꿔서 다시 올린다.
-    실패하면 None을 반환하며, 호출부는 이 메시지를 known으로 기록하지 않고 넘어가서
-    다음 실행에서 자연스럽게 재시도하게 된다."""
+
+    업로드가 실패한 것처럼 보이는 경우(422 already_exists, 또는 브로큰 파이프/커넥션
+    끊김 같은 네트워크 에러) 대용량 파일은 실제로는 서버에 업로드가 끝났는데 그
+    응답만 못 받아서 실패로 오인하는 경우가 흔하다. 그래서 어떤 이유로 실패하든,
+    재시도하기 전에 먼저 release에 같은 이름의 자산이 이미 올라가 있고 용량까지
+    일치하는지 확인한다 - 맞으면 재업로드 없이 그 URL을 그대로 쓴다.
+
+    끝내 실패하면 None을 반환하며, 호출부는 이 메시지를 known으로 기록하지 않고
+    넘어가서 다음 실행에서 자연스럽게 재시도하게 된다."""
     if not (GITHUB_REPOSITORY and GH_DISPATCH_TOKEN):
         print("    [release 업로드 건너뜀] GITHUB_REPOSITORY 또는 GH_DISPATCH_TOKEN이 없음", flush=True)
         return None
@@ -489,6 +565,8 @@ def upload_release_asset(local_path: Path, asset_name: str, max_retries: int = 3
     file_size = local_path.stat().st_size
     attempt = 0
     rotations = 0
+    reconcile_tries = 0  # already_exists 확인이 실패해서 재확인한 횟수 (무한루프 방지용 상한)
+    MAX_RECONCILE_TRIES = 5
 
     while attempt < max_retries:
         release_id = _current_release_id()
@@ -510,6 +588,7 @@ def upload_release_asset(local_path: Path, asset_name: str, max_retries: int = 3
                         **_github_headers(),
                         "Content-Type": "application/pdf",
                         "Content-Length": str(file_size),
+                        "Connection": "close",
                     },
                 )
                 with urllib.request.urlopen(req, timeout=900) as resp:
@@ -535,12 +614,43 @@ def upload_release_asset(local_path: Path, asset_name: str, max_retries: int = 3
                     print(f"    [release 전환 한도 초과] {asset_name}", flush=True)
                     return None
                 continue
+            if e.code == 422 and "already_exists" in detail:
+                print(
+                    f"    [release 업로드 실패 (시도 {attempt + 1}/{max_retries})] "
+                    f"HTTP {e.code} already_exists -> 실제로 이미 올라가 있는지 확인", flush=True,
+                )
+                reconciled = _reconcile_existing_asset(release_id, asset_name, file_size)
+                if reconciled is not None:
+                    _release_state["count"] = (_release_state["count"] or 0) + 1
+                    return reconciled
+                # 자산을 못 찾았거나(막 생성된 자산이 목록 API에 아직 안 뜬 경우) 찌꺼기라서
+                # 지웠거나 - 어느 쪽이든 이 경로는 무한 루프로 새지 않도록 반드시 횟수와
+                # 대기시간을 둔다. (예전 버그: 여기서 카운트/대기 없이 곧바로 continue 해서,
+                # 자산 목록 반영이 늦어지면 이 파일 하나에 영원히 멈춰 뒤의 새 파일들이
+                # 아예 처리되지 못했음 - 동기 코드라 이벤트 루프 전체가 막힘.)
+                reconcile_tries += 1
+                attempt += 1
+                if reconcile_tries >= MAX_RECONCILE_TRIES:
+                    print(f"    [already_exists 재확인 한도 초과] {asset_name} -> 이번 실행은 포기", flush=True)
+                    break
+                time.sleep(min(2 * reconcile_tries, 10))
+                continue
             attempt += 1
             print(f"    [release 업로드 실패 (시도 {attempt}/{max_retries})] HTTP {e.code}: {detail}", flush=True)
         except Exception as e:
+            # 브로큰 파이프/커넥션 리셋 등: 업로드 자체는 서버에 끝났는데 응답만
+            # 못 받았을 가능성이 있으므로, 실패로 단정하기 전에 먼저 확인해본다.
+            print(
+                f"    [release 업로드 중 네트워크 오류 (시도 {attempt + 1}/{max_retries})] {e} "
+                "-> 실제로 업로드가 됐는지 확인", flush=True,
+            )
+            reconciled = _reconcile_existing_asset(release_id, asset_name, file_size)
+            if reconciled is not None:
+                _release_state["count"] = (_release_state["count"] or 0) + 1
+                return reconciled
             attempt += 1
             print(f"    [release 업로드 실패 (시도 {attempt}/{max_retries})] {e}", flush=True)
-        time.sleep(min(2 ** attempt, 20))
+        time.sleep(min(2 ** attempt, 30))
 
     print(f"    [release 업로드 최종 실패] {asset_name}", flush=True)
     return None
