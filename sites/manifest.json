@@ -28461,6 +28461,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21466.png",
       "sha256": "e4658db4992b8cf72ffc6a08b7ff5f7104f870d01847fc80e412581cbb55c9b8"
+    },
+    {
+      "message_id": 21463,
+      "filename": "한수 EBS 연계 1차 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21463_.EBS.1.pdf",
+      "size_bytes": 28858876,
+      "telegram_date": "2026-05-28T23:55:30+00:00",
+      "title": "국어 한수모의고사 EBS 연계 1차 문제지 #한수",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21463.png",
+      "sha256": "e26b91a30906d287b804098d9014430f01a0004b07ce3319f4f8a092a7234a35"
     }
   ],
   "duplicate_message_ids": [
