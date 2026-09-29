@@ -24345,6 +24345,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/21977.png",
       "sha256": "559fecb03b880261b488925cfbca8a8501abfcda6169977d2ba2f88bb73876bf"
+    },
+    {
+      "message_id": 21975,
+      "filename": "드릴제로 미적분1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21975_.1.pdf",
+      "size_bytes": 39255044,
+      "telegram_date": "2026-06-27T13:07:02+00:00",
+      "title": "수학 드릴 제로 미적분1",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21975.png",
+      "sha256": "4c9886c338d86c21de210761ef426cecec75f5506bff993306321848762b0828"
     }
   ],
   "duplicate_message_ids": [
