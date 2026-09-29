@@ -27761,6 +27761,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21547.png",
       "sha256": "464f4e387e31141afea130fde4d990696c2e9612aea8d09a9b409880255b3316"
+    },
+    {
+      "message_id": 21545,
+      "filename": "2027 이감 6모 전 EBS 중요도.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21545_2027.6.EBS.pdf",
+      "size_bytes": 925854,
+      "telegram_date": "2026-05-31T05:55:59+00:00",
+      "title": "국어 2027 이감 6모 전 EBS 중요도 정리",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21545.png",
+      "sha256": "dc7d07875d40062c28e308e89b34ac74a5a4c444f055dc636ad3dd45274d2a71"
     }
   ],
   "duplicate_message_ids": [
