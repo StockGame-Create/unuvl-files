@@ -30141,6 +30141,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/21230.png",
       "sha256": "4434da0e9f1881dd788bea090b9790fafcc2fce4f8f10e7161ccef23b50e70bb"
+    },
+    {
+      "message_id": 21229,
+      "filename": "27대비(26년)(05월)(더프)(3교시)(영어)(문제).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21229_27.26.05.3.pdf",
+      "size_bytes": 2680565,
+      "telegram_date": "2026-05-21T08:40:25+00:00",
+      "title": "THE PREMIUM 5월 모의고사 영어 (인쇄소퀄) #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/21229.png",
+      "sha256": "bc477f19824c7c095a433b235f0b23d4df8dc8dace6c9f455101351eba7097a1"
     }
   ],
   "duplicate_message_ids": [
