@@ -20915,6 +20915,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22337.png",
       "sha256": "97941311531e3cd152ec45184f0a7d27f7e7c5af36bde8ae734c4f5f0323595e"
+    },
+    {
+      "message_id": 22335,
+      "filename": "전국_파이널_브릿지_2회_+_빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22335_._._._2._%2B_.pdf",
+      "size_bytes": 4390231,
+      "telegram_date": "2026-07-10T15:47:23+00:00",
+      "title": "수학 시대인재 Final 브릿지 전국 모의고사 2회 #파브 (폰스캔)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22335.png",
+      "sha256": "5b607e5c76be73bae7dd8a0137ebdea05fef91762e62936cc3c0cdc1977f3921"
     }
   ],
   "duplicate_message_ids": [
