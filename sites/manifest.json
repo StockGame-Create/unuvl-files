@@ -28923,6 +28923,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21412.png",
       "sha256": "85cdb219f8d0cb2e2b0aa69e8d339fb7dd99652a55faf9391771351a9c47e360"
+    },
+    {
+      "message_id": 21409,
+      "filename": "2027 Step1 Assignment 1주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21409_2027.Step1.Assignment.1.pdf",
+      "size_bytes": 63458662,
+      "telegram_date": "2026-05-27T17:16:51+00:00",
+      "title": "수학 2027 Assignment 수학2+미적분 1주차  #어싸",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21409.png",
+      "sha256": "a1e102530b09e94cae345c5a5b8f295731d078749b3f47c7cefb76ad1c6bb490"
     }
   ],
   "duplicate_message_ids": [
