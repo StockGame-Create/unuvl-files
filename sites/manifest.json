@@ -21783,6 +21783,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22224.png",
       "sha256": "9c47d12af62df0148289b3ad8ca5525cfd0b226459cf47467fd1212bb626165b"
+    },
+    {
+      "message_id": 22223,
+      "filename": "22개정고등_유형해결의법칙_대수_본문_학생.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22223_22._._._._.pdf",
+      "size_bytes": 24578464,
+      "telegram_date": "2026-07-04T09:54:03+00:00",
+      "title": "수학 유형 해결의 법칙 대수",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22223.png",
+      "sha256": "bf57f93c707491ab6ea4793b6994ea30791a60bf613d99b3ba12645e51406918"
     }
   ],
   "duplicate_message_ids": [
