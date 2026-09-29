@@ -19039,6 +19039,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22545.png",
       "sha256": "00af9fd57a27f9e30415a5b84e438e93f3d5ff02d9b8de6dfcea662ebfefa2bd"
+    },
+    {
+      "message_id": 22543,
+      "filename": "837001956_고쟁이_공통수학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22543_837001956_._.2.pdf",
+      "size_bytes": 20362047,
+      "telegram_date": "2026-07-18T14:42:44+00:00",
+      "title": "수학 고쟁이 공통수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22543.png",
+      "sha256": "714183d78f03585c5846b72cab65fae136333cbb7132d859af3d3799ded33d0d"
     }
   ],
   "duplicate_message_ids": [
