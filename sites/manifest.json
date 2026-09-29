@@ -25241,6 +25241,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21868.png",
       "sha256": "b1ef91ab510b4c24752e2e9e285665dab6bfdfcb24a4a7871a2bc5a8eea54c8b"
+    },
+    {
+      "message_id": 21867,
+      "filename": "2027학년도_히든카이스_모의고사_시즌1_가이드북.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21867_2027._._._.1_.pdf",
+      "size_bytes": 10073041,
+      "telegram_date": "2026-06-18T14:19:57+00:00",
+      "title": "수학 Hidden Kice 모의고사 시즌1 #히카",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21867.png",
+      "sha256": "a81e549020421a67820629c2d31eff2a3901fd3ddbb430445e46357efa38069d"
     }
   ],
   "duplicate_message_ids": [
