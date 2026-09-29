@@ -29287,6 +29287,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21357.png",
       "sha256": "6bade7667467af645b577f514e0e4deeabe8d1266c788e1353c0d3e5dee1d9ec"
+    },
+    {
+      "message_id": 21356,
+      "filename": "2027_브릿지_전국_모고_수학_11회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21356_2027_._._._._11.pdf",
+      "size_bytes": 6543549,
+      "telegram_date": "2026-05-24T15:03:58+00:00",
+      "title": "수학 시대인재 브릿지 전국 모의고사11~12회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21356.png",
+      "sha256": "aa3e9dc5ccfabcc6b3bf699056ae1b2414070d096698ee79a51e85b56d44958f"
     }
   ],
   "duplicate_message_ids": [
