@@ -18157,6 +18157,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22656.png",
       "sha256": "0db22f975e1c4d79648409bcf344cf2852f5bc2c26ebf264b4be5028dd47370f"
+    },
+    {
+      "message_id": 22654,
+      "filename": "물1 N서바 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22654_.1.N.7.pdf",
+      "size_bytes": 20418340,
+      "telegram_date": "2026-07-21T22:35:21+00:00",
+      "title": "물1 시대인재 서바이벌 N전용 모의고사 7회 #서바N",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/22654.png",
+      "sha256": "cbb174575e77f6462c76eac35caf19c6daa1635f2ce86d65d86bb237dc219ccd"
     }
   ],
   "duplicate_message_ids": [
