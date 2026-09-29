@@ -16281,6 +16281,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22843.png",
       "sha256": "ba85c1e05e769782ef14161b79c346a63d33d358f9f9725379898a6ec3f00086"
+    },
+    {
+      "message_id": 22842,
+      "filename": "2027 강영찬 AddON 수학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22842_2027.AddON.2.pdf",
+      "size_bytes": 263935923,
+      "telegram_date": "2026-07-27T04:26:44+00:00",
+      "title": "수학 강영찬 Addon 수1, 수2, 미적분",
+      "year": "2027",
+      "instructor": "강영찬",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22842.png",
+      "sha256": "bc5a5ea848677e198e93317492ca7edecebb43cf2ca195582ae7926cda0011f9"
     }
   ],
   "duplicate_message_ids": [
