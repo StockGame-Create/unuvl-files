@@ -24723,6 +24723,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/21924.png",
       "sha256": "03fdd2b647c423afa86d4a0968208864592dca0a398001b6e37b83ca1b4e50d5"
+    },
+    {
+      "message_id": 21922,
+      "filename": "블리츠 S1 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21922_.S1.1.pdf",
+      "size_bytes": 4360710,
+      "telegram_date": "2026-06-23T05:24:07+00:00",
+      "title": "생1 BLITZ 1회",
+      "year": "2027",
+      "instructor": "홍준용",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/21922.png",
+      "sha256": "8cf117b48a4cbbbf4ed5c141345964996722fbf0e45faab58b2cccec655221b2"
     }
   ],
   "duplicate_message_ids": [
