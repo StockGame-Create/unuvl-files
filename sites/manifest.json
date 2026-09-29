@@ -18969,6 +18969,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22556.png",
       "sha256": "1ce624b89772193af0265db1f31ac7edc7603be821fa98f275cdfc38af04ab27"
+    },
+    {
+      "message_id": 22555,
+      "filename": "즌1킬캠 2-6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22555_.1.2-6.pdf",
+      "size_bytes": 54994124,
+      "telegram_date": "2026-07-18T14:42:45+00:00",
+      "title": "수학 킬링캠프 시즌 1 2~6회차 #킬캠",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22555.png",
+      "sha256": "b415d659c30cce63227d65d4b9095f4d2a2f0efb33a2b58c104e890b4eddfae6"
     }
   ],
   "duplicate_message_ids": [
