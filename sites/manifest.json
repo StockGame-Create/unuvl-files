@@ -26529,6 +26529,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/21718.png",
       "sha256": "29261419c728a812950d02aeea0cf725ea5b8a9bab328f86a8d183cc33facbef"
+    },
+    {
+      "message_id": 21717,
+      "filename": "2027 수능완성 영어 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21717_2027.pdf",
+      "size_bytes": 10252435,
+      "telegram_date": "2026-06-10T16:25:04+00:00",
+      "title": "영어 2027 수능완성 영어영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/21717.png",
+      "sha256": "fe8ce9aff4a3e76651eb275b3f9a538075000e085225e474e3404c53512ac1be"
     }
   ],
   "duplicate_message_ids": [
