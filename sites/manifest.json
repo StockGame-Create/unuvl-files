@@ -21167,6 +21167,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/22310.png",
       "sha256": "96319b454a2fc4be69fe8cb0e8a97f48b787837b626f84fd532dedd244f6bbc9"
+    },
+    {
+      "message_id": 22309,
+      "filename": "27_나르샤_시즌1_문제_14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22309_27_._.1_._14.pdf",
+      "size_bytes": 13851054,
+      "telegram_date": "2026-07-09T15:04:09+00:00",
+      "title": "사문 나르샤 실전 모의고사 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/22309.png",
+      "sha256": "18c6f502665a3ab2571ec4cf969220e190bc8f77726880fa8ca8a7f7a14a268d"
     }
   ],
   "duplicate_message_ids": [
