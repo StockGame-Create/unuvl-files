@@ -27579,6 +27579,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21571.png",
       "sha256": "2c547f09664b96c7f9b87c68ca27c214f58c2b17f8037741a200f4a50a411453"
+    },
+    {
+      "message_id": 21568,
+      "filename": "기출의 미래 독서 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21568_.pdf",
+      "size_bytes": 5479808,
+      "telegram_date": "2026-06-01T14:04:16+00:00",
+      "title": "국어 수능 기출의 미래 독서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21568.png",
+      "sha256": "367a1ca1f52e1899ea5af4da3ba0dba9938995d40fd5faf515492a8816647acb"
     }
   ],
   "duplicate_message_ids": [
