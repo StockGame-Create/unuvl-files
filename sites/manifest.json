@@ -19781,6 +19781,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22480.png",
       "sha256": "a714413c5bf03c99ec8b70b5c4b0d8ed671fa66e51081946dbcdbbcb30248e96"
+    },
+    {
+      "message_id": 22479,
+      "filename": "2026 07 더프 국어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22479_2026.07.pdf",
+      "size_bytes": 2315827,
+      "telegram_date": "2026-07-16T10:24:54+00:00",
+      "title": "국어 THE PREMIUM 7월 모의고사 (폰스캔) #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/22479.png",
+      "sha256": "778d87a71bf56b6c88d8901912cb5dc7bb7f81b3cbfa80f0dd1376af9e41b49f"
     }
   ],
   "duplicate_message_ids": [
