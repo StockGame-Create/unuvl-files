@@ -31051,6 +31051,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21116.png",
       "sha256": "5423a97285c8e0fdcc2ec9ea9aeada5ed5d4ff79a06eca3f04b1d3471d2b3fc8"
+    },
+    {
+      "message_id": 21114,
+      "filename": "강 e분독서시즌1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21114_.e.1.pdf",
+      "size_bytes": 241671397,
+      "telegram_date": "2026-05-18T00:33:15+00:00",
+      "title": "국어 강민철의 EBS 분석 수능특강 독서 시즌1 ~ 시즌3 #강E분",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21114.png",
+      "sha256": "1125ebc54b2199e9289dfb24a9c41068fff5e166f1ce48625296295b3e9909be"
     }
   ],
   "duplicate_message_ids": [
