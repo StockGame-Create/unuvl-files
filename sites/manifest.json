@@ -26389,6 +26389,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/21728.png",
       "sha256": "0c794aa47355bc337cc805c9c21d5311281782831d6217eb76e9591d72afda6d"
+    },
+    {
+      "message_id": 21727,
+      "filename": "2027 수능완성 물리학 I 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21727_2027.I.pdf",
+      "size_bytes": 12681087,
+      "telegram_date": "2026-06-10T16:28:00+00:00",
+      "title": "과탐 2027 수능완성 과학탐구영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/21727.png",
+      "sha256": "33d005c9e0381b6de2b5c1fb7174d7af7ed0967ada166937d77f64e399213dbd"
     }
   ],
   "duplicate_message_ids": [
