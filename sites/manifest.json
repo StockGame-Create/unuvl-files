@@ -27047,6 +27047,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21642.png",
       "sha256": "38ecc3b52e7a3ad1f86a9e8c4311dabfae91ab104d39879193a73df9942877ca"
+    },
+    {
+      "message_id": 21641,
+      "filename": "혼자서 때려잡기 수2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21641_.2.pdf",
+      "size_bytes": 24524235,
+      "telegram_date": "2026-06-06T06:19:30+00:00",
+      "title": "수학 2027 혼자서때려잡기 수학2 #혼때잡",
+      "year": "2027",
+      "instructor": "정승제",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21641.png",
+      "sha256": "2bcc2d87623481f0d9cfebaff9a47928520ae6d35c320e72c226310f3552c62c"
     }
   ],
   "duplicate_message_ids": [
