@@ -25941,6 +25941,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21764.png",
       "sha256": "7b9bcc0ec65d26fe01b651097b1686d78eff6ee1c47ea8343f44f24387adea1f"
+    },
+    {
+      "message_id": 21763,
+      "filename": "2027_샤인미N제_수학II_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21763_2027_.N._.II_.pdf",
+      "size_bytes": 11059570,
+      "telegram_date": "2026-06-11T16:12:51+00:00",
+      "title": "수학 2027 샤인미N제 수2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21763.png",
+      "sha256": "63c0abcd11b3b1f0d82808aa1d17d6cfbe371b094c7f663229c584f5a22311ec"
     }
   ],
   "duplicate_message_ids": [
