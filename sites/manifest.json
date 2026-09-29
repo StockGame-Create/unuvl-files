@@ -27439,6 +27439,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21588.png",
       "sha256": "871de56bfb2c5e174662e30548fc5dbf463bbd38997808037065bd5a7fc4b8c8"
+    },
+    {
+      "message_id": 21586,
+      "filename": "2027_마더텅_지구과학1_모의고사_25회_빨간책_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21586_2027_._.1_._25._._.pdf",
+      "size_bytes": 58421012,
+      "telegram_date": "2026-06-02T14:33:02+00:00",
+      "title": "지1 마더텅 수능기출 모의고사 25회 지구과학1영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/21586.png",
+      "sha256": "302cecb679b3aedb9a4d2fbf8d57cde5a336bb2340d116f581d1dffa74188dc8"
     }
   ],
   "duplicate_message_ids": [
