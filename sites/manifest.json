@@ -17989,6 +17989,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22676.png",
       "sha256": "84e5e6b831bb051362c4801ae2bb74fe92ca9762356857f7b6596fc2c3e18133"
+    },
+    {
+      "message_id": 22674,
+      "filename": "개념원리 기하_250619_124603_250619_124643.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22674_._250619_124603_250619_124643.pdf",
+      "size_bytes": 18378312,
+      "telegram_date": "2026-07-23T14:55:41+00:00",
+      "title": "수학 개념원리 기하 15개정",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22674.png",
+      "sha256": "3e25ad78c37bc984dd97e3238ab0a9b7670d471e347cac6efe0ebaa7919d8831"
     }
   ],
   "duplicate_message_ids": [
