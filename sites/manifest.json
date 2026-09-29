@@ -17863,6 +17863,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22691.png",
       "sha256": "99e43e156e0a9eb8b7161423b1bc534723af082493bc948ad4c63bfc6bc603ed"
+    },
+    {
+      "message_id": 22689,
+      "filename": "2027 KISSAVE 상편 39~58.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22689_2027.KISSAVE.39.58.pdf",
+      "size_bytes": 163937900,
+      "telegram_date": "2026-07-24T07:49:59+00:00",
+      "title": "영어 2027 KISSAVE (상)",
+      "year": "2027",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/22689.png",
+      "sha256": "3b0987e4938672398d273b49572101ce9ddb0616977eafde5c7748f5d98be73f"
     }
   ],
   "duplicate_message_ids": [
