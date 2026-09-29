@@ -31289,6 +31289,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21085.png",
       "sha256": "a7f596ae0f5a23f800cd132f141efb6f44802a6ab6d73ae2cdcc9c85a56c62ba"
+    },
+    {
+      "message_id": 21083,
+      "filename": "2027_즌1_설맞이_미적분_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21083_2027_.1_._._.pdf",
+      "size_bytes": 62738671,
+      "telegram_date": "2026-05-16T07:08:12+00:00",
+      "title": "수학 FOR 2027 SEASON 1 설맞이 아카이브 미적분",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21083.png",
+      "sha256": "3aaa37a7a83319c6243d417cabe97a9a8612d75fde034864a221881186f39732"
     }
   ],
   "duplicate_message_ids": [
