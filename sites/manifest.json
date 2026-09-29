@@ -30421,6 +30421,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21199.png",
       "sha256": "c8c5916c857b494ad513db6cfd7977f5a6bb7ab55c1c7c1416671b83c29b699a"
+    },
+    {
+      "message_id": 21196,
+      "filename": "26년_05월_더프_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21196_26._05._._.pdf",
+      "size_bytes": 26613082,
+      "telegram_date": "2026-05-21T04:11:00+00:00",
+      "title": "THE PREMIUM 5월 모의고사 해설지 #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "전과목",
+      "thumbnail": "thumbnails/21196.png",
+      "sha256": "a67628f8e47e199f1014e2d8fed9efd7985074c8f69e7fbf3838452b94780e17"
     }
   ],
   "duplicate_message_ids": [
