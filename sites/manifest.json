@@ -29371,6 +29371,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/21348.png",
       "sha256": "9ae4880bda6305ed9bc4d815a67c7540ec9e3021b8e8e550af73450933c0ab4c"
+    },
+    {
+      "message_id": 21346,
+      "filename": "상상 시즌3 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21346_.3.2.pdf",
+      "size_bytes": 25669746,
+      "telegram_date": "2026-05-24T11:48:43+00:00",
+      "title": "국어 시즌3 2차 모의고사 상상 국어평가연구소 #상상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21346.png",
+      "sha256": "461f4e7319f19012b66557fa3cf745c26e88263bc4597068267cb993d8977312"
     }
   ],
   "duplicate_message_ids": [
