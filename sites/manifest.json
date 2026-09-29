@@ -29133,6 +29133,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21380.png",
       "sha256": "7818a1e9cc9a0a65d2923bc4a787884e1a1f9e5a80bc7c12cc1107c9def613bf"
+    },
+    {
+      "message_id": 21374,
+      "filename": "5월 서프 물2지2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21374_5.2.2.pdf",
+      "size_bytes": 6599992,
+      "telegram_date": "2026-05-26T16:11:39+00:00",
+      "title": "물2 + 지2 시대인재 5월 전국모의평가 (폰스캔) #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학2 + 지구과학2",
+      "thumbnail": "thumbnails/21374.png",
+      "sha256": "b5a6c2c1fd85b3f51fe49b00ea3e06139a0879b1c683e72a8f5e19fbcd203073"
     }
   ],
   "duplicate_message_ids": [
