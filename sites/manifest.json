@@ -20187,6 +20187,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22431.png",
       "sha256": "677acf613c786a37ce4163bf87b964bbcf078fcd3e78d457e2919dd90ebe2269"
+    },
+    {
+      "message_id": 22429,
+      "filename": "EBS_2027_FINAL_수학영역_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22429_EBS_2027_FINAL_._.pdf",
+      "size_bytes": 2041242,
+      "telegram_date": "2026-07-14T04:48:43+00:00",
+      "title": "수학 EBS 2027 FINAL 실전 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22429.png",
+      "sha256": "162784435d1419a26b2f5929a26f89dd166038e0386783dcd0eda20157556bf2"
     }
   ],
   "duplicate_message_ids": [
