@@ -25479,6 +25479,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21843.png",
       "sha256": "ed920d9fd411dc347e72b2722070ad26fcd546ab40f6933f2031f0ccca251e7f"
+    },
+    {
+      "message_id": 21841,
+      "filename": "2025 oz기출 지구과학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21841_2025.oz.2.pdf",
+      "size_bytes": 163469943,
+      "telegram_date": "2026-06-16T10:08:09+00:00",
+      "title": "지2 2025 oz기출",
+      "year": "2025",
+      "instructor": "오지훈",
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/21841.png",
+      "sha256": "64bbd1d7bc052d7a4fec3a9dddcaaf497a4ec494d1a6df93a0b0e76455a52b7c"
     }
   ],
   "duplicate_message_ids": [
