@@ -20761,6 +20761,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22350.png",
       "sha256": "7250aa59960214ba82e3b506e8ffd4a89598d9b0a599a83800b0c6fada557e92"
+    },
+    {
+      "message_id": 22348,
+      "filename": "2026 숏컷 기하 1권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22348_2026.1.pdf",
+      "size_bytes": 46774450,
+      "telegram_date": "2026-07-11T11:21:10+00:00",
+      "title": "수학 시대인재 SHORTCUT 기하 1~2권",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22348.png",
+      "sha256": "55d8019d9f97e1db084f296761032969b532afd7ab72bc9b32572d24fa5e7b95"
     }
   ],
   "duplicate_message_ids": [
