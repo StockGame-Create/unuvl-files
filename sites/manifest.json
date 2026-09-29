@@ -17583,6 +17583,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/22726.png",
       "sha256": "094f723cf6ca95c51234ad4b3b7a1d818a7c917df43ca095e33ce5359884d712"
+    },
+    {
+      "message_id": 22724,
+      "filename": "2027 강영찬 visiON 미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22724_2027.visiON.pdf",
+      "size_bytes": 278829970,
+      "telegram_date": "2026-07-25T12:06:26+00:00",
+      "title": "수학 강영찬 Vision 미적분",
+      "year": "2027",
+      "instructor": "강영찬",
+      "subject": "수학",
+      "thumbnail": "thumbnails/22724.png",
+      "sha256": "d2433584edea9f57ea014b3dce2da303d39157904331aa8f1a9b4b693e885c31"
     }
   ],
   "duplicate_message_ids": [
