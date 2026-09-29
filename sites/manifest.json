@@ -19347,6 +19347,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22515.png",
       "sha256": "bc408867266567e4299d5b8be8c378fdc8d0d04a74d71bdfca01f915a46f0498"
+    },
+    {
+      "message_id": 22514,
+      "filename": "26 7월 대성 세지 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22514_26.7.pdf",
+      "size_bytes": 2590547,
+      "telegram_date": "2026-07-16T14:25:51+00:00",
+      "title": "사회 THE PREMIUM 7월 모의고사 문제지 세계사, 동아시아사, 세지, 윤사, 경제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/22514.png",
+      "sha256": "1d5ccc7426497e3f36ce9460f027bdfba5df12c5719ec2855d7ce4ad4551ca32"
     }
   ],
   "duplicate_message_ids": [
