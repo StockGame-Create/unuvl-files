@@ -28783,6 +28783,20 @@
       "subject": "생명과학1 + 지구과학1",
       "thumbnail": "thumbnails/21427.png",
       "sha256": "26eb5721fe095f0a08517729ba486239c0a2a7f020a5c8eb5adc04736dbbc8c6"
+    },
+    {
+      "message_id": 21425,
+      "filename": "BC_OCR.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21425_BC_OCR.pdf",
+      "size_bytes": 115256157,
+      "telegram_date": "2026-05-27T17:19:31+00:00",
+      "title": "국어 2027 브레인크래커cc",
+      "year": "2027",
+      "instructor": "이원준",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21425.png",
+      "sha256": "59ca5077db144d70d88385daa38ca5eaefd7c37f35634951c25c0f0e5c4b970e"
     }
   ],
   "duplicate_message_ids": [
