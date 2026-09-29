@@ -18899,6 +18899,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22562.png",
       "sha256": "7d4e4f967baa177fd68471d91ec175cd99bd5a7b1eb78d78502b42e2883d3b5d"
+    },
+    {
+      "message_id": 22561,
+      "filename": "2027_시대인재_Final_브릿지_전국_모의고사_3회_정답및해설_2026_07_18_02_06_46.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22561_2027_._Final_._._._3._._2026_07_18_02_06_46.pdf",
+      "size_bytes": 1415622,
+      "telegram_date": "2026-07-18T14:42:45+00:00",
+      "title": "수학 시대인재 파이널 브릿지 전국 모의고사 3회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22561.png",
+      "sha256": "eac43de14124730cf469cb349fe052993dd06c38fd95574c99b96178be279f68"
     }
   ],
   "duplicate_message_ids": [
