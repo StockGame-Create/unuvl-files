@@ -18983,6 +18983,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22555.png",
       "sha256": "b415d659c30cce63227d65d4b9095f4d2a2f0efb33a2b58c104e890b4eddfae6"
+    },
+    {
+      "message_id": 22550,
+      "filename": "TalkFile_윤성훈_십지선다_현장_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22550_TalkFile_._._._1.pdf",
+      "size_bytes": 10702109,
+      "telegram_date": "2026-07-18T14:42:44+00:00",
+      "title": "사문 10지선다 비밀특강 현장전용 하프모의고사 1회 사회문화",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/22550.png",
+      "sha256": "6e604e15eca8cb64622d4359ad20b8738b21379f406d33ece7ad3943a10ebb0e"
     }
   ],
   "duplicate_message_ids": [
