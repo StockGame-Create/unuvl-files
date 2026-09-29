@@ -29777,6 +29777,20 @@
       "subject": "통합사회",
       "thumbnail": "thumbnails/21297.png",
       "sha256": "ab5064c4cc6351c0aef677bcf851cc773533f94021f330355e7368225d316fe9"
+    },
+    {
+      "message_id": 21296,
+      "filename": "사회문화_사만다_6평_대비.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21296_._._6._.pdf",
+      "size_bytes": 2024721,
+      "telegram_date": "2026-05-22T15:39:01+00:00",
+      "title": "사문 2027 6평 대비 사만다 모의고사",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/21296.png",
+      "sha256": "b7b4d1a2a9967945e1e27ca816e8e61589e81aa11127d548b74a8122d726dc7e"
     }
   ],
   "duplicate_message_ids": [
