@@ -30351,6 +30351,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/21207.png",
       "sha256": "74458db3abaf3447a1e3a04ff76d57e1741be7114674b45a462739f6de43ee2d"
+    },
+    {
+      "message_id": 21206,
+      "filename": "5덮 지1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21206_5.1.pdf",
+      "size_bytes": 987688,
+      "telegram_date": "2026-05-21T07:10:55+00:00",
+      "title": "THE PREMIUM 5월 모의고사 과학탐구(폰스캔) #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/21206.png",
+      "sha256": "5c050a47c098ec89c2768393035478208b47ebda57745e6b902c7d499c0970e7"
     }
   ],
   "duplicate_message_ids": [
