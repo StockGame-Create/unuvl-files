@@ -17751,6 +17751,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22706.png",
       "sha256": "e5e83ddcabaf77cfcbc6ce9f4c0cf3cde0e033daba81cb89302da68145c6eeae"
+    },
+    {
+      "message_id": 22705,
+      "filename": "스캔_문서,_2026_7_24_오후_1_20_14.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22705_._._2026_7_24_._1_20_14.pdf",
+      "size_bytes": 14581862,
+      "telegram_date": "2026-07-24T13:32:23+00:00",
+      "title": "지1 강대모의고사K+ 2회 #강케플",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/22705.png",
+      "sha256": "74940d7eb151d45f4e59d0741024ef05b5630b4b16bcd2db5ac6f3611431c609"
     }
   ],
   "duplicate_message_ids": [
