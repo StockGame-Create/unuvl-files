@@ -17331,6 +17331,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/22746.png",
       "sha256": "42a64ca70952807dd4bc05b44f8c60d23e2b14d07346d4c6bb719c34c95a6a75"
+    },
+    {
+      "message_id": 22745,
+      "filename": "2027학년도_시대인재_7월_전국모의평가_4교시_사탐_경제_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22745_2027._._7._._4._._._.pdf",
+      "size_bytes": 2146222,
+      "telegram_date": "2026-07-25T12:06:27+00:00",
+      "title": "사회 시대인재 7월 전국모의평가 경제, 동아시아사, 사문, 생윤  #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/22745.png",
+      "sha256": "00d1260dd29b453aeb033e8c645f3e080d49ddf4cb872908325785203d132069"
     }
   ],
   "duplicate_message_ids": [
