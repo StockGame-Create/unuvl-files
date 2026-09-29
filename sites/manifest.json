@@ -19025,6 +19025,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/22547.png",
       "sha256": "134a23ba48bf0418f11ff3f98fc0b330b421cdb417bfb34e233a8f85ee61723d"
+    },
+    {
+      "message_id": 22545,
+      "filename": "강k 수학 1,2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22545_.k.1.2.pdf",
+      "size_bytes": 64106883,
+      "telegram_date": "2026-07-18T14:42:44+00:00",
+      "title": "수학 강대모의고사K 1~2회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22545.png",
+      "sha256": "00af9fd57a27f9e30415a5b84e438e93f3d5ff02d9b8de6dfcea662ebfefa2bd"
     }
   ],
   "duplicate_message_ids": [
