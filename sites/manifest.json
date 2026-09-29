@@ -29721,6 +29721,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21306.png",
       "sha256": "c0c299bd9d1bfc7e43ec2490c45da215babee363dbeecf4d338e9c342c0c9830"
+    },
+    {
+      "message_id": 21301,
+      "filename": "강e분_고전소설__.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21301_.e._.__.pdf",
+      "size_bytes": 323364506,
+      "telegram_date": "2026-05-23T08:37:59+00:00",
+      "title": "국어 강민철의 EBS 분석 수능특강 문학 고전소설 #강E분",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/21301.png",
+      "sha256": "ca95632bffc97190160e2ae2175fea651dbdafe02eca19e3a42c4e12b308bc2e"
     }
   ],
   "duplicate_message_ids": [
