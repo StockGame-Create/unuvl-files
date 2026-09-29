@@ -28167,6 +28167,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/21497.png",
       "sha256": "220021c6ad0fd5fc861b7f66e8cbdc5542947482415654fa97db150234c4c39c"
+    },
+    {
+      "message_id": 21494,
+      "filename": "오르새 준스팟.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21494_.pdf",
+      "size_bytes": 2875940,
+      "telegram_date": "2026-05-29T14:38:49+00:00",
+      "title": "수학 오르새 준킬러 SPOT 모의고사 1회~5회",
+      "year": "2027",
+      "instructor": "오르새",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21494.png",
+      "sha256": "3f3d912c48cdbadf8ad65705ea520426189e70cf7a58fdd4dfc98641086c6bdd"
     }
   ],
   "duplicate_message_ids": [
