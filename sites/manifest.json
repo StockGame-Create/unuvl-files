@@ -26949,6 +26949,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/21656.png",
       "sha256": "2813385ad0de04c5e2144ec7c927176424e91395916f8d5890d1f26645a212a1"
+    },
+    {
+      "message_id": 21653,
+      "filename": "2027 박종민 고수탑 수학1 리뷰퀴즈 05주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21653_2027.1.05.pdf",
+      "size_bytes": 1184883,
+      "telegram_date": "2026-06-07T04:18:06+00:00",
+      "title": "수학 고수탑 수학1 리뷰퀴즈 5주차",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21653.png",
+      "sha256": "496d7ac4c1f5bb7206f7c8fcfedca1e017d95adeb3070c24663d125a59b7e6d5"
     }
   ],
   "duplicate_message_ids": [
