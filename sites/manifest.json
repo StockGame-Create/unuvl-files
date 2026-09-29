@@ -16673,6 +16673,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/22808.png",
       "sha256": "6c862db58eac9323579d98655e25d8f158baf14ea8db34bb6399eeaf190f5e39"
+    },
+    {
+      "message_id": 22807,
+      "filename": "물리학1_전국서바_3회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22807_.1_._3._.pdf",
+      "size_bytes": 1490647,
+      "telegram_date": "2026-07-26T17:28:17+00:00",
+      "title": "물1 시대인재 서바이벌 전국 모의고사 2, 3회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/22807.png",
+      "sha256": "3f7adf8d8a0a91d9dd8f20e446d54db7b3521b83ebc4b552c70579b8acdddd72"
     }
   ],
   "duplicate_message_ids": [
