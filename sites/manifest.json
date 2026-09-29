@@ -24373,6 +24373,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21972.png",
       "sha256": "6b3fbd2e8b42c56c27ce66c3a8320c8d3947afcb82b0d8bd2b89de898c0ace4e"
+    },
+    {
+      "message_id": 21971,
+      "filename": "드릴_제로_확통_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21971_._._._.pdf",
+      "size_bytes": 14421858,
+      "telegram_date": "2026-06-27T13:07:02+00:00",
+      "title": "수학 드릴 제로 1",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21971.png",
+      "sha256": "f5a457d6840a2b3a6cec5a3070093f8a1db53f10ddc426bd960e9f1872343afd"
     }
   ],
   "duplicate_message_ids": [
