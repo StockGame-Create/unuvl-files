@@ -17835,6 +17835,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22694.png",
       "sha256": "f6a66bce4651b899d34283232eff2709e51ed51140f927f1f1f5aa4401938b02"
+    },
+    {
+      "message_id": 22692,
+      "filename": "강x s1 3회 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22692_.x.s1.3.pdf",
+      "size_bytes": 3251950,
+      "telegram_date": "2026-07-24T07:49:59+00:00",
+      "title": "수학 강대X 시즌1 3회 #강x",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22692.png",
+      "sha256": "0745c70467a2e4422371e836150d6770888846f4e22c195245b10801958a2a24"
     }
   ],
   "duplicate_message_ids": [
