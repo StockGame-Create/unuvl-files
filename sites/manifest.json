@@ -18927,6 +18927,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/22560.png",
       "sha256": "df94ec80c6ce67ad6a24e21cf2cdbc6955784f383282016bab695387f03aa749"
+    },
+    {
+      "message_id": 22558,
+      "filename": "숨마대수.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/22558_.pdf",
+      "size_bytes": 283271948,
+      "telegram_date": "2026-07-18T14:42:45+00:00",
+      "title": "수학 숨마쿠라우데 대수",
+      "year": "2022",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/22558.png",
+      "sha256": "94492c84a605b2111fcbff3c6ddd323db6f8f0217fbc84a93e791b145ca21866"
     }
   ],
   "duplicate_message_ids": [
