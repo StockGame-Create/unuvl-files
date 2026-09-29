@@ -26249,6 +26249,20 @@
       "subject": "직업탐구",
       "thumbnail": "thumbnails/21738.png",
       "sha256": "d67ea2385eb091c2226cc74b20628d65943a9e280712f90913b4e10d95613658"
+    },
+    {
+      "message_id": 21737,
+      "filename": "2027 수능완성 성공적인 직업생활 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-2/21737_2027.pdf",
+      "size_bytes": 8804035,
+      "telegram_date": "2026-06-10T16:28:54+00:00",
+      "title": "직탐 2027 수능완성 직업탐구영역",
+      "year": "2027",
+      "instructor": null,
+      "subject": "직업탐구",
+      "thumbnail": "thumbnails/21737.png",
+      "sha256": "2f614ee5dd0b54e373a87a3089d5ae85d64034f6653df9ab7d3feca1b7a5dfb0"
     }
   ],
   "duplicate_message_ids": [
