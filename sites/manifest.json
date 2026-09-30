@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "message_id": 24822,
+      "filename": "적생모_정법_시즌3_9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24822_._._.3_9.pdf",
+      "size_bytes": 8530416,
+      "telegram_date": "2026-09-30T22:19:59+00:00",
+      "title": "정법 적자생존 모의고사 시즌3 9회 #적생모",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/24822.png",
+      "sha256": "541bacaffe7e4682c9b7a5026a63ead0e1b1f34cb55240e82a84ceaad0f3068f"
+    },
+    {
       "message_id": 24815,
       "filename": "TalkFile_2027_조정식_TDYD_즌2_파이널_해설지_pdf.pdf",
       "stored_as": null,
