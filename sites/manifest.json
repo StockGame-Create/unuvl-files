@@ -32325,6 +32325,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20935.png",
       "sha256": "988b91c96567a37f26de7595fb1614b61457d581ecc171f28625cd700c320694"
+    },
+    {
+      "message_id": 20934,
+      "filename": "2027 브릿지 전국 모고 수학 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20934_2027.9.pdf",
+      "size_bytes": 2611014,
+      "telegram_date": "2026-05-04T12:22:05+00:00",
+      "title": "수학 시대인재 전국 브릿지 모의고사 9회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20934.png",
+      "sha256": "7381d1e695ad46364029da1a6310899bb696f1699f70ec84f8eebf6ce930eb05"
     }
   ],
   "duplicate_message_ids": [
