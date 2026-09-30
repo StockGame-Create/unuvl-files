@@ -33599,6 +33599,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20757.png",
       "sha256": "22b3d89c65bb0f626b2e4f69701df3e9fac4bb01f1cc2c6c530f14173ca49997"
+    },
+    {
+      "message_id": 20755,
+      "filename": "일등급수학_미적분1_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20755_._.1_.pdf",
+      "size_bytes": 259747854,
+      "telegram_date": "2026-04-23T18:08:20+00:00",
+      "title": "수학 1등급 수학 미적분 1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20755.png",
+      "sha256": "6567a998d11e029ec175fad03fb8237f33cec370f09a8b63c8a116bb361afee5"
     }
   ],
   "duplicate_message_ids": [
