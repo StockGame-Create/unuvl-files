@@ -36931,6 +36931,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20384.png",
       "sha256": "927886dbeac03fa04a2f62f359a613b83da963892ff71480352cea1c5046cf5e"
+    },
+    {
+      "message_id": 20383,
+      "filename": "TalkFile_2027_이해원_N제_시즌1_미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20383_TalkFile_2027_._N._.1_.pdf",
+      "size_bytes": 14738754,
+      "telegram_date": "2026-04-11T04:03:13+00:00",
+      "title": "수학 2027 이해원 N제 시즌1 미적분",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20383.png",
+      "sha256": "91fbc928eb481fa1b0058c67e990379cc7690869836aad8fcc698e019abe3ce0"
     }
   ],
   "duplicate_message_ids": [
