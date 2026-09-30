@@ -33921,6 +33921,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/20714.png",
       "sha256": "d33db24edc7ba26e6aee8bb65f642156736eb2921941c2df9410c9d50394c81c"
+    },
+    {
+      "message_id": 20712,
+      "filename": "EBS_개념완성_생명과학2022_개정_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20712_EBS_._.2022_._.pdf",
+      "size_bytes": 3784079,
+      "telegram_date": "2026-04-20T13:50:18+00:00",
+      "title": "과탐 EBS 개념완성 생명과학 (22개정)",
+      "year": null,
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/20712.png",
+      "sha256": "e7c8185b77cf17700877617ac36a793b5b1af40e5462628702deea4323d2f3a1"
     }
   ],
   "duplicate_message_ids": [
