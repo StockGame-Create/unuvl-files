@@ -37911,6 +37911,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20272.png",
       "sha256": "baea96de8293b269da8150af1a18d9a2413127ddc16f6dc8bc17355b4c4a8ff3"
+    },
+    {
+      "message_id": 20270,
+      "filename": "훈도해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20270_.pdf",
+      "size_bytes": 104360704,
+      "telegram_date": "2026-04-04T16:39:19+00:00",
+      "title": "국어 훈련도감",
+      "year": "2027",
+      "instructor": "박광일",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20270.png",
+      "sha256": "9a6c8d6c764cb905a51b46bb4e28dfbc3a862c65629d494d92ec4a0d93ab2244"
     }
   ],
   "duplicate_message_ids": [
