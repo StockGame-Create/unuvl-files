@@ -38751,6 +38751,20 @@
       "subject": "수학2",
       "thumbnail": "thumbnails/20162.png",
       "sha256": "2da3c13cf52fef6d6abf03e97e48e14b12115a7f24817391595af3b883010779"
+    },
+    {
+      "message_id": 20160,
+      "filename": "메가스터디N제_물리학_22개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20160_.N._._22.pdf",
+      "size_bytes": 39247687,
+      "telegram_date": "2026-03-30T03:54:32+00:00",
+      "title": "물1 메가스터디 N제 물리학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/20160.png",
+      "sha256": "3fc9a4deb03d0d9575142725c8412d915bbd0d3add31ff9623479af9144fdd76"
     }
   ],
   "duplicate_message_ids": [
