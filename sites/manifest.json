@@ -35573,6 +35573,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20516.png",
       "sha256": "ccf98d07c85ccf1551e21ae778145ba8bf0e09c6869d1383690e4cb4ecc8c601"
+    },
+    {
+      "message_id": 20515,
+      "filename": "드릴7 미적분 해설_260415_173052 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20515_.7._260415_173052.1.pdf",
+      "size_bytes": 13919594,
+      "telegram_date": "2026-04-15T10:50:04+00:00",
+      "title": "수학 드릴7 미적분",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "미적분",
+      "thumbnail": "thumbnails/20515.png",
+      "sha256": "0df1369a7fb64e729ff3e2cd69e5c70186d6fa4c4bb4f8aa3365c61214db23c6"
     }
   ],
   "duplicate_message_ids": [
