@@ -34103,6 +34103,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20688.png",
       "sha256": "ea46aabc028a9964ad427cd16d47642431744c4c600752778e09da6d50215f93"
+    },
+    {
+      "message_id": 20687,
+      "filename": "김기현T_기출생각집_4점.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20687_.T_._4.pdf",
+      "size_bytes": 11024057,
+      "telegram_date": "2026-04-20T10:28:10+00:00",
+      "title": "수학 김기현 기출생각집 확률과 통계",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20687.png",
+      "sha256": "d880bcc35ca535f5388f9243b0dd6c5af7a5068bc738f79fba0a1a4ef3c145f5"
     }
   ],
   "duplicate_message_ids": [
