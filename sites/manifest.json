@@ -37029,6 +37029,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20373.png",
       "sha256": "1dcbd5f853ac1271083906f8df0e74c84b22a3a8a6c8cbd1c2da885b1d9f274c"
+    },
+    {
+      "message_id": 20371,
+      "filename": "2027 정석민 문개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20371_2027.pdf",
+      "size_bytes": 213712034,
+      "telegram_date": "2026-04-10T14:52:20+00:00",
+      "title": "국어 정석민 문개정",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20371.png",
+      "sha256": "83db091b226420c39d6b0341928303b87e1dc6b1c05f44739ab7b12f31efe1fe"
     }
   ],
   "duplicate_message_ids": [
