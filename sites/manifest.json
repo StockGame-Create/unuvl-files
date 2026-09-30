@@ -33389,6 +33389,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20796.png",
       "sha256": "7e293f9eb2820025712d8be7f979d8a99927b7d774279b47b5bd29f6964b4f22"
+    },
+    {
+      "message_id": 20794,
+      "filename": "JUST 수학 상.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20794_JUST.pdf",
+      "size_bytes": 79498157,
+      "telegram_date": "2026-04-24T13:09:24+00:00",
+      "title": "수학 저스트(상) 수학1",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20794.png",
+      "sha256": "285e775b88b20308db4d1cb09543a823858ee72d10df9eecc36a4a0202bd6dcd"
     }
   ],
   "duplicate_message_ids": [
