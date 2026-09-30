@@ -32059,6 +32059,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20977.png",
       "sha256": "2096cfd6568b65b06e5755a138953ac0970579ee0165c8cff7f38b659ee4fe7b"
+    },
+    {
+      "message_id": 20975,
+      "filename": "콘스탄트 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20975_.9.pdf",
+      "size_bytes": 4806044,
+      "telegram_date": "2026-05-08T15:04:44+00:00",
+      "title": "수학 2027 대성 CONSTANT 수학 9회 #콘스탄트",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20975.png",
+      "sha256": "7acfacf7b466484b95b2da22d68295207995e4580356f976e776761c9fddf82d"
     }
   ],
   "duplicate_message_ids": [
