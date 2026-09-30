@@ -38205,6 +38205,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/20232.png",
       "sha256": "a90801df419f4b08fec991864954dfea6388c38a008e2dc9cde7e1ac6a10dc6f"
+    },
+    {
+      "message_id": 20230,
+      "filename": "2027_생명과학_브릿지_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20230_2027_._._2.pdf",
+      "size_bytes": 2759658,
+      "telegram_date": "2026-04-03T01:55:40+00:00",
+      "title": "생1 시대인재 브릿지 모의고사 2회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/20230.png",
+      "sha256": "481949c02a6f8601562f9caab843a1ecc27d3c7f6f561d70df42e93b02b0e9bd"
     }
   ],
   "duplicate_message_ids": [
