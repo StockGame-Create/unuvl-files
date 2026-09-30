@@ -32381,6 +32381,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20928.png",
       "sha256": "247f72bd613b4a8aeeb8832948c66933997bb08cecf5e3581ea78a448815c011"
+    },
+    {
+      "message_id": 20927,
+      "filename": "2027학년도+이신혁T+시즌2+1주차+복습테스트+해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20927_2027.%2B.T%2B.2%2B1.%2B.%2B.pdf",
+      "size_bytes": 30974,
+      "telegram_date": "2026-05-04T12:22:00+00:00",
+      "title": "지1 이신혁 시즌2 1주차 복습테스트 지구과학1",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20927.png",
+      "sha256": "91c8b6ddfb3cf65977620c938c2b55e5c46b97e1b9dfd3c4956acae0015fbbcb"
     }
   ],
   "duplicate_message_ids": [
