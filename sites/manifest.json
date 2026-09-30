@@ -39563,6 +39563,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20061.png",
       "sha256": "822873b1e86647bacf90f61ccff7f84cecf8ce4000e7c0074c956b9e731e1161"
+    },
+    {
+      "message_id": 20056,
+      "filename": "한완수_실전개념_지수로그.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20056_._._.pdf",
+      "size_bytes": 49439997,
+      "telegram_date": "2026-03-23T14:38:29+00:00",
+      "title": "수학 수1 + 수2 실전개념",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20056.png",
+      "sha256": "7c43f64877d6e39500ccc346ce8b7271809bf5e608e10624cf47c39739904366"
     }
   ],
   "duplicate_message_ids": [
