@@ -38149,6 +38149,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20238.png",
       "sha256": "10954fa13e0ca582bece7abd2905680e6cc61d8231efe94453c94b26ec4876f4"
+    },
+    {
+      "message_id": 20236,
+      "filename": "2027_한완기_교사용_평가원수능_수학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20236_2027_._._._.1.pdf",
+      "size_bytes": 24015359,
+      "telegram_date": "2026-04-03T02:00:29+00:00",
+      "title": "수1 한완기 교사용 수학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학1",
+      "thumbnail": "thumbnails/20236.png",
+      "sha256": "a7dfbae48065b4dbbfde6bf75fb094febd8279f09a1caf4347cf8e349300c693"
     }
   ],
   "duplicate_message_ids": [
