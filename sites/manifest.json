@@ -35349,6 +35349,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/20549.png",
       "sha256": "9bc7c0c0c06ea9a5bb982a5eadcdfc86c47dd1dd71e47a4d76b1f9515b0eaf63"
+    },
+    {
+      "message_id": 20546,
+      "filename": "2027학년도 정병호 빅포텐 시즌1 미적분 빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20546_2027.1.pdf",
+      "size_bytes": 158209,
+      "telegram_date": "2026-04-17T10:32:08+00:00",
+      "title": "수학 빅포텐 시즌1 미적분",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20546.png",
+      "sha256": "5609a11e643151cee67645bc0616eb8a794732ba215c5df4aa9a68703a769812"
     }
   ],
   "duplicate_message_ids": [
