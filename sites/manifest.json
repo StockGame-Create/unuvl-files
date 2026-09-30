@@ -33347,6 +33347,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/20802.png",
       "sha256": "74eee18ebee07d4ea7dae575ba8fec5291a9dfacb55dabcd122ca6658421cb4a"
+    },
+    {
+      "message_id": 20798,
+      "filename": "TECH TREE (지구과학1) 기출 문제-1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20798_TECH.TREE.1.-1.pdf",
+      "size_bytes": 314939925,
+      "telegram_date": "2026-04-24T13:09:29+00:00",
+      "title": "지1 Tech Tree 기출 문제, 개념",
+      "year": "2027",
+      "instructor": "이훈식",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20798.png",
+      "sha256": "549e9ad322a01586fc94ad7d466eb2ae8cbd6f7f7d949b510b84b67c4d4f2421"
     }
   ],
   "duplicate_message_ids": [
