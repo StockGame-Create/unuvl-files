@@ -37015,6 +37015,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20375.png",
       "sha256": "a888aca9721f0a2ab971781f89924714d9e7859123272d1a0709e68b80f6f7c7"
+    },
+    {
+      "message_id": 20373,
+      "filename": "2027_김범준_카나토미_스블_중복문제_제거_수1+수2+확통_Only_Step2_5.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20373_2027_._._._._._.1%2B.2%2B._Only_Step2_5.pdf",
+      "size_bytes": 250234682,
+      "telegram_date": "2026-04-10T15:03:19+00:00",
+      "title": "수학 2027 KICE ANATOMY 통합(수1+수2+확통) Step 02 정리본",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20373.png",
+      "sha256": "1dcbd5f853ac1271083906f8df0e74c84b22a3a8a6c8cbd1c2da885b1d9f274c"
     }
   ],
   "duplicate_message_ids": [
