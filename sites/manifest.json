@@ -31597,6 +31597,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21043.png",
       "sha256": "d53b23973cff52be687e27d070fa2e647f539a7064fe42bfb3ea8ca6d4e937c1"
+    },
+    {
+      "message_id": 21042,
+      "filename": "나의.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21042_.pdf",
+      "size_bytes": 142948208,
+      "telegram_date": "2026-05-14T17:10:36+00:00",
+      "title": "영어 구문 20수",
+      "year": "2027",
+      "instructor": "이영수",
+      "subject": "영어",
+      "thumbnail": "thumbnails/21042.png",
+      "sha256": "3361e436097ee65a500c737edc208bb33098b3721e4492782c82b9b3836358c1"
     }
   ],
   "duplicate_message_ids": [
