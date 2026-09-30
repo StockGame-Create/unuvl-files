@@ -35013,6 +35013,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20587.png",
       "sha256": "3dc1a11c84109459fb64927eea06d93b532fe10b9cd996b1bf23c2eeaf5870be"
+    },
+    {
+      "message_id": 20586,
+      "filename": "2027학년도 정병호 빅포텐 시즌1 수학Ⅰ 본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20586_2027.1.pdf",
+      "size_bytes": 9591027,
+      "telegram_date": "2026-04-18T14:56:40+00:00",
+      "title": "수학 빅포텐 시즌1 수학1",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20586.png",
+      "sha256": "15cd173ad44b2502377631ea90dee715b370723a3853a9c80a084bf5e69ad43f"
     }
   ],
   "duplicate_message_ids": [
