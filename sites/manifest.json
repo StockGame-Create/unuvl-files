@@ -32549,6 +32549,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20907.png",
       "sha256": "7798c31950617ed383710cd905dd3e67e321508c73312fe3667ccf8fe0c816ce"
+    },
+    {
+      "message_id": 20905,
+      "filename": "인코드 실전편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20905_.pdf",
+      "size_bytes": 12386448,
+      "telegram_date": "2026-05-01T16:45:40+00:00",
+      "title": "생1 인코드 실전편 #인코드",
+      "year": "2027",
+      "instructor": "정석준",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/20905.png",
+      "sha256": "7735519f66a677f10972a5cd6a55fb9e285ec3c0261a23ad64dd710f765b7fd3"
     }
   ],
   "duplicate_message_ids": [
