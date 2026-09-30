@@ -32115,6 +32115,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20968.png",
       "sha256": "66b81252b2723455578f8bda62a6cf1ed11ea2cc27d3ee5fd7302c76f94cce87"
+    },
+    {
+      "message_id": 20967,
+      "filename": "강기분_언매_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20967_._._.pdf",
+      "size_bytes": 241736052,
+      "telegram_date": "2026-05-07T08:33:30+00:00",
+      "title": "국어 강기분 언매 문제편",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20967.png",
+      "sha256": "9da2eb9d3f187d9341f98546321fd1d8d34ad27324e174a8b7494f71c885f333"
     }
   ],
   "duplicate_message_ids": [
