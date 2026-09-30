@@ -40473,6 +40473,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19951.png",
       "sha256": "d363fdedb14d81891cd3d6929b5f8c812fdbd801276b98b953e37ee7c484906e"
+    },
+    {
+      "message_id": 19949,
+      "filename": "2027 지1 전국 브릿지 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19949_2027.1.2.pdf",
+      "size_bytes": 4355672,
+      "telegram_date": "2026-03-18T08:20:35+00:00",
+      "title": "지1 시대인재 전국 브릿지 모의고사 2회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학",
+      "thumbnail": "thumbnails/19949.png",
+      "sha256": "72e81f7054977deacb0221f85d540ab1525a286a5e6ac70189224293e45fb57c"
     }
   ],
   "duplicate_message_ids": [
