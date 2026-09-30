@@ -39521,6 +39521,20 @@
       "subject": "물리학",
       "thumbnail": "thumbnails/20068.png",
       "sha256": "ee1bd4a392bddebdeb55066c478765e4915a61af38593a8ea29db929fb48866e"
+    },
+    {
+      "message_id": 20066,
+      "filename": "5a69e2d1dcf44f09bb82a584175c0adf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20066_5a69e2d1dcf44f09bb82a584175c0adf.pdf",
+      "size_bytes": 2748116,
+      "telegram_date": "2026-03-24T12:39:47+00:00",
+      "title": "수학 강기원 정규반 Step1 13주차 필기노트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20066.png",
+      "sha256": "1996e4a381191a9fdca0085b8c66f46eda2835da8a6ef726d48d5fd90710981e"
     }
   ],
   "duplicate_message_ids": [
