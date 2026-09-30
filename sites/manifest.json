@@ -31485,6 +31485,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21055.png",
       "sha256": "f2e4de04a5996f879843436da0f7ff8d0f1269f07f4694de94b2f287c168686c"
+    },
+    {
+      "message_id": 21054,
+      "filename": "콘스탄트 10회 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21054_.10.pdf",
+      "size_bytes": 4465580,
+      "telegram_date": "2026-05-15T16:04:13+00:00",
+      "title": "수학 2027 대성 CONSTANT 수학 10회 #콘스탄트",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21054.png",
+      "sha256": "b9487299b43f6dcedbbfa8725aa99e165a1b7531be475b90d61b0813f2e3d600"
     }
   ],
   "duplicate_message_ids": [
