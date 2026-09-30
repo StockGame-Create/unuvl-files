@@ -40123,6 +40123,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/20000.png",
       "sha256": "79c87edd1f33ab1888ccfcbad2152be5b93648157f8c2f4185889946909b628f"
+    },
+    {
+      "message_id": 19998,
+      "filename": "자이스토리 고2 대수 (2026년) - 해설(1)_opt.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19998_.2.2026.-.1._opt.pdf",
+      "size_bytes": 76875336,
+      "telegram_date": "2026-03-20T12:28:03+00:00",
+      "title": "수학 자이스토리 고2 대수",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19998.png",
+      "sha256": "b5ee5a90c9b7316944265ff06158b4a6066b2b5e2ace7a0fc33e2ae3a7a4631d"
     }
   ],
   "duplicate_message_ids": [
