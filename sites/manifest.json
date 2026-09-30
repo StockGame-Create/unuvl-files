@@ -35629,6 +35629,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20512.png",
       "sha256": "fd9b14f9a934801d0b4f035c9f083acf5c50fe6c102060802f279a8a530f7f4f"
+    },
+    {
+      "message_id": 20510,
+      "filename": "CRUX 기하 vol.2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20510_CRUX.vol.2.pdf",
+      "size_bytes": 161516783,
+      "telegram_date": "2026-04-15T10:49:12+00:00",
+      "title": "수학 강대 CRUX 기하학 vol.2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "기하학",
+      "thumbnail": "thumbnails/20510.png",
+      "sha256": "858c3d931db403157cb3fba54b4e5dea0e27a71894231c0651a7f494b7a26ddb"
     }
   ],
   "duplicate_message_ids": [
