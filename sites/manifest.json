@@ -39591,6 +39591,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20054.png",
       "sha256": "86349dd724809997fd74c5fd89adcf5b0434c0e902457f4c2a61643c1a38ae3b"
+    },
+    {
+      "message_id": 20052,
+      "filename": "2027_브릿지_전국모의고사_4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20052_2027_._._4.pdf",
+      "size_bytes": 49376029,
+      "telegram_date": "2026-03-22T14:51:07+00:00",
+      "title": "수학 시대인재 전국 브릿지 모의고사 4회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20052.png",
+      "sha256": "438ebe3d96cecf9062ae97ef4a00966ceb00b34a45682b6152b5b0f73ac0591a"
     }
   ],
   "duplicate_message_ids": [
