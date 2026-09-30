@@ -35489,6 +35489,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20528.png",
       "sha256": "d39107b987ebe9fe49deef6b80d39e3803f78b029e0733f4e323b5bf439029b2"
+    },
+    {
+      "message_id": 20526,
+      "filename": "E_BOOK_이형수T_사회문화_개념완성_210×297.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20526_E_BOOK_.T_._._210x297.pdf",
+      "size_bytes": 67243923,
+      "telegram_date": "2026-04-15T14:58:12+00:00",
+      "title": "사문 이형수 사회문화 개념완성 사회문화",
+      "year": "2027",
+      "instructor": "이형수",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/20526.png",
+      "sha256": "a1b20101580b8164a91954c7b5f78c40a0645d3a64b8939b34bcbf11d43c2d8b"
     }
   ],
   "duplicate_message_ids": [
