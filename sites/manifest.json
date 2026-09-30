@@ -38191,6 +38191,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/20233.png",
       "sha256": "eae1ea856319d7845fd67b5321de854308f9269eb5507c6f65cafe45007891cb"
+    },
+    {
+      "message_id": 20232,
+      "filename": "하이탑_고등_생명과학1_2권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20232_._._.1_2.pdf",
+      "size_bytes": 89978509,
+      "telegram_date": "2026-04-03T01:55:56+00:00",
+      "title": "생1 하이탑 생명과학1",
+      "year": null,
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/20232.png",
+      "sha256": "a90801df419f4b08fec991864954dfea6388c38a008e2dc9cde7e1ac6a10dc6f"
     }
   ],
   "duplicate_message_ids": [
