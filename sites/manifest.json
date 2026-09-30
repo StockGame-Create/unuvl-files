@@ -35923,6 +35923,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20468.png",
       "sha256": "102c51383476763751fa23fdef57eadc460a601cabeb60794cb40126b4b9a317"
+    },
+    {
+      "message_id": 20465,
+      "filename": "2027 정석민 비독원 Advanced.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20465_2027.Advanced.pdf",
+      "size_bytes": 14641646,
+      "telegram_date": "2026-04-13T15:24:43+00:00",
+      "title": "국어 정석민 비독원 Advanced",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20465.png",
+      "sha256": "e0bee2d3d87ff77a1654ff99bc23cbcc885e22f7dca33e7fb82175f7b234d650"
     }
   ],
   "duplicate_message_ids": [
