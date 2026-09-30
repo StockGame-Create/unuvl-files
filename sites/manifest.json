@@ -40361,6 +40361,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19970.png",
       "sha256": "18a4ee061ba5560ea94141f4429a1c47d1986e63cd9b91bcbb3782751cf14fac"
+    },
+    {
+      "message_id": 19962,
+      "filename": "EBS_수능특강_Light_영어_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19962_EBS_._Light_._.pdf",
+      "size_bytes": 1700098,
+      "telegram_date": "2026-03-18T08:26:33+00:00",
+      "title": "영어 수능특강 light",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19962.png",
+      "sha256": "2ca56bb7559e0e45eb98ead1a3ac7acb0be2b2496f97db822cdf9c658291962e"
     }
   ],
   "duplicate_message_ids": [
