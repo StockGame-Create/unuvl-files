@@ -36399,6 +36399,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/20434.png",
       "sha256": "2814c38535adde3054ba3d0478f146ada95d902d38e2ee496d570902bcee8d6a"
+    },
+    {
+      "message_id": 20433,
+      "filename": "2027_마더텅_수능기출문제집_경제_빠른정답표.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20433_2027_._._._.pdf",
+      "size_bytes": 222655,
+      "telegram_date": "2026-04-12T05:18:25+00:00",
+      "title": "경제 마더텅 수능기출",
+      "year": "2027",
+      "instructor": null,
+      "subject": "경제",
+      "thumbnail": "thumbnails/20433.png",
+      "sha256": "05f47025eaf6da32f5739d99a7a427c7468a83610cca3d7fcf04506784ce6892"
     }
   ],
   "duplicate_message_ids": [
