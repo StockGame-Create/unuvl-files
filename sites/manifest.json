@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "message_id": 24786,
+      "filename": "전대_사탐.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24786_._.pdf",
+      "size_bytes": 23820749,
+      "telegram_date": "2026-09-30T12:31:39+00:00",
+      "title": "사탐 8월 전국 대단위 실전 모의고사 #전대실모",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/24786.png",
+      "sha256": "8911cc419decc78c10c5b937daaad5048a6492bd70b5576109adc038dcb17e8d"
+    },
+    {
       "message_id": 24781,
       "filename": "시대인재 리부트 02.pdf",
       "stored_as": null,
