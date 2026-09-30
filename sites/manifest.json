@@ -35769,6 +35769,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20488.png",
       "sha256": "56d1e66a2a17badefa7db50ce191e6b57cbbc0f44147da6c6419a97da1599912"
+    },
+    {
+      "message_id": 20487,
+      "filename": "문학론_분석해설서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20487_._.pdf",
+      "size_bytes": 315280261,
+      "telegram_date": "2026-04-14T18:18:14+00:00",
+      "title": "국어 김상훈 문학론",
+      "year": "2027",
+      "instructor": "김상훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20487.png",
+      "sha256": "65e86c88601507f2dc574c13d1a5f3cdebb6f211f665e8920ee2173141d84e9d"
     }
   ],
   "duplicate_message_ids": [
