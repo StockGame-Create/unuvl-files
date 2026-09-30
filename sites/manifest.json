@@ -32045,6 +32045,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/20980.png",
       "sha256": "1df6eebffd17de921840084237455961d278eb32d0844ca8bc017acd5517c40e"
+    },
+    {
+      "message_id": 20977,
+      "filename": "강대x0회 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20977_.x0.pdf",
+      "size_bytes": 8316521,
+      "telegram_date": "2026-05-08T15:06:07+00:00",
+      "title": "수학 강대모의고사X 0회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20977.png",
+      "sha256": "2096cfd6568b65b06e5755a138953ac0970579ee0165c8cff7f38b659ee4fe7b"
     }
   ],
   "duplicate_message_ids": [
