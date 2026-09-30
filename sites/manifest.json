@@ -36959,6 +36959,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20380.png",
       "sha256": "2b16b7500ce9340f7af05f6bc2b05f6fb17b8846c75b26a4fb4f9cbf6b59a494"
+    },
+    {
+      "message_id": 20379,
+      "filename": "김기현_아이디어_수학2_워크북.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20379_._._.2_.pdf",
+      "size_bytes": 13436710,
+      "telegram_date": "2026-04-10T17:56:30+00:00",
+      "title": "수학 김기현 기출생각집 수학2 워크북 #기생집",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20379.png",
+      "sha256": "1abd71d6ad12e286ef147536becc2cb245f54a34fa5bc568a6f50aced04cc185"
     }
   ],
   "duplicate_message_ids": [
