@@ -31779,6 +31779,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21015.png",
       "sha256": "ec68dc9a277abe9290d4e4bc67675dfd4643d89990dd0cec1d39a42a6fa7fa2d"
+    },
+    {
+      "message_id": 21013,
+      "filename": "해설지_정병호T_2027_6월_모평_대비_스피드러너_모의고사_1,2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21013_._.T_2027_6._._._._._1.2.pdf",
+      "size_bytes": 2941437,
+      "telegram_date": "2026-05-12T09:46:04+00:00",
+      "title": "수학 6모대비 스피드러너 1회 + 2회 해설 #스피드러너",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21013.png",
+      "sha256": "68d0d6443515158c734d5f609336feeb86a5568e4b3882f94179cdef0ddad523"
     }
   ],
   "duplicate_message_ids": [
