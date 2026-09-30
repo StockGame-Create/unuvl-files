@@ -38835,6 +38835,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20150.png",
       "sha256": "2e9d48c45640258595cd1a179ff60af77da8702b050e3037750d36a07bfbbd67"
+    },
+    {
+      "message_id": 20149,
+      "filename": "서킷 5.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20149_.5.pdf",
+      "size_bytes": 2356002,
+      "telegram_date": "2026-03-30T03:53:12+00:00",
+      "title": "수학 CIRCUIT X THE BEST 서킷 5회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20149.png",
+      "sha256": "1cf74c20ebfdf42f3e81934c774d88e59310a7166fa8878f0154f67efb052b99"
     }
   ],
   "duplicate_message_ids": [
