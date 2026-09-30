@@ -37813,6 +37813,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20283.png",
       "sha256": "811679b258978905be6c1a7503837f7cc48a336f9abeb3cbd1908ff749142428"
+    },
+    {
+      "message_id": 20281,
+      "filename": "강민철의_EBS_분석_현대시.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20281_._EBS_._.pdf",
+      "size_bytes": 384719881,
+      "telegram_date": "2026-04-06T11:47:54+00:00",
+      "title": "국어 강민철의 EBS 분석 현대시",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20281.png",
+      "sha256": "58965f7c43e543ab2bfa46a53458277dace8ca8df14990f803f352746176b843"
     }
   ],
   "duplicate_message_ids": [
