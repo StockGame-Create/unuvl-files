@@ -36987,6 +36987,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20378.png",
       "sha256": "379edb527439728a5df49189d668197732e7fba7a3ea304170004e0d1a60e2ee"
+    },
+    {
+      "message_id": 20377,
+      "filename": "22개정_1등급_만들기_대수_494제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20377_22._1._._._494.pdf",
+      "size_bytes": 49701115,
+      "telegram_date": "2026-04-10T15:06:01+00:00",
+      "title": "수학 22개정 1등급 만들기 대수 494제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20377.png",
+      "sha256": "3ec3534474a2f2529c356b300d44da43986c8bfd49a3f57e1cd44485e25c506f"
     }
   ],
   "duplicate_message_ids": [
