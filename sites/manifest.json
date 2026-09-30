@@ -33809,6 +33809,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20729.png",
       "sha256": "e3c469c593da837c9327006f89ecaeef90587b2f49e7e177ff2e28358acbbe7d"
+    },
+    {
+      "message_id": 20723,
+      "filename": "6월_학평_대비_GOA_T_모의고사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20723_6._._._GOA_T_.pdf",
+      "size_bytes": 235187,
+      "telegram_date": "2026-04-20T17:21:41+00:00",
+      "title": "수학 GOA T 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20723.png",
+      "sha256": "ccd3a8c98e006867fb75d17d6ebe2f4229739dba6c4493db665e6e4300d5fdf3"
     }
   ],
   "duplicate_message_ids": [
