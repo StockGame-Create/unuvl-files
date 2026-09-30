@@ -39549,6 +39549,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20062.png",
       "sha256": "6463179a7c032c278e00d8c85a915324ac44b2ca3da26e269b39c2525581c7a7"
+    },
+    {
+      "message_id": 20061,
+      "filename": "지인선 N제 SEASON 1 수학 2_정답 및 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20061_.N.SEASON.1.2_.pdf",
+      "size_bytes": 202459016,
+      "telegram_date": "2026-03-24T09:33:01+00:00",
+      "title": "수학 시즌1 지인선 n제 수2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20061.png",
+      "sha256": "822873b1e86647bacf90f61ccff7f84cecf8ce4000e7c0074c956b9e731e1161"
     }
   ],
   "duplicate_message_ids": [
