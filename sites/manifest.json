@@ -39829,6 +39829,20 @@
       "subject": "생명",
       "thumbnail": "thumbnails/20028.png",
       "sha256": "889a00b248b60b6d4736d791ec707937806a6a0298f8f00d2b6781c3bb8a953a"
+    },
+    {
+      "message_id": 20027,
+      "filename": "디아카이브0 과탐_생1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20027_.0._.1.pdf",
+      "size_bytes": 6266212,
+      "telegram_date": "2026-03-21T07:14:31+00:00",
+      "title": "생명 D.archive 0 생명 1 제 0회 #디아카이브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명",
+      "thumbnail": "thumbnails/20027.png",
+      "sha256": "112b28f2182f2b77c1252df171ebd96d5dc7a3e0dfefe63bce49b407c1c6a349"
     }
   ],
   "duplicate_message_ids": [
