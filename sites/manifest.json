@@ -35895,6 +35895,20 @@
       "subject": "정치와 법",
       "thumbnail": "thumbnails/20474.png",
       "sha256": "516b9af3e21653152c49ca112050e23d5ab2011d5767fd2f8ce0118d805116bb"
+    },
+    {
+      "message_id": 20473,
+      "filename": "2027_마더텅_수능기출문제집_정치와법_문제편_정답X.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20473_2027_._._._._.X.pdf",
+      "size_bytes": 82279731,
+      "telegram_date": "2026-04-14T09:48:15+00:00",
+      "title": "정법 마더텅 수능기출 정치와 법",
+      "year": "2027",
+      "instructor": null,
+      "subject": "정치와 법",
+      "thumbnail": "thumbnails/20473.png",
+      "sha256": "d15fe6495b0e92cdd82e6a086029aa8797c2e511efc38f7683d2c3694e57e85a"
     }
   ],
   "duplicate_message_ids": [
