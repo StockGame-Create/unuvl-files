@@ -37603,6 +37603,20 @@
       "subject": "생활과 윤리",
       "thumbnail": "thumbnails/20305.png",
       "sha256": "9ad5df6a96a7e1b04452028d461b726e5572109115e1be3b0352462781d64c2a"
+    },
+    {
+      "message_id": 20304,
+      "filename": "생활과_윤리_김종익_모의고사_2회.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20304_._._._._2.PDF",
+      "size_bytes": 400885,
+      "telegram_date": "2026-04-07T03:41:33+00:00",
+      "title": "생윤 3평 대비 김종익 모의고사 2회",
+      "year": "2027",
+      "instructor": "김종익",
+      "subject": "생활과 윤리",
+      "thumbnail": "thumbnails/20304.png",
+      "sha256": "7c38a9d4bc8e92607cb2dbaf97c2fbb7b2c2108be35777945a3e7605b471aa46"
     }
   ],
   "duplicate_message_ids": [
