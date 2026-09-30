@@ -942,11 +942,41 @@ async def sync():
             print(f"  [메시지 처리 중 오류, 건너뛰고 계속] message_id={message.id}: {e}", flush=True)
             return False
 
+    async def catch_up_new_arrivals(after_id: int) -> int:
+        """message.id가 after_id보다 큰(=이 스캔이 시작된 뒤에 새로 올라온)
+        메시지가 있으면 최신순으로 먼저 처리한다. 오래된 백로그 파일 하나를
+        받는 데 시간이 걸리는 동안(특히 대용량 다운로드) 새 파일이 올라오면,
+        그걸 백로그 순서(오래된 것부터 차례로 내려가는 중)까지 기다리게 하지
+        않고 먼저 처리하기 위함. 처리하다가 그 사이에 또 더 새 게 올라올 수도
+        있으니, 더 이상 새로운 게 없을 때까지 반복해서 확인한다.
+        처리를 마친 뒤 지금까지 확인된 가장 큰 message.id를 반환한다."""
+        nonlocal checked_count
+        while True:
+            newest_before = after_id
+            async for msg in client.iter_messages(entity, min_id=after_id):
+                checked_count += 1
+                after_id = max(after_id, msg.id)
+                if msg.date < CUTOFF:
+                    continue  # 이론상 일어날 일 없음(min_id가 최신 쪽만 주므로) - 방어적으로만
+                await handle_pdf_message_guarded(msg)
+            if after_id == newest_before:
+                return after_id
+            print(f"  (백로그 처리 중 새로 올라온 파일 {after_id - newest_before}건 확인, 최신순으로 먼저 처리함)", flush=True)
+
     # ---- 1) 캐치업 스캔: 지난 실행 이후 놓친 메시지를 한 바퀴 훑어서 받는다 ----
     # (예전처럼 파일 하나 받을 때마다 처음부터 다시 훑지 않는다 - 이제는 이 스캔이
     #  끝나면 바로 실시간 리스너로 넘어가서 새 메시지를 즉시 잡아내기 때문에,
     #  한 방향으로 쭉 훑는 것으로 충분하다.)
+    #
+    # 다만 오래된 백로그를 아래로 훑어 내려가는 동안에도, 그새 새 파일이
+    # 올라왔다면 그 백로그 순서를 다 기다리지 않고 최신 것부터 먼저 받는다
+    # (catch_up_new_arrivals). 그래서 스캔 시작 시점의 "가장 최신 메시지 id"를
+    # 기준점으로 잡아두고, 파일을 하나 실제로 받을 때마다(시간이 걸릴 수
+    # 있는 지점이므로) 그 기준보다 새 메시지가 생겼는지 확인한다.
     print("캐치업 스캔 시작...", flush=True)
+    latest_msgs = await client.get_messages(entity, limit=1)
+    highest_seen_id = latest_msgs[0].id if latest_msgs else 0
+
     stopped_early = False
     async for message in client.iter_messages(entity):
         checked_count += 1
@@ -967,7 +997,11 @@ async def sync():
             print(f"기준일({CUTOFF.date()})보다 오래된 메시지 발견({message.date.date()}), 캐치업 스캔 종료", flush=True)
             break
 
-        await handle_pdf_message_guarded(message)
+        downloaded = await handle_pdf_message_guarded(message)
+        if downloaded:
+            # 방금 파일을 실제로 하나 받았다 - 시간이 좀 걸렸을 수 있으니,
+            # 그 사이 새로 올라온 파일이 있는지 확인해서 있으면 먼저 처리한다.
+            highest_seen_id = await catch_up_new_arrivals(highest_seen_id)
 
     print(f"캐치업 스캔 완료. 새로 내려받은 PDF: {new_count}개", flush=True)
 
