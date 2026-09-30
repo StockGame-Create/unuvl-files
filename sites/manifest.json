@@ -40515,6 +40515,20 @@
       "subject": "미적분",
       "thumbnail": "thumbnails/19945.png",
       "sha256": "9922ebbaed9ad8055520481905ae176ab0d8b39c8500aaea49dbccc51bf5809f"
+    },
+    {
+      "message_id": 19944,
+      "filename": "1등급_만들기_고등_미적분_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19944_1._._._._.pdf",
+      "size_bytes": 47224714,
+      "telegram_date": "2026-03-18T00:05:12+00:00",
+      "title": "수학 1등급 만들기 미적분",
+      "year": null,
+      "instructor": null,
+      "subject": "미적분",
+      "thumbnail": "thumbnails/19944.png",
+      "sha256": "a22ece822b355049a5be3faff748f3d04898cfa3460bea8fa38f54423ce38a76"
     }
   ],
   "duplicate_message_ids": [
