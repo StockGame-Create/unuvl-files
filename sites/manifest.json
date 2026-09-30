@@ -32801,6 +32801,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20870.png",
       "sha256": "0ca98bd6567f66bf3c012117706bbfb24d2a41a47951fb6cb7d4e78099167a69"
+    },
+    {
+      "message_id": 20868,
+      "filename": "2027 김현우 스탠다드 도형편 해설 (12주).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20868_2027.12.pdf",
+      "size_bytes": 127360449,
+      "telegram_date": "2026-04-29T09:31:41+00:00",
+      "title": "수학 김현우 스탠다드 도형편",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20868.png",
+      "sha256": "6c2944d3038aa67fcbef9316071e3e8eddf9db7cb3f186eaa399d6f6b309e984"
     }
   ],
   "duplicate_message_ids": [
