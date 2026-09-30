@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "message_id": 24815,
+      "filename": "TalkFile_2027_조정식_TDYD_즌2_파이널_해설지_pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24815_TalkFile_2027_._TDYD_.2_._._pdf.pdf",
+      "size_bytes": 196985841,
+      "telegram_date": "2026-09-30T13:42:02+00:00",
+      "title": "영어 조정식 TDYD 시즌2",
+      "year": "2027",
+      "instructor": "조정식",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24815.png",
+      "sha256": "5275791535fd82d92166c35f227d58cefe24442bcc6134bda474c621d29677be"
+    },
+    {
       "message_id": 24810,
       "filename": "2027_이미지_모의고사_시즌2_해설.pdf",
       "stored_as": null,
