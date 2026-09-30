@@ -35797,6 +35797,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/20485.png",
       "sha256": "2ef0444710e8883b938e0b106c0f583828c1aa222a266f941b30ed7a8d5aece3"
+    },
+    {
+      "message_id": 20484,
+      "filename": "2026 이동준 저스트N 수2 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20484_2026.N.2.pdf",
+      "size_bytes": 11377824,
+      "telegram_date": "2026-04-14T09:48:24+00:00",
+      "title": "수학 저스트N 수학2",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "미적분",
+      "thumbnail": "thumbnails/20484.png",
+      "sha256": "5d75191a7d9ad1896be106920242f8b4a935d4530765703242323766163854bc"
     }
   ],
   "duplicate_message_ids": [
