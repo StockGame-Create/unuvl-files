@@ -40697,6 +40697,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19932.png",
       "sha256": "1fafc1e99740d185e50b43abfbcf51af27cc32edb9a3536756b1d7a8c18d7dd1"
+    },
+    {
+      "message_id": 19930,
+      "filename": "2027_수학_ALL_DAY_모의고사_3월호_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19930_2027_._ALL_DAY_._3._.pdf",
+      "size_bytes": 58013795,
+      "telegram_date": "2026-03-17T14:49:43+00:00",
+      "title": "수학 ALL DAY 모의고사 3월호(폰스캔)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19930.png",
+      "sha256": "08dbb44f4eedff956e97ddc8a68798b040361d1b15cdc988ff4842e11c1eb65d"
     }
   ],
   "duplicate_message_ids": [
