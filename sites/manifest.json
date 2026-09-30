@@ -37295,6 +37295,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20342.png",
       "sha256": "3907c1fb0b5b524f2e3aa143d71b11a7f0d4b9a7f1273747b04daaf627353ac2"
+    },
+    {
+      "message_id": 20340,
+      "filename": "2027_DeFault_수학1_10주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20340_2027_DeFault_.1_10.pdf",
+      "size_bytes": 1227353,
+      "telegram_date": "2026-04-10T05:45:16+00:00",
+      "title": "수학 DEFAULT 수1 10주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학1",
+      "thumbnail": "thumbnails/20340.png",
+      "sha256": "8fd28b17100d78daa179992f9cb23412a3e381cd9f781549c0a67bf0bd4578b5"
     }
   ],
   "duplicate_message_ids": [
