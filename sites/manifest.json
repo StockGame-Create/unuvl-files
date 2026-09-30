@@ -36721,6 +36721,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/20411.png",
       "sha256": "b8d01cfe335993a3e76d4e74279dde8ac0eb573f5b08010ea37c006bc00df090"
+    },
+    {
+      "message_id": 20409,
+      "filename": "2027학년도_시선공통모의고사_1회차_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20409_2027._._1._._._.pdf",
+      "size_bytes": 449629,
+      "telegram_date": "2026-04-11T08:32:37+00:00",
+      "title": "국어 2027 시선공통모의고사 1회차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20409.png",
+      "sha256": "45a828fde3fca48ce1be8d5a4c067a801ecb4e84647f73030cb2b0d0a013220e"
     }
   ],
   "duplicate_message_ids": [
