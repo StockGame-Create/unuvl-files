@@ -38961,6 +38961,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20136.png",
       "sha256": "5ae85aa2f83173684b78a954a850d330b064b1095f09513b6e1ddaa9f1c0d49b"
+    },
+    {
+      "message_id": 20134,
+      "filename": "2027 강기원 스텝1 수학2+미적분 어싸 08주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20134_2027.1.2%2B.08.pdf",
+      "size_bytes": 52851436,
+      "telegram_date": "2026-03-29T08:24:48+00:00",
+      "title": "수학 강기원 스텝1 수학2+미적분 어싸 8주차",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20134.png",
+      "sha256": "7aa650ee7a85374f5306bf13b447b1997b508197b797b91b9d967f6c155d15b4"
     }
   ],
   "duplicate_message_ids": [
