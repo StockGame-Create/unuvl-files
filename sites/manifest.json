@@ -38247,6 +38247,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20224.png",
       "sha256": "5e3b7dfcefbcb6cfcc4afbfc3e59c364fb2bccb76d3e057dc8e94b32a6b3d3d4"
+    },
+    {
+      "message_id": 20223,
+      "filename": "크로녹스_지구과학1_상_개념.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20223_._.1_._.pdf",
+      "size_bytes": 140524536,
+      "telegram_date": "2026-04-01T13:46:08+00:00",
+      "title": "지1 크로녹스 지구과학1 개념",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20223.png",
+      "sha256": "7333dbbc04b5c6226dc400b595e2991d8e44c994027bad30b562fdced22df17d"
     }
   ],
   "duplicate_message_ids": [
