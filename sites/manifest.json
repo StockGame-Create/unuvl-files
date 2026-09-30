@@ -36343,6 +36343,20 @@
       "subject": "확률과 통계",
       "thumbnail": "thumbnails/20444.png",
       "sha256": "1e66f06a49937b3165d27c5e43d99f919e88b302ae0150cf8fdb7a7bca6a7866"
+    },
+    {
+      "message_id": 20443,
+      "filename": "27 엔티켓 S1 확통 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20443_27.S1.pdf",
+      "size_bytes": 8771994,
+      "telegram_date": "2026-04-12T23:39:17+00:00",
+      "title": "수학 2027학년도 이미지 N티켓",
+      "year": "2027",
+      "instructor": "이미지",
+      "subject": "확률과 통계",
+      "thumbnail": "thumbnails/20443.png",
+      "sha256": "546d4f911e49591b8f9bf27463ef7f3233982a231745f958587bc378eb983e58"
     }
   ],
   "duplicate_message_ids": [
