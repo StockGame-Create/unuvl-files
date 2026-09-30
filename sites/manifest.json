@@ -38793,6 +38793,20 @@
       "subject": "수1",
       "thumbnail": "thumbnails/20157.png",
       "sha256": "b72428fccd089a857de5da0163ec0df8406268218aa6617cbd467440c01b4fe5"
+    },
+    {
+      "message_id": 20156,
+      "filename": "수1_시대인재_수능기출_모어_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20156_.1_._._._.pdf",
+      "size_bytes": 63804392,
+      "telegram_date": "2026-03-30T03:54:14+00:00",
+      "title": "수학 시대인재 수능기출 문제집 수1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수1",
+      "thumbnail": "thumbnails/20156.png",
+      "sha256": "745619b3820d9497564e51ffdb04b6981b42d4cebfa8d4388dd60c4c8211c936"
     }
   ],
   "duplicate_message_ids": [
