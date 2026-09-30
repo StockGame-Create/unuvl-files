@@ -141,6 +141,20 @@
       "sha256": "9366c01173e791d173c06a2e8c6bf1a3becac8d1b33910e5c18d0b84592b541a"
     },
     {
+      "message_id": 24771,
+      "filename": "22개정_완자_기출픽_역학과_에너지_학생용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24771_22._._._._._.pdf",
+      "size_bytes": 39264599,
+      "telegram_date": "2026-09-30T12:15:53+00:00",
+      "title": "과학 완자 기출픽 역학과 에너지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/24771.png",
+      "sha256": "e31ca08c5f5a73e42d91018a5f5581a91674b6d3b082463e888207dd37ac084f"
+    },
+    {
       "message_id": 24764,
       "filename": "2027 박종민 모의고사 6회 해설.pdf",
       "stored_as": null,
