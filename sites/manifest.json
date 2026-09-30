@@ -40333,6 +40333,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19973.png",
       "sha256": "b58e013440f953d93da4ce7843a817b034db74bb2a68cc24804d16d4a4bd6a24"
+    },
+    {
+      "message_id": 19972,
+      "filename": "배기범_PLANB_역학의_기술.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19972_._PLANB_._.pdf",
+      "size_bytes": 217163169,
+      "telegram_date": "2026-03-18T14:51:35+00:00",
+      "title": "물1 배기범 PLAN B 역학의 기술",
+      "year": "2027",
+      "instructor": "배기범",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/19972.png",
+      "sha256": "2ab4c28618501339811f042871ed0edc499e0cd4e4c833d8b0dd9763b9d2af15"
     }
   ],
   "duplicate_message_ids": [
