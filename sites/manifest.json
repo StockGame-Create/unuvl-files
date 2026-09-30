@@ -35433,6 +35433,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20534.png",
       "sha256": "3a3f8be7637a0b135437752a8b38e0ed0fa706c5ce54174277ae6f171437669b"
+    },
+    {
+      "message_id": 20533,
+      "filename": "강은양 모고 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20533_.pdf",
+      "size_bytes": 33012489,
+      "telegram_date": "2026-04-16T17:33:27+00:00",
+      "title": "국어 KEY 모의고사 : The Remaster",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20533.png",
+      "sha256": "e99f86e5fa0a461c4e630535f01b4c5710bbe35946c3c0cb605b2b9fe7eb60f2"
     }
   ],
   "duplicate_message_ids": [
