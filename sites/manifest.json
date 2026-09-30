@@ -37085,6 +37085,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20365.png",
       "sha256": "2ddff203ab431b14a3d8f08168993707808d8febbe06ea138c909daec0918774"
+    },
+    {
+      "message_id": 20364,
+      "filename": "4주차+미적분+필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20364_4.%2B.%2B.pdf",
+      "size_bytes": 1812308,
+      "telegram_date": "2026-04-10T13:27:33+00:00",
+      "title": "수학 2027 수능 수학 대비 Step.1 수학2+미적분 4주차 리뷰테스트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20364.png",
+      "sha256": "ef3be5b553aa51bbf51532bcba199fa7f7aab31e3034f14bc09188a52058a245"
     }
   ],
   "duplicate_message_ids": [
