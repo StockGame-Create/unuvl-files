@@ -37253,6 +37253,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20347.png",
       "sha256": "7a3e82a4e8fe77511e622c0404eb6d4f4276537006a0fba8d1b1109196889b0a"
+    },
+    {
+      "message_id": 20346,
+      "filename": "정담온 2026 3모 대비 모의고사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20346_.2026.3.pdf",
+      "size_bytes": 1871275,
+      "telegram_date": "2026-04-10T05:45:54+00:00",
+      "title": "국어 3월 모의고사 대비 The Best On 모의고사",
+      "year": "2027",
+      "instructor": "정담온",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20346.png",
+      "sha256": "c7fe70a6dbaeda5429df16f59d6bafdd207fea43ba47ed48de81f39738f16b60"
     }
   ],
   "duplicate_message_ids": [
