@@ -34691,6 +34691,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20641.png",
       "sha256": "30f679f6bc1020387963885abffb629aa9fd704cdbfc040d2c1b3ef4c819d392"
+    },
+    {
+      "message_id": 20640,
+      "filename": "2027_손창빈T_문특_16_복테_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20640_2027_.T_._16_._.pdf",
+      "size_bytes": 5786050,
+      "telegram_date": "2026-04-20T10:26:41+00:00",
+      "title": "국어 손창빈 문법특강 복습테스트 01",
+      "year": "2027",
+      "instructor": "손창빈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20640.png",
+      "sha256": "bd46eb2a78793b49241b10ac90b58137b58f8ab8f77f86a3434c0fc2b09bd041"
     }
   ],
   "duplicate_message_ids": [
