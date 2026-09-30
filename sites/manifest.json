@@ -32661,6 +32661,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/20883.png",
       "sha256": "be410f36c4751ccefc82be93a076eb826e3185ad551c0f1f116de1a317fce685"
+    },
+    {
+      "message_id": 20882,
+      "filename": "이알기 지도학습1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20882_.1.pdf",
+      "size_bytes": 266416,
+      "telegram_date": "2026-04-29T14:48:43+00:00",
+      "title": "한지 이기상 알짜기출이다 1회 2회 3회",
+      "year": "2027",
+      "instructor": "이기상",
+      "subject": "한국지리",
+      "thumbnail": "thumbnails/20882.png",
+      "sha256": "d4363693fec88c78c731e2fc4cfc0b5bdf1d4e6c65c80e4d623d11d1d51ff3f1"
     }
   ],
   "duplicate_message_ids": [
