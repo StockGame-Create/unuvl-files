@@ -36777,6 +36777,20 @@
       "subject": "물리학",
       "thumbnail": "thumbnails/20405.png",
       "sha256": "3413a2fd862ca9e613f518b5b0dcee9080ea4fbcb97e428e59b6679cb8b4d057"
+    },
+    {
+      "message_id": 20403,
+      "filename": "2027 서킷 손필기 5~6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20403_2027.5.6.pdf",
+      "size_bytes": 5088531,
+      "telegram_date": "2026-04-11T08:12:27+00:00",
+      "title": "수학 서킷 손필기 5-6회",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20403.png",
+      "sha256": "1d6eab7f3acdd994082caef8e61505898ffd7de5a050331e4755fbcefbe6ddf1"
     }
   ],
   "duplicate_message_ids": [
