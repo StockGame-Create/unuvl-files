@@ -36147,6 +36147,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20461.png",
       "sha256": "e35021908c7cfde8c49d0d79375ae717308917c0dd0cf611112b467d68a26e06"
+    },
+    {
+      "message_id": 20459,
+      "filename": "2026_마더텅_물리학_2022개정_고2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20459_2026_._._2022._.2.pdf",
+      "size_bytes": 149325324,
+      "telegram_date": "2026-04-13T15:24:39+00:00",
+      "title": "물1 마더텅 수능기출 22개정",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학",
+      "thumbnail": "thumbnails/20459.png",
+      "sha256": "d1bb70c1aeeffd3dcd12f42c5f58c6383ecbf90750d6ee7d38cd60f1cfdaffbc"
     }
   ],
   "duplicate_message_ids": [
