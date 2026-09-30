@@ -35293,6 +35293,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20555.png",
       "sha256": "78a7beaae7febee4cca044c0d53954ebac1f22adbdd7c6a5bcb2a4a40a5eb991"
+    },
+    {
+      "message_id": 20554,
+      "filename": "2027 강대 서킷 10.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20554_2027.10.pdf",
+      "size_bytes": 3860204,
+      "telegram_date": "2026-04-18T06:58:11+00:00",
+      "title": "수학 강대 CIRCUIT 서킷 10회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20554.png",
+      "sha256": "ea5b0512cba558d7940b72c9eea5177acc959951f2232c27364768ee85ade67a"
     }
   ],
   "duplicate_message_ids": [
