@@ -33165,6 +33165,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/20822.png",
       "sha256": "740617838b448eeeca803cd9e9d0ada11f921ce43006d4d3f2558db83acf40fd"
+    },
+    {
+      "message_id": 20820,
+      "filename": "2027_시대인재_수능기출_문제집_수학2_MORE_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20820_2027_._._._.2_MORE_.pdf",
+      "size_bytes": 30141172,
+      "telegram_date": "2026-04-26T09:13:32+00:00",
+      "title": "수학 시대인재 수능기출 수학2 MORE",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20820.png",
+      "sha256": "c2e064c7aa21a5c9b0dfd6ee0b40c7ae264cd052f11b036a525600a602cc6025"
     }
   ],
   "duplicate_message_ids": [
