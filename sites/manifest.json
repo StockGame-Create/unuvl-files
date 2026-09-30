@@ -34257,6 +34257,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20674.png",
       "sha256": "fed86222c4525c6a0558906d9c7b6fc5a4d67cbbd02b35a39e7d70082ab6d283"
+    },
+    {
+      "message_id": 20673,
+      "filename": "2027 이명학의 수능루틴 5 해설서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20673_2027.5.pdf",
+      "size_bytes": 33704576,
+      "telegram_date": "2026-04-20T10:27:57+00:00",
+      "title": "영어 이명학의 수능루틴 5",
+      "year": "2027",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/20673.png",
+      "sha256": "e602e9e479e1ec60095fd79eee66c75b6e12824801071f3de3b55cc9405876bf"
     }
   ],
   "duplicate_message_ids": [
