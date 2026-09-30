@@ -32409,6 +32409,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20926.png",
       "sha256": "fee7f8bd5aefad2a6114c69a25bfc36c7229c0986b45bab703bab7789966a5f9"
+    },
+    {
+      "message_id": 20925,
+      "filename": "2027 지1 전국 브릿지 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20925_2027.1.5.pdf",
+      "size_bytes": 4700360,
+      "telegram_date": "2026-05-04T12:21:59+00:00",
+      "title": "지1 시대인재 전국 브릿지 모의고사 5회 지구과학1 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20925.png",
+      "sha256": "8d07b6d6a0c457908e65d4ba61e4ef72595251840fa71ade25627e431d4d43a2"
     }
   ],
   "duplicate_message_ids": [
