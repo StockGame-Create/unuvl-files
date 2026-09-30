@@ -34859,6 +34859,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20618.png",
       "sha256": "163df2173e7afe50ffd5c513d89f84f4d2441f1ca98a89dcad89ddedab259413"
+    },
+    {
+      "message_id": 20616,
+      "filename": "2027_설맞이_아카이브_시즌1_수학2_정답과_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20616_2027_._._.1_.2_._.pdf",
+      "size_bytes": 99767739,
+      "telegram_date": "2026-04-19T04:03:32+00:00",
+      "title": "수학 설맞이 아카이브 시즌1 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20616.png",
+      "sha256": "6a3a38a0c8ebc57de2de710c3f0edd64948e07e096f4e8ccca70a69cf7a94899"
     }
   ],
   "duplicate_message_ids": [
