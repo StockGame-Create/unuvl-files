@@ -34327,6 +34327,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20669.png",
       "sha256": "ae6aa39eafe694a6c245afe160ef2946add21b385eaca6f00d9893b3dbe3d13e"
+    },
+    {
+      "message_id": 20668,
+      "filename": "2027 이명학의 수능루틴 2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20668_2027.2.pdf",
+      "size_bytes": 46386451,
+      "telegram_date": "2026-04-20T10:27:54+00:00",
+      "title": "영어 이명학의 수능루틴 2",
+      "year": "2027",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/20668.png",
+      "sha256": "fc191d38e5e7dd3caa4aa5887f4ca3b16ff4db2dd1b130f4ef3d980f78525f40"
     }
   ],
   "duplicate_message_ids": [
