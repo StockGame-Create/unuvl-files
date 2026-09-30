@@ -33529,6 +33529,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/20771.png",
       "sha256": "2fa31234a2d885ff8ce6442176cf27e47e5c339f80729e624d960a5395ed46c9"
+    },
+    {
+      "message_id": 20769,
+      "filename": "STEP2-3.+3월+학평+TA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20769_STEP2-3.%2B3.%2B.%2BTA.pdf",
+      "size_bytes": 4580611,
+      "telegram_date": "2026-04-24T12:18:00+00:00",
+      "title": "국어 매튜효과 3월 학평",
+      "year": "2027",
+      "instructor": "유신",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20769.png",
+      "sha256": "dd9068dea3282a63da208d9e21558fa2c72e650598b5eea8182b36410abb4296"
     }
   ],
   "duplicate_message_ids": [
