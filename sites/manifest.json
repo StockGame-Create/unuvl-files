@@ -32367,6 +32367,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20930.png",
       "sha256": "9da9650c839991a6830abacde805104b79965794dbaf4e9fcc4d94d94f2703ca"
+    },
+    {
+      "message_id": 20928,
+      "filename": "[수학1+수학2+미적분+Step2]+16주차+Preview.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20928_.1%2B.2%2B.%2BStep2.%2B16.%2BPreview.pdf",
+      "size_bytes": 400677,
+      "telegram_date": "2026-05-04T12:22:01+00:00",
+      "title": "수학 강기원T 16주차 수학1 + 수학2 + 미적분 Preview Test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20928.png",
+      "sha256": "247f72bd613b4a8aeeb8832948c66933997bb08cecf5e3581ea78a448815c011"
     }
   ],
   "duplicate_message_ids": [
