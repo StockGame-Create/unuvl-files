@@ -31555,6 +31555,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21049.png",
       "sha256": "898c8f8663e0614ac39bc39a1e33c4ca7fc0dcbf9082dab2ebd99b112fa8e7c6"
+    },
+    {
+      "message_id": 21047,
+      "filename": "Hidden Kice 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21047_Hidden.Kice.1.pdf",
+      "size_bytes": 2648677,
+      "telegram_date": "2026-05-15T01:01:27+00:00",
+      "title": "수학 Hidden Kice 모의고사 1회 #히카",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21047.png",
+      "sha256": "73a2ee828daa2c3bd48b3a6647e5ff7c5565dc6991897037fec1cddf5d9d8e4c"
     }
   ],
   "duplicate_message_ids": [
