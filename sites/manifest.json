@@ -40277,6 +40277,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19982.png",
       "sha256": "01ee47956f8258425fecf7c4c872bfcdd1abde854664240974f3d3f77bc02a29"
+    },
+    {
+      "message_id": 19978,
+      "filename": "지구과학엄영대T_2027학년도_3평대비_문제지_최종본_完.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19978_.T_2027._3._._._.pdf",
+      "size_bytes": 1597688,
+      "telegram_date": "2026-03-19T14:52:20+00:00",
+      "title": "지1 3월 학평 대비 엄대영 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/19978.png",
+      "sha256": "1c2c6e5830a6dd0471c82e0c9b8acf3c4dedc933308b5373ac55e703412897c1"
     }
   ],
   "duplicate_message_ids": [
