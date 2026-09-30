@@ -39857,6 +39857,20 @@
       "subject": "화학",
       "thumbnail": "thumbnails/20026.png",
       "sha256": "b614ee4d5ea6dc5509d5ab1daa9741fe763000295309b4f29db7e752c8d6180b"
+    },
+    {
+      "message_id": 20025,
+      "filename": "디아카이브0 과탐_물1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20025_.0._.1.pdf",
+      "size_bytes": 6542089,
+      "telegram_date": "2026-03-21T07:14:30+00:00",
+      "title": "물리 D.archive 0 물리 1 제 0회 #디아카이브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리",
+      "thumbnail": "thumbnails/20025.png",
+      "sha256": "c5f209135480b946a2be1d84fa444477b5da6b3f220c21a08630e96e0dc0ed87"
     }
   ],
   "duplicate_message_ids": [
