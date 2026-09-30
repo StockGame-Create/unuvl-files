@@ -35909,6 +35909,20 @@
       "subject": "정치와 법",
       "thumbnail": "thumbnails/20473.png",
       "sha256": "d15fe6495b0e92cdd82e6a086029aa8797c2e511efc38f7683d2c3694e57e85a"
+    },
+    {
+      "message_id": 20468,
+      "filename": "2027 정석민 비독원 Advanced 피드백.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20468_2027.Advanced.pdf",
+      "size_bytes": 32980048,
+      "telegram_date": "2026-04-13T16:12:13+00:00",
+      "title": "국어 정석민 비독원 Advanced 피드백",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20468.png",
+      "sha256": "102c51383476763751fa23fdef57eadc460a601cabeb60794cb40126b4b9a317"
     }
   ],
   "duplicate_message_ids": [
