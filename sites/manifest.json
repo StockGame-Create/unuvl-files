@@ -37407,6 +37407,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20326.png",
       "sha256": "b6f43345bd6694da4fb9fe74fa7020322f50c63e68c62305c3e3111b660e0c1b"
+    },
+    {
+      "message_id": 20325,
+      "filename": "2027_지구과학1_오지훈_MAGIC_실전문제_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20325_2027_.1_._MAGIC_._.pdf",
+      "size_bytes": 29386277,
+      "telegram_date": "2026-04-08T14:18:30+00:00",
+      "title": "지1 오지훈 MAGIC 실전문제",
+      "year": "2027",
+      "instructor": "오지훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20325.png",
+      "sha256": "bf62a8364b131e2d5d87636caf8da3df532d808249c5df493dde8afdf51fe8e4"
     }
   ],
   "duplicate_message_ids": [
