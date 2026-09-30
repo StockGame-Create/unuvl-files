@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "message_id": 24804,
+      "filename": "허들링_공통_10주차_손필기.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24804_._._10._.pdf",
+      "size_bytes": 5424063,
+      "telegram_date": "2026-09-30T13:39:15+00:00",
+      "title": "수학 허들링 공통 10주차 손필기",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24804.png",
+      "sha256": "64292d7abca60be9f42f28a5dc7d15ef7855e44020447e1dfcbd53184972b10e"
+    },
+    {
       "message_id": 24803,
       "filename": "잘푸모 시즌2 2회.pdf",
       "stored_as": null,
