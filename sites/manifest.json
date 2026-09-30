@@ -33095,6 +33095,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20834.png",
       "sha256": "74b208c53124ea6d9f2b52ae1ca881e23d34847276863108c484981e4fd08766"
+    },
+    {
+      "message_id": 20832,
+      "filename": "TalkFile_이미지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20832_TalkFile_.pdf",
+      "size_bytes": 26417520,
+      "telegram_date": "2026-04-27T14:51:38+00:00",
+      "title": "국어 강대모의고사K 2회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20832.png",
+      "sha256": "6158ac60a28ba212bc8eb8c4b18ae71f4f65714767325cc296f8257182c07b9f"
     }
   ],
   "duplicate_message_ids": [
