@@ -40641,6 +40641,20 @@
       "subject": null,
       "thumbnail": "thumbnails/19937.png",
       "sha256": "aa895bff4762c2e160c31a7c6e3aa4b226d1e48e419bc9cdac468641a1843926"
+    },
+    {
+      "message_id": 19936,
+      "filename": "3월 더프(사탐).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19936_3.pdf",
+      "size_bytes": 19537539,
+      "telegram_date": "2026-03-17T14:50:16+00:00",
+      "title": "3월 더프(사탐)",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/19936.png",
+      "sha256": "b6c119c93cc79ce6c49e8d28da7fc167246876c079d3a00a532484497f5d9daa"
     }
   ],
   "duplicate_message_ids": [
