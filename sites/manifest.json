@@ -40319,6 +40319,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19974.png",
       "sha256": "5e9185e0a4a2331bb0a8688f2253c549a264534b1b69d63b98dfde38a9e25e65"
+    },
+    {
+      "message_id": 19973,
+      "filename": "일품_공통수학2_515제_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19973_._.2_515._.pdf",
+      "size_bytes": 13667893,
+      "telegram_date": "2026-03-18T14:51:42+00:00",
+      "title": "수학 일품 공통수학",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19973.png",
+      "sha256": "b58e013440f953d93da4ce7843a817b034db74bb2a68cc24804d16d4a4bd6a24"
     }
   ],
   "duplicate_message_ids": [
