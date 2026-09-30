@@ -37589,6 +37589,20 @@
       "subject": "지구과학 1",
       "thumbnail": "thumbnails/20306.png",
       "sha256": "b4a1aee00507203a9bdec325b0528b9d00017cb49a80325dc8cbe084fa3d2d8e"
+    },
+    {
+      "message_id": 20305,
+      "filename": "생활과_윤리_김종익_모의고사_2회_답지.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20305_._._._._2._.PDF",
+      "size_bytes": 255290,
+      "telegram_date": "2026-04-07T03:41:33+00:00",
+      "title": "생윤 3평 대비 김종익 모의고사 2회",
+      "year": "2027",
+      "instructor": "김종익",
+      "subject": "생활과 윤리",
+      "thumbnail": "thumbnails/20305.png",
+      "sha256": "9ad5df6a96a7e1b04452028d461b726e5572109115e1be3b0352462781d64c2a"
     }
   ],
   "duplicate_message_ids": [
