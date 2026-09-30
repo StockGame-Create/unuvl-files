@@ -32843,6 +32843,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20865.png",
       "sha256": "9d39290ca675bee8d126eb7ad056e47588b8b1db7ad8ea6c40acf0176ef4c3af"
+    },
+    {
+      "message_id": 20862,
+      "filename": "2027 손창빈 시즌2 02주차 주간지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20862_2027.2.02.pdf",
+      "size_bytes": 107693034,
+      "telegram_date": "2026-04-28T11:33:15+00:00",
+      "title": "국어 손창빈 시즌2 02 주간과제",
+      "year": "2027",
+      "instructor": "손창빈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20862.png",
+      "sha256": "0aeba2b9e0f609d07b180d0e045e6d56238993014dfdd2cd3aa2bb898ad025d2"
     }
   ],
   "duplicate_message_ids": [
