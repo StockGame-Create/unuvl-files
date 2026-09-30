@@ -38905,6 +38905,20 @@
       "subject": "공통수학",
       "thumbnail": "thumbnails/20142.png",
       "sha256": "1e3b19df9e08945f9a684a4c8241520c8d74a3ded847c6f6e325b6efe2f264ec"
+    },
+    {
+      "message_id": 20141,
+      "filename": "일등급_수학_공통수학2_답지_해설_2025_22개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20141_._._.2_._._2025_22.pdf",
+      "size_bytes": 656213,
+      "telegram_date": "2026-03-29T08:37:55+00:00",
+      "title": "수학 일등급 수학 공통수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "공통수학",
+      "thumbnail": "thumbnails/20141.png",
+      "sha256": "0b1b7fdb25e5a866f6d847037277aa6f0219e25aef22c2cd03f8378c0a5607ac"
     }
   ],
   "duplicate_message_ids": [
