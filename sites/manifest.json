@@ -35713,6 +35713,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/20495.png",
       "sha256": "51d576b78185d8ce9726c75bd9594c8d32b3915a68bb89fdf61ef3f3c853ed3c"
+    },
+    {
+      "message_id": 20494,
+      "filename": "2027학년도 코드원 생활과 윤리 생윤 개념서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20494_2027.pdf",
+      "size_bytes": 520872787,
+      "telegram_date": "2026-04-15T09:07:10+00:00",
+      "title": "생윤 코드원 개념서 생활과 윤리",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/20494.png",
+      "sha256": "f279b9a676fc107330256e6bc0e2555a702499a22f1c6a15d2286de43d150841"
     }
   ],
   "duplicate_message_ids": [
