@@ -35475,6 +35475,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/20530.png",
       "sha256": "2b750ca1d5e5c5999a2faea5cdefbfded9ac50dd0cdfca4e83bf42cd7885499d"
+    },
+    {
+      "message_id": 20528,
+      "filename": "KBS 고전문학 (판매).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20528_KBS.pdf",
+      "size_bytes": 384991328,
+      "telegram_date": "2026-04-16T17:30:20+00:00",
+      "title": "국어 KBS (고전문학)",
+      "year": "2027",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20528.png",
+      "sha256": "d39107b987ebe9fe49deef6b80d39e3803f78b029e0733f4e323b5bf439029b2"
     }
   ],
   "duplicate_message_ids": [
