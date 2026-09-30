@@ -33319,6 +33319,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20805.png",
       "sha256": "eecf2cd2c2ab154aa0b094843e8a9c0316f853c9f0ed165fac5bf6a56232cd36"
+    },
+    {
+      "message_id": 20804,
+      "filename": "이동준_복테_1주차수정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20804_._._1.pdf",
+      "size_bytes": 4114202,
+      "telegram_date": "2026-04-25T08:54:48+00:00",
+      "title": "수학 이동준 저스트 복테 1주차",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20804.png",
+      "sha256": "d94e568d7ea7e2c26c5997b2286f163298388434fda857f962dc06f00bd41895"
     }
   ],
   "duplicate_message_ids": [
