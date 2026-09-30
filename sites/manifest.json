@@ -33711,6 +33711,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20738.png",
       "sha256": "1ee87d9d54ceba01e610eb2b2ea7ed931363b997ffdec1504d51bef6dc96cf60"
+    },
+    {
+      "message_id": 20737,
+      "filename": "시대인재_시즌1_수학브릿지01,02.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20737_._.1_.01.02.pdf",
+      "size_bytes": 1546702,
+      "telegram_date": "2026-04-22T09:26:59+00:00",
+      "title": "수학 시대인재 전국 브릿지 모의고사 1,2회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20737.png",
+      "sha256": "882c97b4b06e33342c1f6a247834807e3c843b56c3df8e69b62ae0c25599216e"
     }
   ],
   "duplicate_message_ids": [
