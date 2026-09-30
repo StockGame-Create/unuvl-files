@@ -39311,6 +39311,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/20091.png",
       "sha256": "34663a114470e36e885325e4b457791d1d6a3ee08d6811830036de72b4116100"
+    },
+    {
+      "message_id": 20090,
+      "filename": "디아카이브 사문 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20090_.1.pdf",
+      "size_bytes": 3919190,
+      "telegram_date": "2026-03-27T00:12:25+00:00",
+      "title": "사문 D.archive 시즌1 사회문화 제 1회 #디아카이브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/20090.png",
+      "sha256": "d270f39754d1aa8474c78eec9c96e077ad7f0ff748752b9ba027f00422e3a0fd"
     }
   ],
   "duplicate_message_ids": [
