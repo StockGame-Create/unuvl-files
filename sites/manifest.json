@@ -34117,6 +34117,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20687.png",
       "sha256": "d880bcc35ca535f5388f9243b0dd6c5af7a5068bc738f79fba0a1a4ef3c145f5"
+    },
+    {
+      "message_id": 20685,
+      "filename": "퍼20260313_박태현_POLARIS_ATELIER_N_지구과학_I_해설편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20685_.20260313_._POLARIS_ATELIER_N_._I_.pdf",
+      "size_bytes": 33798414,
+      "telegram_date": "2026-04-20T10:28:09+00:00",
+      "title": "지구 POLARIS ATELIER N제 지구과학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20685.png",
+      "sha256": "6224e4494b39aeaedd82e1ebe96effa46f0b838dcb0a4caae34468de7fbb7ea3"
     }
   ],
   "duplicate_message_ids": [
