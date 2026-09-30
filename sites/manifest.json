@@ -71,6 +71,20 @@
       "sha256": "cccab46dcfe1693e2cfbccfaa97627a611f97a6d8e6a4f4dc297ca3b36abd452"
     },
     {
+      "message_id": 24780,
+      "filename": "시대인재 리부트 03.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24780_.03.pdf",
+      "size_bytes": 33125397,
+      "telegram_date": "2026-09-30T12:25:53+00:00",
+      "title": "수학 시대인재 서바이벌 리부트 모의고사 2, 3회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24780.png",
+      "sha256": "4876872da613dd7397eeabacffa7aa643870bda695d16c3a4da1495aeac9fffb"
+    },
+    {
       "message_id": 24764,
       "filename": "2027 박종민 모의고사 6회 해설.pdf",
       "stored_as": null,
