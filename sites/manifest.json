@@ -36679,6 +36679,20 @@
       "subject": "통합과학1",
       "thumbnail": "thumbnails/20419.png",
       "sha256": "4e14658c286cdafd98c51bba6988ef935fa43e3104062a2be7b6e7a3e859ff4f"
+    },
+    {
+      "message_id": 20416,
+      "filename": "배기범모의고사 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20416_.1.pdf",
+      "size_bytes": 3497419,
+      "telegram_date": "2026-04-11T10:21:22+00:00",
+      "title": "물1 배기범 모의고사 Collection(Ver 2.0) 2회",
+      "year": "2027",
+      "instructor": "배기범",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/20416.png",
+      "sha256": "61ffe2e187594a7f43350912b75be3d7b0bc5526e9f202c9bbb75c8812b139d4"
     }
   ],
   "duplicate_message_ids": [
