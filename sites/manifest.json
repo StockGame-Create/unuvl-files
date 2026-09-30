@@ -37869,6 +37869,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20276.png",
       "sha256": "938ad67a2ca0dab16108f08341d3bc68c045fdebe76fe92fc7a754dc40130799"
+    },
+    {
+      "message_id": 20275,
+      "filename": "2027학년도 한석원4의규칙 확률과통계 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20275_2027.4.pdf",
+      "size_bytes": 5865610,
+      "telegram_date": "2026-04-05T06:28:11+00:00",
+      "title": "확통 2027 한석원의 4의 규칙 확률과 통계",
+      "year": "2027",
+      "instructor": "한석원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20275.png",
+      "sha256": "96968573bd6c7352debcd37d57f532e3942113e8e99d59e7b024e6c98569d0f5"
     }
   ],
   "duplicate_message_ids": [
