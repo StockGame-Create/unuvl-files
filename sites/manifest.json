@@ -35951,6 +35951,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20463.png",
       "sha256": "5295fd410a504884805278a1dad9681f098067a0aa52f97b801c3f84f57eb9ce"
+    },
+    {
+      "message_id": 20461,
+      "filename": "이감 간쓸개 2-4.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20461_.2-4.pdf",
+      "size_bytes": 71430853,
+      "telegram_date": "2026-04-13T15:24:40+00:00",
+      "title": "국어 간쓸개 시즌2 4권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20461.png",
+      "sha256": "e35021908c7cfde8c49d0d79375ae717308917c0dd0cf611112b467d68a26e06"
     }
   ],
   "duplicate_message_ids": [
