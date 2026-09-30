@@ -37645,6 +37645,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20301.png",
       "sha256": "969fef3ca128957bc53e61c1c54f2364983411295a31dc116f839eb5d154e80d"
+    },
+    {
+      "message_id": 20297,
+      "filename": "2027학년도 양승진 공통 모의고사_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20297_2027._.pdf",
+      "size_bytes": 17854749,
+      "telegram_date": "2026-04-06T14:15:27+00:00",
+      "title": "수학 양승진 공통모의고사 1~2회",
+      "year": "2027",
+      "instructor": "양승진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20297.png",
+      "sha256": "6238ccd5be0e55c9458cf6a3924ab3786bfc947a57aae0afc99e2c55d482e900"
     }
   ],
   "duplicate_message_ids": [
