@@ -32983,6 +32983,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20847.png",
       "sha256": "6cd4ace206a630bf816e27afc1ea7674faaf357e102511be7d55ab3ea9560c92"
+    },
+    {
+      "message_id": 20843,
+      "filename": "2027적중예감시즌프리1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20843_2027.1.pdf",
+      "size_bytes": 2525993,
+      "telegram_date": "2026-04-28T11:20:01+00:00",
+      "title": "사문 적중예감 시즌프리 모의고사 1회",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/20843.png",
+      "sha256": "7c99137f30b27b3d109a8aa31203bf5d286dc32bc1bd10e2a0a7c46b30de0f3c"
     }
   ],
   "duplicate_message_ids": [
