@@ -37519,6 +37519,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/20313.png",
       "sha256": "995965595a3f3ac545eeb3fe28ac9b1bb9b61e368c0f50b600fe411666e27cfa"
+    },
+    {
+      "message_id": 20311,
+      "filename": "2027 시대인재 브릿지 모의고사 7회 문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20311_2027.7.pdf",
+      "size_bytes": 323537,
+      "telegram_date": "2026-04-07T08:02:16+00:00",
+      "title": "수학 시대인지 브릿지 전국 모의고사 7,8 회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20311.png",
+      "sha256": "fb8fe292895326eb390a683080f2b6b63d28a18c61cb05e37c379534faecb11f"
     }
   ],
   "duplicate_message_ids": [
