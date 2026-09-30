@@ -36637,6 +36637,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/20424.png",
       "sha256": "ddf3159251fb981174b4e0ad2af1b7ff011eed2016cc2e7445505b10ddfced97"
+    },
+    {
+      "message_id": 20422,
+      "filename": "2027 강대 서킷 11 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20422_2027.11.pdf",
+      "size_bytes": 5518445,
+      "telegram_date": "2026-04-11T12:29:44+00:00",
+      "title": "수학 강대 CIRCUIT 서킷 11회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20422.png",
+      "sha256": "8382d5bde1513276d6a8cca2fbc9f66038f50ba395987db2b29fb6ea32d12070"
     }
   ],
   "duplicate_message_ids": [
