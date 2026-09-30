@@ -40151,6 +40151,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19997.png",
       "sha256": "2026a48af68d4fc7b89f7efec6ad2f90b4169f9cdc3ec65b47871f9bb8acee5e"
+    },
+    {
+      "message_id": 19992,
+      "filename": "강기원_12주차_필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19992_._12._.pdf",
+      "size_bytes": 2272962,
+      "telegram_date": "2026-03-20T12:23:01+00:00",
+      "title": "수학 강기원T 정규반 Step1 12주차 복습테스트 + 필기노트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19992.png",
+      "sha256": "c6a92a186095c0f6605f72d1a36bdb3737e58949ec39d76beab53af50d8403e6"
     }
   ],
   "duplicate_message_ids": [
