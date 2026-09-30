@@ -36735,6 +36735,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20409.png",
       "sha256": "45a828fde3fca48ce1be8d5a4c067a801ecb4e84647f73030cb2b0d0a013220e"
+    },
+    {
+      "message_id": 20408,
+      "filename": "2027학년도 시선 공통모의고사 1회차 문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20408_2027.1.pdf",
+      "size_bytes": 1079841,
+      "telegram_date": "2026-04-11T08:32:37+00:00",
+      "title": "국어 2027 시선공통모의고사 1회차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20408.png",
+      "sha256": "fed91bf7869bfbcd33d3b567ec71e4520e127295491de12690c41b3ef5aed096"
     }
   ],
   "duplicate_message_ids": [
