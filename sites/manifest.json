@@ -32073,6 +32073,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20975.png",
       "sha256": "7acfacf7b466484b95b2da22d68295207995e4580356f976e776761c9fddf82d"
+    },
+    {
+      "message_id": 20972,
+      "filename": "22개정고등_셀파_통합과학1_정답_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20972_22._._.1_._1.pdf",
+      "size_bytes": 9440795,
+      "telegram_date": "2026-05-08T15:02:09+00:00",
+      "title": "과학 셀파 통합과학1",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/20972.png",
+      "sha256": "d975672e4ab1634e2b5539a551e9da543d6e413f8d805494e5cb7ea4a485828f"
     }
   ],
   "duplicate_message_ids": [
