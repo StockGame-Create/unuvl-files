@@ -39493,6 +39493,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20071.png",
       "sha256": "a79ea8cacdf039acf85fb59f0591700409bd6e6f107f81dc4848784b0c1cd1b4"
+    },
+    {
+      "message_id": 20070,
+      "filename": "마플시너지_공통수학2_빠른정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20070_._.2_.pdf",
+      "size_bytes": 575319,
+      "telegram_date": "2026-03-25T13:42:05+00:00",
+      "title": "수학 마플 시너지 공통수학2",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20070.png",
+      "sha256": "cf9b132b60ca70d1e9fdf0a514cea9dd3ce1e3b819f0f222b4918248ccaf9b1a"
     }
   ],
   "duplicate_message_ids": [
