@@ -32171,6 +32171,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/20959.png",
       "sha256": "7e9d57216221c54e1f7aa974002f3d1b9d443bfb371b56b61130c0516f1db46a"
+    },
+    {
+      "message_id": 20955,
+      "filename": "2027 이신혁 모의고사 시즌1 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20955_2027.1.2.pdf",
+      "size_bytes": 5111388,
+      "telegram_date": "2026-05-06T10:27:52+00:00",
+      "title": "지1 이신혁 모의고사 시즌1 2회",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20955.png",
+      "sha256": "120f8371121f658b4c2e7b765345836f91bb1ab973a9ec129ed21e0bb21e1e10"
     }
   ],
   "duplicate_message_ids": [
