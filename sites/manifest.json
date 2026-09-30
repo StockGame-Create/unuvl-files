@@ -36665,6 +36665,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20421.png",
       "sha256": "4db0922a0fe7d38f2d36b023b3ee73a6313ea75ed484c0a53bce63558742befb"
+    },
+    {
+      "message_id": 20419,
+      "filename": "Primer_통합과학_1_실전모의고사_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20419_Primer_._1_._.pdf",
+      "size_bytes": 1025021,
+      "telegram_date": "2026-04-11T12:05:15+00:00",
+      "title": "과학 Primer 통합과학1 실전모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "통합과학1",
+      "thumbnail": "thumbnails/20419.png",
+      "sha256": "4e14658c286cdafd98c51bba6988ef935fa43e3104062a2be7b6e7a3e859ff4f"
     }
   ],
   "duplicate_message_ids": [
