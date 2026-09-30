@@ -36917,6 +36917,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20386.png",
       "sha256": "76ec8ece47403fe8f4639b15550ef657efcfaca2e29e9445ef84613f25190359"
+    },
+    {
+      "message_id": 20384,
+      "filename": "TalkFile_2027_이해원_N제_시즌1_미적분_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20384_TalkFile_2027_._N._.1_._._._.pdf",
+      "size_bytes": 15233834,
+      "telegram_date": "2026-04-11T04:03:14+00:00",
+      "title": "수학 2027 이해원 N제 시즌1 미적분",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20384.png",
+      "sha256": "927886dbeac03fa04a2f62f359a613b83da963892ff71480352cea1c5046cf5e"
     }
   ],
   "duplicate_message_ids": [
