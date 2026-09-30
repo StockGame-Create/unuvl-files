@@ -43,6 +43,20 @@
       "sha256": "644b24f3e3695452994339c3af84256d1353c40340eaff1d41abf4b63d3453c0"
     },
     {
+      "message_id": 24806,
+      "filename": "김범준_모의고사_11회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24806_._._11.pdf",
+      "size_bytes": 22936984,
+      "telegram_date": "2026-09-30T13:39:56+00:00",
+      "title": "수학 김범준 모의고사 11회",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24806.png",
+      "sha256": "5faa9902716150f769b1d212c81f91d03f175f6a9cb23ce61f1e4dc91d1c09a5"
+    },
+    {
       "message_id": 24804,
       "filename": "허들링_공통_10주차_손필기.pdf",
       "stored_as": null,
