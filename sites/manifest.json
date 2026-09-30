@@ -34845,6 +34845,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20619.png",
       "sha256": "439c8956ecda4a0e3abe86962701494c599b9a513263c6bf45b35c455ec0f1c3"
+    },
+    {
+      "message_id": 20618,
+      "filename": "27유형독해.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20618_27.pdf",
+      "size_bytes": 43747132,
+      "telegram_date": "2026-04-19T04:06:50+00:00",
+      "title": "영어 V유형독해",
+      "year": null,
+      "instructor": "김지영",
+      "subject": "영어",
+      "thumbnail": "thumbnails/20618.png",
+      "sha256": "163df2173e7afe50ffd5c513d89f84f4d2441f1ca98a89dcad89ddedab259413"
     }
   ],
   "duplicate_message_ids": [
