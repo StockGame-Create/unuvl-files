@@ -40039,6 +40039,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20009.png",
       "sha256": "adab9ee47ca5d98cf0aba66499df76b65f734f9d6715f4487f9a986e5fe9c7fc"
+    },
+    {
+      "message_id": 20007,
+      "filename": "TalkFile_2027_이해원_인터그리티_1_이해원교재패스.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20007_TalkFile_2027_._._1_.pdf",
+      "size_bytes": 36164911,
+      "telegram_date": "2026-03-20T12:36:02+00:00",
+      "title": "수학 이해원 Intergrity I (교재패스 전용)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20007.png",
+      "sha256": "ba36b8e5e8a286e3fd1f476b27b2540c3e8f3179ea344a250b822b325e02344b"
     }
   ],
   "duplicate_message_ids": [
