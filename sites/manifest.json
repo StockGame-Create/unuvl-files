@@ -37239,6 +37239,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/20349.png",
       "sha256": "ca50dadb63ea42fe7ed99a74cf62af7af91e902d977e6f46f2e631507ef5a466"
+    },
+    {
+      "message_id": 20347,
+      "filename": "정담온 2026 3모 대비 모의고사 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20347_.2026.3.pdf",
+      "size_bytes": 1416780,
+      "telegram_date": "2026-04-10T05:45:54+00:00",
+      "title": "국어 3월 모의고사 대비 The Best On 모의고사",
+      "year": "2027",
+      "instructor": "정담온",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20347.png",
+      "sha256": "7a3e82a4e8fe77511e622c0404eb6d4f4276537006a0fba8d1b1109196889b0a"
     }
   ],
   "duplicate_message_ids": [
