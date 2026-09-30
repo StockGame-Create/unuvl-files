@@ -33515,6 +33515,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/20773.png",
       "sha256": "b856ba617c96a919280ed7bdd859950a2db7220fce84446ca505a5f3a0e53df7"
+    },
+    {
+      "message_id": 20771,
+      "filename": "명불허전_기출분석_150_강의용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20771_._._150_.pdf",
+      "size_bytes": 71742289,
+      "telegram_date": "2026-04-24T12:27:20+00:00",
+      "title": "사문 명불허전 기출분석 강의용",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/20771.png",
+      "sha256": "2fa31234a2d885ff8ce6442176cf27e47e5c339f80729e624d960a5395ed46c9"
     }
   ],
   "duplicate_message_ids": [
