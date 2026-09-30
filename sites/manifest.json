@@ -40431,6 +40431,20 @@
       "subject": "물리학",
       "thumbnail": "thumbnails/19957.png",
       "sha256": "c767c5434e5e0dae7704826e3262b3a5d3be80f0730f219962b690d9748ded2a"
+    },
+    {
+      "message_id": 19955,
+      "filename": "수능실감_실감하다300제개정_본문_PDF1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19955_._.300._._PDF1.pdf",
+      "size_bytes": 4645088,
+      "telegram_date": "2026-03-18T08:21:11+00:00",
+      "title": "영어 수능실감 실감하다",
+      "year": null,
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19955.png",
+      "sha256": "b72e7dcbbebad7ed34678d01a104089cd60bd6c0f03d77edb3c2e138f842e002"
     }
   ],
   "duplicate_message_ids": [
