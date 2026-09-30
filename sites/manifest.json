@@ -35167,6 +35167,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20573.png",
       "sha256": "1c8c01793694a2a4fb46b1ae2d8c1439c1398650caaf410f9630874dd22f8317"
+    },
+    {
+      "message_id": 20572,
+      "filename": "새기분_독서2_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20572_._.2_.pdf",
+      "size_bytes": 90589100,
+      "telegram_date": "2026-04-18T14:10:16+00:00",
+      "title": "국어 새기분 독서 1~2",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20572.png",
+      "sha256": "3f4a3a578e82dd3b304320771b73c48583da9484310e5c5532ed42a498dd750e"
     }
   ],
   "duplicate_message_ids": [
