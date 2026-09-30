@@ -37281,6 +37281,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20344.png",
       "sha256": "d84614da920e4f86ac6b3f09f62d6b516a4202d388d92b9209320f40a93ca972"
+    },
+    {
+      "message_id": 20342,
+      "filename": "TH_미적분_2주차_손필기.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20342_TH_._2._.pdf",
+      "size_bytes": 3049383,
+      "telegram_date": "2026-04-10T05:45:51+00:00",
+      "title": "수학 THE HURDLING 미적분 2주차 #허들링",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20342.png",
+      "sha256": "3907c1fb0b5b524f2e3aa143d71b11a7f0d4b9a7f1273747b04daaf627353ac2"
     }
   ],
   "duplicate_message_ids": [
