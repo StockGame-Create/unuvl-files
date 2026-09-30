@@ -34019,6 +34019,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/20699.png",
       "sha256": "f2e411c1f41fdcaf7d7d278db7d375a6de1dde53cdeeaf599f465b4d1eb26304"
+    },
+    {
+      "message_id": 20695,
+      "filename": "2027마더텅 사회문화.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20695_2027.pdf",
+      "size_bytes": 32128623,
+      "telegram_date": "2026-04-20T10:28:18+00:00",
+      "title": "사문 마더텅 수능기출 문제집 사회문화",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/20695.png",
+      "sha256": "9126ee8f9b3af188bd1c52c99ed55f5a108bcf4258e6380cd2c569f31ae5a4ac"
     }
   ],
   "duplicate_message_ids": [
