@@ -32199,6 +32199,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20954.png",
       "sha256": "bd5ab4e55bef47001c28e1c086cbaf45f34bcb11607947040f5739de339c72d4"
+    },
+    {
+      "message_id": 20953,
+      "filename": "2027 지1 브릿지 6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20953_2027.1.6.pdf",
+      "size_bytes": 9295097,
+      "telegram_date": "2026-05-06T10:27:51+00:00",
+      "title": "지1 시대인재브릿지 모의고사 6회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20953.png",
+      "sha256": "45580570ad4cae95004ee9325a217c640e58ba15cee89e02897c0d704cf2d4e0"
     }
   ],
   "duplicate_message_ids": [
