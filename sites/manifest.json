@@ -34649,6 +34649,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20646.png",
       "sha256": "eba80bd4c60c6bcad9a719372592ccc30d0af6d00e645bc52da1b7a4f2a101d4"
+    },
+    {
+      "message_id": 20645,
+      "filename": "2027 트러스 수학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20645_2027.2.pdf",
+      "size_bytes": 128512006,
+      "telegram_date": "2026-04-20T10:27:34+00:00",
+      "title": "수학 시대인재 트러스 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20645.png",
+      "sha256": "ba11c28466156635237c3a8752eceb726e2ce5d631e0a0c05e88e62168069ff2"
     }
   ],
   "duplicate_message_ids": [
