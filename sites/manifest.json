@@ -35853,6 +35853,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/20480.png",
       "sha256": "5dcfbe6e956c1b5f7f78943705bf807df52c14986a3ef80dcda190d8a9e0269d"
+    },
+    {
+      "message_id": 20479,
+      "filename": "2027_DeFault_수학1_11권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20479_2027_DeFault_.1_11.pdf",
+      "size_bytes": 1299279,
+      "telegram_date": "2026-04-14T09:48:19+00:00",
+      "title": "수학 Default 수학1 11주차",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20479.png",
+      "sha256": "e3cee1753a9b09f200bed56327b73ea98f46086a609cdae0278d5bbf58a1a453"
     }
   ],
   "duplicate_message_ids": [
