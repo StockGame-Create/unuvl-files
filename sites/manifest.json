@@ -29,6 +29,20 @@
       "sha256": "e0c5e1d12089f688999afd193dc02e998b6f837c76468ce896ef54507b870222"
     },
     {
+      "message_id": 24784,
+      "filename": "전대_국어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24784_._.pdf",
+      "size_bytes": 11789593,
+      "telegram_date": "2026-09-30T12:31:39+00:00",
+      "title": "국어 8월 전국 대단위 실전 모의고사 #전대실모",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24784.png",
+      "sha256": "26463b17425aabe906fde91635932a68c9ab168891dd814ef1d5d4bf7b8b1109"
+    },
+    {
       "message_id": 24781,
       "filename": "시대인재 리부트 02.pdf",
       "stored_as": null,
