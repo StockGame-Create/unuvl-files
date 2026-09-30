@@ -33459,6 +33459,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20787.png",
       "sha256": "95b4afca12fecdb7b64c8b0f62681b3081ce10e72eb3b017b8eabc0cadbb5637"
+    },
+    {
+      "message_id": 20783,
+      "filename": "2027_훈련도감_필기노트_통합본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20783_2027_._._.pdf",
+      "size_bytes": 17875760,
+      "telegram_date": "2026-04-24T13:08:57+00:00",
+      "title": "국어 훈련도감 필기노트 통합본",
+      "year": "2027",
+      "instructor": "박광일",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20783.png",
+      "sha256": "8324382ab20e4e7895796f0b0cc3679b9a34d2285d2991848a2dcdec674f9fc2"
     }
   ],
   "duplicate_message_ids": [
