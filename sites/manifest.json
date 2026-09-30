@@ -34915,6 +34915,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20610.png",
       "sha256": "f46ae3ce798bc8d611b5642dc1f0f1f747ef410e33cf49e4162679bd5960a505"
+    },
+    {
+      "message_id": 20600,
+      "filename": "_명불허전_기출분석_연도별_기출_자습용1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20600__._._._._.1.pdf",
+      "size_bytes": 72431229,
+      "telegram_date": "2026-04-18T17:31:23+00:00",
+      "title": "윤성훈의 2022-2026 학년도 명불허전 기출분석",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/20600.png",
+      "sha256": "268c3ae15c60b5330d14bad3ff7be1b59f971c0b85d597972558784ecbe5e0dc"
     }
   ],
   "duplicate_message_ids": [
