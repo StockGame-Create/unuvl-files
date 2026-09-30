@@ -37323,6 +37323,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20337.png",
       "sha256": "9db846c9d9ee6051d843553d00ed7041bc1720d0383782849ed7d6c27b1d5613"
+    },
+    {
+      "message_id": 20336,
+      "filename": "TalkFile_강민웅 UPTO 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20336_TalkFile_.UPTO.1.pdf",
+      "size_bytes": 10802077,
+      "telegram_date": "2026-04-09T08:24:44+00:00",
+      "title": "물1 강민웅 UPTO 모의고사 1회",
+      "year": "2027",
+      "instructor": "강민웅",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/20336.png",
+      "sha256": "2608633950de9ac5775031bbdc16364a342b8a81d63454ad6745e1fc9cdea898"
     }
   ],
   "duplicate_message_ids": [
