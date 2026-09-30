@@ -39031,6 +39031,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20128.png",
       "sha256": "87d096e0fb7c2784c560f6acbb2de765794446d6444748bb67c7b693a35720d2"
+    },
+    {
+      "message_id": 20124,
+      "filename": "22개정 엔픽 물리_260328_205821.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20124_22._260328_205821.pdf",
+      "size_bytes": 144019455,
+      "telegram_date": "2026-03-29T03:52:28+00:00",
+      "title": "통과 엔픽 물리",
+      "year": "2027",
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/20124.png",
+      "sha256": "373ea19f9670268241799ed50c5d65ebc391eec0bd910cedcda774e282593b71"
     }
   ],
   "duplicate_message_ids": [
