@@ -39073,6 +39073,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/20121.png",
       "sha256": "07560568c936791ad62defe1cec5264bfae553c1e726e6f0208bfa0723c4af0f"
+    },
+    {
+      "message_id": 20119,
+      "filename": "시즌2예시.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20119_.2.pdf",
+      "size_bytes": 293055,
+      "telegram_date": "2026-03-28T08:08:21+00:00",
+      "title": "수학 시대인재 안가람 시즌2 예시",
+      "year": "2027",
+      "instructor": "안가람",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20119.png",
+      "sha256": "1f2599f8816a6f551499d82d0c2fab22d1d7f96c0067148049ef78543e131802"
     }
   ],
   "duplicate_message_ids": [
