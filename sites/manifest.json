@@ -38009,6 +38009,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20258.png",
       "sha256": "a94ba004e56e952346ad395fb18fcaa1a6b1ea12cec96c36ce710c33c9b14ade"
+    },
+    {
+      "message_id": 20255,
+      "filename": "2027학년도_현자의돌_기시감_복습교재_2교.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20255_2027._._._._2.pdf",
+      "size_bytes": 30147084,
+      "telegram_date": "2026-04-04T16:24:39+00:00",
+      "title": "생윤 현자의돌 기시감 복습교재",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과 윤리",
+      "thumbnail": "thumbnails/20255.png",
+      "sha256": "2a891752e36257f4c63ed25c38a4b41f6ece22aee67473e4d36f1dca3abe29fb"
     }
   ],
   "duplicate_message_ids": [
