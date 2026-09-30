@@ -37953,6 +37953,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/20265.png",
       "sha256": "bf387cb5a119c57c329148c32ea130152eeb8c8c93d4cefe889ea6fb726427e6"
+    },
+    {
+      "message_id": 20264,
+      "filename": "백호_섬스개완_생명과학_II_Sub_Note.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20264_._._._II_Sub_Note.pdf",
+      "size_bytes": 26304835,
+      "telegram_date": "2026-04-04T16:36:10+00:00",
+      "title": "생2 백호 섬스개완 서브노트",
+      "year": "2025(최신)",
+      "instructor": "백호",
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/20264.png",
+      "sha256": "3ac00bf1b09a0077c364f1977cd46f6945e962b3d13bc634963fe0a09f4b3960"
     }
   ],
   "duplicate_message_ids": [
