@@ -38807,6 +38807,20 @@
       "subject": "수1",
       "thumbnail": "thumbnails/20156.png",
       "sha256": "745619b3820d9497564e51ffdb04b6981b42d4cebfa8d4388dd60c4c8211c936"
+    },
+    {
+      "message_id": 20152,
+      "filename": "이다지 동아시아사 기적노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20152_.pdf",
+      "size_bytes": 63300984,
+      "telegram_date": "2026-03-30T03:53:37+00:00",
+      "title": "동사 이다지 동아시아사 기적노트",
+      "year": "2027",
+      "instructor": null,
+      "subject": "동아시아사",
+      "thumbnail": "thumbnails/20152.png",
+      "sha256": "bdcfb5445eb43e485f6792e7b63e63947735dca150cf7fd012e341ffdcbe2d89"
     }
   ],
   "duplicate_message_ids": [
