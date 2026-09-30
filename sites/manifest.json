@@ -31905,6 +31905,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20999.png",
       "sha256": "0574eb5eaa85c72601eaeff8a3a2d8f88bc9ea89c168ad730daa53c09e158a32"
+    },
+    {
+      "message_id": 20997,
+      "filename": "2027_수학_크럭스_미적분_1권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20997_2027_._._._1.pdf",
+      "size_bytes": 50632628,
+      "telegram_date": "2026-05-11T09:19:08+00:00",
+      "title": "수학 크럭스 미적분 1권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20997.png",
+      "sha256": "e2da92c1fab40148c6078134bfdf56be8dc9e6724e2ae5917e0acaab1a36c31f"
     }
   ],
   "duplicate_message_ids": [
