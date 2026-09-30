@@ -39619,6 +39619,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20050.png",
       "sha256": "1328b01c65c88e1164988683c21a75b0a884d3ba0f207345b79308bcba2076be"
+    },
+    {
+      "message_id": 20048,
+      "filename": "2027_불후의_명강_사회문화_개념_완성.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20048_2027_._._._._.pdf",
+      "size_bytes": 36949991,
+      "telegram_date": "2026-03-22T14:49:21+00:00",
+      "title": "사문 2027 불후의 명강 사회문화 개념완성",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/20048.png",
+      "sha256": "58f479791f1592330073bb55dbf9768b49583136604527ff8a5234952e80509f"
     }
   ],
   "duplicate_message_ids": [
