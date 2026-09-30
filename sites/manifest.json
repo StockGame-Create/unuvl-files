@@ -39437,6 +39437,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/20080.png",
       "sha256": "619f1258009324251dce70b370cfa3ac827615c0d6b91ba890bf3359dc5aa133"
+    },
+    {
+      "message_id": 20079,
+      "filename": "2027 김연호 LCS BASIC BOOSTERS 10회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20079_2027.LCS.BASIC.BOOSTERS.10.pdf",
+      "size_bytes": 9583221,
+      "telegram_date": "2026-03-25T23:43:06+00:00",
+      "title": "생1 김연호 LCS basic bosters 10회, 11회",
+      "year": "2027",
+      "instructor": "김연호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/20079.png",
+      "sha256": "46bd6f1247a56b9d583135b0edd9c81a7c23df0f3d2fe5e703064692067bf9ad"
     }
   ],
   "duplicate_message_ids": [
