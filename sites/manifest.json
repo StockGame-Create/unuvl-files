@@ -37715,6 +37715,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20292.png",
       "sha256": "8b945c6a9500d234d1ca7e4762b724877e513c5186f94974f18d47526624f229"
+    },
+    {
+      "message_id": 20290,
+      "filename": "2027_한완기_교사용_평가원수능_확통.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20290_2027_._._._.pdf",
+      "size_bytes": 11771255,
+      "telegram_date": "2026-04-06T11:48:14+00:00",
+      "title": "확통 한완기 교사용 확률과통계",
+      "year": "2027",
+      "instructor": null,
+      "subject": "확률과 통계",
+      "thumbnail": "thumbnails/20290.png",
+      "sha256": "2043b1aee55a0d6d948c63060f03880a22e78ff6c6273ba11d41d434a7c14bca"
     }
   ],
   "duplicate_message_ids": [
