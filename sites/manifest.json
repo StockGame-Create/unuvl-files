@@ -36791,6 +36791,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20403.png",
       "sha256": "1d6eab7f3acdd994082caef8e61505898ffd7de5a050331e4755fbcefbe6ddf1"
+    },
+    {
+      "message_id": 20400,
+      "filename": "enhypen_blood_saga_seoul_with_engene_forever.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20400_enhypen_blood_saga_seoul_with_engene_forever.pdf",
+      "size_bytes": 68319295,
+      "telegram_date": "2026-04-11T06:52:00+00:00",
+      "title": "정법 최적 큐뱅크 블랙라벨",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/20400.png",
+      "sha256": "888b599ba31ecff3ef829c72c3bd598b61b3779c82d98b428f9f3e1808d69848"
     }
   ],
   "duplicate_message_ids": [
