@@ -40417,6 +40417,20 @@
       "subject": "물리학",
       "thumbnail": "thumbnails/19958.png",
       "sha256": "1c520380482dc14972753737b183cb13a8933082193754225087e004433e0d30"
+    },
+    {
+      "message_id": 19957,
+      "filename": "20260305190844_organized_rotated.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19957_20260305190844_organized_rotated.pdf",
+      "size_bytes": 13395739,
+      "telegram_date": "2026-03-18T08:26:04+00:00",
+      "title": "물리학 (22개정) EBS 개념완성",
+      "year": null,
+      "instructor": null,
+      "subject": "물리학",
+      "thumbnail": "thumbnails/19957.png",
+      "sha256": "c767c5434e5e0dae7704826e3262b3a5d3be80f0730f219962b690d9748ded2a"
     }
   ],
   "duplicate_message_ids": [
