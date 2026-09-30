@@ -31569,6 +31569,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21047.png",
       "sha256": "73a2ee828daa2c3bd48b3a6647e5ff7c5565dc6991897037fec1cddf5d9d8e4c"
+    },
+    {
+      "message_id": 21045,
+      "filename": "2027_시대인재_수학_뉴엑셀러레이터_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21045_2027_._._._1.pdf",
+      "size_bytes": 23330794,
+      "telegram_date": "2026-05-14T17:22:59+00:00",
+      "title": "수학 new Accelerator 1-1 ~ 1-7",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21045.png",
+      "sha256": "4bc53b563c67ba49ba3cee4f028d12e30aa2c5ad1aecd3a104737a425f108fa5"
     }
   ],
   "duplicate_message_ids": [
