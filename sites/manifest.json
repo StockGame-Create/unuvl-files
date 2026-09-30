@@ -35783,6 +35783,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20487.png",
       "sha256": "65e86c88601507f2dc574c13d1a5f3cdebb6f211f665e8920ee2173141d84e9d"
+    },
+    {
+      "message_id": 20485,
+      "filename": "2027 코드원 생활과 윤리 평가원 기출 해설서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20485_2027.pdf",
+      "size_bytes": 362535211,
+      "telegram_date": "2026-04-14T09:48:25+00:00",
+      "title": "생윤 코드원 평가원 기출 해설서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/20485.png",
+      "sha256": "2ef0444710e8883b938e0b106c0f583828c1aa222a266f941b30ed7a8d5aece3"
     }
   ],
   "duplicate_message_ids": [
