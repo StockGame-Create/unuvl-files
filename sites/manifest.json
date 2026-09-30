@@ -32577,6 +32577,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20902.png",
       "sha256": "92e4aa8d70cc9364a63e7f1dbeeabca6fd00e33ad170d901addf9876697ced87"
+    },
+    {
+      "message_id": 20900,
+      "filename": "생명_정석준_시즌1_복습테스트_6_9주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20900_._._.1_._6_9.pdf",
+      "size_bytes": 33643958,
+      "telegram_date": "2026-04-29T18:55:41+00:00",
+      "title": "생1 시즌1 복습테스트",
+      "year": "2027",
+      "instructor": "정석준",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/20900.png",
+      "sha256": "0ddf706a70705a2107b314a640396404ec4c33a5b0e65daca56da33caccdbaa4"
     }
   ],
   "duplicate_message_ids": [
