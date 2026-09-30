@@ -31387,6 +31387,20 @@
       "subject": "사회",
       "thumbnail": "thumbnails/21069.png",
       "sha256": "b1407fe317eca9fb6a97d29692e1dc16513ddc8307b79a664b3e6763863d0738"
+    },
+    {
+      "message_id": 21065,
+      "filename": "2027 M-Skill 복습집.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21065_2027.M-Skill.pdf",
+      "size_bytes": 116311803,
+      "telegram_date": "2026-05-15T16:10:24+00:00",
+      "title": "사문 사화문화 복습과제집 M Skill12",
+      "year": "2027",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/21065.png",
+      "sha256": "cdd558acc95a5f8a0b55d345d5630b06a4f078797a014cef0c752be79cb0bfd0"
     }
   ],
   "duplicate_message_ids": [
