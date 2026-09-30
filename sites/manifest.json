@@ -40893,6 +40893,20 @@
       "subject": null,
       "thumbnail": "thumbnails/19914.png",
       "sha256": "07d058bbdc3b9a5711b203f4a0520aed6c8a08a3f0a9a0a42b4775bbb3c2e684"
+    },
+    {
+      "message_id": 19913,
+      "filename": "국어_데일리_그믐달_1주차_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19913_._._._1._.pdf",
+      "size_bytes": 24102352,
+      "telegram_date": "2026-03-17T14:37:03+00:00",
+      "title": "국어_데일리_그믐달_1주차_해설지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/19913.png",
+      "sha256": "a04a33ebb524baa8830f12d5ea53d5d4d260d8c6a9df2bab84a1d96eb83731ec"
     }
   ],
   "duplicate_message_ids": [
