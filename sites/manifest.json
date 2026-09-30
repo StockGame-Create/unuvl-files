@@ -38359,6 +38359,20 @@
       "subject": null,
       "thumbnail": "thumbnails/20209.png",
       "sha256": "e886529fe1a0e19d71e0ed323f86c94d93547ec826a960aa8f49972231fc4293"
+    },
+    {
+      "message_id": 20207,
+      "filename": "temp_1774875482502.-1750550451.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20207_temp_1774875482502.-1750550451.pdf",
+      "size_bytes": 4483694,
+      "telegram_date": "2026-03-31T16:14:16+00:00",
+      "title": "수학 시대인재 브릿지 전국 모의고사 6회 (폰퀄) #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20207.png",
+      "sha256": "64effa01b47c93369e1e4f23a2aed815b8373f5ab2e71cc03dbad96c131ffe4d"
     }
   ],
   "duplicate_message_ids": [
