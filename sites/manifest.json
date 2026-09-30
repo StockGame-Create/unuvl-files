@@ -34145,6 +34145,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20684.png",
       "sha256": "422ee657523f364602da3735001956a076cf73c6c6053896a5c4d0de12f06f54"
+    },
+    {
+      "message_id": 20682,
+      "filename": "_개념원_수2.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20682__._.2.PDF",
+      "size_bytes": 3332661,
+      "telegram_date": "2026-04-20T10:28:05+00:00",
+      "title": "수학 개념원리 수학2",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20682.png",
+      "sha256": "0923b6792d7b9d3b92c3979135964dcda2a6705c1261242af7a5a4029c51deed"
     }
   ],
   "duplicate_message_ids": [
