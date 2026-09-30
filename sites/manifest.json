@@ -31975,6 +31975,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/20991.png",
       "sha256": "6edcaa1b51ba285079d7c1b952a601cc2ac94f2d1fa7772fbd64f5a5076a0456"
+    },
+    {
+      "message_id": 20990,
+      "filename": "브릿지전국수학10회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20990_.10.pdf",
+      "size_bytes": 3858726,
+      "telegram_date": "2026-05-11T00:57:32+00:00",
+      "title": "수학 시대인재 전국 브릿지 모의고사 10회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20990.png",
+      "sha256": "0fe697abc1f089174e4ae1d48279ea62769052f212e82df42368aa6e0b236d1b"
     }
   ],
   "duplicate_message_ids": [
