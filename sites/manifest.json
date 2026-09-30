@@ -34075,6 +34075,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20692.png",
       "sha256": "fcb41afa0f34561a359748141d234c85fefd1f3c2a436391719cf5574d63683d"
+    },
+    {
+      "message_id": 20690,
+      "filename": "지학의_노예_orbi_earthscience.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20690_._._orbi_earthscience.pdf",
+      "size_bytes": 38338537,
+      "telegram_date": "2026-04-20T10:28:12+00:00",
+      "title": "지1 지학의 노예 지구과학",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20690.png",
+      "sha256": "268e1d67dab5852fa151e920db50765f5073c975ac2c8a1d47f16241f3b9e0e0"
     }
   ],
   "duplicate_message_ids": [
