@@ -32885,6 +32885,20 @@
       "subject": "과학",
       "thumbnail": "thumbnails/20859.png",
       "sha256": "dc28ef600f34a8657946fbf473e774642b3b8bb25c6ba42088a48a822bc758fd"
+    },
+    {
+      "message_id": 20858,
+      "filename": "22개정 기출픽 물리 1_260330_165918_260426_184428.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20858_22.1_260330_165918_260426_184428.pdf",
+      "size_bytes": 17855546,
+      "telegram_date": "2026-04-28T11:30:46+00:00",
+      "title": "과학 완자 기출픽 물리학 (22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/20858.png",
+      "sha256": "883aed5808c91923aa834e5a5f267b7dbc55f0975b104c4adba30a96601ebaad"
     }
   ],
   "duplicate_message_ids": [
