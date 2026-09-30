@@ -36861,6 +36861,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20391.png",
       "sha256": "a225a2bba9c1e6c80b66fa88c6ec27b99a254dc8efec1f51c674bc0a0c9f59b1"
+    },
+    {
+      "message_id": 20389,
+      "filename": "2027 서준혁 시즌1 항해일지 4주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20389_2027.1.4.pdf",
+      "size_bytes": 133740187,
+      "telegram_date": "2026-04-11T04:44:35+00:00",
+      "title": "국어 서준혁 항해일지 4주차",
+      "year": "2027",
+      "instructor": "서준혁",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20389.png",
+      "sha256": "346620dd4fe333bce9f3e1533cb2a671586992300f30155c852e0082951fe8ac"
     }
   ],
   "duplicate_message_ids": [
