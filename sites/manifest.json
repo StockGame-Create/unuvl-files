@@ -35041,6 +35041,20 @@
       "subject": "확률과 통계",
       "thumbnail": "thumbnails/20584.png",
       "sha256": "0f006196d16d31b954b5ce62cfb71b772a3218705131943fededd12808de9aca"
+    },
+    {
+      "message_id": 20582,
+      "filename": "마플 수기총 수2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20582_.2.pdf",
+      "size_bytes": 181578287,
+      "telegram_date": "2026-04-18T14:10:24+00:00",
+      "title": "수학 마플 수능기출 총정리 수2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20582.png",
+      "sha256": "08e734b81204c80cf5cd66c57f6a3e574fb6b52bc0ec4ba33bdcf1433b656fbb"
     }
   ],
   "duplicate_message_ids": [
