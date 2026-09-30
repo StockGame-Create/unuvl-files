@@ -31625,6 +31625,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21040.png",
       "sha256": "49fc68e8d01e12966f2fd267afaaf3eed33f04e293d04babdb26fba9eb736fbd"
+    },
+    {
+      "message_id": 21038,
+      "filename": "2027_한완수_확통하_본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21038_2027_._._.pdf",
+      "size_bytes": 84795502,
+      "telegram_date": "2026-05-14T16:58:39+00:00",
+      "title": "수학 한완수 확률과통계(하)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21038.png",
+      "sha256": "4988a0aa7ae8c95cc04b8d5ac5e2cf5e58e753f87c0e4ced3b04793c692636fc"
     }
   ],
   "duplicate_message_ids": [
