@@ -32969,6 +32969,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20849.png",
       "sha256": "3efd6a79a96f04b9a48c2f358de9e12b342b4f0d2fe7db73d4304c931f3e3094"
+    },
+    {
+      "message_id": 20847,
+      "filename": "2027_매달KISS_첫번째달_해설복기편WEEK1,2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20847_2027_.KISS_._.WEEK1.2.pdf",
+      "size_bytes": 264874375,
+      "telegram_date": "2026-04-28T11:30:38+00:00",
+      "title": "영어 션티 매달KISS 첫번째달 해설복기편 1~2주차",
+      "year": "2027",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/20847.png",
+      "sha256": "6cd4ace206a630bf816e27afc1ea7674faaf357e102511be7d55ab3ea9560c92"
     }
   ],
   "duplicate_message_ids": [
