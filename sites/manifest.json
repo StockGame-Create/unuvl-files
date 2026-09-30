@@ -40291,6 +40291,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19978.png",
       "sha256": "1c2c6e5830a6dd0471c82e0c9b8acf3c4dedc933308b5373ac55e703412897c1"
+    },
+    {
+      "message_id": 19976,
+      "filename": "기본 폴더.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19976_.pdf",
+      "size_bytes": 18067371,
+      "telegram_date": "2026-03-19T10:01:23+00:00",
+      "title": "국어 시즌2 제1차 모의고사 상상 국어평가연구소 #상상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19976.png",
+      "sha256": "4cdc6e7c57ca2d9cc345d034386ceb27fa9680db9ef67e4fc2ce88ac9a685915"
     }
   ],
   "duplicate_message_ids": [
