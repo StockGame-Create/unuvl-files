@@ -33151,6 +33151,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20825.png",
       "sha256": "7a79b8c72e52d0ed559bb07122f083df85868572d048079495b6b376425f7e5f"
+    },
+    {
+      "message_id": 20822,
+      "filename": "2027 한정훈STIMPACK 11.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20822_2027.STIMPACK.11.pdf",
+      "size_bytes": 83201270,
+      "telegram_date": "2026-04-26T18:09:55+00:00",
+      "title": "물1 현정훈 STIMPACK 2027",
+      "year": "2027",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/20822.png",
+      "sha256": "740617838b448eeeca803cd9e9d0ada11f921ce43006d4d3f2558db83acf40fd"
     }
   ],
   "duplicate_message_ids": [
