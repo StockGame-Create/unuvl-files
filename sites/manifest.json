@@ -37897,6 +37897,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20273.png",
       "sha256": "3217d3cdd2a099b7d7a33c81a6ca7d76d6bd6856df0a675e7ea366b6694b4a24"
+    },
+    {
+      "message_id": 20272,
+      "filename": "내신고쟁이 수학1 （2023） 본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20272_.1.2023.pdf",
+      "size_bytes": 28308554,
+      "telegram_date": "2026-04-04T16:39:35+00:00",
+      "title": "수학 유형+내신 고쟁이 수학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20272.png",
+      "sha256": "baea96de8293b269da8150af1a18d9a2413127ddc16f6dc8bc17355b4c4a8ff3"
     }
   ],
   "duplicate_message_ids": [
