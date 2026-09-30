@@ -33137,6 +33137,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20827.png",
       "sha256": "17b300f6e3fc1135657baf60ad4b74fa5c501147fa9ea2267865600d89b9c96c"
+    },
+    {
+      "message_id": 20825,
+      "filename": "MEET_2005_2012_언어추론_모음.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20825_MEET_2005_2012_._.pdf",
+      "size_bytes": 7422541,
+      "telegram_date": "2026-04-27T12:12:14+00:00",
+      "title": "국어  2012-2005 학년도 의치학교육입문검사 언어추론 모음",
+      "year": null,
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20825.png",
+      "sha256": "7a79b8c72e52d0ed559bb07122f083df85868572d048079495b6b376425f7e5f"
     }
   ],
   "duplicate_message_ids": [
