@@ -37351,6 +37351,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20335.png",
       "sha256": "3b637849bb5c626f1aedb30f91aca20edf9418886226ae541d0d0c8d1ba3cd29"
+    },
+    {
+      "message_id": 20333,
+      "filename": "[2027] Starting Block 미적분_필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20333_.2027.Starting.Block._.pdf",
+      "size_bytes": 29811637,
+      "telegram_date": "2026-04-09T08:22:26+00:00",
+      "title": "미적 김범준 Starting Block 미적분",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "미적분",
+      "thumbnail": "thumbnails/20333.png",
+      "sha256": "2921513223882d6c664f0a590af1d9b79da8005e9d06a5e1d581a99b80e384a4"
     }
   ],
   "duplicate_message_ids": [
