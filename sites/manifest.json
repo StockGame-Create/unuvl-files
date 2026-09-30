@@ -32353,6 +32353,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20932.png",
       "sha256": "61980be43e23571169c760b29baf87e8bbf03aa3d55f89051b3da56ce5fdc723"
+    },
+    {
+      "message_id": 20930,
+      "filename": "2027 시선 in 수능특강 1회 독서+문학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20930_2027.in.1.%2B.pdf",
+      "size_bytes": 1490540,
+      "telegram_date": "2026-05-04T12:22:02+00:00",
+      "title": "국어 2027 시선의 시선 in 수능특강 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20930.png",
+      "sha256": "9da9650c839991a6830abacde805104b79965794dbaf4e9fcc4d94d94f2703ca"
     }
   ],
   "duplicate_message_ids": [
