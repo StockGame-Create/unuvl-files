@@ -38471,6 +38471,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20195.png",
       "sha256": "fc6088ffc6df22da94da143155f4282097d4b076a34f3edcb4d0160d7b3feab7"
+    },
+    {
+      "message_id": 20194,
+      "filename": "27 4규 수1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20194_27.4.1.pdf",
+      "size_bytes": 23325718,
+      "telegram_date": "2026-03-31T09:46:37+00:00",
+      "title": "수1 2027 한석원의 4의 규칙 수학1",
+      "year": "2027",
+      "instructor": "한석원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20194.png",
+      "sha256": "bc2d606d6f1dfbb08de04d8434e89f7b2909deb9892820c25b89ada3bf5b8d0b"
     }
   ],
   "duplicate_message_ids": [
