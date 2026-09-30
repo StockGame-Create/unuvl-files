@@ -31401,6 +31401,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/21065.png",
       "sha256": "cdd558acc95a5f8a0b55d345d5630b06a4f078797a014cef0c752be79cb0bfd0"
+    },
+    {
+      "message_id": 21063,
+      "filename": "2027 피램 4주차 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21063_2027.4.pdf",
+      "size_bytes": 1035740,
+      "telegram_date": "2026-05-15T16:09:13+00:00",
+      "title": "국어 P.I.R.A.M 피램 생각의 절정 4주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21063.png",
+      "sha256": "f897ed235337ffd2ac6691f6001bb1030d9736ecbf83319a1759649d703dfed9"
     }
   ],
   "duplicate_message_ids": [
