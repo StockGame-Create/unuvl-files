@@ -34551,6 +34551,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20653.png",
       "sha256": "cf61b176f5f0d105204485f103be55157ea7fa28a68713064ebb7bdad7939146"
+    },
+    {
+      "message_id": 20652,
+      "filename": "2027 박광일 평가원 최신 독서 문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20652_2027.pdf",
+      "size_bytes": 83841446,
+      "telegram_date": "2026-04-20T10:27:40+00:00",
+      "title": "국어 홀수기출 평가원 최신 독서",
+      "year": "2027",
+      "instructor": "박광일",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20652.png",
+      "sha256": "1cb59d6a18ef712f8c8e8c628eed7fa4ae8c6ebc35197993310b2f40d8845726"
     }
   ],
   "duplicate_message_ids": [
