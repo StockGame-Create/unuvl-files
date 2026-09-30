@@ -39143,6 +39143,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/20109.png",
       "sha256": "205a39303345aba5a66225a4a9896f72b8472b58fadd42aa70a21b3fee1d6440"
+    },
+    {
+      "message_id": 20107,
+      "filename": "정답해설_국어 강은양 KEY_THE SELECTION.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20107_._.KEY_THE.SELECTION.pdf",
+      "size_bytes": 18716534,
+      "telegram_date": "2026-03-27T14:31:26+00:00",
+      "title": "국어 강은양 KEY THE SELECTION",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20107.png",
+      "sha256": "ca5c457e23fc8625b817e0d71ceeef6d6f773ad9151e0c37c0dd3b1b61d2ed1a"
     }
   ],
   "duplicate_message_ids": [
