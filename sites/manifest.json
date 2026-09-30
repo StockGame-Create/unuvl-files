@@ -40991,6 +40991,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19893.png",
       "sha256": "ff76a56d047048519c843ef00bc18b871ed720504890279698886a2872a0cd59"
+    },
+    {
+      "message_id": 19892,
+      "filename": "2027 마닳1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19892_2027.1.pdf",
+      "size_bytes": 354949630,
+      "telegram_date": "2026-03-17T09:49:54+00:00",
+      "title": "국어 마르고 닳도록 1,2권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19892.png",
+      "sha256": "f5e33bbc03cb2ffa896eb98120499bb2ebc01d9c1c20dac756cebd6563285ae5"
     }
   ],
   "duplicate_message_ids": [
