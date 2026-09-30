@@ -32605,6 +32605,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20898.png",
       "sha256": "5e559dccd20b44ada1f2696ad76170f760eaee23e6f64b5deaeeee204dd858f1"
+    },
+    {
+      "message_id": 20893,
+      "filename": "2027 박종민 Pre Limit X 03회 (11주).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20893_2027.Pre.Limit.X.03.11.pdf",
+      "size_bytes": 1779382,
+      "telegram_date": "2026-04-29T14:58:32+00:00",
+      "title": "수학 박종민 Pre Limix X 모의고사 3회",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20893.png",
+      "sha256": "a240d10214d3bceb09297bd9725ffc95a8a4aa91e1bf9e2bbd9f588df44b4fa6"
     }
   ],
   "duplicate_message_ids": [
