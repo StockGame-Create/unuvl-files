@@ -37365,6 +37365,20 @@
       "subject": "미적분",
       "thumbnail": "thumbnails/20333.png",
       "sha256": "2921513223882d6c664f0a590af1d9b79da8005e9d06a5e1d581a99b80e384a4"
+    },
+    {
+      "message_id": 20330,
+      "filename": "2027_수능대비_현자의_돌_생활과_윤리_기출로_시작하는_감각_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20330_2027_._._._._._._._._1.pdf",
+      "size_bytes": 35603394,
+      "telegram_date": "2026-04-09T04:25:21+00:00",
+      "title": "생윤 현자의 돌 기출로 시작하는 감각 생활과 윤리",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/20330.png",
+      "sha256": "808d2ba8d414b4332299fdd331b4287833ea5e2907943a439822e806da95cd10"
     }
   ],
   "duplicate_message_ids": [
