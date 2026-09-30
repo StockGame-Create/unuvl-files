@@ -34831,6 +34831,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20621.png",
       "sha256": "e674d6e91b4cf5893776d6b02058503f20a5a11259e2c569278a17d4667cfe85"
+    },
+    {
+      "message_id": 20619,
+      "filename": "유형독해 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20619_.pdf",
+      "size_bytes": 14698427,
+      "telegram_date": "2026-04-19T04:06:50+00:00",
+      "title": "영어 V유형독해",
+      "year": null,
+      "instructor": "김지영",
+      "subject": "영어",
+      "thumbnail": "thumbnails/20619.png",
+      "sha256": "439c8956ecda4a0e3abe86962701494c599b9a513263c6bf45b35c455ec0f1c3"
     }
   ],
   "duplicate_message_ids": [
