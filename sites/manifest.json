@@ -38289,6 +38289,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20220.png",
       "sha256": "427aea605e14175ecbb265ecf75a8137044aba0ce1653d4b2ee2db8ebc74f4fa"
+    },
+    {
+      "message_id": 20215,
+      "filename": "2027 마더텅 사회문화 정답해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20215_2027.pdf",
+      "size_bytes": 727610689,
+      "telegram_date": "2026-04-01T08:32:10+00:00",
+      "title": "사문 마더텅 수능기출 문제집 사회문화 (해설지)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/20215.png",
+      "sha256": "a0ece27020c3b6fb3d29f73d22dc57654a4bf6f35b8ba08c8fcdab82a551e6a7"
     }
   ],
   "duplicate_message_ids": [
