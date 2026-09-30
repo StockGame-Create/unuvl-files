@@ -32269,6 +32269,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20946.png",
       "sha256": "1ef1f52769d7cf76ac324c1b5271f52dd10d73494b758adfb7b5e5e458185f56"
+    },
+    {
+      "message_id": 20945,
+      "filename": "2027 피램 3주차 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20945_2027.3.pdf",
+      "size_bytes": 627874,
+      "telegram_date": "2026-05-06T10:22:56+00:00",
+      "title": "국어 P.I.R.A.M 피램 생각의 절정 3주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20945.png",
+      "sha256": "0eaac7c8f4cc327e9a65a4d4b7874cc2de58d401e0234887db3219ebe00dca56"
     }
   ],
   "duplicate_message_ids": [
