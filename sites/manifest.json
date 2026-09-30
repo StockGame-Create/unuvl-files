@@ -38695,6 +38695,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20169.png",
       "sha256": "79630455d093f4f1fdc155a52fa7018d03746af842bf7006577c10baf1247d20"
+    },
+    {
+      "message_id": 20167,
+      "filename": "TRAIN BROKER 14주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20167_TRAIN.BROKER.14.pdf",
+      "size_bytes": 833740,
+      "telegram_date": "2026-03-30T10:11:56+00:00",
+      "title": "수학 2027 TRAIN BROKER 14주차",
+      "year": "2027",
+      "instructor": "장재원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20167.png",
+      "sha256": "5e35d32b12769bd078eba386cc2ad5926bb050c3a23adfa06e7951ad3ce65103"
     }
   ],
   "duplicate_message_ids": [
