@@ -38331,6 +38331,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20212.png",
       "sha256": "aa6f4cf10d7584eda4f1bb043fe03e2b83fd32138ba34562fccd2824877d4848"
+    },
+    {
+      "message_id": 20210,
+      "filename": "2048학년도 샤갈 모의고사 해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20210_2048.pdf",
+      "size_bytes": 1155373,
+      "telegram_date": "2026-04-01T01:53:08+00:00",
+      "title": "2048학년도 샤갈 모의고사 해설지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/20210.png",
+      "sha256": "0509cba5c3ad5d7fd92aecc30fa43d6445442c558dfb03c0884b2de65c5a3101"
     }
   ],
   "duplicate_message_ids": [
