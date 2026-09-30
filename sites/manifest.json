@@ -31443,6 +31443,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21060.png",
       "sha256": "fe14f3aaf5952c8c574eb4a7ed0965ba684249443dcd7ecd969f2dd67ecf84b2"
+    },
+    {
+      "message_id": 21058,
+      "filename": "2027학년도_주목해야_할_지문_6모_전_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21058_2027._._._._6._._2.pdf",
+      "size_bytes": 18672062,
+      "telegram_date": "2026-05-15T16:06:07+00:00",
+      "title": "2027학년도_주목해야_할_지문_6모_전_2",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/21058.png",
+      "sha256": "28296015981b92528f0c4eabbea6c42e4bed0c286a66a60fa03276eec713ff53"
     }
   ],
   "duplicate_message_ids": [
