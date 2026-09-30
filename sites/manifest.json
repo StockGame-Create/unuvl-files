@@ -36945,6 +36945,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20383.png",
       "sha256": "91fbc928eb481fa1b0058c67e990379cc7690869836aad8fcc698e019abe3ce0"
+    },
+    {
+      "message_id": 20380,
+      "filename": "한수.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20380_.pdf",
+      "size_bytes": 20993639,
+      "telegram_date": "2026-04-11T02:57:28+00:00",
+      "title": "국어 2027 ebs 연계 모의고사 2회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20380.png",
+      "sha256": "2b16b7500ce9340f7af05f6bc2b05f6fb17b8846c75b26a4fb4f9cbf6b59a494"
     }
   ],
   "duplicate_message_ids": [
