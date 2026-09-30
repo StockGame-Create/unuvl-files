@@ -33683,6 +33683,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20741.png",
       "sha256": "ba9d5455108bb77bc427a9b0d6f10a3d37df0f3b4e5bc04838c83b439d11f20e"
+    },
+    {
+      "message_id": 20740,
+      "filename": "For_2027_P_I_R_A_M_국어_생각의_전개_독서편_지문_1권_2권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20740_For_2027_P_I_R_A_M_._._._._._1._2.pdf",
+      "size_bytes": 3634201,
+      "telegram_date": "2026-04-22T09:26:59+00:00",
+      "title": "국어 2027 Piram 생각의 전개 독서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20740.png",
+      "sha256": "b67e70eef9dac1df2c2ec79f33ab81f41cf205233123debb956cfef66efda879"
     }
   ],
   "duplicate_message_ids": [
