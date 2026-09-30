@@ -39703,6 +39703,20 @@
       "subject": "언어와 매체",
       "thumbnail": "thumbnails/20041.png",
       "sha256": "47dc7d7f0c99ba35b51d6fb9bd2074cbea00ded661f7c84cd87cb077a4b400bf"
+    },
+    {
+      "message_id": 20040,
+      "filename": "27학년도 더함 0회 모의고사 본문111-1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20040_27.0.111-1.pdf",
+      "size_bytes": 2248911,
+      "telegram_date": "2026-03-22T06:48:01+00:00",
+      "title": "국어 더함 모의고사 0회",
+      "year": "2027",
+      "instructor": "유대종",
+      "subject": "언어와 매체",
+      "thumbnail": "thumbnails/20040.png",
+      "sha256": "1b27e0fef56a835458e22aa521bffd04f037a9842ff4172c17d4ee4bb5d58e2f"
     }
   ],
   "duplicate_message_ids": [
