@@ -24,6 +24,15 @@
 - PDF 첫 페이지를 이미지로 렌더링해서 썸네일로 저장합니다 (sites/thumbnails/).
 - 2026-09-04 이후에 올라온 메시지만 대상으로 하며, 그보다 오래된 메시지가
   나오면 캐치업 스캔을 그 자리에서 중단합니다.
+- (v6) 다운로드(client.download_media) 자체에 재시도를 추가했다. 텔레그램
+  서버 쪽 일시적 문제("Telegram is having internal issues" /
+  "TimeoutError: Timeout while fetching data (GetFileRequest)")가 나면
+  최대 4번, 3초 -> 6초 -> 12초 -> (최대 30초) 간격으로 재시도한다. 또한
+  캐치업 스캔 루프에도 실시간 리스너와 동일한 메시지 단위 예외 방어막
+  (handle_pdf_message_guarded)을 씌워서, 한 메시지 처리 중 예외가 나도
+  캐치업 스캔 전체가 죽지 않고 다음 메시지로 넘어가게 했다 (예전엔 이
+  방어막이 캐치업 스캔에는 없어서, 텔레그램 쪽 타임아웃 하나에 그 실행이
+  통째로 중단됐다).
 - (v5) 파일명을 유니코드 정규화(NFC)해서 다룬다. 한글 등은 완성형(NFC)/조합형
   (NFD) 두 표현이 있어 눈에는 똑같아 보여도 바이트가 달라 '==' 비교가 실패할
   수 있는데, 이 때문에 이미 manifest/release에 있는 파일을 계속 새 파일로
@@ -114,6 +123,7 @@ RELEASE_SOFT_LIMIT = 990                 # 이 개수에 닿으면 다음 releas
 MAX_RELEASE_INDEX = 200                  # release 번호 상한 (무한 루프 방지용 안전장치)
 MAX_ROTATIONS_PER_UPLOAD = 5             # 파일 하나 올리다가 release를 연달아 바꿀 수 있는 최대 횟수
 MAX_SIZE_BYTES = 1900 * 1024 * 1024      # GitHub release asset 한도(2GB)에 여유를 둔 최종 상한
+DOWNLOAD_MAX_RETRIES = 4                 # 텔레그램 쪽 일시적 타임아웃(GetFileRequest 등) 재시도 횟수
 
 # 썸네일 이미지의 가로 폭 (px). PDF 첫 페이지를 이 폭에 맞춰 렌더링함.
 THUMBNAIL_WIDTH = 400
@@ -820,7 +830,34 @@ async def sync():
                 last_pct[0] = pct
                 print(f"    ...{pct}% ({current / (1024*1024):.1f}/{total / (1024*1024):.1f}MB)", flush=True)
 
-        await client.download_media(message, file=str(local_path), progress_callback=_progress)
+        # 텔레그램 서버 쪽에서 가끔 "Telegram is having internal issues /
+        # TimeoutError: Timeout while fetching data (GetFileRequest)"처럼
+        # 일시적인 문제가 나는데, 예전엔 여기서 재시도 없이 바로 예외가
+        # 터져서 캐치업 스캔 전체가 중단됐다. 몇 번은 이 자리에서 짧게
+        # 쉬었다가 재시도해서, 그냥 넘어가면 다음 실행까지 기다려야 했던
+        # 파일을 지금 바로 받아낸다.
+        last_download_err = None
+        for attempt in range(1, DOWNLOAD_MAX_RETRIES + 1):
+            try:
+                await client.download_media(message, file=str(local_path), progress_callback=_progress)
+                last_download_err = None
+                break
+            except Exception as e:
+                last_download_err = e
+                local_path.unlink(missing_ok=True)  # 받다 만 파일 찌꺼기 정리
+                if attempt == DOWNLOAD_MAX_RETRIES:
+                    break
+                wait = min(3 * (2 ** (attempt - 1)), 30)
+                print(f"    [다운로드 실패 (시도 {attempt}/{DOWNLOAD_MAX_RETRIES})] {e} -> {wait}초 후 재시도", flush=True)
+                await asyncio.sleep(wait)
+        if last_download_err is not None:
+            print(
+                f"  건너뜀 (다운로드 {DOWNLOAD_MAX_RETRIES}번 시도 모두 실패, 다음 실행에서 재시도): "
+                f"{filename} ({last_download_err})",
+                flush=True,
+            )
+            return False
+
         print(f"  완료: {filename}", flush=True)
         actual_size = local_path.stat().st_size
 
@@ -892,6 +929,19 @@ async def sync():
 
         return True
 
+    async def handle_pdf_message_guarded(message) -> bool:
+        """handle_pdf_message를 감싸서, 메시지 하나 처리 중 어떤 예외가 나도
+        (다운로드 재시도까지 다 실패한 경우, 예상 못한 오류 등) 캐치업 스캔
+        전체가 죽지 않고 다음 메시지로 넘어가게 한다. 실시간 리스너
+        (_on_new_message)는 원래 이렇게 보호돼 있었는데, 캐치업 스캔 쪽엔
+        이 방어막이 없어서 텔레그램 서버의 일시적 타임아웃 하나에 스캔
+        전체가 중단되곤 했다."""
+        try:
+            return await handle_pdf_message(message)
+        except Exception as e:
+            print(f"  [메시지 처리 중 오류, 건너뛰고 계속] message_id={message.id}: {e}", flush=True)
+            return False
+
     # ---- 1) 캐치업 스캔: 지난 실행 이후 놓친 메시지를 한 바퀴 훑어서 받는다 ----
     # (예전처럼 파일 하나 받을 때마다 처음부터 다시 훑지 않는다 - 이제는 이 스캔이
     #  끝나면 바로 실시간 리스너로 넘어가서 새 메시지를 즉시 잡아내기 때문에,
@@ -917,7 +967,7 @@ async def sync():
             print(f"기준일({CUTOFF.date()})보다 오래된 메시지 발견({message.date.date()}), 캐치업 스캔 종료", flush=True)
             break
 
-        await handle_pdf_message(message)
+        await handle_pdf_message_guarded(message)
 
     print(f"캐치업 스캔 완료. 새로 내려받은 PDF: {new_count}개", flush=True)
 
@@ -925,11 +975,7 @@ async def sync():
     if not stopped_early:
         @client.on(events.NewMessage(chats=entity))
         async def _on_new_message(event):
-            try:
-                await handle_pdf_message(event.message)
-            except Exception as e:
-                # 개별 메시지 처리 중 에러가 나도 리스너 자체는 죽지 않게 함.
-                print(f"  [새 메시지 처리 중 오류] {e}", flush=True)
+            await handle_pdf_message_guarded(event.message)
 
         remaining = MAX_RUNTIME_SECONDS - (time.monotonic() - start_time)
         if remaining > 0:
