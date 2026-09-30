@@ -37057,6 +37057,20 @@
       "subject": "확률과 통계",
       "thumbnail": "thumbnails/20369.png",
       "sha256": "323fc0545a7d06305e5421849abd1dc8b37076cf59e57e4696908c02f89081d9"
+    },
+    {
+      "message_id": 20367,
+      "filename": "2027_김재훈T_문학특강_교재.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20367_2027_.T_._.pdf",
+      "size_bytes": 170501554,
+      "telegram_date": "2026-04-10T14:52:18+00:00",
+      "title": "국어 김재훈 문학특강",
+      "year": "2027",
+      "instructor": "김재훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20367.png",
+      "sha256": "ad012d7bd65198583890d0d9f6a0e1fd9688913c45c3fb28238c7a6c196e310a"
     }
   ],
   "duplicate_message_ids": [
