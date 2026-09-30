@@ -38037,6 +38037,20 @@
       "subject": null,
       "thumbnail": "thumbnails/20253.png",
       "sha256": "a4a1fad066d311f113400ee42ef41f89a102983a13cc234e0f88467eb2c90d49"
+    },
+    {
+      "message_id": 20249,
+      "filename": "2027_한완기_교사용_평가원수능_수학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20249_2027_._._._.2.pdf",
+      "size_bytes": 20565315,
+      "telegram_date": "2026-04-03T08:58:51+00:00",
+      "title": "수학 한완기 교사용 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20249.png",
+      "sha256": "92385baf15b5d93f500af68c69eb50b704d8ebb535f59ced0072d2c25d7cfd71"
     }
   ],
   "duplicate_message_ids": [
