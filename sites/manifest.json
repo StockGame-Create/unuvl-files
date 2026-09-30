@@ -35321,6 +35321,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20552.png",
       "sha256": "3b07222d23ec11fe6add9a4c8a6871f6d2a60f9e2733c26e4888c5ffeace7e68"
+    },
+    {
+      "message_id": 20550,
+      "filename": "2027_코드원_윤사_개념서_서양_및_사회사상_소퀄.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20550_2027_._._._._._._.pdf",
+      "size_bytes": 685038992,
+      "telegram_date": "2026-04-17T10:32:13+00:00",
+      "title": "윤사 코드원 개념서 (서양)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "윤리와사상",
+      "thumbnail": "thumbnails/20550.png",
+      "sha256": "7d842b8f8524b71f7d8dc97d41b5eeece4cceea97a561e3dac2ca80622c7b01c"
     }
   ],
   "duplicate_message_ids": [
