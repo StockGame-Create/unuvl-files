@@ -33235,6 +33235,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20814.png",
       "sha256": "a75f6b769af8986b6a2250b945c9edfee35bcbacd903242436d535d39e2293bb"
+    },
+    {
+      "message_id": 20812,
+      "filename": "2027_시대인재_수능기출_문제집_수학1_MORE.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20812_2027_._._._.1_MORE.pdf",
+      "size_bytes": 21782802,
+      "telegram_date": "2026-04-25T12:38:33+00:00",
+      "title": "수학 시대인재 수능기출 MORE",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20812.png",
+      "sha256": "0bccce24162f65d0b85fad6e75798077f65ea41f17a70cdaf5c7f0d69de43949"
     }
   ],
   "duplicate_message_ids": [
