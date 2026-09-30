@@ -37183,6 +37183,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/20356.png",
       "sha256": "d102ce9ab6a762cd27322a9f28c557d8b455545151679ecf8dcfae4fcf16b7f2"
+    },
+    {
+      "message_id": 20354,
+      "filename": "2027 서킷 손필기 3~4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20354_2027.3.4.pdf",
+      "size_bytes": 5417301,
+      "telegram_date": "2026-04-10T12:13:00+00:00",
+      "title": "수학 CIRCUIT X THE BEST 서킷 3~4회 손필기",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20354.png",
+      "sha256": "49166dc37e476b1b3bc2ff5c72d62f7bdf948629cc60de4e36ceabd9f96b73cb"
     }
   ],
   "duplicate_message_ids": [
