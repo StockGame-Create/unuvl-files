@@ -38947,6 +38947,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20137.png",
       "sha256": "44c983ce03308bef908df421f8894aa1a5565e76a607b37f52e72bc02ef2aef7"
+    },
+    {
+      "message_id": 20136,
+      "filename": "Rebs-수특-현대문학 2026_컬러.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20136_Rebs-.-.2026_.pdf",
+      "size_bytes": 1013046043,
+      "telegram_date": "2026-03-29T08:26:01+00:00",
+      "title": "국어 강은양 rebs 수특 문학",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20136.png",
+      "sha256": "5ae85aa2f83173684b78a954a850d330b064b1095f09513b6e1ddaa9f1c0d49b"
     }
   ],
   "duplicate_message_ids": [
