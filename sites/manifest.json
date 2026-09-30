@@ -33865,6 +33865,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20719.png",
       "sha256": "e5231d717430ed8667e6fb25c37eb78343e81d6c0ac57276ebd66aedb75d65c4"
+    },
+    {
+      "message_id": 20718,
+      "filename": "EB-SCHEMA2 인문예술.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20718_EB-SCHEMA2.pdf",
+      "size_bytes": 114870907,
+      "telegram_date": "2026-04-20T17:17:22+00:00",
+      "title": "국어 EB-SCHEMA 1 사회문화, 인문예술 #앱스키마",
+      "year": "2027",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20718.png",
+      "sha256": "7948d19d21d5667f0fa6eee08589b32c1e87963d9c64cf6eabaef001b7e201f4"
     }
   ],
   "duplicate_message_ids": [
