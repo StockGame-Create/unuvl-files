@@ -35643,6 +35643,20 @@
       "subject": "기하학",
       "thumbnail": "thumbnails/20510.png",
       "sha256": "858c3d931db403157cb3fba54b4e5dea0e27a71894231c0651a7f494b7a26ddb"
+    },
+    {
+      "message_id": 20508,
+      "filename": "고쟁이 미적분1 빠른답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20508_.1.pdf",
+      "size_bytes": 2008631,
+      "telegram_date": "2026-04-15T10:48:14+00:00",
+      "title": "수학 고쟁이 미적분1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20508.png",
+      "sha256": "7381e6f4dcc466600dc4d25e39d66983b2cd1f03803f594aa51d60a7ac31065e"
     }
   ],
   "duplicate_message_ids": [
