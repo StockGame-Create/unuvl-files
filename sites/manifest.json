@@ -40655,6 +40655,20 @@
       "subject": null,
       "thumbnail": "thumbnails/19936.png",
       "sha256": "b6c119c93cc79ce6c49e8d28da7fc167246876c079d3a00a532484497f5d9daa"
+    },
+    {
+      "message_id": 19935,
+      "filename": "3월 더프(국어).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19935_3.pdf",
+      "size_bytes": 10094763,
+      "telegram_date": "2026-03-17T14:50:16+00:00",
+      "title": "3월 더프(국어)",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/19935.png",
+      "sha256": "73a4b13597ca95ef49e84a995f09a1067844a3d491180ad999b521421268c12d"
     }
   ],
   "duplicate_message_ids": [
