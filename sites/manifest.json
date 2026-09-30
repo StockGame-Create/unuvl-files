@@ -32143,6 +32143,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20966.png",
       "sha256": "3f6449d2020ba104d4a8ed85a5320bb32939014c393fcf0d19a7fc7c65aa786e"
+    },
+    {
+      "message_id": 20960,
+      "filename": "서프빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20960_.pdf",
+      "size_bytes": 5953470,
+      "telegram_date": "2026-05-06T11:45:42+00:00",
+      "title": "생1 시대인재 4월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/20960.png",
+      "sha256": "7c35c0a268b1597b3de10f4cf1005c325cdc6b6932363c3f0d2d9d3fa5177107"
     }
   ],
   "duplicate_message_ids": [
