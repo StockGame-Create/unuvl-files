@@ -35209,6 +35209,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20570.png",
       "sha256": "433f07aac90f09f2366af68260b6a731403d1dbff56f5ce854b6211e7f9e16ad"
+    },
+    {
+      "message_id": 20568,
+      "filename": "EBS_올림포스_유형편_공통수학12022개정_정답과풀이20250114141037311.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20568_EBS_._._.12022._.20250114141037311.pdf",
+      "size_bytes": 3137179,
+      "telegram_date": "2026-04-18T14:10:13+00:00",
+      "title": "수학 올림포스 공통수학1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20568.png",
+      "sha256": "b8164c72574ea4b4b412d7f345f8ab7b009877cc364770ea1003044e14447228"
     }
   ],
   "duplicate_message_ids": [
