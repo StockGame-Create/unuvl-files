@@ -37309,6 +37309,20 @@
       "subject": "수학1",
       "thumbnail": "thumbnails/20340.png",
       "sha256": "8fd28b17100d78daa179992f9cb23412a3e381cd9f781549c0a67bf0bd4578b5"
+    },
+    {
+      "message_id": 20337,
+      "filename": "2027 정석민 비독원 BASE.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20337_2027.BASE.pdf",
+      "size_bytes": 172092620,
+      "telegram_date": "2026-04-10T05:44:52+00:00",
+      "title": "국어 정석민 비독원 base",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20337.png",
+      "sha256": "9db846c9d9ee6051d843553d00ed7041bc1720d0383782849ed7d6c27b1d5613"
     }
   ],
   "duplicate_message_ids": [
