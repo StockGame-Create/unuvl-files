@@ -39731,6 +39731,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/20038.png",
       "sha256": "25356185112568f99e49d353d256641a31230de24b572dca6db1749a54445928"
+    },
+    {
+      "message_id": 20036,
+      "filename": "2026학년도_3월_학력평가_대비_김종익_모의고사_1회_해설지.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20036_2026._3._._._._._1._.PDF",
+      "size_bytes": 269042,
+      "telegram_date": "2026-03-21T07:15:18+00:00",
+      "title": "윤사 3평 대비 김종익 모의고사 1회",
+      "year": "2027",
+      "instructor": "김종익",
+      "subject": "윤리와 사상",
+      "thumbnail": "thumbnails/20036.png",
+      "sha256": "a34992b3ce217154a37f802a1432c0db655a16173871a4504a2cbad1eb7664ce"
     }
   ],
   "duplicate_message_ids": [
