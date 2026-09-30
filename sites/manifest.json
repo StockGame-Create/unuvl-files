@@ -40095,6 +40095,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20003.png",
       "sha256": "5ccd58172ce30752753fac0fb8cd8a2ee55a4fe2a7a94040c98ba254d824037b"
+    },
+    {
+      "message_id": 20002,
+      "filename": "11주차 복테.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20002_11.pdf",
+      "size_bytes": 560110,
+      "telegram_date": "2026-03-20T12:30:44+00:00",
+      "title": "수학 강기원T 정규반 Step1 11주차 복습테스트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20002.png",
+      "sha256": "affaa4e714b4ef1530bd5a9dc27c29f71cd9a65ada415865ff4d5edc72ffa043"
     }
   ],
   "duplicate_message_ids": [
