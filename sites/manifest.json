@@ -33949,6 +33949,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/20711.png",
       "sha256": "3b20f7d4e3bc78ca81732baa6c6f347eb59f42ec2f1f43a9b07270d43cfa3fc9"
+    },
+    {
+      "message_id": 20704,
+      "filename": "기출구 수학2 해설_260420_201631.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20704_.2._260420_201631.pdf",
+      "size_bytes": 13594632,
+      "telegram_date": "2026-04-20T11:30:55+00:00",
+      "title": "수학 기출구 유형완성",
+      "year": "2027",
+      "instructor": "강윤구",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20704.png",
+      "sha256": "b5d088f525af82c4e6a41d96312d4330d83503aa95c797673f59a10b95fe7de8"
     }
   ],
   "duplicate_message_ids": [
