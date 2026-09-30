@@ -39129,6 +39129,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20111.png",
       "sha256": "b0eb177efd3259114261c874f2bcb56fd30f3fea8df060cb6b4c7295e40cf4ae"
+    },
+    {
+      "message_id": 20109,
+      "filename": "시대인재-사문-킬러마스터-01-1-표분석+시작.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20109_.-.-.-01-1-.%2B.pdf",
+      "size_bytes": 13544368,
+      "telegram_date": "2026-03-28T07:01:36+00:00",
+      "title": "사문 시대인재 사문 킬러마스터",
+      "year": "2027",
+      "instructor": "문서연",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/20109.png",
+      "sha256": "205a39303345aba5a66225a4a9896f72b8472b58fadd42aa70a21b3fee1d6440"
     }
   ],
   "duplicate_message_ids": [
