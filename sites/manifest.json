@@ -40263,6 +40263,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19983.png",
       "sha256": "16a1b0fae9dbf04c799fed0276cf9ef725397c8b3b0ef235d88c33462a07b620"
+    },
+    {
+      "message_id": 19982,
+      "filename": "수학의_바이블_유형on_공통수학1_본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19982_._._.on_.1_.pdf",
+      "size_bytes": 6476924,
+      "telegram_date": "2026-03-20T12:20:43+00:00",
+      "title": "수학 수학의 바이블 유형on 공통수학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19982.png",
+      "sha256": "01ee47956f8258425fecf7c4c872bfcdd1abde854664240974f3d3f77bc02a29"
     }
   ],
   "duplicate_message_ids": [
