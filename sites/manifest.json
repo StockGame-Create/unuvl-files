@@ -38485,6 +38485,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20194.png",
       "sha256": "bc2d606d6f1dfbb08de04d8434e89f7b2909deb9892820c25b89ada3bf5b8d0b"
+    },
+    {
+      "message_id": 20189,
+      "filename": "2027_DEEP_고난도_스캔본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20189_2027_DEEP_._.pdf",
+      "size_bytes": 71938342,
+      "telegram_date": "2026-03-31T09:35:27+00:00",
+      "title": "지1 DEEP 고난도 지구과학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20189.png",
+      "sha256": "2fcd5936f1a5eb0e4d5019ed2d11f07c77c4e3c89101db83e7fc65826c738736"
     }
   ],
   "duplicate_message_ids": [
