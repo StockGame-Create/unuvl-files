@@ -37463,6 +37463,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/20320.png",
       "sha256": "4ab803dc49729fb536c99da5faa211fb3239142e9bcce618a789c5f549f3547c"
+    },
+    {
+      "message_id": 20318,
+      "filename": "sense_of_기출워크북_화학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20318_sense_of_._.pdf",
+      "size_bytes": 50862960,
+      "telegram_date": "2026-04-07T23:29:57+00:00",
+      "title": "화1 Sense of 기출 화학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/20318.png",
+      "sha256": "9e882c0e2ffa43e1cd944666485621ed650a799acc13d8587f4f718031380069"
     }
   ],
   "duplicate_message_ids": [
