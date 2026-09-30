@@ -33473,6 +33473,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20783.png",
       "sha256": "8324382ab20e4e7895796f0b0cc3679b9a34d2285d2991848a2dcdec674f9fc2"
+    },
+    {
+      "message_id": 20775,
+      "filename": "2027_시대인재_생명과학1_DCAF_START_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20775_2027_._.1_DCAF_START_.pdf",
+      "size_bytes": 23000848,
+      "telegram_date": "2026-04-24T12:50:33+00:00",
+      "title": "생1 DCAF starter 생명과학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/20775.png",
+      "sha256": "f5b861345c6965a67c645934424104df7a28d0d3e6b6d6dd6305592cd34a9925"
     }
   ],
   "duplicate_message_ids": [
