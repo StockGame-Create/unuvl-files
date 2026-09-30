@@ -36651,6 +36651,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20422.png",
       "sha256": "8382d5bde1513276d6a8cca2fbc9f66038f50ba395987db2b29fb6ea32d12070"
+    },
+    {
+      "message_id": 20421,
+      "filename": "2027 강대 서킷 11.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20421_2027.11.pdf",
+      "size_bytes": 3753066,
+      "telegram_date": "2026-04-11T12:29:43+00:00",
+      "title": "수학 강대 CIRCUIT 서킷 11회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20421.png",
+      "sha256": "4db0922a0fe7d38f2d36b023b3ee73a6313ea75ed484c0a53bce63558742befb"
     }
   ],
   "duplicate_message_ids": [
