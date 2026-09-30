@@ -31821,6 +31821,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21010.png",
       "sha256": "d004509254772b1b42b95bf8c0eda0b029f5a9af09419ad225f2427385e43295"
+    },
+    {
+      "message_id": 21006,
+      "filename": "최적 사회문화 OPTIMA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21006_.OPTIMA.pdf",
+      "size_bytes": 334006657,
+      "telegram_date": "2026-05-11T09:23:23+00:00",
+      "title": "사문 최적 사회문화 OPTIMA",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/21006.png",
+      "sha256": "cb278b81479bf1e6e7ad338b6637b9882266c2adc60d3289f8375eb7c70396c2"
     }
   ],
   "duplicate_message_ids": [
