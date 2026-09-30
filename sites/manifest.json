@@ -34747,6 +34747,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/20636.png",
       "sha256": "0a659bdcbb06f6d8f18a6274b9a8474566964e79dced9f0be50c628e2e52398a"
+    },
+    {
+      "message_id": 20633,
+      "filename": "P.I.R.A.M 국어 생각의 절정 1주차 (해설편).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20633_P.I.R.A.M.1.pdf",
+      "size_bytes": 1155774,
+      "telegram_date": "2026-04-20T10:26:22+00:00",
+      "title": "국어 2027 Piram 생각의 절정 1주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20633.png",
+      "sha256": "dc7f16d1531e03df01b7c052e833e082e557be32880a551a9ab2b73cd2098501"
     }
   ],
   "duplicate_message_ids": [
