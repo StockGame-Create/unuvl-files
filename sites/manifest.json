@@ -36847,6 +36847,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20394.png",
       "sha256": "2b5a9977568065efd8a9c5f922a02389be3cdefdaff126a4b5dd155c44d68738"
+    },
+    {
+      "message_id": 20391,
+      "filename": "2027 정석민 문기정 BASE.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20391_2027.BASE.pdf",
+      "size_bytes": 257223090,
+      "telegram_date": "2026-04-11T04:47:45+00:00",
+      "title": "국어 정석민 문기정 BASE",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20391.png",
+      "sha256": "a225a2bba9c1e6c80b66fa88c6ec27b99a254dc8efec1f51c674bc0a0c9f59b1"
     }
   ],
   "duplicate_message_ids": [
