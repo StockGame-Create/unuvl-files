@@ -39367,6 +39367,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20086.png",
       "sha256": "34616f9e0eeabc8b7a0ab4efdc1f36ad39395594e086d29ac67fa78700740154"
+    },
+    {
+      "message_id": 20085,
+      "filename": "2027 유베가는길 문제(상).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20085_2027.pdf",
+      "size_bytes": 95898376,
+      "telegram_date": "2026-03-26T12:54:38+00:00",
+      "title": "영어 유베가는 길 상/하",
+      "year": "2027",
+      "instructor": "이영수",
+      "subject": "영어",
+      "thumbnail": "thumbnails/20085.png",
+      "sha256": "507bedaf30908e8d6228fae755f47430a64751e0253359ff4265eb6b2490d9eb"
     }
   ],
   "duplicate_message_ids": [
