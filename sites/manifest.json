@@ -33487,6 +33487,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/20775.png",
       "sha256": "f5b861345c6965a67c645934424104df7a28d0d3e6b6d6dd6305592cd34a9925"
+    },
+    {
+      "message_id": 20774,
+      "filename": "2027_시대인재_생명과학1_DCAF_START_하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20774_2027_._.1_DCAF_START_.pdf",
+      "size_bytes": 18346637,
+      "telegram_date": "2026-04-24T12:50:32+00:00",
+      "title": "생1 DCAF starter 생명과학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/20774.png",
+      "sha256": "6fa9f5a9e7c3de25f7c486bfb0ca3ad8778d77b14e2692416fea2a6774a34183"
     }
   ],
   "duplicate_message_ids": [
