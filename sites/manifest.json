@@ -33277,6 +33277,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/20809.png",
       "sha256": "5277262cd46aef4f9fc84dae39e8a205b0e57d8612c2406c960958aafbc84fb2"
+    },
+    {
+      "message_id": 20808,
+      "filename": "정석준 CROSSOUT 4권 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20808_.CROSSOUT.4.pdf",
+      "size_bytes": 2338281,
+      "telegram_date": "2026-04-25T08:54:49+00:00",
+      "title": "생1 정석준 크로스아웃 4권 생명과학1",
+      "year": "2027",
+      "instructor": "정석준",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/20808.png",
+      "sha256": "4dcadda29091a7296d38918ba42956b5080ffee5c51025e3b3a3935e10cf2719"
     }
   ],
   "duplicate_message_ids": [
