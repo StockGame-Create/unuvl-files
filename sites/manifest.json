@@ -33697,6 +33697,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20740.png",
       "sha256": "b67e70eef9dac1df2c2ec79f33ab81f41cf205233123debb956cfef66efda879"
+    },
+    {
+      "message_id": 20738,
+      "filename": "12주차_260418_003550.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20738_12._260418_003550.pdf",
+      "size_bytes": 29754223,
+      "telegram_date": "2026-04-22T09:26:59+00:00",
+      "title": "수학 REACT 수학1",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20738.png",
+      "sha256": "1ee87d9d54ceba01e610eb2b2ea7ed931363b997ffdec1504d51bef6dc96cf60"
     }
   ],
   "duplicate_message_ids": [
