@@ -31471,6 +31471,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21056.png",
       "sha256": "44f1ba73f8684db7085fcb16cb75513952d39f1adc922f84259e403cadb763c0"
+    },
+    {
+      "message_id": 21055,
+      "filename": "서킷 23회 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21055_.23.pdf",
+      "size_bytes": 3467082,
+      "telegram_date": "2026-05-15T16:05:14+00:00",
+      "title": "수학 강대 CIRCUIT 서킷 23회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21055.png",
+      "sha256": "f2e4de04a5996f879843436da0f7ff8d0f1269f07f4694de94b2f287c168686c"
     }
   ],
   "duplicate_message_ids": [
