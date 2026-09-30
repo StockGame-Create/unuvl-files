@@ -169,6 +169,20 @@
       "sha256": "4506da2dd948cdca18f5605ee45e40f0194364bcd910e842cc7865f02d3cb78a"
     },
     {
+      "message_id": 24769,
+      "filename": "27 허들링 미적.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24769_27.pdf",
+      "size_bytes": 9434577,
+      "telegram_date": "2026-09-30T12:09:24+00:00",
+      "title": "수학 Hidden Kice 모의고사 시즌 3~5",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24769.png",
+      "sha256": "253a98d8a68be415678e9ab1ebdf630f23a2d35186ad8c16806975f8a001be27"
+    },
+    {
       "message_id": 24764,
       "filename": "2027 박종민 모의고사 6회 해설.pdf",
       "stored_as": null,
