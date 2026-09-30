@@ -37141,6 +37141,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20361.png",
       "sha256": "9b2e2b3893c50afc8f5f3a5293624eb47f51e462d912bf4963501d065dcb03b7"
+    },
+    {
+      "message_id": 20359,
+      "filename": "2027 간쓸개 시즌2 3권_260410_060006.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20359_2027.2.3._260410_060006.pdf",
+      "size_bytes": 67883484,
+      "telegram_date": "2026-04-10T13:22:20+00:00",
+      "title": "국어 간쓸개 시즌2 3권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20359.png",
+      "sha256": "0570eec461f6ba9616b885b8d16da4a89e5f03a8fa8c3cc822477e3570b993df"
     }
   ],
   "duplicate_message_ids": [
