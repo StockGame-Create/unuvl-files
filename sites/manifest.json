@@ -39941,6 +39941,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20018.png",
       "sha256": "ebcbe2f7b040d1c2a427b745f02ff08e793c9f29c16f6cb0cc1cc3b39a84b7de"
+    },
+    {
+      "message_id": 20017,
+      "filename": "2027 브릿지 전국 모고 수학 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20017_2027.3.pdf",
+      "size_bytes": 8632681,
+      "telegram_date": "2026-03-20T18:08:51+00:00",
+      "title": "수학 시대인재 전국 브릿지 모의고사 3회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20017.png",
+      "sha256": "af46bd5cafe14f0948157ee69a20d6b0587d0dee744b3db20cb46d8d005b1e99"
     }
   ],
   "duplicate_message_ids": [
