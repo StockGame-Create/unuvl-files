@@ -32745,6 +32745,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20875.png",
       "sha256": "badd8364bb01c43a1b3c774e41a510134d25cc673079ec5fa89c96c46f515655"
+    },
+    {
+      "message_id": 20874,
+      "filename": "2027학년도 시대인재 4월 모의평가_수학 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20874_2027.4._.pdf",
+      "size_bytes": 1029667,
+      "telegram_date": "2026-04-29T14:45:03+00:00",
+      "title": "수학 시대인재 4월 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20874.png",
+      "sha256": "4d7f76e8585d531a7250af836622c875ec7a7a6ade08fab52bacce387163d22a"
     }
   ],
   "duplicate_message_ids": [
