@@ -38765,6 +38765,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/20160.png",
       "sha256": "3fc9a4deb03d0d9575142725c8412d915bbd0d3add31ff9623479af9144fdd76"
+    },
+    {
+      "message_id": 20159,
+      "filename": "메가스터디 N제 물리학 576제_해설(01~48).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20159_.N.576._.01.48.pdf",
+      "size_bytes": 6066916,
+      "telegram_date": "2026-03-30T03:54:31+00:00",
+      "title": "물1 메가스터디 N제 물리학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/20159.png",
+      "sha256": "b913f78425275d5c74dfc043f9539b4f2f16f94b7bb8882e0c2f0d4649f6cd04"
     }
   ],
   "duplicate_message_ids": [
