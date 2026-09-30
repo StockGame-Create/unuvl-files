@@ -33795,6 +33795,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20730.png",
       "sha256": "5d24c700762aee9bcb9948e109480fc4f3ac6a1a2b7bf87f51a0d557db3dc328"
+    },
+    {
+      "message_id": 20729,
+      "filename": "2027수분감-확통.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20729_2027.-.pdf",
+      "size_bytes": 86720114,
+      "telegram_date": "2026-04-21T08:27:25+00:00",
+      "title": "수학 2027 수분감 확률과 통계",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20729.png",
+      "sha256": "e3c469c593da837c9327006f89ecaeef90587b2f49e7e177ff2e28358acbbe7d"
     }
   ],
   "duplicate_message_ids": [
