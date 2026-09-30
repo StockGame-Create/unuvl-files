@@ -37001,6 +37001,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20377.png",
       "sha256": "3ec3534474a2f2529c356b300d44da43986c8bfd49a3f57e1cd44485e25c506f"
+    },
+    {
+      "message_id": 20375,
+      "filename": "2027학년도_시대인재_엑셀러레이터_4주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20375_2027._._._4.pdf",
+      "size_bytes": 12602627,
+      "telegram_date": "2026-04-10T15:04:45+00:00",
+      "title": "수학 시대인재 new Accelerator",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20375.png",
+      "sha256": "a888aca9721f0a2ab971781f89924714d9e7859123272d1a0709e68b80f6f7c7"
     }
   ],
   "duplicate_message_ids": [
