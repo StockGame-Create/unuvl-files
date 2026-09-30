@@ -36875,6 +36875,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20389.png",
       "sha256": "346620dd4fe333bce9f3e1533cb2a671586992300f30155c852e0082951fe8ac"
+    },
+    {
+      "message_id": 20388,
+      "filename": "2027 서준혁 시즌1 기출로그 해설 4주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20388_2027.1.4.pdf",
+      "size_bytes": 32549765,
+      "telegram_date": "2026-04-11T04:43:58+00:00",
+      "title": "국어 서준혁 기출log 모의고사 2주차, 4주차",
+      "year": "2027",
+      "instructor": "서준혁",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20388.png",
+      "sha256": "b7ded83916c3a33447ea81482f891edd1a40850f7b3cb8bd577ea57143361493"
     }
   ],
   "duplicate_message_ids": [
