@@ -35461,6 +35461,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20532.png",
       "sha256": "5797c62a91f414975957d035c58323b246b463d1b1d40f2b71329db9b38ffef4"
+    },
+    {
+      "message_id": 20530,
+      "filename": "2027_윤사_코드원_개념서_불교_소퀄.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20530_2027_._._._._.pdf",
+      "size_bytes": 81880103,
+      "telegram_date": "2026-04-16T17:31:13+00:00",
+      "title": "윤사 코드원 개념서 (불교)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "윤리와사상",
+      "thumbnail": "thumbnails/20530.png",
+      "sha256": "2b750ca1d5e5c5999a2faea5cdefbfded9ac50dd0cdfca4e83bf42cd7885499d"
     }
   ],
   "duplicate_message_ids": [
