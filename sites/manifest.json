@@ -35671,6 +35671,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20507.png",
       "sha256": "fd53582f2d8daafca35d9cc2371714ce0281cde076b7fe109f42c19ffb70ed1d"
+    },
+    {
+      "message_id": 20505,
+      "filename": "2027_마더텅_수능기출문제집_세계사_빠른정답표.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20505_2027_._._._.pdf",
+      "size_bytes": 332544,
+      "telegram_date": "2026-04-15T10:48:12+00:00",
+      "title": "세사 마더텅 수능기출 세계사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계사",
+      "thumbnail": "thumbnails/20505.png",
+      "sha256": "2084c37f02f5a889d241d33dc427bddc055a44f633b4d4e16c06b21bb79d44cf"
     }
   ],
   "duplicate_message_ids": [
