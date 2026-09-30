@@ -38513,6 +38513,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20187.png",
       "sha256": "ae23242597fa1276ba09b4a74a873c44c44bf02d3953cf7ece92f69cb58850e9"
+    },
+    {
+      "message_id": 20186,
+      "filename": "2027 강대 CIRCUIT 수학 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20186_2027.CIRCUIT.9.pdf",
+      "size_bytes": 5516957,
+      "telegram_date": "2026-03-30T14:40:42+00:00",
+      "title": "수학 강대 CIRCUIT 5, 7~9회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20186.png",
+      "sha256": "f9b6c95790f8fa3eede65cc70d2ebf3b6b2f291361eddb8788b0d787785c7409"
     }
   ],
   "duplicate_message_ids": [
