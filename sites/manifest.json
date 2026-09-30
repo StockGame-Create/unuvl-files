@@ -39885,6 +39885,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20023.png",
       "sha256": "f9bb30fd2a01f959b56e2fb2f53d9fd999461732beaee1e1014378eafc03b4b2"
+    },
+    {
+      "message_id": 20022,
+      "filename": "D.archive 0 수학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20022_D.archive.0.pdf",
+      "size_bytes": 6802578,
+      "telegram_date": "2026-03-21T02:12:51+00:00",
+      "title": "수학 D.archive 0 수학 제 0회 #디아카이브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20022.png",
+      "sha256": "36907faaae618b6a79cdb1eb7f7961f62f01197b8b8d5b848fb5f039adf8c7d9"
     }
   ],
   "duplicate_message_ids": [
