@@ -43,6 +43,20 @@
       "sha256": "d885db6d3fc5307653526350c03154938a29eeae6ff6432891b718c924378990"
     },
     {
+      "message_id": 24817,
+      "filename": "v빈칸.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24817_v.pdf",
+      "size_bytes": 219472027,
+      "telegram_date": "2026-09-30T22:19:56+00:00",
+      "title": "영어 김지영 V 빈칸",
+      "year": "2027",
+      "instructor": "김지영",
+      "subject": "영어",
+      "thumbnail": "thumbnails/24817.png",
+      "sha256": "b342fb4828f813937f98cd5599a027711d191370ff53e6fff708a48d0c803f7e"
+    },
+    {
       "message_id": 24815,
       "filename": "TalkFile_2027_조정식_TDYD_즌2_파이널_해설지_pdf.pdf",
       "stored_as": null,
