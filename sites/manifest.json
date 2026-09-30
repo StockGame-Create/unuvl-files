@@ -29,6 +29,20 @@
       "sha256": "25ea3984d5bd820e74a61e89c61d4e7478db1763bad8abf46c49298b155da360"
     },
     {
+      "message_id": 24812,
+      "filename": "2027 EBS 수특 분석노트 고전산문  (2).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24812_2027.EBS.2.pdf",
+      "size_bytes": 296588189,
+      "telegram_date": "2026-09-30T13:41:16+00:00",
+      "title": "국어 EBS 수특 분석노트 고전산문",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/24812.png",
+      "sha256": "355df798893290c929429da858ae6ceadef56bcf47ed2e36ca66910fa96e6385"
+    },
+    {
       "message_id": 24810,
       "filename": "2027_이미지_모의고사_시즌2_해설.pdf",
       "stored_as": null,
