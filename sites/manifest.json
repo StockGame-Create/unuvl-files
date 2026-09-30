@@ -38849,6 +38849,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20149.png",
       "sha256": "1cf74c20ebfdf42f3e81934c774d88e59310a7166fa8878f0154f67efb052b99"
+    },
+    {
+      "message_id": 20147,
+      "filename": "수능특강 문학 평가문제집 상_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20147_._.pdf",
+      "size_bytes": 126180696,
+      "telegram_date": "2026-03-29T10:16:40+00:00",
+      "title": "국어 수능특강 문학 평가문제집(상)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20147.png",
+      "sha256": "b13608f13971e319070cbf914ab1146c70edc805ce80e53a56ca49a3277643d4"
     }
   ],
   "duplicate_message_ids": [
