@@ -31835,6 +31835,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/21006.png",
       "sha256": "cb278b81479bf1e6e7ad338b6637b9882266c2adc60d3289f8375eb7c70396c2"
+    },
+    {
+      "message_id": 21004,
+      "filename": "정병호 6평대비 스러너 1회 + 2회 합본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21004_.6.1.%2B.2.pdf",
+      "size_bytes": 5362626,
+      "telegram_date": "2026-05-11T09:22:33+00:00",
+      "title": "수학 6모대비 스피드러너 1회 + 2회 #스피드러너",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21004.png",
+      "sha256": "efbb6d872e4a915b2a1c66b0bb0ae181f096f0bbe2966005b313dbb52832454a"
     }
   ],
   "duplicate_message_ids": [
