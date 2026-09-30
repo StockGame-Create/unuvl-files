@@ -38989,6 +38989,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20132.png",
       "sha256": "9e42d7cdca0c08f2453a24d52a251251f3ea6241180f5de193ebd6a6017a6473"
+    },
+    {
+      "message_id": 20131,
+      "filename": "2027+김현우T+정규반+13주차+프리뷰테스트+문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20131_2027%2B.T%2B.%2B13.%2B.%2B.pdf",
+      "size_bytes": 78322,
+      "telegram_date": "2026-03-29T07:09:56+00:00",
+      "title": "수학 13주차 정규반 프리뷰 테스트",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20131.png",
+      "sha256": "40b206979a9aba0d8589c9e94293ace5db9227a1495f8cdcf1ed27f8d1947bd9"
     }
   ],
   "duplicate_message_ids": [
