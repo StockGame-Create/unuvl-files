@@ -37393,6 +37393,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/20328.png",
       "sha256": "4dc558de71be00ef561ca470fb4be56d1b147b84419bd93566472441a719ce15"
+    },
+    {
+      "message_id": 20326,
+      "filename": "2027_지구과학1_오지훈_MAGIC_실전문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20326_2027_.1_._MAGIC_.pdf",
+      "size_bytes": 84557717,
+      "telegram_date": "2026-04-08T14:18:30+00:00",
+      "title": "지1 오지훈 MAGIC 실전문제",
+      "year": "2027",
+      "instructor": "오지훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20326.png",
+      "sha256": "b6f43345bd6694da4fb9fe74fa7020322f50c63e68c62305c3e3111b660e0c1b"
     }
   ],
   "duplicate_message_ids": [
