@@ -35517,6 +35517,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20522.png",
       "sha256": "8641e9b36018344a72df695c0d35abf9895e09e7adb41ce60995b2a2e977b8d9"
+    },
+    {
+      "message_id": 20520,
+      "filename": "2027_이해원_N제_시즌1_확률과_통계_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20520_2027_._N._.1_._._._._.pdf",
+      "size_bytes": 154703026,
+      "telegram_date": "2026-04-15T10:53:04+00:00",
+      "title": "수학 2027 이해원 N제 시즌1 확통",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20520.png",
+      "sha256": "0f8e0ee16a0474e004d8b400fff468f9036b4df1cd1b4dbe5d07353abe0c7ec4"
     }
   ],
   "duplicate_message_ids": [
