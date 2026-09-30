@@ -33585,6 +33585,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20758.png",
       "sha256": "598a4e219b648fe67bd5c66623bd632f99f162cdff017339962182c4af127142"
+    },
+    {
+      "message_id": 20757,
+      "filename": "2027_현우진_킬캠_6월_모의고사대비_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20757_2027_._._6._._1.pdf",
+      "size_bytes": 1017603,
+      "telegram_date": "2026-04-23T19:21:03+00:00",
+      "title": "수학 현우진 모의고사(현우진의 Killing Camp) 6월 모의평가 대비 1회 #킬캠",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20757.png",
+      "sha256": "22b3d89c65bb0f626b2e4f69701df3e9fac4bb01f1cc2c6c530f14173ca49997"
     }
   ],
   "duplicate_message_ids": [
