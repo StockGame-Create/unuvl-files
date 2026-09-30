@@ -40137,6 +40137,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19998.png",
       "sha256": "b5ee5a90c9b7316944265ff06158b4a6066b2b5e2ace7a0fc33e2ae3a7a4631d"
+    },
+    {
+      "message_id": 19997,
+      "filename": "자이스토리 고2 대수 (2026년) - 문제_opt.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19997_.2.2026.-._opt.pdf",
+      "size_bytes": 16179327,
+      "telegram_date": "2026-03-20T12:28:03+00:00",
+      "title": "수학 자이스토리 고2 대수",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19997.png",
+      "sha256": "2026a48af68d4fc7b89f7efec6ad2f90b4169f9cdc3ec65b47871f9bb8acee5e"
     }
   ],
   "duplicate_message_ids": [
