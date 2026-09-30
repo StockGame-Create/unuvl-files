@@ -37785,6 +37785,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20285.png",
       "sha256": "46c1e1956a101d306e0a5351b037e682a6e51bfc5da83b5537f9240ef248823e"
+    },
+    {
+      "message_id": 20284,
+      "filename": "2027_김성호_킬라_모의고사_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20284_2027_._._._1.pdf",
+      "size_bytes": 1532365,
+      "telegram_date": "2026-04-06T11:48:07+00:00",
+      "title": "수학 김성호 킬라 모의고사 1~6회",
+      "year": "2027",
+      "instructor": "김성호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20284.png",
+      "sha256": "c167a1d41f977bb602010f44a2a9548a6c4836faf11feb402ad89b4c06e5c8ae"
     }
   ],
   "duplicate_message_ids": [
