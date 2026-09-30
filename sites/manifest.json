@@ -31863,6 +31863,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21002.png",
       "sha256": "3af493220df6d98bcce14629fa06b9e187e5088e001e1cee54b7c8d3d6b0893d"
+    },
+    {
+      "message_id": 21001,
+      "filename": "2027학년도_수능_대비_All_Day_미니모의고사_2회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21001_2027._._._All_Day_._2.pdf",
+      "size_bytes": 561087,
+      "telegram_date": "2026-05-11T09:20:42+00:00",
+      "title": "수학 All Day 미니모의고사 2회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21001.png",
+      "sha256": "84471d2ab6a2194da703a6ca118924c1ea43c19223e07840c15bb5db3235d24f"
     }
   ],
   "duplicate_message_ids": [
