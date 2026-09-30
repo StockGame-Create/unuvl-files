@@ -38219,6 +38219,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/20230.png",
       "sha256": "481949c02a6f8601562f9caab843a1ecc27d3c7f6f561d70df42e93b02b0e9bd"
+    },
+    {
+      "message_id": 20225,
+      "filename": "크로녹스_지구과학1_하_개념.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20225_._.1_._.pdf",
+      "size_bytes": 181565088,
+      "telegram_date": "2026-04-01T13:46:08+00:00",
+      "title": "지1 크로녹스 지구과학1 개념",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/20225.png",
+      "sha256": "6144272906b4f4fa4f491dd6a2e33bc9d94bb8751093d59f468e790206ac5613"
     }
   ],
   "duplicate_message_ids": [
