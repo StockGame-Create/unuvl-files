@@ -35097,6 +35097,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20579.png",
       "sha256": "2e06e5509ba37fbdccceec611596969becb395e873f9a41816ab302a28c60eab"
+    },
+    {
+      "message_id": 20578,
+      "filename": "마플_수기총_수1_해설2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20578_._._.1_.2.pdf",
+      "size_bytes": 161062039,
+      "telegram_date": "2026-04-18T14:10:20+00:00",
+      "title": "수학 마플 수능기출 총정리 수1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20578.png",
+      "sha256": "95719620f57f12d6411d069d095808d6fd53d41e4d5e3ce5144a23473f0ead06"
     }
   ],
   "duplicate_message_ids": [
