@@ -37169,6 +37169,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/20357.png",
       "sha256": "a4b7fa4a0112a07be5a409cdf56ed1def205fe96be5ede618e77307d268ba3a8"
+    },
+    {
+      "message_id": 20356,
+      "filename": "10042026193406_???.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20356_10042026193406_.pdf",
+      "size_bytes": 581872,
+      "telegram_date": "2026-04-10T12:13:00+00:00",
+      "title": "물1 CIRCUIT X THE BEST 서킷 물리1 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/20356.png",
+      "sha256": "d102ce9ab6a762cd27322a9f28c557d8b455545151679ecf8dcfae4fcf16b7f2"
     }
   ],
   "duplicate_message_ids": [
