@@ -31751,6 +31751,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21022.png",
       "sha256": "2b8be4698c44e062f8db3d817b51ebff316cd25957e93bd49161923b49de9b63"
+    },
+    {
+      "message_id": 21017,
+      "filename": "2027 화1 강대 CIRCUIT 1-2회 문제 및 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21017_2027.1.CIRCUIT.1-2.pdf",
+      "size_bytes": 6529212,
+      "telegram_date": "2026-05-12T09:46:06+00:00",
+      "title": "화1 강대 CIRCUIT 서킷 1회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/21017.png",
+      "sha256": "5ed0ca7a325af8dbec5d0953b0705eef636f4caf764f0635fc8eac06f9de028f"
     }
   ],
   "duplicate_message_ids": [
