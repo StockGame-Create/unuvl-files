@@ -39605,6 +39605,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20052.png",
       "sha256": "438ebe3d96cecf9062ae97ef4a00966ceb00b34a45682b6152b5b0f73ac0591a"
+    },
+    {
+      "message_id": 20050,
+      "filename": "결정모의고사(2027)_3월 대비_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20050_.2027._3._.pdf",
+      "size_bytes": 29186421,
+      "telegram_date": "2026-03-22T14:49:21+00:00",
+      "title": "수학 다정북스 결정 3월 대비 모의고사 (해설지)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20050.png",
+      "sha256": "1328b01c65c88e1164988683c21a75b0a884d3ba0f207345b79308bcba2076be"
     }
   ],
   "duplicate_message_ids": [
