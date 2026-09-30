@@ -34089,6 +34089,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20690.png",
       "sha256": "268e1d67dab5852fa151e920db50765f5073c975ac2c8a1d47f16241f3b9e0e0"
+    },
+    {
+      "message_id": 20688,
+      "filename": "통합본_수능연계_2027학년도_EBS수능특강_영어_아잉카.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20688_._._2027._EBS._._.pdf",
+      "size_bytes": 1928617,
+      "telegram_date": "2026-04-20T10:28:11+00:00",
+      "title": "영어 2027 수능특강 아잉카 분석서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/20688.png",
+      "sha256": "ea46aabc028a9964ad427cd16d47642431744c4c600752778e09da6d50215f93"
     }
   ],
   "duplicate_message_ids": [
