@@ -38499,6 +38499,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20189.png",
       "sha256": "2fcd5936f1a5eb0e4d5019ed2d11f07c77c4e3c89101db83e7fc65826c738736"
+    },
+    {
+      "message_id": 20187,
+      "filename": "2027 강대 CIRCUIT 수학 9회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20187_2027.CIRCUIT.9.pdf",
+      "size_bytes": 9216155,
+      "telegram_date": "2026-03-30T14:40:43+00:00",
+      "title": "수학 강대 CIRCUIT 5, 7~9회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20187.png",
+      "sha256": "ae23242597fa1276ba09b4a74a873c44c44bf02d3953cf7ece92f69cb58850e9"
     }
   ],
   "duplicate_message_ids": [
