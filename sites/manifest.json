@@ -37673,6 +37673,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20296.png",
       "sha256": "ff730163ee0c31efa67ef19a02c0e1445fe9acbf65a2ebdd84d8c117d242a698"
+    },
+    {
+      "message_id": 20295,
+      "filename": "2027학년도_오르새_3평_대비_천우신조_모의고사_손글씨_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20295_2027._._3._._._._._.pdf",
+      "size_bytes": 20486525,
+      "telegram_date": "2026-04-06T14:15:18+00:00",
+      "title": "수학 3모대비 천우신조 모의고사",
+      "year": "2027",
+      "instructor": "오르새",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20295.png",
+      "sha256": "7e1c86a17f5038741eab4ff239ec5d231eccd8125ad042be17b63a9c697f20f6"
     }
   ],
   "duplicate_message_ids": [
