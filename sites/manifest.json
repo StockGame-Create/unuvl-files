@@ -35027,6 +35027,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20586.png",
       "sha256": "15cd173ad44b2502377631ea90dee715b370723a3853a9c80a084bf5e69ad43f"
+    },
+    {
+      "message_id": 20584,
+      "filename": "TalkFile_2027학년도_EBS_수능_기출의_미래_본문총111쪽_pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20584_TalkFile_2027._EBS_._._._.111._pdf.pdf",
+      "size_bytes": 33094890,
+      "telegram_date": "2026-04-18T14:10:40+00:00",
+      "title": "수학 수능기출의 미래 확률과 통계",
+      "year": "2027",
+      "instructor": null,
+      "subject": "확률과 통계",
+      "thumbnail": "thumbnails/20584.png",
+      "sha256": "0f006196d16d31b954b5ce62cfb71b772a3218705131943fededd12808de9aca"
     }
   ],
   "duplicate_message_ids": [
