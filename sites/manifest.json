@@ -35391,6 +35391,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20544.png",
       "sha256": "d48a1d1ff2e392595d549f22dae089c82d45eac4ffc0808ea8f063599c371a09"
+    },
+    {
+      "message_id": 20543,
+      "filename": "2027 강기원 스텝1 수학2+미적분 필기 14주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20543_2027.1.2%2B.14.pdf",
+      "size_bytes": 2116005,
+      "telegram_date": "2026-04-17T10:32:07+00:00",
+      "title": "수학 강기원 정규반 Step1 14주차 필기노트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20543.png",
+      "sha256": "846671801a5ca657e13c2a583160adb8f6309eaa14c210595b96f78b3b2a43ab"
     }
   ],
   "duplicate_message_ids": [
