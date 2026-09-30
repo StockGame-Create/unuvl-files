@@ -38387,6 +38387,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20205.png",
       "sha256": "5db06862670be48784c5e2b17c32d8b9f915f792dbd5584ec8c86eb8346431e5"
+    },
+    {
+      "message_id": 20203,
+      "filename": "강대_정병훈_유틸리티_수1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20203_._._._.1.pdf",
+      "size_bytes": 114180650,
+      "telegram_date": "2026-03-31T16:12:58+00:00",
+      "title": "수학 유틸리티 수학1, 수학2",
+      "year": "2027",
+      "instructor": "정병훈",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20203.png",
+      "sha256": "c36d967792bcf0e78d01466f49f8441498cf0aa6ba4af4bd47aceb1f6b8c6c11"
     }
   ],
   "duplicate_message_ids": [
