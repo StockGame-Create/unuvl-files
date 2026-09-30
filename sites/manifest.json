@@ -38443,6 +38443,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20198.png",
       "sha256": "3643f7d1fa900bfd04c54d143d87d551a6d9da32613474e6338741c52f00655a"
+    },
+    {
+      "message_id": 20197,
+      "filename": "2027 시대인재 미적분 VORTEX 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20197_2027.VORTEX.pdf",
+      "size_bytes": 55538849,
+      "telegram_date": "2026-03-31T09:46:50+00:00",
+      "title": "수학 VORTEX 미적분",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20197.png",
+      "sha256": "cd61e9c56570a888ffb67963ee88520dda71b438928368292a4c81c0c644921e"
     }
   ],
   "duplicate_message_ids": [
