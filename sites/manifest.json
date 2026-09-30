@@ -31765,6 +31765,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/21017.png",
       "sha256": "5ed0ca7a325af8dbec5d0953b0705eef636f4caf764f0635fc8eac06f9de028f"
+    },
+    {
+      "message_id": 21015,
+      "filename": "Bold모 10회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21015_Bold.10.pdf",
+      "size_bytes": 18434484,
+      "telegram_date": "2026-05-12T09:46:05+00:00",
+      "title": "수학 BOLD 모의고사 10회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21015.png",
+      "sha256": "ec68dc9a277abe9290d4e4bc67675dfd4643d89990dd0cec1d39a42a6fa7fa2d"
     }
   ],
   "duplicate_message_ids": [
