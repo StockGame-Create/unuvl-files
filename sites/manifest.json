@@ -32241,6 +32241,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20950.png",
       "sha256": "8ebc240aa3953b943e25431bc1ca3188d08af96d961aa9d4589c479c8ffc073e"
+    },
+    {
+      "message_id": 20948,
+      "filename": "강기원_16주차_야매_손풀이.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20948_._16._._.pdf",
+      "size_bytes": 1240742,
+      "telegram_date": "2026-05-06T10:24:12+00:00",
+      "title": "수학 강기원 16주차 손풀이",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20948.png",
+      "sha256": "23c3eb0a9c709d36687d7cc6220d82ee45da975298ddc60621caf24e0f193ac1"
     }
   ],
   "duplicate_message_ids": [
