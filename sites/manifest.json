@@ -33123,6 +33123,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20829.png",
       "sha256": "f8a9cef2c7d195604cf9465fa1e714631db767bb3ba1eeb9ec3f9e268096c6d5"
+    },
+    {
+      "message_id": 20827,
+      "filename": "다정 다항함수 정복하기.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20827_.pdf",
+      "size_bytes": 147827422,
+      "telegram_date": "2026-04-27T12:14:19+00:00",
+      "title": "수학 다정북스 다항함수 정복하기",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20827.png",
+      "sha256": "17b300f6e3fc1135657baf60ad4b74fa5c501147fa9ea2267865600d89b9c96c"
     }
   ],
   "duplicate_message_ids": [
