@@ -38317,6 +38317,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20213.png",
       "sha256": "1af4918bda6be6aecdaaf9180c7cb38b29170338e5b2fbb92e6fea1a4cec7dad"
+    },
+    {
+      "message_id": 20212,
+      "filename": "2027학년도_이미지_N티켓_시즌1_수학1_본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20212_2027._._N._.1_.1_.pdf",
+      "size_bytes": 9655505,
+      "telegram_date": "2026-04-01T08:25:23+00:00",
+      "title": "수학 2027학년도 이미지 N티켓",
+      "year": "2027",
+      "instructor": "이미지",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20212.png",
+      "sha256": "aa6f4cf10d7584eda4f1bb043fe03e2b83fd32138ba34562fccd2824877d4848"
     }
   ],
   "duplicate_message_ids": [
