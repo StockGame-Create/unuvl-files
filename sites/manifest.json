@@ -32941,6 +32941,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20853.png",
       "sha256": "3d38b3f79236d95ac510649c25600bf73dfe18afe1f5e1e841b19ec08ea09bff"
+    },
+    {
+      "message_id": 20851,
+      "filename": "수2 10.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20851_.2.10.PDF",
+      "size_bytes": 6937902,
+      "telegram_date": "2026-04-28T11:30:40+00:00",
+      "title": "수학 오르새 수2 10일기출 복습교재",
+      "year": "2027",
+      "instructor": "오르새",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20851.png",
+      "sha256": "76a10b88e23768852c73ca46892ecc1ce86cb46b9a67747a459d502a9799d507"
     }
   ],
   "duplicate_message_ids": [
