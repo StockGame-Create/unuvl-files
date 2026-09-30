@@ -39045,6 +39045,20 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/20124.png",
       "sha256": "373ea19f9670268241799ed50c5d65ebc391eec0bd910cedcda774e282593b71"
+    },
+    {
+      "message_id": 20122,
+      "filename": "백호_생명과학Ⅱ_섬개스완_개념&스킬편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20122_._._._.pdf",
+      "size_bytes": 44124504,
+      "telegram_date": "2026-03-29T03:50:53+00:00",
+      "title": "생2 개념&스킬 완성 생명과학2 문제편",
+      "year": "2027",
+      "instructor": "백호",
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/20122.png",
+      "sha256": "dfb4a77536e9fd8cb413bc2d5cab01f36806d39decdc41fd1cd6b3ba4ef9613b"
     }
   ],
   "duplicate_message_ids": [
