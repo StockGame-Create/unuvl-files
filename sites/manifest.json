@@ -34803,6 +34803,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20624.png",
       "sha256": "c267fd88cc8bf5452107bfe79a6c3dd0e3a1dae973d2380eb39088f227b01b18"
+    },
+    {
+      "message_id": 20623,
+      "filename": "SH05_국어_모의고사_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20623_SH05_._._.pdf",
+      "size_bytes": 2107095,
+      "telegram_date": "2026-04-19T12:41:21+00:00",
+      "title": "국어 SH05 모의고사 2회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20623.png",
+      "sha256": "59bd999c6d4c74dba33f33a6c52ab540d326f1963bdaef1a785c697f238f64f2"
     }
   ],
   "duplicate_message_ids": [
