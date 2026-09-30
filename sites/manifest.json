@@ -35825,6 +35825,20 @@
       "subject": "미적분",
       "thumbnail": "thumbnails/20483.png",
       "sha256": "24e44c3aebeb746a0e40bdcbf646582ef7f089f2170f77530f0537533db4ac60"
+    },
+    {
+      "message_id": 20481,
+      "filename": "성좋모2 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20481_.2.pdf",
+      "size_bytes": 6669587,
+      "telegram_date": "2026-04-14T09:48:22+00:00",
+      "title": "물2 성능좋은 실전 모의고사 2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/20481.png",
+      "sha256": "79dacfafa7b12d314680a9812991c20b2a2a0eb6f7f33e7e7ef2e769742a238d"
     }
   ],
   "duplicate_message_ids": [
