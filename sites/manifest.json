@@ -35405,6 +35405,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20543.png",
       "sha256": "846671801a5ca657e13c2a583160adb8f6309eaa14c210595b96f78b3b2a43ab"
+    },
+    {
+      "message_id": 20535,
+      "filename": "강은양_상상콜라보_n제_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20535_._._n._2.pdf",
+      "size_bytes": 132775110,
+      "telegram_date": "2026-04-16T17:43:30+00:00",
+      "title": "국어 다다익선 01 ~ 02",
+      "year": "2027",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20535.png",
+      "sha256": "934a1d70a78de37149bf089c134581a9d59786c69574a0510f5a3b6639860ecd"
     }
   ],
   "duplicate_message_ids": [
