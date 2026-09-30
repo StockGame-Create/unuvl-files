@@ -36231,6 +36231,20 @@
       "subject": "미적분",
       "thumbnail": "thumbnails/20452.png",
       "sha256": "20153bb033b56d7c2cacbcc426fda59b6ec44ff265d80d959417ed09c738ad57"
+    },
+    {
+      "message_id": 20450,
+      "filename": "2027_김동욱의_CLASS_일취월장.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20450_2027_._CLASS_.pdf",
+      "size_bytes": 69591425,
+      "telegram_date": "2026-04-13T07:59:05+00:00",
+      "title": "국어 일 클래스 일취월장",
+      "year": "2027",
+      "instructor": "김동욱",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20450.png",
+      "sha256": "253409ff984c77c7d7e7b2a891a3379a50600d47d76dd1d0aa16e3c4d1ca94c0"
     }
   ],
   "duplicate_message_ids": [
