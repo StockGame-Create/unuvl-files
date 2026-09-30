@@ -35531,6 +35531,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20520.png",
       "sha256": "0f8e0ee16a0474e004d8b400fff468f9036b4df1cd1b4dbe5d07353abe0c7ec4"
+    },
+    {
+      "message_id": 20519,
+      "filename": "2027 이해원 N제 시즌1 확률과 통계.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20519_2027.N.1.pdf",
+      "size_bytes": 213766130,
+      "telegram_date": "2026-04-15T10:53:03+00:00",
+      "title": "수학 2027 이해원 N제 시즌1 확통",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20519.png",
+      "sha256": "a3014a61c9e05112e9656d45c46db737fc6e5f1faca9cc2fdbf8e86e0cdffc78"
     }
   ],
   "duplicate_message_ids": [
