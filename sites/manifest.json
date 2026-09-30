@@ -34593,6 +34593,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20650.png",
       "sha256": "61b9c4cf7d2cefda31a3074a8fbd4f65fd0dbb64bc3349ae838b95bed21d3ba1"
+    },
+    {
+      "message_id": 20649,
+      "filename": "2027 볼텍스 확통 해설_260409_200054.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20649_2027._260409_200054.pdf",
+      "size_bytes": 47583745,
+      "telegram_date": "2026-04-20T10:27:36+00:00",
+      "title": "수학 VORTEX 확률과 통계",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20649.png",
+      "sha256": "d74e6b0857070b990f9950c86350179151aba6f0472c40ac1b9e59e8d772457e"
     }
   ],
   "duplicate_message_ids": [
