@@ -34467,6 +34467,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20659.png",
       "sha256": "1ade55a15d9698476ecfde8a7574db9cd9362a70796065520949a40c9d1b5dc3"
+    },
+    {
+      "message_id": 20658,
+      "filename": "2027 시대인재 수학1 VORTEX 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20658_2027.1.VORTEX.pdf",
+      "size_bytes": 78189331,
+      "telegram_date": "2026-04-20T10:27:44+00:00",
+      "title": "수학 VORTEX 수학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20658.png",
+      "sha256": "eeab21cc46b80bcb6e7c23f278cced8be5fc960b9fae43b8fdbe1de61636c071"
     }
   ],
   "duplicate_message_ids": [
