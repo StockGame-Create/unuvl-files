@@ -32913,6 +32913,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20856.png",
       "sha256": "383f6678e1d337a0748ca26d9f4c8ab0e244723de76aab5edf99d0033c066c2d"
+    },
+    {
+      "message_id": 20855,
+      "filename": "EBS 올림포스 언어와 매체 문제집.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20855_EBS.pdf",
+      "size_bytes": 14490358,
+      "telegram_date": "2026-04-28T11:30:45+00:00",
+      "title": "수학 올림포스 언어와 매체",
+      "year": null,
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20855.png",
+      "sha256": "97e0aa658579b2f1065ea8d3c1b2920526166d1e8fa885470324e4ec066519f0"
     }
   ],
   "duplicate_message_ids": [
