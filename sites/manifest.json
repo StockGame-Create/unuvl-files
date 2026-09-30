@@ -40809,6 +40809,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19920.png",
       "sha256": "b071360965c28e5798d19b4760fe64d800cfe871f61cfca0cce0d6978b347373"
+    },
+    {
+      "message_id": 19919,
+      "filename": "국어_데일리_그믐달_5주차_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19919_._._._5._.pdf",
+      "size_bytes": 9966868,
+      "telegram_date": "2026-03-17T14:37:07+00:00",
+      "title": "국어 데일리 그믐달 화작 모의고사 1~6주차",
+      "year": "2027",
+      "instructor": "그믐달",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19919.png",
+      "sha256": "f9c0f058714cbb9086c10bb45f99a1a941f2b6a5dd4a6e1d7b8e106e5a451be0"
     }
   ],
   "duplicate_message_ids": [
