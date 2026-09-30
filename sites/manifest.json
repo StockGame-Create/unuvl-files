@@ -39955,6 +39955,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20017.png",
       "sha256": "af46bd5cafe14f0948157ee69a20d6b0587d0dee744b3db20cb46d8d005b1e99"
+    },
+    {
+      "message_id": 20016,
+      "filename": "2027 박종민 수학I Q.E.D. 프리뷰 퀴즈 1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20016_2027.I.Q.E.D.1.pdf",
+      "size_bytes": 3035740,
+      "telegram_date": "2026-03-20T18:08:44+00:00",
+      "title": "수학 Q.E.D 프리뷰 퀴즈 1회 수학1",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20016.png",
+      "sha256": "fb7a5dce3462dce224e9aaf1b75ea1dc528f785bea885262939bc8c43f66ab1e"
     }
   ],
   "duplicate_message_ids": [
