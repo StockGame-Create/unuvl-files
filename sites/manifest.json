@@ -39395,6 +39395,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/20084.png",
       "sha256": "77957a2b7fe7bf11d33bad4613a28f8847059835b0b90214921bd52ffe2de82a"
+    },
+    {
+      "message_id": 20082,
+      "filename": "EBS_2027_수능_기출의_미래_물리학Ⅰ_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20082_EBS_2027_._._._._.pdf",
+      "size_bytes": 6748662,
+      "telegram_date": "2026-03-26T02:16:37+00:00",
+      "title": "물1 수능기출의 미래 물리학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/20082.png",
+      "sha256": "50d60c0938b206b3c59068077f4d6cfa495b264072765233b04277604e88365c"
     }
   ],
   "duplicate_message_ids": [
