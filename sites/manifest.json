@@ -34705,6 +34705,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20640.png",
       "sha256": "bd46eb2a78793b49241b10ac90b58137b58f8ab8f77f86a3434c0fc2b09bd041"
+    },
+    {
+      "message_id": 20638,
+      "filename": "이것이알짜기출이다_모의고사_3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20638_._._3.pdf",
+      "size_bytes": 7410636,
+      "telegram_date": "2026-04-20T10:26:25+00:00",
+      "title": "세지 이것이 알짜기출이다 모의고사 3회 세계지리",
+      "year": "2027",
+      "instructor": "이기상",
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/20638.png",
+      "sha256": "cfc6d800fa8e721552f37efb03e85b0b8cacf3505cde681f131ef34f6ec77f30"
     }
   ],
   "duplicate_message_ids": [
