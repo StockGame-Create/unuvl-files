@@ -40459,6 +40459,20 @@
       "subject": "생활과 윤리",
       "thumbnail": "thumbnails/19953.png",
       "sha256": "17f1ae252608c0ff997e98b91137e57e57425615c2b1bd0909b42d8282d0726b"
+    },
+    {
+      "message_id": 19951,
+      "filename": "풍산자_반복수학_확률과_통계.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19951_._._._.pdf",
+      "size_bytes": 3689764,
+      "telegram_date": "2026-03-18T08:20:49+00:00",
+      "title": "수학 풍산자 확률과 통계",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19951.png",
+      "sha256": "d363fdedb14d81891cd3d6929b5f8c812fdbd801276b98b953e37ee7c484906e"
     }
   ],
   "duplicate_message_ids": [
