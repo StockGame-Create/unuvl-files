@@ -39101,6 +39101,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20116.png",
       "sha256": "51d73597533ab82a2816add7df09f43da2046686e5dba74767eeee5a9452c3cd"
+    },
+    {
+      "message_id": 20114,
+      "filename": "궁극의 수학2 N제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20114_.2.N.pdf",
+      "size_bytes": 589725946,
+      "telegram_date": "2026-03-28T08:02:59+00:00",
+      "title": "수학 궁극의 수학2 N제",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20114.png",
+      "sha256": "a0f60deccfc7c9742b7ce098cc477a8add64cae774403d98acf5bc034fcb8eb6"
     }
   ],
   "duplicate_message_ids": [
