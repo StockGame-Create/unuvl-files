@@ -32213,6 +32213,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20953.png",
       "sha256": "45580570ad4cae95004ee9325a217c640e58ba15cee89e02897c0d704cf2d4e0"
+    },
+    {
+      "message_id": 20952,
+      "filename": "2027 수학 브릿지 6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20952_2027.6.pdf",
+      "size_bytes": 5064116,
+      "telegram_date": "2026-05-06T10:27:51+00:00",
+      "title": "수학 시대인재 브릿지 모의고사 6회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20952.png",
+      "sha256": "1d3fa86492e69ca8943fc6880be9f5b0c57fc2ee770af1be7463233e5d564b9e"
     }
   ],
   "duplicate_message_ids": [
