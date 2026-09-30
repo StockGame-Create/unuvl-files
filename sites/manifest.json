@@ -33963,6 +33963,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20704.png",
       "sha256": "b5d088f525af82c4e6a41d96312d4330d83503aa95c797673f59a10b95fe7de8"
+    },
+    {
+      "message_id": 20703,
+      "filename": "기출구 수1 해설_260317_130014.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20703_.1._260317_130014.pdf",
+      "size_bytes": 11406681,
+      "telegram_date": "2026-04-20T11:30:55+00:00",
+      "title": "수학 기출구 유형완성",
+      "year": "2027",
+      "instructor": "강윤구",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20703.png",
+      "sha256": "8f9073d9c5bea18f5fd25c5120a7e10f063fbebd1e7d097cc7522e2a5069bb33"
     }
   ],
   "duplicate_message_ids": [
