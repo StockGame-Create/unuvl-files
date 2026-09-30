@@ -33025,6 +33025,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20840.png",
       "sha256": "ba9f94fa3127df38f9f5e72a977e36aa97636255f50822a838492eb1f5231a44"
+    },
+    {
+      "message_id": 20839,
+      "filename": "김상훈_유네스코_+_α_운문_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20839_._._%2B_._._.pdf",
+      "size_bytes": 120511415,
+      "telegram_date": "2026-04-27T14:54:49+00:00",
+      "title": "국어 김상훈 유네스코 운문 + 산문",
+      "year": "2027",
+      "instructor": "김상훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20839.png",
+      "sha256": "e48f320ca6b519a22b1ab4759dbb50b4206bff3cc3aa3b3d9ed3a9b271b68dc9"
     }
   ],
   "duplicate_message_ids": [
