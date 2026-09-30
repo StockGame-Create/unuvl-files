@@ -34425,6 +34425,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20662.png",
       "sha256": "cfa9215f9bad85b12d125f7ec2572dc9e223815f849657825e5580fc5096bb6d"
+    },
+    {
+      "message_id": 20661,
+      "filename": "2027 박종민 Pre Limit X 02회 (10주).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20661_2027.Pre.Limit.X.02.10.pdf",
+      "size_bytes": 1480239,
+      "telegram_date": "2026-04-20T10:27:47+00:00",
+      "title": "수학 Pre Limit X 2회",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20661.png",
+      "sha256": "198b98f590dec5010caef9790419dcd4d8e701ce1937cc04e78d2c023a89c744"
     }
   ],
   "duplicate_message_ids": [
