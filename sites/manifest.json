@@ -39745,6 +39745,20 @@
       "subject": "윤리와 사상",
       "thumbnail": "thumbnails/20036.png",
       "sha256": "a34992b3ce217154a37f802a1432c0db655a16173871a4504a2cbad1eb7664ce"
+    },
+    {
+      "message_id": 20035,
+      "filename": "2026학년도_3월_학력평가_대비_김종익_모의고사_1회.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20035_2026._3._._._._._1.PDF",
+      "size_bytes": 335695,
+      "telegram_date": "2026-03-21T07:15:17+00:00",
+      "title": "윤사 3평 대비 김종익 모의고사 1회",
+      "year": "2027",
+      "instructor": "김종익",
+      "subject": "윤리와 사상",
+      "thumbnail": "thumbnails/20035.png",
+      "sha256": "6699b80ea097fa95edfcb8d0b42ef78e0c76988d5f0224a50cd7ccc6d3cfad7f"
     }
   ],
   "duplicate_message_ids": [
