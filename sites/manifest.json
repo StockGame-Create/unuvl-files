@@ -39451,6 +39451,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/20079.png",
       "sha256": "46bd6f1247a56b9d583135b0edd9c81a7c23df0f3d2fe5e703064692067bf9ad"
+    },
+    {
+      "message_id": 20074,
+      "filename": "SAM_N제_수1_수2_시대인재북스.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20074_SAM_N._.1_.2_.pdf",
+      "size_bytes": 87620743,
+      "telegram_date": "2026-03-25T23:42:37+00:00",
+      "title": "수학 SMA N제 수1 + 수2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20074.png",
+      "sha256": "d243dd9a6c8c98ff08a910d4f7c4789b3343a49df91873db8f0fc35c5909abbd"
     }
   ],
   "duplicate_message_ids": [
