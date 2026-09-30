@@ -35685,6 +35685,20 @@
       "subject": "세계사",
       "thumbnail": "thumbnails/20505.png",
       "sha256": "2084c37f02f5a889d241d33dc427bddc055a44f633b4d4e16c06b21bb79d44cf"
+    },
+    {
+      "message_id": 20504,
+      "filename": "2027_마더텅_수능기출문제집_세계사_문제편_정답X.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20504_2027_._._._._.X.pdf",
+      "size_bytes": 159314793,
+      "telegram_date": "2026-04-15T10:48:12+00:00",
+      "title": "세사 마더텅 수능기출 세계사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계사",
+      "thumbnail": "thumbnails/20504.png",
+      "sha256": "a6837ca3708dec92521bd05bda7a71164107780446986bd12aba4872447c4ca5"
     }
   ],
   "duplicate_message_ids": [
