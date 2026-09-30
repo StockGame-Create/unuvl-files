@@ -32451,6 +32451,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/20923.png",
       "sha256": "9d897544a96199e5dadf09f9301fcb7cfdc74d0bb90b7d52a6b3aef0e665f081"
+    },
+    {
+      "message_id": 20921,
+      "filename": "브릿지5회(해설o).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20921_.5.o.pdf",
+      "size_bytes": 4600953,
+      "telegram_date": "2026-05-03T17:49:49+00:00",
+      "title": "수학 시대인지 브릿지 모의고사 5회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20921.png",
+      "sha256": "5ef279ba7b1616d7b236fdb7b61747256ed7390305b31149eee9ed43c8f38ce2"
     }
   ],
   "duplicate_message_ids": [
