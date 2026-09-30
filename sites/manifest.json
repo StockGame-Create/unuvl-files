@@ -39773,6 +39773,20 @@
       "subject": "생활과 윤리",
       "thumbnail": "thumbnails/20034.png",
       "sha256": "045bea474ff65dd905189ca9f260cefeb96942d099373e4f3d6a99b7f4d816bf"
+    },
+    {
+      "message_id": 20033,
+      "filename": "2026학년도_3월_학력평가_대비_김종익_모의고사_1회.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20033_2026._3._._._._._1.PDF",
+      "size_bytes": 349673,
+      "telegram_date": "2026-03-21T07:15:16+00:00",
+      "title": "생윤 3평 대비 김종익 모의고사 1회",
+      "year": "2027",
+      "instructor": "김종익",
+      "subject": "생활과 윤리",
+      "thumbnail": "thumbnails/20033.png",
+      "sha256": "de0f61c1bfb86670e9863a882cf87bf0000d527e2cbc7d13e075a35c87b0c05e"
     }
   ],
   "duplicate_message_ids": [
