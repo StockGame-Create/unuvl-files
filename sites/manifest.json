@@ -31429,6 +31429,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/21062.png",
       "sha256": "68296712aa82cd5f751003588c19a490de568fda6171d61b0c43a587d5954448"
+    },
+    {
+      "message_id": 21060,
+      "filename": "간쓸개 3-1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21060_.3-1.pdf",
+      "size_bytes": 54274887,
+      "telegram_date": "2026-05-15T16:07:04+00:00",
+      "title": "국어 간쓸개 시즌3 1권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/21060.png",
+      "sha256": "fe14f3aaf5952c8c574eb4a7ed0965ba684249443dcd7ecd969f2dd67ecf84b2"
     }
   ],
   "duplicate_message_ids": [
