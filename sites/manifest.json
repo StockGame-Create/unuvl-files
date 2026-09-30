@@ -31611,6 +31611,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/21042.png",
       "sha256": "3361e436097ee65a500c737edc208bb33098b3721e4492782c82b9b3836358c1"
+    },
+    {
+      "message_id": 21040,
+      "filename": "2027_강기원_스텝1_수학2+미적분_필기_16주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21040_2027_._.1_.2%2B._._16.pdf",
+      "size_bytes": 1616236,
+      "telegram_date": "2026-05-14T17:03:37+00:00",
+      "title": "수학 강기원 필기노트 16주차",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21040.png",
+      "sha256": "49fc68e8d01e12966f2fd267afaaf3eed33f04e293d04babdb26fba9eb736fbd"
     }
   ],
   "duplicate_message_ids": [
