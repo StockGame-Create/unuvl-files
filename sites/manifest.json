@@ -31709,6 +31709,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21028.png",
       "sha256": "7fd2ea16abbcc5fa2fc9bb0f9d2441951d25f407f7fbe38624e81cee80a204f0"
+    },
+    {
+      "message_id": 21027,
+      "filename": "2027 아이디어 수2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21027_2027.2.pdf",
+      "size_bytes": 191166074,
+      "telegram_date": "2026-05-13T09:25:31+00:00",
+      "title": "수학 아이디어 IDEAL 수학2",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/21027.png",
+      "sha256": "ec7e4f4cc6938cb2f919fd132f2f4b4f33d903231491538357a3b230925ba1a0"
     }
   ],
   "duplicate_message_ids": [
