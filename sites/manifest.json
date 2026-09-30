@@ -36805,6 +36805,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/20400.png",
       "sha256": "888b599ba31ecff3ef829c72c3bd598b61b3779c82d98b428f9f3e1808d69848"
+    },
+    {
+      "message_id": 20397,
+      "filename": "2027년도 Clarance 모의고사 1회 문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20397_2027.Clarance.1.pdf",
+      "size_bytes": 410821,
+      "telegram_date": "2026-04-11T06:49:05+00:00",
+      "title": "수학 Clarance 모의고사 1회 문제지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20397.png",
+      "sha256": "faaf491f6ab1776f30a393fa71db572a64e10d4f95c9cb82268b402fd458622b"
     }
   ],
   "duplicate_message_ids": [
