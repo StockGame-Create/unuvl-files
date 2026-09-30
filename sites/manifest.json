@@ -39843,6 +39843,20 @@
       "subject": "생명",
       "thumbnail": "thumbnails/20027.png",
       "sha256": "112b28f2182f2b77c1252df171ebd96d5dc7a3e0dfefe63bce49b407c1c6a349"
+    },
+    {
+      "message_id": 20026,
+      "filename": "디아카이브0 과탐_화1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20026_.0._.1.pdf",
+      "size_bytes": 4761420,
+      "telegram_date": "2026-03-21T07:14:31+00:00",
+      "title": "화학 D.archive 0 화학 1 제 0회 #디아카이브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학",
+      "thumbnail": "thumbnails/20026.png",
+      "sha256": "b614ee4d5ea6dc5509d5ab1daa9741fe763000295309b4f29db7e752c8d6180b"
     }
   ],
   "duplicate_message_ids": [
