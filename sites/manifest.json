@@ -37841,6 +37841,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/20279.png",
       "sha256": "62361cefc891894fb9625bd927d75320172137c2e15217bf6c78ea6e4904bc18"
+    },
+    {
+      "message_id": 20277,
+      "filename": "2027_한완기_수학2_원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20277_2027_._.2_.pdf",
+      "size_bytes": 16088430,
+      "telegram_date": "2026-04-06T00:38:34+00:00",
+      "title": "수학 한완기 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학2",
+      "thumbnail": "thumbnails/20277.png",
+      "sha256": "6de11a6037e334d0dcd9df30094048e81f363e80e31aba820ae8d18a410c25cf"
     }
   ],
   "duplicate_message_ids": [
