@@ -40613,6 +40613,20 @@
       "subject": null,
       "thumbnail": "thumbnails/19939.png",
       "sha256": "d1a918cffbf7291fad35d984afe3a08cab1855c83e6664267a5cd4af14911979"
+    },
+    {
+      "message_id": 19938,
+      "filename": "3월 더프(영어).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19938_3.pdf",
+      "size_bytes": 5005470,
+      "telegram_date": "2026-03-17T14:50:17+00:00",
+      "title": "3월 더프(영어)",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/19938.png",
+      "sha256": "14e65559f999c94ea390b484606302e91f413814262fd93a91bb991c6adb1479"
     }
   ],
   "duplicate_message_ids": [
