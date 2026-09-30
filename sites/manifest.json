@@ -39577,6 +39577,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20056.png",
       "sha256": "7c43f64877d6e39500ccc346ce8b7271809bf5e608e10624cf47c39739904366"
+    },
+    {
+      "message_id": 20054,
+      "filename": "2027_수특영어_변형_하프_모의고사_Week_1_필기.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20054_2027_._._._._Week_1_.pdf",
+      "size_bytes": 973658,
+      "telegram_date": "2026-03-22T16:57:23+00:00",
+      "title": "영어 션티 현장전용 수능특강 변형 하프 모의고사 week1",
+      "year": "2027",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/20054.png",
+      "sha256": "86349dd724809997fd74c5fd89adcf5b0434c0e902457f4c2a61643c1a38ae3b"
     }
   ],
   "duplicate_message_ids": [
