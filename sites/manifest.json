@@ -39801,6 +39801,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20031.png",
       "sha256": "2b3be208cc24be9e5cb01a0947af7838eaa8d075aeca5fc3cd9a25d7fb62fe36"
+    },
+    {
+      "message_id": 20029,
+      "filename": "한승_더프_복습자료.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20029_._._.pdf",
+      "size_bytes": 27553423,
+      "telegram_date": "2026-03-21T07:14:47+00:00",
+      "title": "국어 한승 더프 문학 복습자료",
+      "year": "2027",
+      "instructor": "한승",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20029.png",
+      "sha256": "4025c9979808fac748c2fc291cfc128a052c561f220d422dc0097a6a5727492d"
     }
   ],
   "duplicate_message_ids": [
