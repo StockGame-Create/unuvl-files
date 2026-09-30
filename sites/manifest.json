@@ -31667,6 +31667,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/21034.png",
       "sha256": "add08fc02c593120bfd6001b16d961d5ddc2453bc43260aedc8a70015e49c6f0"
+    },
+    {
+      "message_id": 21033,
+      "filename": "서바 2ㅡ10 미적 합본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/21033_.2.10.pdf",
+      "size_bytes": 30283658,
+      "telegram_date": "2026-05-14T16:50:55+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 2~10회 합본 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/21033.png",
+      "sha256": "6b3946d1e8c15a4b7a985759e566eb9e44a0cb2d710875eecd624582c2c410bf"
     }
   ],
   "duplicate_message_ids": [
