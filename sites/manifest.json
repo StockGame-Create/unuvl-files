@@ -35601,6 +35601,20 @@
       "subject": "미적분",
       "thumbnail": "thumbnails/20514.png",
       "sha256": "7b7ec83882369b4261592607812082c63a68c5696cf14dd5d1fc2c119e6f643a"
+    },
+    {
+      "message_id": 20513,
+      "filename": "드릴7 수2_260415_173000 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20513_.7.2_260415_173000.1.pdf",
+      "size_bytes": 60818800,
+      "telegram_date": "2026-04-15T10:50:03+00:00",
+      "title": "수학 드릴7 수학2",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20513.png",
+      "sha256": "ab3d3033be9bbdaa5ae4f64079271381d8d38e33a01e5cb4ddfbdf626592169c"
     }
   ],
   "duplicate_message_ids": [
