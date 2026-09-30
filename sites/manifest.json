@@ -35699,6 +35699,20 @@
       "subject": "세계사",
       "thumbnail": "thumbnails/20504.png",
       "sha256": "a6837ca3708dec92521bd05bda7a71164107780446986bd12aba4872447c4ca5"
+    },
+    {
+      "message_id": 20495,
+      "filename": "2027학년도_코드원_생활과_윤리_생윤_년도별_기출_해설서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20495_2027._._._._._._._.pdf",
+      "size_bytes": 248633045,
+      "telegram_date": "2026-04-15T09:07:10+00:00",
+      "title": "생윤 코드원 년도별 기출 해설서 생활과 윤리",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/20495.png",
+      "sha256": "51d576b78185d8ce9726c75bd9594c8d32b3915a68bb89fdf61ef3f3c853ed3c"
     }
   ],
   "duplicate_message_ids": [
