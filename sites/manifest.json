@@ -40683,6 +40683,20 @@
       "subject": null,
       "thumbnail": "thumbnails/19934.png",
       "sha256": "c98e62a2065ce4367f8bebd143f40047225c0d2ef7ddd99c27790f3b6e95d5a1"
+    },
+    {
+      "message_id": 19932,
+      "filename": "풍산자 대수 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19932_.pdf",
+      "size_bytes": 14397174,
+      "telegram_date": "2026-03-17T14:49:57+00:00",
+      "title": "수학 풍산자 대수",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19932.png",
+      "sha256": "1fafc1e99740d185e50b43abfbcf51af27cc32edb9a3536756b1d7a8c18d7dd1"
     }
   ],
   "duplicate_message_ids": [
