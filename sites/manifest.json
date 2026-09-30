@@ -43,6 +43,20 @@
       "sha256": "5d63456c62738189e98295aea3bc1f5c737efcf9accee53a3fa6f59205ed74f4"
     },
     {
+      "message_id": 24791,
+      "filename": "송준석-FINE DINING_1 수1-133P.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/24791_.-FINE.DINING_1.1-133P.pdf",
+      "size_bytes": 13951458,
+      "telegram_date": "2026-09-30T13:03:54+00:00",
+      "title": "수학 FINE DINING Vol.1-5",
+      "year": "2027",
+      "instructor": "송준석",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24791.png",
+      "sha256": "99ba44f7ec0a4ba10456dacd326afee1f80cdc41d85d9e7ea0331e39324004ef"
+    },
+    {
       "message_id": 24786,
       "filename": "전대_사탐.pdf",
       "stored_as": null,
