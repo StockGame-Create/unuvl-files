@@ -33333,6 +33333,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20804.png",
       "sha256": "d94e568d7ea7e2c26c5997b2286f163298388434fda857f962dc06f00bd41895"
+    },
+    {
+      "message_id": 20802,
+      "filename": "한지_이개다_모고_3회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20802_._._._3.pdf",
+      "size_bytes": 985874,
+      "telegram_date": "2026-04-25T08:54:48+00:00",
+      "title": "한지 이것이 개념이다 모의고사 3회차 한국지리",
+      "year": "2027",
+      "instructor": "이기상",
+      "subject": "한국지리",
+      "thumbnail": "thumbnails/20802.png",
+      "sha256": "74eee18ebee07d4ea7dae575ba8fec5291a9dfacb55dabcd122ca6658421cb4a"
     }
   ],
   "duplicate_message_ids": [
