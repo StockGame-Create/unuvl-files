@@ -34663,6 +34663,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20645.png",
       "sha256": "ba11c28466156635237c3a8752eceb726e2ce5d631e0a0c05e88e62168069ff2"
+    },
+    {
+      "message_id": 20644,
+      "filename": "2027 듣기20수.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20644_2027.20.pdf",
+      "size_bytes": 134818419,
+      "telegram_date": "2026-04-20T10:27:33+00:00",
+      "title": "영어 듣기 20수",
+      "year": "2027",
+      "instructor": "이영수",
+      "subject": "영어",
+      "thumbnail": "thumbnails/20644.png",
+      "sha256": "b9c92ad043b2fc093559e2acd98205da66d2cac813ce8ec303b050ffb3695648"
     }
   ],
   "duplicate_message_ids": [
