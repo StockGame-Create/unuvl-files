@@ -33193,6 +33193,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20819.png",
       "sha256": "03c51cc374c432cfbee2ae5e621d6d4efaed9a8a9536820fa20e09f67907f184"
+    },
+    {
+      "message_id": 20817,
+      "filename": "2027_이해원_한완수_수학1상_교과개념.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20817_2027_._._.1._.pdf",
+      "size_bytes": 31487454,
+      "telegram_date": "2026-04-25T16:49:59+00:00",
+      "title": "수학 한완수 수학1(상) X 교과개념",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20817.png",
+      "sha256": "0058276ad5ef4b658c6fc4703ad86a7eece138325b1895bcdb0e723aabffb500"
     }
   ],
   "duplicate_message_ids": [
