@@ -40235,6 +40235,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19986.png",
       "sha256": "2531d3f9147bac6e57832c14731350bf35f0efd2755e46ac9017188bd61b44c6"
+    },
+    {
+      "message_id": 19985,
+      "filename": "유형+내신_고쟁이_수학2_본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19985_.%2B._._.2_.pdf",
+      "size_bytes": 3924037,
+      "telegram_date": "2026-03-20T12:21:23+00:00",
+      "title": "수학 유형+내신 고쟁이 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19985.png",
+      "sha256": "3e11992b728f795502046eec6a5685f70818df6e4ab9ea57a53c44b91cec59af"
     }
   ],
   "duplicate_message_ids": [
