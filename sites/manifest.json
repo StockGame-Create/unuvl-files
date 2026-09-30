@@ -39171,6 +39171,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/20106.png",
       "sha256": "38aaea852584a624d3f61cff8783320e4a684e68dbe6bd39e3db77a5e2e41b43"
+    },
+    {
+      "message_id": 20102,
+      "filename": "22개정 쎈수학 기하 해설_260327_000636.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20102_22._260327_000636.pdf",
+      "size_bytes": 12887101,
+      "telegram_date": "2026-03-27T10:27:26+00:00",
+      "title": "수학 쎈수학 기하 (22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/20102.png",
+      "sha256": "f73b0e40b62f436ad4cb862cb08140bbded0b6ddb82cf02e235471aa82fac901"
     }
   ],
   "duplicate_message_ids": [
