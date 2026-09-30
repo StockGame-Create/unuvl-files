@@ -40375,6 +40375,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19962.png",
       "sha256": "2ca56bb7559e0e45eb98ead1a3ac7acb0be2b2496f97db822cdf9c658291962e"
+    },
+    {
+      "message_id": 19961,
+      "filename": "2026 수능특강 light 영어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19961_2026.light.pdf",
+      "size_bytes": 57145349,
+      "telegram_date": "2026-03-18T08:26:32+00:00",
+      "title": "영어 수능특강 light",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19961.png",
+      "sha256": "c60868c70f2f2a2239bfce91ecd1efd33ef95fe41b5bb61af012dc187bfec31b"
     }
   ],
   "duplicate_message_ids": [
