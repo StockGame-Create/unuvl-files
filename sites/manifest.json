@@ -38051,6 +38051,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20249.png",
       "sha256": "92385baf15b5d93f500af68c69eb50b704d8ebb535f59ced0072d2c25d7cfd71"
+    },
+    {
+      "message_id": 20247,
+      "filename": "기본 폴더.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20247_.pdf",
+      "size_bytes": 30760073,
+      "telegram_date": "2026-04-03T08:58:40+00:00",
+      "title": "국어 이감 국어 모의고사 제3차 예비평가 문제지 (답지 포함) #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/20247.png",
+      "sha256": "8eb204be3ea9682f0c8b975a2288b9993e41f188ed4e1a70b0a92ff8b2896fd0"
     }
   ],
   "duplicate_message_ids": [
