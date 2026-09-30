@@ -34579,6 +34579,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/20651.png",
       "sha256": "f20435bac4d2bcdb6c2e3b96726458d6626fc2344ba893d3c9981e26e95ff5bc"
+    },
+    {
+      "message_id": 20650,
+      "filename": "2027_프로메테우스_언바운드_주간_워크북_N제_확률과_통계.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20650_2027_._._._._N._._.pdf",
+      "size_bytes": 292093945,
+      "telegram_date": "2026-04-20T10:27:36+00:00",
+      "title": "수학 프로메테우스 언바운드 N제 확률과 통계",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/20650.png",
+      "sha256": "61b9c4cf7d2cefda31a3074a8fbd4f65fd0dbb64bc3349ae838b95bed21d3ba1"
     }
   ],
   "duplicate_message_ids": [
