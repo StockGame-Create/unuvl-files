@@ -40207,6 +40207,20 @@
       "subject": "과학",
       "thumbnail": "thumbnails/19989.png",
       "sha256": "eefa9ebcee97b3aa5a3d69ec28dea7a2f2a3191fd271a5fe212bdd4717c8e8fd"
+    },
+    {
+      "message_id": 19988,
+      "filename": "완자_기출픽_지구과학（22개정）.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19988_._._.22.pdf",
+      "size_bytes": 29794019,
+      "telegram_date": "2026-03-20T12:22:11+00:00",
+      "title": "과학 완자 기출픽 지구과학 (22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/19988.png",
+      "sha256": "2c1a648bfa94e027f0788fe1959027d6982c7678838e03db0535cb2dcdfd7d89"
     }
   ],
   "duplicate_message_ids": [
