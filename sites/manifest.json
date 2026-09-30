@@ -40193,6 +40193,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19990.png",
       "sha256": "211f0a0b3525f01e518f242fd975f94ec30d25d2220f9fc7fd25deab7f2200da"
+    },
+    {
+      "message_id": 19989,
+      "filename": "（22개정）완자기출픽지구과학＿정답과_해설＿251204＿학생용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19989_.22._.251204.pdf",
+      "size_bytes": 5006440,
+      "telegram_date": "2026-03-20T12:22:12+00:00",
+      "title": "과학 완자 기출픽 지구과학 (22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "과학",
+      "thumbnail": "thumbnails/19989.png",
+      "sha256": "eefa9ebcee97b3aa5a3d69ec28dea7a2f2a3191fd271a5fe212bdd4717c8e8fd"
     }
   ],
   "duplicate_message_ids": [
