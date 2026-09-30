@@ -35503,6 +35503,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/20526.png",
       "sha256": "a1b20101580b8164a91954c7b5f78c40a0645d3a64b8939b34bcbf11d43c2d8b"
+    },
+    {
+      "message_id": 20522,
+      "filename": "2027 정석민 문법의 이론과 유형.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/20522_2027.pdf",
+      "size_bytes": 266961717,
+      "telegram_date": "2026-04-15T13:39:20+00:00",
+      "title": "국어 정석민 문이유",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/20522.png",
+      "sha256": "8641e9b36018344a72df695c0d35abf9895e09e7adb41ce60995b2a2e977b8d9"
     }
   ],
   "duplicate_message_ids": [
