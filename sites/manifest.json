@@ -47893,6 +47893,20 @@
       "subject": "통합과학2",
       "thumbnail": "thumbnails/19074.png",
       "sha256": "1b91e999505c4e6db91adedcbab76654bb30723b660d9322eef22ab79c8e7f8b"
+    },
+    {
+      "message_id": 19072,
+      "filename": "이명학 알고리즘.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19072_.pdf",
+      "size_bytes": 99577678,
+      "telegram_date": "2026-01-31T15:45:47+00:00",
+      "title": "영어 알고리즘",
+      "year": "2027",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/19072.png",
+      "sha256": "4fbd5ab99860869bf5716be6d58ba4b9104574c2c14e112e719c19a6686f4a53"
     }
   ],
   "duplicate_message_ids": [
