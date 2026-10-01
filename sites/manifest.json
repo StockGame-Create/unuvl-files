@@ -42503,6 +42503,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19733.png",
       "sha256": "b2597e96d4af0f9330b702a7bd940c43113ecf7ab4dab386bb6d1f676408e1ba"
+    },
+    {
+      "message_id": 19731,
+      "filename": "2027학년도+복습테스트+11주차+해설지_260306_1748.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19731_2027.%2B.%2B11.%2B._260306_1748.pdf",
+      "size_bytes": 170063,
+      "telegram_date": "2026-03-07T14:54:15+00:00",
+      "title": "지1 이신혁 기출 프린트 11주차",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/19731.png",
+      "sha256": "a35947bec59f10bc9789148b86f34bd2f6112c62df7a9260548a497b6d0e56a3"
     }
   ],
   "duplicate_message_ids": [
