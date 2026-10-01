@@ -46003,6 +46003,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19310.png",
       "sha256": "de6588315cfb2a09583f022b8c6ee0e666a27943ef9e5946c00f4ae52043356a"
+    },
+    {
+      "message_id": 19309,
+      "filename": "미적분_블랙라벨_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19309_._._.pdf",
+      "size_bytes": 5977572,
+      "telegram_date": "2026-02-14T12:21:18+00:00",
+      "title": "수학 블랙라벨 미적분",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19309.png",
+      "sha256": "747f5c3a7e60bf9dd8d59f38e8bfcc5d644c178eb6736aba60be5cbe437715d2"
     }
   ],
   "duplicate_message_ids": [
