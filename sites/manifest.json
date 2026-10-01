@@ -43847,6 +43847,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19572.png",
       "sha256": "aae3e08531bfe95305dfb9d202c4b6cf5abe215eb8138758663ca1d059e82e79"
+    },
+    {
+      "message_id": 19571,
+      "filename": "너기출 수학Ⅱ (for 2027) - 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19571_.for.2027.-.pdf",
+      "size_bytes": 33131702,
+      "telegram_date": "2026-02-24T14:20:44+00:00",
+      "title": "수학 너기출 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19571.png",
+      "sha256": "40cdc7a7692996a7493dc91978f10445f5e9921234ce7072c0168fd672aeaa07"
     }
   ],
   "duplicate_message_ids": [
