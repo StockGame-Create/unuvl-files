@@ -49475,6 +49475,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18866.png",
       "sha256": "adb1ca888cab5b6be8fc506d89394206690f541717499093ed4e5299b5cf86c3"
+    },
+    {
+      "message_id": 18865,
+      "filename": "러셀_베캠_시즌_1_제_1회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18865_._._._1_._1._.pdf",
+      "size_bytes": 13381277,
+      "telegram_date": "2026-01-16T14:02:57+00:00",
+      "title": "수학 베이스캠프 시즌1 제1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18865.png",
+      "sha256": "ec414847629916f7118e4a75fc249beee2c1a0520739ef1492cfcd0e61fe7e31"
     }
   ],
   "duplicate_message_ids": [
