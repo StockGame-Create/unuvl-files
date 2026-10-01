@@ -41719,6 +41719,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19817.png",
       "sha256": "31c8bf717876fe7750a0dd9e6576128751fdac555b370f8a4d1de92a407d545a"
+    },
+    {
+      "message_id": 19816,
+      "filename": "시대인재_전국_브릿지_모의고사_공통.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19816_._._._._.pdf",
+      "size_bytes": 5864714,
+      "telegram_date": "2026-03-12T16:05:29+00:00",
+      "title": "수학 시대인재 전국 브릿지 모의고사 1회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19816.png",
+      "sha256": "d3bb60c9744e12a63d87f80f0ec2e38b5c3a251e5061329a01b1cb4f0858534f"
     }
   ],
   "duplicate_message_ids": [
