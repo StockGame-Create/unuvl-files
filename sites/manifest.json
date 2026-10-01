@@ -49755,6 +49755,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18831.png",
       "sha256": "aff1fe5ad335ed9e53c2dceecee37e18140d31ba1923e1b7d6f287fa507f3028"
+    },
+    {
+      "message_id": 18830,
+      "filename": "26학년도 히카 24회분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18830_26.24.pdf",
+      "size_bytes": 234739827,
+      "telegram_date": "2026-01-11T15:27:16+00:00",
+      "title": "수학 Hidden Kice 모의고사 시즌1 1~8회, 시즌2 1~8회, 시즌3 1~8회 #히카",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18830.png",
+      "sha256": "fdcddf5635da4db31df18285ff7787b3035947bcbbc0d8f563602e31cd5cb06f"
     }
   ],
   "duplicate_message_ids": [
