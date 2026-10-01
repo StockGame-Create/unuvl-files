@@ -44645,6 +44645,20 @@
       "subject": "한국사",
       "thumbnail": "thumbnails/19470.png",
       "sha256": "43a94a4c1345753f46588e096611c43b0e1f4fd4b41aab9500527e12237f52a4"
+    },
+    {
+      "message_id": 19468,
+      "filename": "너기출 기하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19468_.pdf",
+      "size_bytes": 16908470,
+      "telegram_date": "2026-02-21T17:22:24+00:00",
+      "title": "기하 너기출",
+      "year": "2027",
+      "instructor": null,
+      "subject": "기하",
+      "thumbnail": "thumbnails/19468.png",
+      "sha256": "73f33c1852b459cb44ceb70554e4a347f03301dcc5c3ee1779fc186c3fa8f670"
     }
   ],
   "duplicate_message_ids": [
