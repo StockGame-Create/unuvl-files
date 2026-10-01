@@ -44085,6 +44085,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19539.png",
       "sha256": "0a44fe0d22ee9b430d1758e7609872be6bce123bb28118f49dbd31e66801df95"
+    },
+    {
+      "message_id": 19538,
+      "filename": "4주차+기출+프린트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19538_4.%2B.%2B.pdf",
+      "size_bytes": 4173921,
+      "telegram_date": "2026-02-24T04:46:55+00:00",
+      "title": "지1 이신혁 기출 프린트 1~9주차",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/19538.png",
+      "sha256": "50f7a3b0b2da1fc9a261b4784ac605a7ce496439767d7c9301ac11c77572600e"
     }
   ],
   "duplicate_message_ids": [
