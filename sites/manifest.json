@@ -47515,6 +47515,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19121.png",
       "sha256": "47ae5d1da6925e0c4ada48653da409ecd1d2178df082cb14cf8788e908e8dd0f"
+    },
+    {
+      "message_id": 19119,
+      "filename": "6주차+미적분+필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19119_6.%2B.%2B.pdf",
+      "size_bytes": 1820696,
+      "telegram_date": "2026-02-02T15:41:51+00:00",
+      "title": "수학 강기원T 정규반 Step1 6주차 필기노트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19119.png",
+      "sha256": "e91a1633c274713e4484eab377bae91599e7c637d10d7cd4913e235b43d7b827"
     }
   ],
   "duplicate_message_ids": [
