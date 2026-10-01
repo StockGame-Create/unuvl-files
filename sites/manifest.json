@@ -47991,6 +47991,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19062.png",
       "sha256": "7fe7e6385386c4ed9b22f286a7d95ccd37dcd3486f683444006a3b504e5fda8c"
+    },
+    {
+      "message_id": 19060,
+      "filename": "22개정_하이탑_물리학_학생용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19060_22._._._.pdf",
+      "size_bytes": 73404290,
+      "telegram_date": "2026-01-31T05:03:10+00:00",
+      "title": "과학 하이탑 물리학",
+      "year": null,
+      "instructor": null,
+      "subject": "물리학",
+      "thumbnail": "thumbnails/19060.png",
+      "sha256": "d6d6506563c16e9168b45683ccfa903b2f8b40ba7b090b8c4882dceea2f58905"
     }
   ],
   "duplicate_message_ids": [
