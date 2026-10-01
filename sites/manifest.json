@@ -46549,6 +46549,20 @@
       "subject": "정치와 법",
       "thumbnail": "thumbnails/19244.png",
       "sha256": "591586c0b59f333f60eeca3ccabe2ad508b8734ec24d75842fe08bdeb57e44a7"
+    },
+    {
+      "message_id": 19242,
+      "filename": "2027_마더텅_수능기출_20분_미니모의고사_24회_고3_영어_영역＿정답표.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19242_2027_._._20._._24._.3_._.pdf",
+      "size_bytes": 35665,
+      "telegram_date": "2026-02-09T03:08:41+00:00",
+      "title": "영어 마더텅 수능기출 20분 고난도 미니모의고사 영어",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19242.png",
+      "sha256": "8a6a66c283c23929a2ed7f9029d88b5d81e8e303edc50c9a7d141fbeb5cd4d4f"
     }
   ],
   "duplicate_message_ids": [
