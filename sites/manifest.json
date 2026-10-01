@@ -48691,6 +48691,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18971.png",
       "sha256": "9358c75b58ea4be3a54b3b64a8671fae019cb14c72764beb85f1fb18cb1fb044"
+    },
+    {
+      "message_id": 18970,
+      "filename": "전형태 문법 N제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18970_.N.pdf",
+      "size_bytes": 148664333,
+      "telegram_date": "2026-01-24T03:12:20+00:00",
+      "title": "국어 전형태 문법 N제",
+      "year": "2025",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18970.png",
+      "sha256": "6ad17435d33d6e67399c06b36aaf477542f38e947635cad1db79094db4527fbc"
     }
   ],
   "duplicate_message_ids": [
