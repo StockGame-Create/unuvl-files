@@ -41033,6 +41033,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19891.png",
       "sha256": "509dbdea61919f6bc0649d12de7ee04bcc564fac8323a9abd92f90d8124cbb46"
+    },
+    {
+      "message_id": 19889,
+      "filename": "상상2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19889_.2.pdf",
+      "size_bytes": 17503062,
+      "telegram_date": "2026-03-16T23:42:05+00:00",
+      "title": "국어 시즌2 제2차 모의고사 상상 국어평가연구소 #상상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19889.png",
+      "sha256": "a278b62e8a806a54936a12b44499d76a11ae1fa7888815aefaa66f47f42505bf"
     }
   ],
   "duplicate_message_ids": [
