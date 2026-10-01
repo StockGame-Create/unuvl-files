@@ -47767,6 +47767,20 @@
       "subject": "동아시아사",
       "thumbnail": "thumbnails/19090.png",
       "sha256": "9dfd398b2126a1108129042318957248580111e4226a689876c9360ad57eb2b7"
+    },
+    {
+      "message_id": 19088,
+      "filename": "개념원리_기하_2022개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19088_._._2022.pdf",
+      "size_bytes": 103887211,
+      "telegram_date": "2026-02-01T16:07:48+00:00",
+      "title": "수학 개념원리 기하",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19088.png",
+      "sha256": "cb4c41c756e70dc58e52b9490cd484d76cadf1a93bc943af0efac1524c9078bf"
     }
   ],
   "duplicate_message_ids": [
