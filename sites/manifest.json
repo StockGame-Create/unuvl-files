@@ -42433,6 +42433,20 @@
       "subject": "수학2",
       "thumbnail": "thumbnails/19740.png",
       "sha256": "c0bcfd4e2b12f8a41a8f786fdf84a5fec6130b9613c0583ab809cc05c4c60205"
+    },
+    {
+      "message_id": 19738,
+      "filename": "유대종_언매_필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19738_._._.pdf",
+      "size_bytes": 81564377,
+      "telegram_date": "2026-03-07T15:00:49+00:00",
+      "title": "국어 유대종 필기노트 언어와 매체",
+      "year": "2027",
+      "instructor": "유대종",
+      "subject": "언어와 매체",
+      "thumbnail": "thumbnails/19738.png",
+      "sha256": "eb7bd569fe98c2d3402cb169d84775f28a83ffd35764a05e9c2745015cc1af33"
     }
   ],
   "duplicate_message_ids": [
