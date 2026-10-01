@@ -45639,6 +45639,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19353.png",
       "sha256": "33ffa24db8f835f9a714b838741ababed70ae5dde833c6afc7933f6693c69480"
+    },
+    {
+      "message_id": 19352,
+      "filename": "씨발점_확통_워크북_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19352_._._._.pdf",
+      "size_bytes": 52199957,
+      "telegram_date": "2026-02-15T08:31:33+00:00",
+      "title": "수학 시발점 확률과 통계 워크북 #시발점",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19352.png",
+      "sha256": "a39c266fc0b31a73410b5c2b2a1ef068d0349f41687a7dbe8e166bc1114f445d"
     }
   ],
   "duplicate_message_ids": [
