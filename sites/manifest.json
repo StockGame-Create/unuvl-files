@@ -47431,6 +47431,20 @@
       "subject": null,
       "thumbnail": "thumbnails/19138.png",
       "sha256": "b43720ff522d0f70789518010c10b332f97e8e04e6724ae8a8190988239a0079"
+    },
+    {
+      "message_id": 19137,
+      "filename": "2027학년도_시대인재_서프_1월_사회탐구_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19137_2027._._._1._._.pdf",
+      "size_bytes": 33220979,
+      "telegram_date": "2026-02-03T06:27:38+00:00",
+      "title": "시대인재 1월 예비시행 전국모의평가 해설지 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/19137.png",
+      "sha256": "baca81702093f7d469bb8ae6c5c400c3adc747d1d8e961b92f81990d39ac7b73"
     }
   ],
   "duplicate_message_ids": [
