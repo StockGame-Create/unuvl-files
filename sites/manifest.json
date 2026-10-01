@@ -49769,6 +49769,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18830.png",
       "sha256": "fdcddf5635da4db31df18285ff7787b3035947bcbbc0d8f563602e31cd5cb06f"
+    },
+    {
+      "message_id": 18828,
+      "filename": "EBS 올림포스 고난도 공수1 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18828_EBS.1.pdf",
+      "size_bytes": 8286910,
+      "telegram_date": "2026-01-11T05:57:52+00:00",
+      "title": "수학 올림포스 고난도 공통수학1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18828.png",
+      "sha256": "f6612bb47f2c666b1a0062f48e8a5972f09815dad63491851bd1bee74147a2e3"
     }
   ],
   "duplicate_message_ids": [
