@@ -49027,6 +49027,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18930.png",
       "sha256": "f8461ab7e3e13b6066e308b9829e800e2a5d67f6682b62ca77a2decc0dd35595"
+    },
+    {
+      "message_id": 18926,
+      "filename": "마플시너지 미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18926_.pdf",
+      "size_bytes": 42940380,
+      "telegram_date": "2026-01-20T14:15:37+00:00",
+      "title": "수학 마플 시너지 미적분",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18926.png",
+      "sha256": "097d769732b16f4431def5bd820f9bfc07cc4282ae8659e07deba98c19964ddb"
     }
   ],
   "duplicate_message_ids": [
