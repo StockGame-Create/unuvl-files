@@ -46339,6 +46339,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19271.png",
       "sha256": "264c6dcaede6d2f8d593b4cc7e707e52b49f25d71ae9225dbd9a5942522713df"
+    },
+    {
+      "message_id": 19269,
+      "filename": "2027 박종민T Pre-Limit X 모의고사 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19269_2027.T.Pre-Limit.X.1.pdf",
+      "size_bytes": 7137601,
+      "telegram_date": "2026-02-12T05:15:07+00:00",
+      "title": "수학 Pre-Limix X 모의고사 1회",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19269.png",
+      "sha256": "47e7ad66e582447f40402267a9a1880305964247116053a8d1c119998ae9f5a6"
     }
   ],
   "duplicate_message_ids": [
