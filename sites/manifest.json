@@ -45625,6 +45625,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19354.png",
       "sha256": "b3f30e89ca35f86874974d81af5e3b36465f2f704a2d610e0d4443dc79950b2a"
+    },
+    {
+      "message_id": 19353,
+      "filename": "2024 현우진 드릴 수2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19353_2024.2.pdf",
+      "size_bytes": 155116838,
+      "telegram_date": "2026-02-15T08:55:46+00:00",
+      "title": "수학 현우진 드릴4 수2 + 워크북 #드릴",
+      "year": "2024",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19353.png",
+      "sha256": "33ffa24db8f835f9a714b838741ababed70ae5dde833c6afc7933f6693c69480"
     }
   ],
   "duplicate_message_ids": [
