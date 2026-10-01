@@ -49531,6 +49531,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18861.png",
       "sha256": "672e251551570a7ed830fffc7db0f5c1e34498c4fbf61b42944cfd8fab23addd"
+    },
+    {
+      "message_id": 18860,
+      "filename": "강기분_독서2_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18860_._.2_.pdf",
+      "size_bytes": 141599084,
+      "telegram_date": "2026-01-15T17:37:52+00:00",
+      "title": "국어 강민철의 기출분석 독서 1",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18860.png",
+      "sha256": "82f63bb563bce0502522886e58b864b603a7667976ce497308a6c26c1a455e4b"
     }
   ],
   "duplicate_message_ids": [
