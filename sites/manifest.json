@@ -43749,6 +43749,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19587.png",
       "sha256": "eca43e150f6e1649da14aa5a050438a8dba0a436b9039ea1b5a2dc8dbaaac926"
+    },
+    {
+      "message_id": 19586,
+      "filename": "시냅스 미적.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19586_.pdf",
+      "size_bytes": 79561508,
+      "telegram_date": "2026-02-25T09:48:43+00:00",
+      "title": "수학 시냅스 미적분",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19586.png",
+      "sha256": "c89918f0b0370712e2f89320c3e4d66ead3c757bcbb8f9c91076ded400abcc33"
     }
   ],
   "duplicate_message_ids": [
