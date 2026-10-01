@@ -47655,6 +47655,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/19104.png",
       "sha256": "7737283feb74ae926a3eb5b04ba614e38801f2d0ed0ecc69920895059add73a3"
+    },
+    {
+      "message_id": 19102,
+      "filename": "2027학년도 수특_확률과 통계.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19102_2027._.pdf",
+      "size_bytes": 277762439,
+      "telegram_date": "2026-02-02T03:51:19+00:00",
+      "title": "수학 2027 수능특강 확률과 통계",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19102.png",
+      "sha256": "d356c8e29eb67c5ba5af7f39f3501993df60ee506ad24320f6c35c6beb3e09b5"
     }
   ],
   "duplicate_message_ids": [
