@@ -49965,6 +49965,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18804.png",
       "sha256": "e127eef7db8a2343ea369c71b5f1c7cc2b5477e1cad763b65d2612fc26347d6e"
+    },
+    {
+      "message_id": 18803,
+      "filename": "마플 교과서 대수.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18803_.pdf",
+      "size_bytes": 504909265,
+      "telegram_date": "2026-01-09T09:52:53+00:00",
+      "title": "수학 마플 교과서 대수",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18803.png",
+      "sha256": "883753afc262c7b0b51ba84860e0d266782ecb2f81bec67d082b171a756644d8"
     }
   ],
   "duplicate_message_ids": [
