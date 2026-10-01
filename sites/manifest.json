@@ -49153,6 +49153,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18912.png",
       "sha256": "172ecc2a142be9e0d7de86b37b7ea2edf9191f741909712b4e7e8303eb274a3d"
+    },
+    {
+      "message_id": 18911,
+      "filename": "2027강기분 문학1해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18911_2027.1.pdf",
+      "size_bytes": 97015748,
+      "telegram_date": "2026-01-19T07:11:57+00:00",
+      "title": "국어 강민철의 기출분석 문학 1",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18911.png",
+      "sha256": "9dae198ccec82bf96a8d091887b115afe3013af928951ab6b4cdea275b2f9d27"
     }
   ],
   "duplicate_message_ids": [
