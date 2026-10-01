@@ -44365,6 +44365,20 @@
       "subject": "독서",
       "thumbnail": "thumbnails/19507.png",
       "sha256": "6428b727de2e95d36d58f16818fb87f4202fd9e3896b72003179a1d250a4918b"
+    },
+    {
+      "message_id": 19505,
+      "filename": "2027공통_8주차복습테스트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19505_2027._8.pdf",
+      "size_bytes": 1181614,
+      "telegram_date": "2026-02-22T18:29:25+00:00",
+      "title": "수학 저스트 수학2 테스트 8회",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학2",
+      "thumbnail": "thumbnails/19505.png",
+      "sha256": "e864b57daac6569463adc3325d05a9283ef7b54e3adaacca62e5cf8a50e4916a"
     }
   ],
   "duplicate_message_ids": [
