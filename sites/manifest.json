@@ -46087,6 +46087,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19298.png",
       "sha256": "667032d3babadb6349b1fbfbb993ef048dd8767b8c22db1850a09f31eb7d540d"
+    },
+    {
+      "message_id": 19296,
+      "filename": "2027학년도_시대인재_서프_1월_국어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19296_2027._._._1._.pdf",
+      "size_bytes": 11209069,
+      "telegram_date": "2026-02-13T08:15:52+00:00",
+      "title": "국어 시대인재 1월 예비시행 전국모의평가 (인쇄소) #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19296.png",
+      "sha256": "6e647582d545a4a302d76c5a8e87c424ce48e7c5f71eefe7ac6f712a3810b274"
     }
   ],
   "duplicate_message_ids": [
