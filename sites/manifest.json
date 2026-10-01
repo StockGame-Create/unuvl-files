@@ -43819,6 +43819,20 @@
       "subject": "수학1",
       "thumbnail": "thumbnails/19576.png",
       "sha256": "9b193f138e17d583a43a3068ad85ba1501131ccefa327fceb5b2835ebd0c4671"
+    },
+    {
+      "message_id": 19574,
+      "filename": "박광일 홀수 백문일답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19574_.pdf",
+      "size_bytes": 22147709,
+      "telegram_date": "2026-02-25T02:09:40+00:00",
+      "title": "국어 백문일답 언어와 매체",
+      "year": "2027",
+      "instructor": "박광일",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19574.png",
+      "sha256": "b8866a88b8cfdef7179984e37a5da38dcf42344428d1fedca24ac2aea7253f15"
     }
   ],
   "duplicate_message_ids": [
