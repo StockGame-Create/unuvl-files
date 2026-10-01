@@ -48397,6 +48397,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19005.png",
       "sha256": "77cc40e4880097374480f681ea43a8e6118ce435433203bdd9c6caf8753fcdaa"
+    },
+    {
+      "message_id": 19003,
+      "filename": "2027_마더텅_수능기출_모의고사_25회_동아시아사_문제편_정답O.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19003_2027_._._._25._._._.O.pdf",
+      "size_bytes": 62511765,
+      "telegram_date": "2026-01-26T11:05:56+00:00",
+      "title": "동사 마더텅 수능기출 모의고사 25회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "동아시아사",
+      "thumbnail": "thumbnails/19003.png",
+      "sha256": "c620e999aecd8db21a0abc4adb4bb6094f3e0a7d566e5b3f5428c44eb9f57686"
     }
   ],
   "duplicate_message_ids": [
