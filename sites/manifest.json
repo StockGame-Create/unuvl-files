@@ -44323,6 +44323,20 @@
       "subject": "문학",
       "thumbnail": "thumbnails/19510.png",
       "sha256": "882ec2578641734c636d96adfb62a3567756ea48e794eca0f4c2a0381999e0bd"
+    },
+    {
+      "message_id": 19509,
+      "filename": "마더텅 문학 2028학년도 예시문항 수록.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19509_.2028.pdf",
+      "size_bytes": 1577454,
+      "telegram_date": "2026-02-22T18:30:46+00:00",
+      "title": "국어 2027 마더텅 수능기출문제집 2028학년도 예시문항 독서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "독서",
+      "thumbnail": "thumbnails/19509.png",
+      "sha256": "8c00e4317b0c7ded90fca545ac916cbdb21e289c7bad94f9a470bf5b7c4af63b"
     }
   ],
   "duplicate_message_ids": [
