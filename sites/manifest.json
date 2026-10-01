@@ -47221,6 +47221,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19160.png",
       "sha256": "86498b53bc2972e0731acb06dd8688e9f8a9140509348380cb0741a192609617"
+    },
+    {
+      "message_id": 19159,
+      "filename": "EBS_2027학년도_수능특강_영어영역_영어_영단어·숙어단어장_260203_222914.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19159_EBS_2027._._._._._260203_222914.pdf",
+      "size_bytes": 421187,
+      "telegram_date": "2026-02-03T15:32:08+00:00",
+      "title": "영어 2027 수능특강",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19159.png",
+      "sha256": "169f0e4f6db46892b3e3bea86dbdee5c1f8cbd8c29ad3c362e2994b8df591ba6"
     }
   ],
   "duplicate_message_ids": [
