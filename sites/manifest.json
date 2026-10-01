@@ -44673,6 +44673,20 @@
       "subject": "기하",
       "thumbnail": "thumbnails/19467.png",
       "sha256": "ffaf7d7e6cfffdccbd554ba78eaa510500cd0fc657dac2292c7973af4a6646ce"
+    },
+    {
+      "message_id": 19465,
+      "filename": "2027 수능특강 화학Ⅰ 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19465_2027.pdf",
+      "size_bytes": 2022281,
+      "telegram_date": "2026-02-21T06:50:09+00:00",
+      "title": "화1 수능특강 화학1 (원본)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/19465.png",
+      "sha256": "c592da147f1856d00d0309ffed303a25b772a37320e5eb5d8efb2d2387ab7e42"
     }
   ],
   "duplicate_message_ids": [
