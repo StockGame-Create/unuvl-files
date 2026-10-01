@@ -43161,6 +43161,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19654.png",
       "sha256": "58961d724459064defb10c43664859114f23e163614462cc1eeedb12835d57d5"
+    },
+    {
+      "message_id": 19652,
+      "filename": "2027 PACE MAKER 확률과 통계_정답 및 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19652_2027.PACE.MAKER._.pdf",
+      "size_bytes": 9341070,
+      "telegram_date": "2026-03-01T16:42:00+00:00",
+      "title": "수학 페이스메이커 확률과 통계",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19652.png",
+      "sha256": "9148f35d4ac36dbb09a93b438edc0d33af6075cc4c403fc7c9f52e0e23734028"
     }
   ],
   "duplicate_message_ids": [
