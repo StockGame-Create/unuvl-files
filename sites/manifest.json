@@ -42867,6 +42867,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19692.png",
       "sha256": "ef5f9a2e85877ca61ff43e304a96de81842261004d30a8b54117f1f31cb1a593"
+    },
+    {
+      "message_id": 19691,
+      "filename": "2027 현우진 드릴7 미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19691_2027.7.pdf",
+      "size_bytes": 66902439,
+      "telegram_date": "2026-03-05T09:35:05+00:00",
+      "title": "수학 현우진 드릴7 수학1 수학2 미적분",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19691.png",
+      "sha256": "21a3501b0e5483b09e217d086e33ea7323e163bcae6b0b2b4795e0af07b92ed5"
     }
   ],
   "duplicate_message_ids": [
