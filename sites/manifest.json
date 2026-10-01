@@ -43917,6 +43917,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19566.png",
       "sha256": "1cb9c24e06406c042fa2f40ea57b6bdca633331ce8e0b07a33995e79b8124827"
+    },
+    {
+      "message_id": 19565,
+      "filename": "전형태_문학개념어_zip.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19565_._._zip.pdf",
+      "size_bytes": 173513533,
+      "telegram_date": "2026-02-24T13:39:06+00:00",
+      "title": "국어 문학 올인원",
+      "year": "2027",
+      "instructor": "전형태",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19565.png",
+      "sha256": "435ef10fc9a120355711fbce4260c21d652ecd129548465b6e40babf7c34956b"
     }
   ],
   "duplicate_message_ids": [
