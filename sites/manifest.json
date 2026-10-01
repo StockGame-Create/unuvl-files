@@ -49867,6 +49867,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18819.png",
       "sha256": "0ca9a77ae543ac60dd9a8fc8ee3f48c025c7b941d7413408183c3ac6471c47d5"
+    },
+    {
+      "message_id": 18818,
+      "filename": "이신혁 아폴로 1주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18818_.1.pdf",
+      "size_bytes": 95125438,
+      "telegram_date": "2026-01-09T17:32:31+00:00",
+      "title": "지1 Apollo.시즌1 1호 #아폴로",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18818.png",
+      "sha256": "b53678080cef00caa479d781d13ba301b775a4ef54e4d494c3a571adc3f470de"
     }
   ],
   "duplicate_message_ids": [
