@@ -47193,6 +47193,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19162.png",
       "sha256": "2bf5ba504a9133b022c9b434c3c045325c0eabb495b8192f2b3184290a8edae4"
+    },
+    {
+      "message_id": 19161,
+      "filename": "CIRCUIT X VOR.3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19161_CIRCUIT.X.VOR.3.pdf",
+      "size_bytes": 354965,
+      "telegram_date": "2026-02-03T15:32:08+00:00",
+      "title": "수학 CIRCUIT X THE BEST 3회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19161.png",
+      "sha256": "e6e592de62930ce5d89aa59920d5708b59c66c5340230077d70c8230aeff3c26"
     }
   ],
   "duplicate_message_ids": [
