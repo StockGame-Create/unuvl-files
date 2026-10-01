@@ -47851,6 +47851,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19078.png",
       "sha256": "009eee1e4d39539b117c427d75b09f18bdfa01a5c58dd6b04f22eb29a233fd9a"
+    },
+    {
+      "message_id": 19077,
+      "filename": "이감 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19077_.pdf",
+      "size_bytes": 7051349,
+      "telegram_date": "2026-02-01T07:27:05+00:00",
+      "title": "국어 이감 제1차 예비평가 (폰스캔) #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19077.png",
+      "sha256": "87d6ac3c62ff37fe49893ecffa03063a7cba15dd03464e0eb777ea32ede4b046"
     }
   ],
   "duplicate_message_ids": [
