@@ -47263,6 +47263,20 @@
       "subject": "기하",
       "thumbnail": "thumbnails/19156.png",
       "sha256": "d459c808aa3ef849ebbb097eda27dfee6e6eb54e565c062b14c0eeb61801aa8c"
+    },
+    {
+      "message_id": 19155,
+      "filename": "RPM 기하 교사용 부록.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19155_RPM.pdf",
+      "size_bytes": 4926437,
+      "telegram_date": "2026-02-03T15:32:07+00:00",
+      "title": "수학 RPM 기하",
+      "year": null,
+      "instructor": null,
+      "subject": "기하",
+      "thumbnail": "thumbnails/19155.png",
+      "sha256": "e95292aa07d042c4fbc3dce9c4314c6a88312d417dcbc685859fdba76d4049bb"
     }
   ],
   "duplicate_message_ids": [
