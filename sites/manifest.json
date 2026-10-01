@@ -41691,6 +41691,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19820.png",
       "sha256": "cd2add30995b9b375134907c5f991e33ffe91a07de067c69cf7099d78275e5d8"
+    },
+    {
+      "message_id": 19819,
+      "filename": "2027-이감 제 2차 예비평가 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19819_2027-.2.1.pdf",
+      "size_bytes": 6138795,
+      "telegram_date": "2026-03-12T16:06:09+00:00",
+      "title": "국어 이감 국어 모의고사 2차 예비평가 #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19819.png",
+      "sha256": "671189b5ae895f7b9dbec2fbc25e329a115eed042874743c99590476358793d3"
     }
   ],
   "duplicate_message_ids": [
