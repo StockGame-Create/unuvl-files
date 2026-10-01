@@ -42419,6 +42419,20 @@
       "subject": "수학2",
       "thumbnail": "thumbnails/19742.png",
       "sha256": "43732c934550fe9323a35e3e1f43a357283ee66ae9b8ea9d864c13ab4ffcd6d6"
+    },
+    {
+      "message_id": 19740,
+      "filename": "수학 2  하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19740_.2.pdf",
+      "size_bytes": 47245598,
+      "telegram_date": "2026-03-08T06:34:01+00:00",
+      "title": "수2 2027 이동준 저스트(just) season 1",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학2",
+      "thumbnail": "thumbnails/19740.png",
+      "sha256": "c0bcfd4e2b12f8a41a8f786fdf84a5fec6130b9613c0583ab809cc05c4c60205"
     }
   ],
   "duplicate_message_ids": [
