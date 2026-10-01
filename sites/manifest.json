@@ -42741,6 +42741,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19706.png",
       "sha256": "10d478fd8a60d0882f76d264e994cddb428b8d558f5e634baa8420f16e1f0ad8"
+    },
+    {
+      "message_id": 19704,
+      "filename": "2027학년도_한석원4의규칙_미적분_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19704_2027._.4._._.pdf",
+      "size_bytes": 5055504,
+      "telegram_date": "2026-03-05T13:39:27+00:00",
+      "title": "수학 한석원 4의규칙 미적분",
+      "year": "2027",
+      "instructor": "한석원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19704.png",
+      "sha256": "99c4c7c03c747dead590acf4f1b7ee9bc24ecb2feca7c8fbf8307fc41132f06f"
     }
   ],
   "duplicate_message_ids": [
