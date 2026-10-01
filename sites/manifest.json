@@ -41621,6 +41621,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19827.png",
       "sha256": "efbbba2809d47fbe85cead49529a6048d1135f8eb5ea4cddfa89d2393b2a0202"
+    },
+    {
+      "message_id": 19825,
+      "filename": "다정북스 주다 주간지 day1 (2).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19825_.day1.2.pdf",
+      "size_bytes": 1330773,
+      "telegram_date": "2026-03-13T08:29:31+00:00",
+      "title": "수학 다정북스 주다 시즌1 1주차 DAY1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19825.png",
+      "sha256": "35b7373c6ff291abc83cde90c97673c3fdb722657b62fe3e3bffd54b7e309b11"
     }
   ],
   "duplicate_message_ids": [
