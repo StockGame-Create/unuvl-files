@@ -46185,6 +46185,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19288.png",
       "sha256": "747ada6bb42b86097a3071ba43309399fbf34ac27285e33c1c9e78cb12aa4540"
+    },
+    {
+      "message_id": 19286,
+      "filename": "EBS_2027_수능특강_과학탐구영역_물리학Ⅰ_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19286_EBS_2027_._._._.pdf",
+      "size_bytes": 1896006,
+      "telegram_date": "2026-02-12T18:06:05+00:00",
+      "title": "물1 2027 수능특강 물리학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/19286.png",
+      "sha256": "a76bdfa03f1d2f0f84d4c2cb5b7f5ca65f9be239a5ed866c5cc2faada8ac4e80"
     }
   ],
   "duplicate_message_ids": [
