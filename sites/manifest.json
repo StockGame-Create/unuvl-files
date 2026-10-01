@@ -47697,6 +47697,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/19098.png",
       "sha256": "c2fa6abf415454d83d81395dd5caae9294b56ac0dc467755bcf608d87739f5b9"
+    },
+    {
+      "message_id": 19097,
+      "filename": "2027학년도_시대인재_1월_서프_경제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19097_2027._._1._._.pdf",
+      "size_bytes": 8519437,
+      "telegram_date": "2026-02-02T01:27:29+00:00",
+      "title": "경제 시대인재 1월 예비시행 전국모의평가 (폰스캔) #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "경제",
+      "thumbnail": "thumbnails/19097.png",
+      "sha256": "fe39506922cbdf3f4644986538d7b38d783e932702e2f408d0f86d320795a610"
     }
   ],
   "duplicate_message_ids": [
