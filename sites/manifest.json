@@ -46255,6 +46255,20 @@
       "subject": "수학2 / 미적분",
       "thumbnail": "thumbnails/19280.png",
       "sha256": "b91f7295ed6f92a7aeafee63a1da8473a866dc84651d1ca230d6e50e80e99f42"
+    },
+    {
+      "message_id": 19279,
+      "filename": "수학2+미적분_Step1_1주차_복습테스트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19279_.2%2B._Step1_1._.pdf",
+      "size_bytes": 389678,
+      "telegram_date": "2026-02-12T18:05:39+00:00",
+      "title": "수학 수학2 미적분 step1 1주차 복습 테스트",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학2 / 미적분",
+      "thumbnail": "thumbnails/19279.png",
+      "sha256": "8ecb549b44d62e30b0b03121c6f87d86e2a649a7724c5cc9b09e7dd960a9814b"
     }
   ],
   "duplicate_message_ids": [
