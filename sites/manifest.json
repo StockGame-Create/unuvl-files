@@ -41761,6 +41761,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19814.png",
       "sha256": "cdec1575795e7f3b600f9c81dd0d748c6eade3eea7d35ffe0daf7648bd24145b"
+    },
+    {
+      "message_id": 19813,
+      "filename": "2027 브릿지 전국 모고 수학 2회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19813_2027.2.pdf",
+      "size_bytes": 3278676,
+      "telegram_date": "2026-03-12T16:05:18+00:00",
+      "title": "수학 시대인재 브릿지 모의고사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19813.png",
+      "sha256": "6da2bc87def25fd2533756b6ba0116b00d77401cdf326454edf02774f608a9e8"
     }
   ],
   "duplicate_message_ids": [
