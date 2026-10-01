@@ -49601,6 +49601,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18854.png",
       "sha256": "2150b0ae9a56b41e6da940fb99c5673d1703995fadc6946f702dbde545d7c712"
+    },
+    {
+      "message_id": 18853,
+      "filename": "2027전형태 언매올인원.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18853_2027.pdf",
+      "size_bytes": 147419534,
+      "telegram_date": "2026-01-15T06:29:20+00:00",
+      "title": "국어 언어와 매체 올인원",
+      "year": "2027",
+      "instructor": "전형태",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18853.png",
+      "sha256": "3ae1a5ba33ca4027cc613fa80989306db820f41fdf33cd884abe33af912315e7"
     }
   ],
   "duplicate_message_ids": [
