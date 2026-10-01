@@ -46983,6 +46983,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19187.png",
       "sha256": "15ca726931c24d810cdd6eea64d424461fd5a06080be31b729a797541d1db162"
+    },
+    {
+      "message_id": 19185,
+      "filename": "개념+유형_미적분Ⅰ22개정_유형편_학생용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19185_.%2B._.22._._.pdf",
+      "size_bytes": 4969583,
+      "telegram_date": "2026-02-04T08:44:57+00:00",
+      "title": "수학 개념+유형 미적분1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19185.png",
+      "sha256": "5f25bada8bd66cb69db8ab6f29d38c910f4b42a25a3e4d98c7612709d69428c0"
     }
   ],
   "duplicate_message_ids": [
