@@ -45289,6 +45289,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19384.png",
       "sha256": "7a99bb21ae8b38bbb5cd51e4d23541983d0399e7b738a0aa02753522c27567f7"
+    },
+    {
+      "message_id": 19382,
+      "filename": "2027 최적 단권화 노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19382_2027.pdf",
+      "size_bytes": 170663622,
+      "telegram_date": "2026-02-15T11:12:54+00:00",
+      "title": "정법 최적 단권화 노트",
+      "year": "2027",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/19382.png",
+      "sha256": "46c4a54e7fa096d980816253dfe58f32555713b32499087330dd8f9f5a39e48b"
     }
   ],
   "duplicate_message_ids": [
