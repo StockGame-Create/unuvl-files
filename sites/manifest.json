@@ -49657,6 +49657,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18849.png",
       "sha256": "4b70622526c2424ad58b5b1955b8d780c1a5cd1d7cba7d6a4a9d950e399d0b6b"
+    },
+    {
+      "message_id": 18848,
+      "filename": "시대인재수능기출_수학I_CORE_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18848_._.I_CORE_.pdf",
+      "size_bytes": 30550495,
+      "telegram_date": "2026-01-14T14:50:15+00:00",
+      "title": "수학 시대인재 수능기출 문제집 CORE 수학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18848.png",
+      "sha256": "5eb921ce87e18e1f285238a9cab1dad35b1d6970b412d932a2c2762af215adfc"
     }
   ],
   "duplicate_message_ids": [
