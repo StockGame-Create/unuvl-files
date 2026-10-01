@@ -48775,6 +48775,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/18964.png",
       "sha256": "5f290eaefedb42777f723dbb468320371237a06b2f67bd86b00700d6d0d21485"
+    },
+    {
+      "message_id": 18962,
+      "filename": "스타팅블록_미적분_해설편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18962_._._.pdf",
+      "size_bytes": 108717718,
+      "telegram_date": "2026-01-23T10:14:04+00:00",
+      "title": "수학 스타팅블록 미적분",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18962.png",
+      "sha256": "af1a805b48c9e01f7323be9a87ca7207a76b2d337a5416425263daf94bad02ad"
     }
   ],
   "duplicate_message_ids": [
