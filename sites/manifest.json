@@ -43595,6 +43595,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19604.png",
       "sha256": "c15e30604706a56a2376a7a81052649db62f46dc5a941a18aed05d96c22c8a22"
+    },
+    {
+      "message_id": 19603,
+      "filename": "블랙라벨 대수 (22개정) - 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19603_.22.-.pdf",
+      "size_bytes": 8040315,
+      "telegram_date": "2026-02-26T16:41:54+00:00",
+      "title": "수학 블랙라벨 대수",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19603.png",
+      "sha256": "445826bd3713119eb7fa0bf7c60bfe538572af3b5a780b4d292bab8925ca886b"
     }
   ],
   "duplicate_message_ids": [
