@@ -50161,6 +50161,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18781.png",
       "sha256": "9bd58cf8980e9622ed978e6f147fdf34f6d701effa43ca5a924867987b35220d"
+    },
+    {
+      "message_id": 18779,
+      "filename": "837103575_개정_시발점_대수.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18779_837103575_._._.pdf",
+      "size_bytes": 172204452,
+      "telegram_date": "2026-01-05T09:48:57+00:00",
+      "title": "수학 시발점 대수",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18779.png",
+      "sha256": "700e5a4ae6869595fb2a1fabca828c1d70ccd8406567377567f7924b382cc050"
     }
   ],
   "duplicate_message_ids": [
