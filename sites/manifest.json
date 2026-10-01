@@ -49293,6 +49293,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18894.png",
       "sha256": "aa594be03cd259781d6653100b7952ce97a97a43aa8a0c8b60c5079789b2ecdf"
+    },
+    {
+      "message_id": 18893,
+      "filename": "강기원_복테_2주차_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18893_._._2._.pdf",
+      "size_bytes": 1476074,
+      "telegram_date": "2026-01-18T08:10:33+00:00",
+      "title": "수학 강기원T 2주차 수학2 + 미적분 Review Test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18893.png",
+      "sha256": "a22a163ccff989ff8f462af6145127104a555a5928cae659b04b3224bf5ef76d"
     }
   ],
   "duplicate_message_ids": [
