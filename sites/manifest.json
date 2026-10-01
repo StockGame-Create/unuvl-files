@@ -48271,6 +48271,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19021.png",
       "sha256": "ff5a3da0a3c46bfe721250840d320bde4328543049c38c6ef4a730858d61c244"
+    },
+    {
+      "message_id": 19018,
+      "filename": "바탕 모의고사 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19018_.1.pdf",
+      "size_bytes": 11288452,
+      "telegram_date": "2026-01-28T08:43:06+00:00",
+      "title": "국어 바탕 1회 모의고사 #바탕 (폰스캔)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19018.png",
+      "sha256": "d8b0181533865cc09e6dbcfb0adcf56980458b2038f51136f192a510a6ab382a"
     }
   ],
   "duplicate_message_ids": [
