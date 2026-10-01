@@ -45583,6 +45583,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19358.png",
       "sha256": "538fd0bb9563cba9bd87070a86d8d981955cb07eb1caa505a24fd6ea842222d0"
+    },
+    {
+      "message_id": 19356,
+      "filename": "2024_드릴_미적분_워크북.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19356_2024_._._.pdf",
+      "size_bytes": 28651587,
+      "telegram_date": "2026-02-15T08:55:46+00:00",
+      "title": "수학 현우진 드릴4 미적 + 워크북 #드릴",
+      "year": "2024",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19356.png",
+      "sha256": "18732d32b010de375c5defa0e41e7c21f6bf0c9c6e20ff07e68b31edf502299c"
     }
   ],
   "duplicate_message_ids": [
