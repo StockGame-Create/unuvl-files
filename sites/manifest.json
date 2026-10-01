@@ -44015,6 +44015,20 @@
       "subject": "국어, 영어, 수학",
       "thumbnail": "thumbnails/19544.png",
       "sha256": "d14a1528c77ef86aacc403f565cbed81a33b1f08462daf9c89cf335f7b015a2c"
+    },
+    {
+      "message_id": 19543,
+      "filename": "2027학년도+복습테스트+9주차+해설지_배포용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19543_2027.%2B.%2B9.%2B._.pdf",
+      "size_bytes": 179278,
+      "telegram_date": "2026-02-24T04:46:56+00:00",
+      "title": "지1 이신혁 복습테스트 9주차",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/19543.png",
+      "sha256": "2d0686acc597e894e79188c7bb8a9ec02e8554e0b6e44dc8a3a896b543dc38c8"
     }
   ],
   "duplicate_message_ids": [
