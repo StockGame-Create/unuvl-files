@@ -42531,6 +42531,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19730.png",
       "sha256": "2dbff6e091938b4267d0b6b1e9b5a7cd678ccecdfa94f106780861d8cbaa0590"
+    },
+    {
+      "message_id": 19728,
+      "filename": "2026올림포스전국연합학력평가기출문제집미적분Ⅰ_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19728_2026._1.pdf",
+      "size_bytes": 48276643,
+      "telegram_date": "2026-03-07T11:02:11+00:00",
+      "title": "수학 2026 전국연합학력평가 기출문제집 미적분 1",
+      "year": "2027 (학년도)",
+      "instructor": null,
+      "subject": "미적분1",
+      "thumbnail": "thumbnails/19728.png",
+      "sha256": "603723e26d462ac1d5512fc15f559f0ac3c8028c7815f210e2e617bb86be1607"
     }
   ],
   "duplicate_message_ids": [
