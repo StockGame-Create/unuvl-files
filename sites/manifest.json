@@ -48243,6 +48243,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19024.png",
       "sha256": "286e3651b68a8bcb427d9df1e3539d16d8bbbe3a7659aa6a1b5d2562abee5d17"
+    },
+    {
+      "message_id": 19022,
+      "filename": "2027_이명학_Syntax_1_0_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19022_2027_._Syntax_1_0_.pdf",
+      "size_bytes": 29492017,
+      "telegram_date": "2026-01-28T17:42:11+00:00",
+      "title": "영어 SYNTAX 1.0 #신텍스",
+      "year": "2027",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/19022.png",
+      "sha256": "edc768f202cf79a2c2773fad15d52f70d6dcd351b128c138aba14884b6fcdbfc"
     }
   ],
   "duplicate_message_ids": [
