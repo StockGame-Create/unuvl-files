@@ -47165,6 +47165,20 @@
       "subject": "윤리와 사상",
       "thumbnail": "thumbnails/19165.png",
       "sha256": "bde2ee5bd6904df5a4c188a6fcde0307d79105b55b9fee3c26d4886046bbe5df"
+    },
+    {
+      "message_id": 19164,
+      "filename": "EBS_2027_수능특강_사회탐구영역_윤리와_사상_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19164_EBS_2027_._._._._.pdf",
+      "size_bytes": 2455316,
+      "telegram_date": "2026-02-03T15:32:08+00:00",
+      "title": "윤사 2027 수능특강 윤리와 사상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "윤리와 사상",
+      "thumbnail": "thumbnails/19164.png",
+      "sha256": "2e9c00115ce8b639e396a7caeecdeacc8ccad66917df6ea4e264b7b75ee47aa1"
     }
   ],
   "duplicate_message_ids": [
