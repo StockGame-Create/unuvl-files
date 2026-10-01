@@ -41635,6 +41635,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19825.png",
       "sha256": "35b7373c6ff291abc83cde90c97673c3fdb722657b62fe3e3bffd54b7e309b11"
+    },
+    {
+      "message_id": 19824,
+      "filename": "1등급_만들기_사회문화_715제_정답과해설_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19824_1._._._715._._1.pdf",
+      "size_bytes": 3443843,
+      "telegram_date": "2026-03-13T07:39:34+00:00",
+      "title": "사회 1등급 만들기 사회문화",
+      "year": null,
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/19824.png",
+      "sha256": "65f223be6b5535357d590051a666874a504c17b6540a32f6983cce287f5bf586"
     }
   ],
   "duplicate_message_ids": [
