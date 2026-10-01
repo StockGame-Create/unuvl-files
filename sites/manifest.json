@@ -48005,6 +48005,20 @@
       "subject": "물리학",
       "thumbnail": "thumbnails/19060.png",
       "sha256": "d6d6506563c16e9168b45683ccfa903b2f8b40ba7b090b8c4882dceea2f58905"
+    },
+    {
+      "message_id": 19059,
+      "filename": "22개정_하이탑_물리학_정답과_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19059_22._._._._.pdf",
+      "size_bytes": 13457419,
+      "telegram_date": "2026-01-31T05:03:09+00:00",
+      "title": "과학 하이탑 물리학",
+      "year": null,
+      "instructor": null,
+      "subject": "물리학",
+      "thumbnail": "thumbnails/19059.png",
+      "sha256": "14e7e444340d584714d503b45f24bed959dc0fca435199d37585d11b4fba3314"
     }
   ],
   "duplicate_message_ids": [
