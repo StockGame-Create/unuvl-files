@@ -46213,6 +46213,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/19285.png",
       "sha256": "a24890b239eed6b44de630706c06c7848a880643265083044d9505d4b8c67007"
+    },
+    {
+      "message_id": 19283,
+      "filename": "2027 수능특강 기하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19283_2027.pdf",
+      "size_bytes": 26432763,
+      "telegram_date": "2026-02-12T18:05:51+00:00",
+      "title": "수학 2027 수능특강 기하",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19283.png",
+      "sha256": "7ac0f1f559f311d826d8262c8b118840312014298cd19568769eb8cd373dc82b"
     }
   ],
   "duplicate_message_ids": [
