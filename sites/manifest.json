@@ -43147,6 +43147,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19656.png",
       "sha256": "2a99f4dc601c8128c7f3e303864c1c2f8c1e4dc1a4d67a558c0f62fe01a51411"
+    },
+    {
+      "message_id": 19654,
+      "filename": "김기현의 사관학교 기출문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19654_.pdf",
+      "size_bytes": 2877948,
+      "telegram_date": "2026-03-02T01:30:44+00:00",
+      "title": "수학 김기현의 사관학교 기출문제",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19654.png",
+      "sha256": "58961d724459064defb10c43664859114f23e163614462cc1eeedb12835d57d5"
     }
   ],
   "duplicate_message_ids": [
