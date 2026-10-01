@@ -41593,6 +41593,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19829.png",
       "sha256": "e76d4991f34b70c3bf50c3ce577d0c934edd8487cf9bfd33ca978f2c7ec9287b"
+    },
+    {
+      "message_id": 19828,
+      "filename": "주간정석day7-24.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19828_.day7-24.pdf",
+      "size_bytes": 1391195,
+      "telegram_date": "2026-03-13T08:32:56+00:00",
+      "title": "국어 주간정석 14, 17, 22, 24주차",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19828.png",
+      "sha256": "7091494db4446d99a5b3f8ce15fb7c1d48f587c0a3dda67308a7a56ab746926a"
     }
   ],
   "duplicate_message_ids": [
