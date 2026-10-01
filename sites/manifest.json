@@ -44463,6 +44463,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19494.png",
       "sha256": "8fad4c160450d4754f6e0285110a09ce01e63b492d8b0ece968ca1166899ac4f"
+    },
+    {
+      "message_id": 19493,
+      "filename": "답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19493_.pdf",
+      "size_bytes": 1856270,
+      "telegram_date": "2026-02-22T04:11:43+00:00",
+      "title": "수학 강기원T 8주차 수학2 + 미적분 Review Test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19493.png",
+      "sha256": "99da8e18fbc3fa16214f862595a74ab8e1bf09456d6c1ad8555ae0e313862d2b"
     }
   ],
   "duplicate_message_ids": [
