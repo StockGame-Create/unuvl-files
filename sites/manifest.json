@@ -44939,6 +44939,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/19437.png",
       "sha256": "ff291d2e8134bdb56e62024d8fc5a883e4d45ee1ea8e086175e63e3c0883b2f9"
+    },
+    {
+      "message_id": 19436,
+      "filename": "수능특강 문학 사용설명서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19436_.pdf",
+      "size_bytes": 762040768,
+      "telegram_date": "2026-02-20T02:00:23+00:00",
+      "title": "국어 2027 수능특강 사용설명서 문학",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19436.png",
+      "sha256": "1247d857629adc1daae62023dc90d33561ff47f8ec47ba1c14f6542ba2b0bb17"
     }
   ],
   "duplicate_message_ids": [
