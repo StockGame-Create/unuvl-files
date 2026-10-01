@@ -44337,6 +44337,20 @@
       "subject": "독서",
       "thumbnail": "thumbnails/19509.png",
       "sha256": "8c00e4317b0c7ded90fca545ac916cbdb21e289c7bad94f9a470bf5b7c4af63b"
+    },
+    {
+      "message_id": 19508,
+      "filename": "마더텅 독서 2028학년도 예시문항 정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19508_.2028.pdf",
+      "size_bytes": 747223,
+      "telegram_date": "2026-02-22T18:30:46+00:00",
+      "title": "국어 2027 마더텅 수능기출문제집 2028학년도 예시문항 독서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "독서",
+      "thumbnail": "thumbnails/19508.png",
+      "sha256": "e24df6e4a11ca018c6501fd8c5588f29ab0c95d1d21c10d7cb21a69e57c18345"
     }
   ],
   "duplicate_message_ids": [
