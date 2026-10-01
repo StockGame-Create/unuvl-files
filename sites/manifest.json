@@ -43553,6 +43553,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19609.png",
       "sha256": "5e4a7c023be37ce032410a365179ea1b8f110f04ec5be5c4ecf9401982f59b1c"
+    },
+    {
+      "message_id": 19607,
+      "filename": "차길영_마으겔로쉬_개념완성_수학I_정답해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19607_._._._.I_.pdf",
+      "size_bytes": 38429119,
+      "telegram_date": "2026-02-26T16:41:55+00:00",
+      "title": "수학 차길영의 마으겔로쉬 개념완성 수학1 삼각함수",
+      "year": null,
+      "instructor": "차길영",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19607.png",
+      "sha256": "a538e90fe8debb1038a49d525b33801c87a0132e04fb567d57e202852feffa67"
     }
   ],
   "duplicate_message_ids": [
