@@ -46409,6 +46409,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/19258.png",
       "sha256": "6ee7168e33381cf9180ab5730ffd206dff4eec31921725b86b76b39762f9386c"
+    },
+    {
+      "message_id": 19256,
+      "filename": "2027_물아일체_주간_다이나믹스_1주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19256_2027_._._._1.pdf",
+      "size_bytes": 831579,
+      "telegram_date": "2026-02-10T01:57:54+00:00",
+      "title": "물1 강민웅 물아일체 주간 다이나믹스 물리학1",
+      "year": "2027",
+      "instructor": "강민웅",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/19256.png",
+      "sha256": "b5d576b6473bb5db7b64e5c3ab095f5da0ceab88f7c1955236ab4042a161348b"
     }
   ],
   "duplicate_message_ids": [
