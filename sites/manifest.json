@@ -48943,6 +48943,20 @@
       "subject": "통합과학2",
       "thumbnail": "thumbnails/18943.png",
       "sha256": "3b02a35b38905482b4a9b22567b23a104c61713a0dc3e7801ce731bd9692f33d"
+    },
+    {
+      "message_id": 18941,
+      "filename": "신영균_모의고사_시즌1_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18941_._._.1_2.pdf",
+      "size_bytes": 22245068,
+      "telegram_date": "2026-01-21T16:04:41+00:00",
+      "title": "국어 신영균 현장 모의고사 시즌1 2회",
+      "year": "2027",
+      "instructor": "신영균",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18941.png",
+      "sha256": "28f14e72e2bfb5781b4493d0ab6c86b56fd0dda3d3c01e5ac367eabf168c503c"
     }
   ],
   "duplicate_message_ids": [
