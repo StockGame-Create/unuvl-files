@@ -41131,6 +41131,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19881.png",
       "sha256": "a9ff10f1964c8e5f625e2457993259cf96097a7fe57420779071c3b8be257c09"
+    },
+    {
+      "message_id": 19879,
+      "filename": "2027_수능특강_영어_사용설명서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19879_2027_._._.pdf",
+      "size_bytes": 92224806,
+      "telegram_date": "2026-03-16T10:17:37+00:00",
+      "title": "영어 수능특강 사용설명서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19879.png",
+      "sha256": "a212876dc5331ad729f238640fbffea604cccb6757e6a0eb1ac822be090496a5"
     }
   ],
   "duplicate_message_ids": [
