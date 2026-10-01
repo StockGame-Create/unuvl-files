@@ -47865,6 +47865,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19077.png",
       "sha256": "87d6ac3c62ff37fe49893ecffa03063a7cba15dd03464e0eb777ea32ede4b046"
+    },
+    {
+      "message_id": 19075,
+      "filename": "22개정_통합과학2_오투.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19075_22._.2_.pdf",
+      "size_bytes": 91600855,
+      "telegram_date": "2026-02-01T07:25:23+00:00",
+      "title": "과학 오투 통합과학2",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학2",
+      "thumbnail": "thumbnails/19075.png",
+      "sha256": "3e81a19418f1eb3f4860198456742936859e686d5321cab9dd8843c45e3aec9a"
     }
   ],
   "duplicate_message_ids": [
