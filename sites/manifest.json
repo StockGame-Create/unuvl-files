@@ -46367,6 +46367,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19267.png",
       "sha256": "449cedb1d4db3d193b1abaef2e01456e83fa29ab5397b8fff0297f2ed364684f"
+    },
+    {
+      "message_id": 19264,
+      "filename": "27페메 수학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19264_27.1.pdf",
+      "size_bytes": 109222374,
+      "telegram_date": "2026-02-11T09:33:26+00:00",
+      "title": "수학 페이스메이커 수학1",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19264.png",
+      "sha256": "cf50d173d60a1cb0c352b01cc2291e377995ca837ea7748a4c6f50ccb784ba98"
     }
   ],
   "duplicate_message_ids": [
