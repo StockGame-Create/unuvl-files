@@ -48901,6 +48901,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18947.png",
       "sha256": "1273dca24bb3f1ec5703ea1f452f8a846c04f11e2c68a4ae13b2ce825f394942"
+    },
+    {
+      "message_id": 18946,
+      "filename": "풍산자 반복수학 대수 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18946_.pdf",
+      "size_bytes": 2753992,
+      "telegram_date": "2026-01-22T08:54:38+00:00",
+      "title": "수학 풍산자 반복수학 대수",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18946.png",
+      "sha256": "f0ba6aa9dd4bd2baf09384cacf52f7ba3735f68998e098ffd5ea78a4a0360cb1"
     }
   ],
   "duplicate_message_ids": [
