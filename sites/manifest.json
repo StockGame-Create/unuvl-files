@@ -48187,6 +48187,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/19033.png",
       "sha256": "c90f004e5bd9bea8c1e6f3027f7d51323e3058f12153b2436439c0d28042f606"
+    },
+    {
+      "message_id": 19031,
+      "filename": "워드마스터-하이퍼2000 2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19031_.-.2000.2.pdf",
+      "size_bytes": 28011788,
+      "telegram_date": "2026-01-28T17:51:10+00:00",
+      "title": "영어 Word Master 하이퍼 2000 mini",
+      "year": null,
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19031.png",
+      "sha256": "c8829faddc6caf80a7b55216d52ca6025606712439b8a3d5173c067d0c4f3d2a"
     }
   ],
   "duplicate_message_ids": [
