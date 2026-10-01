@@ -44925,6 +44925,20 @@
       "subject": "한국사",
       "thumbnail": "thumbnails/19439.png",
       "sha256": "b22898a02a4efffb76d28a1f4369643c0aedfbe201a0ea535196601a7b3d2ca4"
+    },
+    {
+      "message_id": 19437,
+      "filename": "22개정_생명과학_개념완성_문제편_백호.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19437_22._._._._.pdf",
+      "size_bytes": 63822731,
+      "telegram_date": "2026-02-20T02:00:23+00:00",
+      "title": "생1 개념완성 문제편 생명과학1",
+      "year": "2027",
+      "instructor": "백호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/19437.png",
+      "sha256": "ff291d2e8134bdb56e62024d8fc5a883e4d45ee1ea8e086175e63e3c0883b2f9"
     }
   ],
   "duplicate_message_ids": [
