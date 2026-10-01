@@ -47053,6 +47053,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/19179.png",
       "sha256": "736b89d93e0bc3297258d03ea4792079c6e22e557949775eb0590b47ee6fa531"
+    },
+    {
+      "message_id": 19178,
+      "filename": "2027_마더텅_생명과학I.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19178_2027_._.I.pdf",
+      "size_bytes": 67173248,
+      "telegram_date": "2026-02-04T07:13:42+00:00",
+      "title": "생1 마더텅 수능기출문제집 생명과학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/19178.png",
+      "sha256": "e7ff87ce7defaf0af6016c083a3f182fceef55383f5be573d31d351902026049"
     }
   ],
   "duplicate_message_ids": [
