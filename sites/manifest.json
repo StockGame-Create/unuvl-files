@@ -43357,6 +43357,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19630.png",
       "sha256": "470abd1fac511c3c40834b9a08684c5a1c7bca3ac1104d0b38813f3b42f9d930"
+    },
+    {
+      "message_id": 19628,
+      "filename": "2027_마더텅_수능기출문제집_지구과학1_문제편정답표시없음.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19628_2027_._._.1_.pdf",
+      "size_bytes": 104829847,
+      "telegram_date": "2026-03-01T16:39:09+00:00",
+      "title": "2027_마더텅_수능기출문제집_지구과학1_문제편정답표시없음",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/19628.png",
+      "sha256": "752c5a09e054b1a8bc8a2a9747066e89a66b9ff2cdcd20e3e56aae3d0eee9cad"
     }
   ],
   "duplicate_message_ids": [
