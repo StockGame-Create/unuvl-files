@@ -46577,6 +46577,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19239.png",
       "sha256": "6994b79db0ee5a0c1c264bf396485f59a8ee5172591648c4aa8dfef51941f7e4"
+    },
+    {
+      "message_id": 19237,
+      "filename": "내공의힘_고등_통합사회_정답해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19237_._._._.pdf",
+      "size_bytes": 6424377,
+      "telegram_date": "2026-02-08T11:19:45+00:00",
+      "title": "사회 내공의힘(2022) 통합사회",
+      "year": null,
+      "instructor": null,
+      "subject": "통합사회",
+      "thumbnail": "thumbnails/19237.png",
+      "sha256": "b1a9ca39f808b53235691089b27d68080906861a0d66e83a745e3e8a3a9867ac"
     }
   ],
   "duplicate_message_ids": [
