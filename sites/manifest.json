@@ -48677,6 +48677,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18973.png",
       "sha256": "ad051c120e6a913f85627247fffef8515fd1ee517d6bdb565efcbb5b95a7f1c6"
+    },
+    {
+      "message_id": 18971,
+      "filename": "전형태 매체 N제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18971_.N.pdf",
+      "size_bytes": 85368214,
+      "telegram_date": "2026-01-24T03:12:20+00:00",
+      "title": "국어 전형태 매체 N제",
+      "year": "2025",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18971.png",
+      "sha256": "9358c75b58ea4be3a54b3b64a8671fae019cb14c72764beb85f1fb18cb1fb044"
     }
   ],
   "duplicate_message_ids": [
