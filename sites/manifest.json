@@ -46395,6 +46395,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/19259.png",
       "sha256": "39c78af412eee3b635cdd811c78926aded3bc397d785b551c3edf9203c7a530b"
+    },
+    {
+      "message_id": 19258,
+      "filename": "2027 수특 사문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19258_2027.pdf",
+      "size_bytes": 11811266,
+      "telegram_date": "2026-02-10T03:19:37+00:00",
+      "title": "사문 2027 수능특강 사회문화",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/19258.png",
+      "sha256": "6ee7168e33381cf9180ab5730ffd206dff4eec31921725b86b76b39762f9386c"
     }
   ],
   "duplicate_message_ids": [
