@@ -46941,6 +46941,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19197.png",
       "sha256": "0102177d133675230f16817f723b646836fb6ae1e70a252275fa8832b355d23c"
+    },
+    {
+      "message_id": 19191,
+      "filename": "_talkf_wzaZc9wpBm_MlzexRwKkhpdFzdWn5HAxk_f_57e961e61933.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19191__talkf_wzaZc9wpBm_MlzexRwKkhpdFzdWn5HAxk_f_57e961e61933.pdf",
+      "size_bytes": 29954105,
+      "telegram_date": "2026-02-05T09:40:18+00:00",
+      "title": "수학 한완수 수2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19191.png",
+      "sha256": "1e8cbc0449a329e6a676657c96e9bfe3dd7833c9161172a75df1a110a285f595"
     }
   ],
   "duplicate_message_ids": [
