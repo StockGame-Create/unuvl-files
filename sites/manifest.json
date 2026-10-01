@@ -45961,6 +45961,20 @@
       "subject": "물리학",
       "thumbnail": "thumbnails/19317.png",
       "sha256": "7f01671f24a727cfe1516dc3c9518f261b67debc3a34bb7ebf3731568fc92d42"
+    },
+    {
+      "message_id": 19312,
+      "filename": "EBS 올림포스 고난도 공수2 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19312_EBS.2.pdf",
+      "size_bytes": 2598915,
+      "telegram_date": "2026-02-14T12:21:32+00:00",
+      "title": "수학 올림포스 고난도 공통수학2",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19312.png",
+      "sha256": "b9d2bd4a88e24dacc2431e4c4ac880aa4499dfcb73e5eeeb359e5722e7476c8a"
     }
   ],
   "duplicate_message_ids": [
