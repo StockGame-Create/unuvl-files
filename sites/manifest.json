@@ -44449,6 +44449,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/19498.png",
       "sha256": "094dd862818efeab020c89248ea1da195e8b8824596546cc0a6f04fa6f3149d7"
+    },
+    {
+      "message_id": 19494,
+      "filename": "8주차 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19494_8.pdf",
+      "size_bytes": 385883,
+      "telegram_date": "2026-02-22T04:11:44+00:00",
+      "title": "수학 강기원T 8주차 수학2 + 미적분 Review Test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19494.png",
+      "sha256": "8fad4c160450d4754f6e0285110a09ce01e63b492d8b0ece968ca1166899ac4f"
     }
   ],
   "duplicate_message_ids": [
