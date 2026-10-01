@@ -42825,6 +42825,20 @@
       "subject": "화학",
       "thumbnail": "thumbnails/19697.png",
       "sha256": "7e8cd1736819be62ba97e05285d99187b3eb3526c9cf6b7668bfc7c024b6ba0a"
+    },
+    {
+      "message_id": 19696,
+      "filename": "정훈구_기출의_정답_화2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19696_._._._.2.pdf",
+      "size_bytes": 14247164,
+      "telegram_date": "2026-03-05T09:35:30+00:00",
+      "title": "화2 기출의 정답",
+      "year": "2027",
+      "instructor": "정훈구",
+      "subject": "화학",
+      "thumbnail": "thumbnails/19696.png",
+      "sha256": "0fdb2635b63d9e18a2f6975bc55ef6e473df203a326d9070f174fc8286091362"
     }
   ],
   "duplicate_message_ids": [
