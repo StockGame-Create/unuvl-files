@@ -43903,6 +43903,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19567.png",
       "sha256": "122dc5920f374b27dc6c8eec0709ead5c6f89ce73467e866a57d99c03f94b76d"
+    },
+    {
+      "message_id": 19566,
+      "filename": "문학올인원_해설_전형태.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19566_._._.pdf",
+      "size_bytes": 158912846,
+      "telegram_date": "2026-02-24T13:39:07+00:00",
+      "title": "국어 문학 올인원",
+      "year": "2027",
+      "instructor": "전형태",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19566.png",
+      "sha256": "1cb9c24e06406c042fa2f40ea57b6bdca633331ce8e0b07a33995e79b8124827"
     }
   ],
   "duplicate_message_ids": [
