@@ -48593,6 +48593,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18979.png",
       "sha256": "3ef6d65499f1dbc3280bc53c2159c260e328c35ec6df3c29dfb9fbf32fcdb1db"
+    },
+    {
+      "message_id": 18978,
+      "filename": "3주차 문제_260124_005348.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18978_3._260124_005348.pdf",
+      "size_bytes": 574146,
+      "telegram_date": "2026-01-24T09:43:49+00:00",
+      "title": "지1 이신혁T 수업 복습 테스트 2~5주차",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18978.png",
+      "sha256": "db19c3525c61fa5bb317a57e6ddfab42d1a0d2843ed6f0374271698927fe5c0f"
     }
   ],
   "duplicate_message_ids": [
