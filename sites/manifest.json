@@ -49209,6 +49209,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18905.png",
       "sha256": "47ec8a98cd547b014472d65002c64a0e51600480c43d8b46abda54add033915c"
+    },
+    {
+      "message_id": 18903,
+      "filename": "어휘끝개정_고교기본_본문_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18903_._._._2.pdf",
+      "size_bytes": 29343545,
+      "telegram_date": "2026-01-18T16:24:19+00:00",
+      "title": "영어 어휘끝 고교기본 1260",
+      "year": null,
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/18903.png",
+      "sha256": "0ea0223a33e0c8a92d45cfe2a4b7bfc392cc2442a8f55ddf1b12ee4a982c4b63"
     }
   ],
   "duplicate_message_ids": [
