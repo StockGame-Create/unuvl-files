@@ -43203,6 +43203,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19649.png",
       "sha256": "102f223dea3f77c45e5ce8b9e19b68e4137b0623383a96ed5e67f61025bda356"
+    },
+    {
+      "message_id": 19648,
+      "filename": "[2027] Starting Block 확률과 통계_정답 및 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19648_.2027.Starting.Block._.pdf",
+      "size_bytes": 14719119,
+      "telegram_date": "2026-03-01T16:41:35+00:00",
+      "title": "수학 스타팅블록 확률과 통계 #스블",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19648.png",
+      "sha256": "6add80ca27307ace6aa77ab7a0ebcdd63fe954672fce28c9a13eec7aced9e55a"
     }
   ],
   "duplicate_message_ids": [
