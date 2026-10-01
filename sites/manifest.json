@@ -42125,6 +42125,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19775.png",
       "sha256": "1dcd40b4805f746ab4655a9064eeb5b1e43299d4e3f405cf0d75590f9f4b42a1"
+    },
+    {
+      "message_id": 19773,
+      "filename": "[2027] KICE Anatomy 확률과 통계_정답 및 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19773_.2027.KICE.Anatomy._.pdf",
+      "size_bytes": 208460911,
+      "telegram_date": "2026-03-11T01:49:36+00:00",
+      "title": "수학 KICE Anatomy 확률과 통계",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19773.png",
+      "sha256": "a504eb6aa32fd98d1d70c71dd3cb0809525c461d6c64d89d23428a1b00f2cd8c"
     }
   ],
   "duplicate_message_ids": [
