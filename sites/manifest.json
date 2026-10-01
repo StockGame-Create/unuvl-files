@@ -48985,6 +48985,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/18938.png",
       "sha256": "395a9307336eddefb42bfc6429170253604bcdad6b3475ef6c8722fa481fed7a"
+    },
+    {
+      "message_id": 18936,
+      "filename": "박선 어싸 현강자료[외부은하 우주팽창].pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18936_.pdf",
+      "size_bytes": 34094334,
+      "telegram_date": "2026-01-21T13:04:05+00:00",
+      "title": "지1 DAILY QUEST 현강자료",
+      "year": "2027",
+      "instructor": "박선",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18936.png",
+      "sha256": "21924f2aa2ab2e9d7c5ff4ca724806fa80d694100edad317ead8dd762e7e367a"
     }
   ],
   "duplicate_message_ids": [
