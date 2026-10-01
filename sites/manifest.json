@@ -45387,6 +45387,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19372.png",
       "sha256": "b492cc044592c13561064c3c795c9df959a960f65b3b17dd6de20366c3458b08"
+    },
+    {
+      "message_id": 19371,
+      "filename": "드릴5 수2 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19371_.5.2.1.pdf",
+      "size_bytes": 72796432,
+      "telegram_date": "2026-02-15T08:56:33+00:00",
+      "title": "수학 현우진 드릴5 수1 수2 미적 #드릴",
+      "year": "2025",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19371.png",
+      "sha256": "e10e1a6ead838e3feb0c69b68a66246ac12dffa0997b3a48eefce720c8c4d7fa"
     }
   ],
   "duplicate_message_ids": [
