@@ -42979,6 +42979,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19680.png",
       "sha256": "dd57378247f3f87c93acb55fd4758bf137783ef16afb1e9385c71d6af11440e5"
+    },
+    {
+      "message_id": 19678,
+      "filename": "강대 CIRCUIT X 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19678_.CIRCUIT.X.4.pdf",
+      "size_bytes": 1392404,
+      "telegram_date": "2026-03-03T16:20:16+00:00",
+      "title": "수학 CIRCUIT X THE BEST 4회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19678.png",
+      "sha256": "1bcd86025f2ac9b6cc26612ba77269a66948f92e5b949708a0842b4cebf791ff"
     }
   ],
   "duplicate_message_ids": [
