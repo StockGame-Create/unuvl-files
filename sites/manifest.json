@@ -42559,6 +42559,20 @@
       "subject": "수학2",
       "thumbnail": "thumbnails/19726.png",
       "sha256": "5f5e7bb5ee6771a6b05f65010bf0bcb5834a56e5b74b769ab635039552712be3"
+    },
+    {
+      "message_id": 19725,
+      "filename": "2027_알파테크닉_수학Ⅱ_워크북.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19725_2027_._._.pdf",
+      "size_bytes": 5406621,
+      "telegram_date": "2026-03-07T10:59:40+00:00",
+      "title": "수학 2027 알파테크닉 수학2",
+      "year": "2027",
+      "instructor": "한석원",
+      "subject": "수학2",
+      "thumbnail": "thumbnails/19725.png",
+      "sha256": "44e557e16538209f8975f4be4e616dd3b26191686ebe695ed594ef7b61c9e483"
     }
   ],
   "duplicate_message_ids": [
