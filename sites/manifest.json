@@ -46101,6 +46101,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19296.png",
       "sha256": "6e647582d545a4a302d76c5a8e87c424ce48e7c5f71eefe7ac6f712a3810b274"
+    },
+    {
+      "message_id": 19294,
+      "filename": "2027_수능특강_국어영역_화법과_작문_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19294_2027_._._._._.pdf",
+      "size_bytes": 1772166,
+      "telegram_date": "2026-02-13T04:16:13+00:00",
+      "title": "화작 2027 수능특강 화법과 작문",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화법과 작문",
+      "thumbnail": "thumbnails/19294.png",
+      "sha256": "0af8328a31e0afa91386063df68b8719b65b65b633fe21379911ebafc8fc2553"
     }
   ],
   "duplicate_message_ids": [
