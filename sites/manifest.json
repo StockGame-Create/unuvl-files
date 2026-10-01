@@ -41649,6 +41649,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/19824.png",
       "sha256": "65f223be6b5535357d590051a666874a504c17b6540a32f6983cce287f5bf586"
+    },
+    {
+      "message_id": 19823,
+      "filename": "1등급_만들기_사회문화_715제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19823_1._._._715.pdf",
+      "size_bytes": 13509166,
+      "telegram_date": "2026-03-13T07:39:34+00:00",
+      "title": "사회 1등급 만들기 사회문화",
+      "year": null,
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/19823.png",
+      "sha256": "a505c92e0252d19b956f3d78c35ec5d3fa5d947511c8e7ae79cc110d5aabf760"
     }
   ],
   "duplicate_message_ids": [
