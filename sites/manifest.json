@@ -48075,6 +48075,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19047.png",
       "sha256": "22b43ed68cba37a136daed98f0c2db44652cdf017d7255764fd37eb8c3959866"
+    },
+    {
+      "message_id": 19045,
+      "filename": "1월 서바 생윤윤사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19045_1.pdf",
+      "size_bytes": 10182440,
+      "telegram_date": "2026-01-30T06:36:51+00:00",
+      "title": "생윤, 윤사 시대인재 1월 예비시행 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과윤리, 윤리와사상",
+      "thumbnail": "thumbnails/19045.png",
+      "sha256": "2d4234c7e0ab004e14d6fb0fe3b7780f5b7a05a5dd558bdec811ba2557bc2b3d"
     }
   ],
   "duplicate_message_ids": [
