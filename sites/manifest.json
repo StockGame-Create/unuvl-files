@@ -48509,6 +48509,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18987.png",
       "sha256": "f19efb3bc1a3064e725448a8615bc63a57a742a0cc9c07718c61103f53ec2320"
+    },
+    {
+      "message_id": 18986,
+      "filename": "22개정완자고등생명과학25_정답친해.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18986_22.25_.pdf",
+      "size_bytes": 22763222,
+      "telegram_date": "2026-01-25T06:45:05+00:00",
+      "title": "과학 완자 생명과학",
+      "year": null,
+      "instructor": null,
+      "subject": "생명과학",
+      "thumbnail": "thumbnails/18986.png",
+      "sha256": "2350bd864fd9ad9e5a440d9b29a47ffb216aa0f9df59151c524f12e9cc74ad9b"
     }
   ],
   "duplicate_message_ids": [
