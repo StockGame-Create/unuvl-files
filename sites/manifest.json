@@ -43973,6 +43973,20 @@
       "subject": "국어, 영어, 수학",
       "thumbnail": "thumbnails/19547.png",
       "sha256": "996ed4ace142fafd41c35ee8c4273d12a735db533b498381ea5e75f6bed66c23"
+    },
+    {
+      "message_id": 19546,
+      "filename": "2026_대성_윈터스쿨_고3_평가고사_정담_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19546_2026_._._.3_._._._.pdf",
+      "size_bytes": 7523952,
+      "telegram_date": "2026-02-24T04:52:11+00:00",
+      "title": "국어, 영어, 수학 Winter School 고3 평가고사 #더프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어, 영어, 수학",
+      "thumbnail": "thumbnails/19546.png",
+      "sha256": "2c85e184b6b09d80facfbe296c3915e34155881c6b37c996e87b5143fbd1742b"
     }
   ],
   "duplicate_message_ids": [
