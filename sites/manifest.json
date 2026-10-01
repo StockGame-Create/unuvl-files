@@ -45233,6 +45233,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19393.png",
       "sha256": "037cb02393664d104236b7a8e0197190f5188832bdaa25f6c0ae4a03d1db02e2"
+    },
+    {
+      "message_id": 19392,
+      "filename": "유형,내신_고쟁이_대수_정답과_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19392_._._._._.pdf",
+      "size_bytes": 3462373,
+      "telegram_date": "2026-02-15T13:16:26+00:00",
+      "title": "수학 고쟁이 대수",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19392.png",
+      "sha256": "18c25037d4414e8576ad813de804d21da582e8badddc16535ca57f2ed6629352"
     }
   ],
   "duplicate_message_ids": [
