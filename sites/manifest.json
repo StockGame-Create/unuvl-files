@@ -48285,6 +48285,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19018.png",
       "sha256": "d8b0181533865cc09e6dbcfb0adcf56980458b2038f51136f192a510a6ab382a"
+    },
+    {
+      "message_id": 19016,
+      "filename": "2027_마더텅_수능기출문제집_국어_독서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19016_2027_._._._.pdf",
+      "size_bytes": 13734627,
+      "telegram_date": "2026-01-28T08:39:31+00:00",
+      "title": "국어 마더텅 수능기출문제 독서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19016.png",
+      "sha256": "37e51efcbd7eabe302f2db5f213ac3a60ea0035bb9ad0fe30905e180553a0305"
     }
   ],
   "duplicate_message_ids": [
