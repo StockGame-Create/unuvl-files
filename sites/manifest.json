@@ -42545,6 +42545,20 @@
       "subject": "미적분1",
       "thumbnail": "thumbnails/19728.png",
       "sha256": "603723e26d462ac1d5512fc15f559f0ac3c8028c7815f210e2e617bb86be1607"
+    },
+    {
+      "message_id": 19726,
+      "filename": "2027_알파테크닉_수학Ⅱ_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19726_2027_._._._._.pdf",
+      "size_bytes": 15204290,
+      "telegram_date": "2026-03-07T10:59:41+00:00",
+      "title": "수학 2027 알파테크닉 수학2",
+      "year": "2027",
+      "instructor": "한석원",
+      "subject": "수학2",
+      "thumbnail": "thumbnails/19726.png",
+      "sha256": "5f5e7bb5ee6771a6b05f65010bf0bcb5834a56e5b74b769ab635039552712be3"
     }
   ],
   "duplicate_message_ids": [
