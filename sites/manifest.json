@@ -46353,6 +46353,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19269.png",
       "sha256": "47e7ad66e582447f40402267a9a1880305964247116053a8d1c119998ae9f5a6"
+    },
+    {
+      "message_id": 19267,
+      "filename": "이감_모의고사_제1차_지문_분석.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19267_._._.1._._.pdf",
+      "size_bytes": 18448757,
+      "telegram_date": "2026-02-12T05:15:07+00:00",
+      "title": "국어 이감 제1차 예비평가 분석(폰스캔) #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19267.png",
+      "sha256": "449cedb1d4db3d193b1abaef2e01456e83fa29ab5397b8fff0297f2ed364684f"
     }
   ],
   "duplicate_message_ids": [
