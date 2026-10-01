@@ -50147,6 +50147,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18782.png",
       "sha256": "5d2a76b6c6cdb705d0239c3a1f8f76e897ee143cb3a0aa121d7e7a6abdc72ee5"
+    },
+    {
+      "message_id": 18781,
+      "filename": "2027_마더텅_수능기출문제집_수학Ⅱ_문제편정답표시X.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18781_2027_._._._.X.pdf",
+      "size_bytes": 246908654,
+      "telegram_date": "2026-01-06T04:53:26+00:00",
+      "title": "수학 마더텅 수능기출문제 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18781.png",
+      "sha256": "9bd58cf8980e9622ed978e6f147fdf34f6d701effa43ca5a924867987b35220d"
     }
   ],
   "duplicate_message_ids": [
