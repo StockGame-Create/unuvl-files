@@ -43217,6 +43217,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19648.png",
       "sha256": "6add80ca27307ace6aa77ab7a0ebcdd63fe954672fce28c9a13eec7aced9e55a"
+    },
+    {
+      "message_id": 19646,
+      "filename": "통합과학1 - EBS 개념완성 본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19646_.1.-.EBS.pdf",
+      "size_bytes": 18430699,
+      "telegram_date": "2026-03-01T16:41:23+00:00",
+      "title": "통합과학1 EBS 개념완성",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학1",
+      "thumbnail": "thumbnails/19646.png",
+      "sha256": "2c5542b7189ab477dc365d21391dfb7e08a50335aaa569b37bed963174ffb8cb"
     }
   ],
   "duplicate_message_ids": [
