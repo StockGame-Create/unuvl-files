@@ -49307,6 +49307,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18893.png",
       "sha256": "a22a163ccff989ff8f462af6145127104a555a5928cae659b04b3224bf5ef76d"
+    },
+    {
+      "message_id": 18891,
+      "filename": "고급물리학(2022개정).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18891_.2022.pdf",
+      "size_bytes": 42283415,
+      "telegram_date": "2026-01-17T18:27:12+00:00",
+      "title": "고급물리 선두교과서 고등학교 고급물리학",
+      "year": null,
+      "instructor": null,
+      "subject": "고급물리학",
+      "thumbnail": "thumbnails/18891.png",
+      "sha256": "27ec3eb7cf11acfe43dc4e249db988fdd4958ce5701df4971ee8d3ae2be3c6de"
     }
   ],
   "duplicate_message_ids": [
