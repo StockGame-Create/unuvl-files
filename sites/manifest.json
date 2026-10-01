@@ -44309,6 +44309,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/19512.png",
       "sha256": "b54f44ac575b910035abfeb62fe4b78a491c7cb241230b4a29b11a6770be9f7b"
+    },
+    {
+      "message_id": 19510,
+      "filename": "마더텅 문학 2028학년도 예시문항 정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19510_.2028.pdf",
+      "size_bytes": 48187,
+      "telegram_date": "2026-02-22T18:30:47+00:00",
+      "title": "국어 2027 마더텅 수능기출문제집 2028학년도 예시문항 문학",
+      "year": "2027",
+      "instructor": null,
+      "subject": "문학",
+      "thumbnail": "thumbnails/19510.png",
+      "sha256": "882ec2578641734c636d96adfb62a3567756ea48e794eca0f4c2a0381999e0bd"
     }
   ],
   "duplicate_message_ids": [
