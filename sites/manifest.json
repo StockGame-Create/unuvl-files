@@ -49839,6 +49839,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18822.png",
       "sha256": "3b73bbb81416a76f2cc2a6816ccf43dab8e9fa0f90ff2c658d940478e47dec07"
+    },
+    {
+      "message_id": 18820,
+      "filename": "이신혁 칼레이도 스코프 천체편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18820_.pdf",
+      "size_bytes": 105697622,
+      "telegram_date": "2026-01-09T17:34:03+00:00",
+      "title": "지1 KALEIDO SCOPE",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18820.png",
+      "sha256": "66ec537f4b206a1d17ba68662ad7260279f9a65d08f9a6d99ecdd056dc09a352"
     }
   ],
   "duplicate_message_ids": [
