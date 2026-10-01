@@ -45261,6 +45261,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19387.png",
       "sha256": "abff94c6241fcf023e4380b41d3a4734096e55e37860c96700ff8e6fc7a98b80"
+    },
+    {
+      "message_id": 19385,
+      "filename": "2027_시대인재_수능기출_문제집_확률과_통계_CORE_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19385_2027_._._._._._CORE_.pdf",
+      "size_bytes": 26357532,
+      "telegram_date": "2026-02-15T11:49:33+00:00",
+      "title": "수학 시대인재 수능기출 문제집 CORE 확률과 통계",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19385.png",
+      "sha256": "5f3b353deff89f229b4209e34837235058b7f93f7e20ae83acbbae55ea680aa8"
     }
   ],
   "duplicate_message_ids": [
