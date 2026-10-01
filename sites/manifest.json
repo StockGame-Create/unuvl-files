@@ -43945,6 +43945,20 @@
       "subject": "한국사",
       "thumbnail": "thumbnails/19559.png",
       "sha256": "8f115e8151a64cffe19de76ef5ce48446b526483dbe22cb1d2c19d9b9d1a70df"
+    },
+    {
+      "message_id": 19558,
+      "filename": "2027학년도_수특_한국사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19558_2027._._.pdf",
+      "size_bytes": 39358625,
+      "telegram_date": "2026-02-24T11:18:08+00:00",
+      "title": "한국사 2027 수능특강",
+      "year": "2027",
+      "instructor": null,
+      "subject": "한국사",
+      "thumbnail": "thumbnails/19558.png",
+      "sha256": "89743ef805d33dd0bf25e368c48e7d28fc251a9e48409445561ea5fb6e280e61"
     }
   ],
   "duplicate_message_ids": [
