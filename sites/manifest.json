@@ -42783,6 +42783,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19701.png",
       "sha256": "4720059de051c8a3d4c034a115af1572502b22730b1f6a892d42f2b52d8b9be1"
+    },
+    {
+      "message_id": 19700,
+      "filename": "2027 장재원T 로비스트02.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19700_2027.T.02.pdf",
+      "size_bytes": 40416107,
+      "telegram_date": "2026-03-05T13:38:15+00:00",
+      "title": "수학 LOBBYIST 01~03",
+      "year": "2027",
+      "instructor": "장재원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19700.png",
+      "sha256": "927f7bb4d858bce03391ca79cf9f651859cd49cf045f20ca76a281caae99732f"
     }
   ],
   "duplicate_message_ids": [
