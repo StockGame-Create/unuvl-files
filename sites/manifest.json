@@ -47963,6 +47963,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19065.png",
       "sha256": "7578d90567a8ff47bd1cc561f8639a5ba574cc396649359aadc744ec0794691a"
+    },
+    {
+      "message_id": 19063,
+      "filename": "2027학년도_신영균_모의고사_시즌1_3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19063_2027._._._.1_3.pdf",
+      "size_bytes": 17513510,
+      "telegram_date": "2026-01-31T05:04:55+00:00",
+      "title": "국어 신영균 현장 모의고사 시즌1 3회 (폰스캔)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19063.png",
+      "sha256": "2393b6f967d80be04c7bc4e01631fb46ba6a7ce54478495a6b62da9041eeabd4"
     }
   ],
   "duplicate_message_ids": [
