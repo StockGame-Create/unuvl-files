@@ -43371,6 +43371,20 @@
       "subject": null,
       "thumbnail": "thumbnails/19628.png",
       "sha256": "752c5a09e054b1a8bc8a2a9747066e89a66b9ff2cdcd20e3e56aae3d0eee9cad"
+    },
+    {
+      "message_id": 19626,
+      "filename": "2027 스키마 n제 해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19626_2027.n.pdf",
+      "size_bytes": 213609479,
+      "telegram_date": "2026-02-28T18:31:01+00:00",
+      "title": "국어 스키마 n제",
+      "year": "2027",
+      "instructor": "이원준",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19626.png",
+      "sha256": "8e88c30a689460166d59b173f12772a0ab6dfca90b60dbc63604cf66b267414d"
     }
   ],
   "duplicate_message_ids": [
