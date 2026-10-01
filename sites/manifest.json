@@ -43245,6 +43245,20 @@
       "subject": "통합과학1",
       "thumbnail": "thumbnails/19645.png",
       "sha256": "8845fb606251cd11b825875c2e9664d1a996ce9a9dc453e495c2237e06a942db"
+    },
+    {
+      "message_id": 19643,
+      "filename": "1_히든_트랙강대_1주차_추가자료_2025_02_21_22_47_28.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19643_1_._._1._._2025_02_21_22_47_28.pdf",
+      "size_bytes": 1017691,
+      "telegram_date": "2026-03-01T16:40:43+00:00",
+      "title": "국어 히든 트랙 (Hidden Track) 1~4 주차",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19643.png",
+      "sha256": "974b47ebee86ba3f5d04d6a4e591342a6916c3025ccf3b0702f41823545facde"
     }
   ],
   "duplicate_message_ids": [
