@@ -43287,6 +43287,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19641.png",
       "sha256": "726cb494cb479ad2f848fae8fdb51cef996755bc304f24d7a48953911afc56ad"
+    },
+    {
+      "message_id": 19640,
+      "filename": "25. _____ _____(_____ 25____ ________).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19640_25._____._____._____.25____.________.pdf",
+      "size_bytes": 1209626,
+      "telegram_date": "2026-03-01T16:40:41+00:00",
+      "title": "국어 히든 트랙 (Hidden Track) 1~4 주차",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19640.png",
+      "sha256": "c5bf95a29e96a88f32fc5b8285ef0ea19452a36fe3e920de3cd722edbf2c8a05"
     }
   ],
   "duplicate_message_ids": [
