@@ -46227,6 +46227,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19283.png",
       "sha256": "7ac0f1f559f311d826d8262c8b118840312014298cd19568769eb8cd373dc82b"
+    },
+    {
+      "message_id": 19282,
+      "filename": "2027 수능특강 기하 정답과 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19282_2027.pdf",
+      "size_bytes": 5406525,
+      "telegram_date": "2026-02-12T18:05:50+00:00",
+      "title": "수학 2027 수능특강 기하",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19282.png",
+      "sha256": "9c32bb5067b4445640f66f31f1c759db78ca9ac2c054ecca88aee3156144a392"
     }
   ],
   "duplicate_message_ids": [
