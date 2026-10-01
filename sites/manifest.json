@@ -48369,6 +48369,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19007.png",
       "sha256": "748cf60e7a7a3ba6d96606b18f04c459b49ca4821ae63e396eb6ddb32b626059"
+    },
+    {
+      "message_id": 19006,
+      "filename": "천일문_핵심_수능_영어는_이걸로_1등급!.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19006_._._._._._1.pdf",
+      "size_bytes": 43298255,
+      "telegram_date": "2026-01-26T11:21:59+00:00",
+      "title": "영어 천일문 기본",
+      "year": null,
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19006.png",
+      "sha256": "2e9ae6c56d3a827da66ee279116f58dd404fb57cbb7671c56baf0758e52c206a"
     }
   ],
   "duplicate_message_ids": [
