@@ -45121,6 +45121,20 @@
       "subject": "윤리와 사상",
       "thumbnail": "thumbnails/19411.png",
       "sha256": "3330543f469f66b793f1dea55221afc1f3bc08ec42cb3c2b6f2c93d11fb2c93a"
+    },
+    {
+      "message_id": 19410,
+      "filename": "2027출제자의눈.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19410_2027.pdf",
+      "size_bytes": 211171217,
+      "telegram_date": "2026-02-17T01:37:33+00:00",
+      "title": "윤사 출제자의 눈 윤리와 사상",
+      "year": "2027",
+      "instructor": "이지영",
+      "subject": "윤리와 사상",
+      "thumbnail": "thumbnails/19410.png",
+      "sha256": "736ba63ea2238f9906c3b1aacc6449f0179b5698e77954bbc7c76d7b00e6ef48"
     }
   ],
   "duplicate_message_ids": [
