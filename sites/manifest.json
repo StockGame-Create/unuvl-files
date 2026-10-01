@@ -41467,6 +41467,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/19845.png",
       "sha256": "21e824733d58187fea7f8c861d71f2fd987f91961c33f3416520e78df22a1370"
+    },
+    {
+      "message_id": 19844,
+      "filename": "1등급_만들기_고등_사회·문화_바른답_알찬풀이.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19844_1._._._._._.pdf",
+      "size_bytes": 3388218,
+      "telegram_date": "2026-03-13T14:15:51+00:00",
+      "title": "사회 1등급 만들기 사회문화",
+      "year": null,
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/19844.png",
+      "sha256": "ef919eddd99465cb844b46122da59e3acaa2ff9d3f324626cf3a688444f3e8b2"
     }
   ],
   "duplicate_message_ids": [
