@@ -49587,6 +49587,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18855.png",
       "sha256": "59f0f9975a71a4c957c17d8a597a9021a49b4234495e2eeaa22048f3df4e4cb9"
+    },
+    {
+      "message_id": 18854,
+      "filename": "27스블 수1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18854_27.1.pdf",
+      "size_bytes": 219135040,
+      "telegram_date": "2026-01-15T16:36:08+00:00",
+      "title": "수학 스타팅블록 수학1 김범준 #스블",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18854.png",
+      "sha256": "2150b0ae9a56b41e6da940fb99c5673d1703995fadc6946f702dbde545d7c712"
     }
   ],
   "duplicate_message_ids": [
