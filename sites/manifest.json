@@ -47361,6 +47361,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19147.png",
       "sha256": "da162b71bb2f8711ae66679aee1a0ca2dabaf38ca36f6842c846879746a2df91"
+    },
+    {
+      "message_id": 19146,
+      "filename": "2026_마더텅_전국연합_학력평가_기출문제집_고2_대수_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19146_2026_._._._._.2_._.pdf",
+      "size_bytes": 314055975,
+      "telegram_date": "2026-02-03T14:14:56+00:00",
+      "title": "수학 마더텅 전국연합학력평가 문제집 고2 대수",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19146.png",
+      "sha256": "1de5dad008a2fca4f5b531b386b5c32111b34fb4d5eb874f813a91030a8faab4"
     }
   ],
   "duplicate_message_ids": [
