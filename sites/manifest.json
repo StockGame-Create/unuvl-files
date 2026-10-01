@@ -48789,6 +48789,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18962.png",
       "sha256": "af1a805b48c9e01f7323be9a87ca7207a76b2d337a5416425263daf94bad02ad"
+    },
+    {
+      "message_id": 18961,
+      "filename": "스타팅블록_미적분_본편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18961_._._.pdf",
+      "size_bytes": 124372589,
+      "telegram_date": "2026-01-23T10:14:04+00:00",
+      "title": "수학 스타팅블록 미적분",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18961.png",
+      "sha256": "2d80389507176e029c2eb22d49e33277a4e92ba96ec5370b63981491f8420670"
     }
   ],
   "duplicate_message_ids": [
