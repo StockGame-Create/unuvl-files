@@ -45681,6 +45681,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19348.png",
       "sha256": "5ebf84ca1d34c15ac1ca36dfa057e40fe65f6fffac1173ab44bec2e4d7159601"
+    },
+    {
+      "message_id": 19347,
+      "filename": "2027마더텅_수능기출문제집_미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19347_2027._._.pdf",
+      "size_bytes": 178149418,
+      "telegram_date": "2026-02-15T08:29:13+00:00",
+      "title": "수학 마더텅 수능기출문제집 미적분 #마더텅",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19347.png",
+      "sha256": "dd4f8d484dec38296d09ca0d3e029662ff47e05c60bf289430cd1cedc961d494"
     }
   ],
   "duplicate_message_ids": [
