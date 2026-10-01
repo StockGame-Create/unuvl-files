@@ -47781,6 +47781,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19088.png",
       "sha256": "cb4c41c756e70dc58e52b9490cd484d76cadf1a93bc943af0efac1524c9078bf"
+    },
+    {
+      "message_id": 19087,
+      "filename": "개념원리_기하_2022개정_정답_및_풀이.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19087_._._2022._._._.pdf",
+      "size_bytes": 46363612,
+      "telegram_date": "2026-02-01T16:07:48+00:00",
+      "title": "수학 개념원리 기하",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19087.png",
+      "sha256": "d3517eca7ac85a972931cef2126ffc2b4466249233a43743e9ee0150c13662f2"
     }
   ],
   "duplicate_message_ids": [
