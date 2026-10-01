@@ -47067,6 +47067,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/19178.png",
       "sha256": "e7ff87ce7defaf0af6016c083a3f182fceef55383f5be573d31d351902026049"
+    },
+    {
+      "message_id": 19176,
+      "filename": "개념형_모의고사_5155회.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19176_._._5155.PDF",
+      "size_bytes": 3919447,
+      "telegram_date": "2026-02-04T01:42:39+00:00",
+      "title": "생1 개념형 모의고사 51-55회",
+      "year": "2027",
+      "instructor": "백호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/19176.png",
+      "sha256": "53b4e42e9b26bfe655277f6f13689ca33c2e3828cd6c4da34ce8676cf5366735"
     }
   ],
   "duplicate_message_ids": [
