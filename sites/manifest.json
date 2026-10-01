@@ -42951,6 +42951,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19682.png",
       "sha256": "2294457b16c9731ef0a5e10bf274d06789cec216e5c3c81b1a9b1e3d00b6bf0e"
+    },
+    {
+      "message_id": 19681,
+      "filename": "미적분Ⅰ_유형편_본책학생용22개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19681_._._.22.pdf",
+      "size_bytes": 1505385,
+      "telegram_date": "2026-03-04T07:09:40+00:00",
+      "title": "수학 개념원리 미적분I 유형편 수2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19681.png",
+      "sha256": "4f814fb42490402c77e37eaa8db558ed0c85cf3ba7dcfa54a4f63dee766ace34"
     }
   ],
   "duplicate_message_ids": [
