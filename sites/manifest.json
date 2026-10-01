@@ -42181,6 +42181,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/19768.png",
       "sha256": "7f418ed4a7071eae8f8be4f963066b6fc8668071e5026e746a02f2c99dd54b98"
+    },
+    {
+      "message_id": 19766,
+      "filename": "EBS 2027 수능개념 강승희의 생활과 윤리 생윤.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19766_EBS.2027.pdf",
+      "size_bytes": 153252796,
+      "telegram_date": "2026-03-10T09:38:07+00:00",
+      "title": "생윤 강승희의 수능개념 생활과윤리",
+      "year": "2027",
+      "instructor": "강승희",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/19766.png",
+      "sha256": "401ab091d548ce5f2cd3ddc31afc504ad686d59f2bbb5f1554e48878595fbdd5"
     }
   ],
   "duplicate_message_ids": [
