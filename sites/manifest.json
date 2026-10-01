@@ -45247,6 +45247,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19392.png",
       "sha256": "18c25037d4414e8576ad813de804d21da582e8badddc16535ca57f2ed6629352"
+    },
+    {
+      "message_id": 19387,
+      "filename": "2026김기원+수리논술+겨울특강+7회차+시험지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19387_2026.%2B.%2B.%2B7.%2B.pdf",
+      "size_bytes": 150890,
+      "telegram_date": "2026-02-15T12:35:32+00:00",
+      "title": "수학 김기원 수리논술 겨울특강 7회차 시험지",
+      "year": "2027",
+      "instructor": "김기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19387.png",
+      "sha256": "abff94c6241fcf023e4380b41d3a4734096e55e37860c96700ff8e6fc7a98b80"
     }
   ],
   "duplicate_message_ids": [
