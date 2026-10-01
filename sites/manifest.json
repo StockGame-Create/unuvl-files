@@ -41817,6 +41817,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19808.png",
       "sha256": "76d37db45126367e5c8f90e39aa7fe40fb1aae704342ae8afac90455d1170ccd"
+    },
+    {
+      "message_id": 19807,
+      "filename": "2027 수학 브릿지 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19807_2027.1.pdf",
+      "size_bytes": 3275684,
+      "telegram_date": "2026-03-12T13:39:04+00:00",
+      "title": "수학 시대인재 브릿지 모의고사 1회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19807.png",
+      "sha256": "19bca6fed8a68a81240fbab254b12f2dda1536c4031a750c756d9197f9923c9d"
     }
   ],
   "duplicate_message_ids": [
