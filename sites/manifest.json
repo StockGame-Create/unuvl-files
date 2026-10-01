@@ -45079,6 +45079,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19418.png",
       "sha256": "f9425b92bfc7539809a08805dbad6873a315c9cbe47b451fa4aa7eaba9a9f246"
+    },
+    {
+      "message_id": 19414,
+      "filename": "강기원_7주차_복테_야매_손풀이.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19414_._7._._._.pdf",
+      "size_bytes": 4891057,
+      "telegram_date": "2026-02-17T01:37:33+00:00",
+      "title": "수학 강기원T 7주차 수학2 + 미적분 Review Test 손풀이",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19414.png",
+      "sha256": "b1c5956361909db0b6866f47225518df503c30bbbc000c6945ca7ae031b67675"
     }
   ],
   "duplicate_message_ids": [
