@@ -45023,6 +45023,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19425.png",
       "sha256": "c77a2b5ec4de30d5e9f4ff9ba84aada62eb33ba90b2d59a5925ec3f735efabde"
+    },
+    {
+      "message_id": 19423,
+      "filename": "김철훈 국어 7주차(폰스캔) (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19423_.7.1.pdf",
+      "size_bytes": 28810173,
+      "telegram_date": "2026-02-18T06:25:48+00:00",
+      "title": "국어 출제자의 눈 산문편 7주차",
+      "year": "2027",
+      "instructor": "김철훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19423.png",
+      "sha256": "9e326436e0be2551f1b8e9106e2b6fb90a8b47162bc778e8932407d2232ab3c6"
     }
   ],
   "duplicate_message_ids": [
