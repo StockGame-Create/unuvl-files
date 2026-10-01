@@ -48159,6 +48159,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19038.png",
       "sha256": "98dd246360bfbfb5d8b37b224c4a8e13aa6b0928d96c9b008383055bec45b63d"
+    },
+    {
+      "message_id": 19037,
+      "filename": "2027학년도수1수능특강.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19037_2027.1.pdf",
+      "size_bytes": 184020501,
+      "telegram_date": "2026-01-29T02:22:29+00:00",
+      "title": "수학 수능특강 수학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19037.png",
+      "sha256": "61f897c0f9f6dd72c5c48652641fa8582d9cd29062c50a3d82de4c01c21bb93a"
     }
   ],
   "duplicate_message_ids": [
