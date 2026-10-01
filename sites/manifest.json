@@ -42321,6 +42321,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19751.png",
       "sha256": "eef5e82c7bfeb72f9b1cea6c76ffb5c9e20f4a772a378d311925e7b56b227ab1"
+    },
+    {
+      "message_id": 19749,
+      "filename": "2027 김재훈 겨울특강 주간지 04주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19749_2027.04.pdf",
+      "size_bytes": 2058656,
+      "telegram_date": "2026-03-08T12:21:29+00:00",
+      "title": "국어 김재훈 겨울특강 주간지 4주차",
+      "year": "2027",
+      "instructor": "김재훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19749.png",
+      "sha256": "7e2e8111685c1471c3605ec0af7a1cea6d5ec7b413178b0af2b97f8153ce7850"
     }
   ],
   "duplicate_message_ids": [
