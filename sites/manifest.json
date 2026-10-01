@@ -44519,6 +44519,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19488.png",
       "sha256": "ca5fe08e1c3b0be895f971bcf53ae9dcb772d38b9a45924f89648b9a2d5a3bcb"
+    },
+    {
+      "message_id": 19487,
+      "filename": "2027_마더텅_수능기출문제집_기하_문제편정답표시O.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19487_2027_._._._.O.pdf",
+      "size_bytes": 250014009,
+      "telegram_date": "2026-02-22T04:06:33+00:00",
+      "title": "수학 2027 마더텅 수능기출문제집 기하",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19487.png",
+      "sha256": "f37b4e4fe721ce65d85c22f5d4a9ce33cda2be179901401182973654d63c9c5d"
     }
   ],
   "duplicate_message_ids": [
