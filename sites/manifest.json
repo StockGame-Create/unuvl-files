@@ -41061,6 +41061,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19887.png",
       "sha256": "2b997df0b694b34deaf48c22af0058a45eee9b7265577b8790536febc51fe59a"
+    },
+    {
+      "message_id": 19886,
+      "filename": "오아시스_도형의_이동과_대칭성_테마_강대_정병훈.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19886_._._._._._._.pdf",
+      "size_bytes": 4244451,
+      "telegram_date": "2026-03-16T23:41:51+00:00",
+      "title": "수학 정병훈T 오아시스 도형 챕터 테마 시리즈",
+      "year": "2027",
+      "instructor": "정병훈",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19886.png",
+      "sha256": "35d695f951adbf57ad42c31e16c5633fad518476e16a77a711def9154b0a12a2"
     }
   ],
   "duplicate_message_ids": [
