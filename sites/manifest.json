@@ -47543,6 +47543,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/19116.png",
       "sha256": "e6bb9f3b2ac69a05e215debf3deeeeac7299b17dc22d25ef53cec1cd12de5b40"
+    },
+    {
+      "message_id": 19115,
+      "filename": "Astatine 모의고사 화학Ⅱ 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19115_Astatine.1.pdf",
+      "size_bytes": 10652972,
+      "telegram_date": "2026-02-02T06:39:25+00:00",
+      "title": "화2 Astatine 모의고사 화학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/19115.png",
+      "sha256": "243f4f1b681b0ba02b1dd8b333a35801f1b4ac5a47670afc80141770d19b6e17"
     }
   ],
   "duplicate_message_ids": [
