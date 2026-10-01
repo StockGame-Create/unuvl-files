@@ -42195,6 +42195,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/19766.png",
       "sha256": "401ab091d548ce5f2cd3ddc31afc504ad686d59f2bbb5f1554e48878595fbdd5"
+    },
+    {
+      "message_id": 19765,
+      "filename": "필노 8,9.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19765_.8.9.pdf",
+      "size_bytes": 57593204,
+      "telegram_date": "2026-03-10T09:38:01+00:00",
+      "title": "지1 이신혁 필기노트 6~9주차 지구과학",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/19765.png",
+      "sha256": "6a651cacf1e6e8dbfa8fa17ff823b04a1177914849ce84905b68501c5c0ba4e1"
     }
   ],
   "duplicate_message_ids": [
