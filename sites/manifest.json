@@ -46563,6 +46563,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19242.png",
       "sha256": "8a6a66c283c23929a2ed7f9029d88b5d81e8e303edc50c9a7d141fbeb5cd4d4f"
+    },
+    {
+      "message_id": 19239,
+      "filename": "정승제_수능에_꼭_필요한_수학_수꼭필.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19239_._._._._._.pdf",
+      "size_bytes": 80627069,
+      "telegram_date": "2026-02-08T13:31:20+00:00",
+      "title": "수학 수능에 꼭 필요한 수학 #수꼭필",
+      "year": "2027",
+      "instructor": "정승제",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19239.png",
+      "sha256": "6994b79db0ee5a0c1c264bf396485f59a8ee5172591648c4aa8dfef51941f7e4"
     }
   ],
   "duplicate_message_ids": [
