@@ -43399,6 +43399,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19625.png",
       "sha256": "e5824c9ab7f620bf084ac21fdfdc1db191a40454d15798f7881bd1ff270e63b5"
+    },
+    {
+      "message_id": 19623,
+      "filename": "[3월 학평 대비] K.U.N 모의고사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19623_.3.K.U.N.pdf",
+      "size_bytes": 2772792,
+      "telegram_date": "2026-02-28T13:59:32+00:00",
+      "title": "영어 3월 학평 대비 김기철 쿤 모의고사",
+      "year": "2027",
+      "instructor": "김기철",
+      "subject": "영어",
+      "thumbnail": "thumbnails/19623.png",
+      "sha256": "2d1a1b74a870b22bbdae203677ee2df48564b0298e6e459ccfa5f0a0b46a2804"
     }
   ],
   "duplicate_message_ids": [
