@@ -50203,6 +50203,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18775.png",
       "sha256": "6db4457e07ac310e9f956c437f7cc85a97818057d6b4b5d82a292f65b64b307d"
+    },
+    {
+      "message_id": 18774,
+      "filename": "문제지_2027학년도_CIRCUIT_X_THE_BEST_0회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18774_._2027._CIRCUIT_X_THE_BEST_0.pdf",
+      "size_bytes": 286873,
+      "telegram_date": "2026-01-04T17:13:49+00:00",
+      "title": "수학 CIRCUIT X THE BEST 0회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18774.png",
+      "sha256": "69cd01678907097af5d2e46c5e20b3f4fe63487933d4dd14ac7be252a76dc0b9"
     }
   ],
   "duplicate_message_ids": [
