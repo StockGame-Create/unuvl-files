@@ -48761,6 +48761,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/18965.png",
       "sha256": "46decc2fe5f45a70c7f379cd247ec2f9f679c9c794615d0d7fff30919646f36b"
+    },
+    {
+      "message_id": 18964,
+      "filename": "2025_시대인재_생명과학2_엣지ATG_02.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18964_2025_._.2_.ATG_02.pdf",
+      "size_bytes": 268404227,
+      "telegram_date": "2026-01-23T12:57:55+00:00",
+      "title": "생2 시대인재 엣지 : ATG 생명과학2",
+      "year": "2025",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/18964.png",
+      "sha256": "5f290eaefedb42777f723dbb468320371237a06b2f67bd86b00700d6d0d21485"
     }
   ],
   "duplicate_message_ids": [
