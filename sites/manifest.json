@@ -49055,6 +49055,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18925.png",
       "sha256": "fa8e817525ec5163e676602d8e02bf9f6c847834c654f40dd449f4d87c24e0a5"
+    },
+    {
+      "message_id": 18924,
+      "filename": "마플 미적분(1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18924_.1.pdf",
+      "size_bytes": 24318886,
+      "telegram_date": "2026-01-20T14:15:37+00:00",
+      "title": "마플 미적분(1)",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18924.png",
+      "sha256": "c9ae68017e1764154455aacdd3efb6ca4ededf9c9d0538d77707fe26103dbf8b"
     }
   ],
   "duplicate_message_ids": [
