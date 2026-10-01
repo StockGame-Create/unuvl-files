@@ -47179,6 +47179,20 @@
       "subject": "윤리와 사상",
       "thumbnail": "thumbnails/19164.png",
       "sha256": "2e9c00115ce8b639e396a7caeecdeacc8ccad66917df6ea4e264b7b75ee47aa1"
+    },
+    {
+      "message_id": 19162,
+      "filename": "CIRCUIT X VOR.3 해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19162_CIRCUIT.X.VOR.3.pdf",
+      "size_bytes": 743633,
+      "telegram_date": "2026-02-03T15:32:08+00:00",
+      "title": "수학 CIRCUIT X THE BEST 3회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19162.png",
+      "sha256": "2bf5ba504a9133b022c9b434c3c045325c0eabb495b8192f2b3184290a8edae4"
     }
   ],
   "duplicate_message_ids": [
