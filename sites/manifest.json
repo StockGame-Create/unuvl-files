@@ -45191,6 +45191,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19403.png",
       "sha256": "cb7cc2c50d81fb5bd744dd41f78f8d376bd1c2a46847143d18d996d53e809d7b"
+    },
+    {
+      "message_id": 19401,
+      "filename": "시발점 공통수학 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19401_.1.pdf",
+      "size_bytes": 421268248,
+      "telegram_date": "2026-02-16T16:25:28+00:00",
+      "title": "수학 시발점 공통수학1",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19401.png",
+      "sha256": "fe156a23e906d79d7254e28d0530106b6496fc7c9d271b6e4f4ffe270a3a1f82"
     }
   ],
   "duplicate_message_ids": [
