@@ -45933,6 +45933,20 @@
       "subject": "생명과학",
       "thumbnail": "thumbnails/19320.png",
       "sha256": "8ff003cba1ba6fde9d92f56db8fa47a2ae40100e7c0137f3f959fb408dd3ebff"
+    },
+    {
+      "message_id": 19319,
+      "filename": "메가스터디 N제 생명과학 515제_해설(001-048) (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19319_.N.515._.001-048.1.pdf",
+      "size_bytes": 1664633,
+      "telegram_date": "2026-02-14T12:22:39+00:00",
+      "title": "생1 메가스터디 N제 생명과학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학",
+      "thumbnail": "thumbnails/19319.png",
+      "sha256": "17028b69842c752cc6e3ff60d4248ded239f217197f0f0c9e6f1f9c81945e425"
     }
   ],
   "duplicate_message_ids": [
