@@ -46633,6 +46633,20 @@
       "subject": "생활과 윤리",
       "thumbnail": "thumbnails/19232.png",
       "sha256": "75d3757556fa796d554aba8de95c321a6d474f45ca67db798c118fe017778ffe"
+    },
+    {
+      "message_id": 19231,
+      "filename": "2027마더텅_수능기출문제집_생활과윤리.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19231_2027._._.pdf",
+      "size_bytes": 544041865,
+      "telegram_date": "2026-02-08T05:15:44+00:00",
+      "title": "생윤 마더텅 수능기출문제집 생활과 윤리",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생활과 윤리",
+      "thumbnail": "thumbnails/19231.png",
+      "sha256": "2958b90c1bf7e9677bb26e7c249afbb16a98668c17ce925748a5954bae18257a"
     }
   ],
   "duplicate_message_ids": [
