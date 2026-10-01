@@ -43133,6 +43133,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/19658.png",
       "sha256": "ea580fd156b852b55c5cc5ec6b3e9745e1dc47f229e9c7cf6046f5543fb1c668"
+    },
+    {
+      "message_id": 19656,
+      "filename": "로비스트 5주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19656_.5.pdf",
+      "size_bytes": 44700996,
+      "telegram_date": "2026-03-02T02:02:34+00:00",
+      "title": "수학 LOBBYIST 05",
+      "year": "2027",
+      "instructor": "장재원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19656.png",
+      "sha256": "2a99f4dc601c8128c7f3e303864c1c2f8c1e4dc1a4d67a558c0f62fe01a51411"
     }
   ],
   "duplicate_message_ids": [
