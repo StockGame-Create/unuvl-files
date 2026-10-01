@@ -48117,6 +48117,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19040.png",
       "sha256": "a4a926bb8bb57b9b8cc664019710cf18d5b480b970bd32b36ed50aac783d3ac6"
+    },
+    {
+      "message_id": 19038,
+      "filename": "2027학년도수2수능특강.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19038_2027.2.pdf",
+      "size_bytes": 183731781,
+      "telegram_date": "2026-01-29T02:22:29+00:00",
+      "title": "수학 수능특강 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19038.png",
+      "sha256": "98dd246360bfbfb5d8b37b224c4a8e13aa6b0928d96c9b008383055bec45b63d"
     }
   ],
   "duplicate_message_ids": [
