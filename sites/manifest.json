@@ -42629,6 +42629,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/19719.png",
       "sha256": "5d81fbf9e0d9bfca1e28e1a8fe854096726ecbc4c0224798d11f08e9e47f2054"
+    },
+    {
+      "message_id": 19717,
+      "filename": "2027 키출모의고사 4회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19717_2027.4.pdf",
+      "size_bytes": 12705091,
+      "telegram_date": "2026-03-06T14:00:53+00:00",
+      "title": "영어 김기병 최종병기 4주차 + 키출모의고사 4회",
+      "year": "2027",
+      "instructor": "김기병",
+      "subject": "영어",
+      "thumbnail": "thumbnails/19717.png",
+      "sha256": "643d95a1e1dc5b48328186d26ed8ca7a8464f3f7c19e0e6c26ff088354a90366"
     }
   ],
   "duplicate_message_ids": [
