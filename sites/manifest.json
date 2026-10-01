@@ -47095,6 +47095,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19174.png",
       "sha256": "b7a063d872f32ba453a2a5c2ba0aea75ab479cdffda0b1effc46a9e61131f793"
+    },
+    {
+      "message_id": 19172,
+      "filename": "2027학년도_수능특강_영어_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19172_2027._._._.pdf",
+      "size_bytes": 1710433,
+      "telegram_date": "2026-02-03T16:10:42+00:00",
+      "title": "영어 2027 수능특강 (해설지)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19172.png",
+      "sha256": "fc7dbb7e7b8685152219dd192d36ba99c46e18f24f4b4eca4452a0fb26d742c5"
     }
   ],
   "duplicate_message_ids": [
