@@ -48915,6 +48915,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18946.png",
       "sha256": "f0ba6aa9dd4bd2baf09384cacf52f7ba3735f68998e098ffd5ea78a4a0360cb1"
+    },
+    {
+      "message_id": 18944,
+      "filename": "1등급 만들기 통합과학2_바른답 알찬풀이.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18944_1.2_.pdf",
+      "size_bytes": 19804565,
+      "telegram_date": "2026-01-22T08:35:57+00:00",
+      "title": "과학 1등급 만들기 통합과학2",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학2",
+      "thumbnail": "thumbnails/18944.png",
+      "sha256": "91a87611b0f5167200033830ade60999dfa37ebea50ac37d7cbb8ccd5eec7e03"
     }
   ],
   "duplicate_message_ids": [
