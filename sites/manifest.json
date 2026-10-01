@@ -45037,6 +45037,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19423.png",
       "sha256": "9e326436e0be2551f1b8e9106e2b6fb90a8b47162bc778e8932407d2232ab3c6"
+    },
+    {
+      "message_id": 19421,
+      "filename": "수학의바이블_개념on_대수_정답과_풀이_pdf2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19421_._.on_._._._pdf2.pdf",
+      "size_bytes": 2165332,
+      "telegram_date": "2026-02-17T20:40:19+00:00",
+      "title": "수학 수학의 바이블 개념ON 대수",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19421.png",
+      "sha256": "4f081729a429d3deb7487879951b3f1b6a2717b8353e7ed92d52efde19cbbd49"
     }
   ],
   "duplicate_message_ids": [
