@@ -49335,6 +49335,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18889.png",
       "sha256": "0b3aaacd31f68272effee4a9ce45e475d9a8d1fc29ad6a7287a31052dcaa3416"
+    },
+    {
+      "message_id": 18888,
+      "filename": "블랙라벨_국어_문법_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18888_._._._._._.pdf",
+      "size_bytes": 3934530,
+      "telegram_date": "2026-01-17T14:38:56+00:00",
+      "title": "국어 블랙라벨 문법",
+      "year": null,
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18888.png",
+      "sha256": "fae8415c3a800c3e0b9e8dfe7523fb8ea8f4cd1396fe1c105210d53ba8a6799e"
     }
   ],
   "duplicate_message_ids": [
