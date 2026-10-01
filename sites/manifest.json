@@ -48873,6 +48873,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18951.png",
       "sha256": "07bc81ccaa50327256eace4003204af017ce35e7d39ea50732bcc2a97be35cd9"
+    },
+    {
+      "message_id": 18950,
+      "filename": "쎈.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18950_.pdf",
+      "size_bytes": 25997704,
+      "telegram_date": "2026-01-23T04:07:13+00:00",
+      "title": "수학 쎈 대수",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18950.png",
+      "sha256": "28031ae197ab28168be0381376a929886509ba152508ea6991718b4e36d9204f"
     }
   ],
   "duplicate_message_ids": [
