@@ -43469,6 +43469,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/19617.png",
       "sha256": "acae669f7929e3791a9d2d87126595b4a601dd08d757fe58266345263345ad57"
+    },
+    {
+      "message_id": 19616,
+      "filename": "십시빌리삼 정승제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19616_.pdf",
+      "size_bytes": 109338819,
+      "telegram_date": "2026-02-27T12:45:17+00:00",
+      "title": "수학 십시빌리삼 수학1•수학2•미적분",
+      "year": "2027",
+      "instructor": "정승제",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19616.png",
+      "sha256": "1cf87e3d900fd33e9467d3a894b38cb633bb6856e4aae3644a7460d0ea52d3c4"
     }
   ],
   "duplicate_message_ids": [
