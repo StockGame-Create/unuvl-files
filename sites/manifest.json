@@ -46969,6 +46969,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19189.png",
       "sha256": "66df4433eee25feead5cd20dd75b4145a1331694b2c91b718d99e0d8abe95bc9"
+    },
+    {
+      "message_id": 19187,
+      "filename": "수학의 정석 미적분 실력편_260204_081616.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19187_._260204_081616.pdf",
+      "size_bytes": 196705300,
+      "telegram_date": "2026-02-05T00:13:32+00:00",
+      "title": "수학 수학의 정석 미적분",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19187.png",
+      "sha256": "15ca726931c24d810cdd6eea64d424461fd5a06080be31b729a797541d1db162"
     }
   ],
   "duplicate_message_ids": [
