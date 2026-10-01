@@ -46885,6 +46885,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19204.png",
       "sha256": "e69b39320cdc032cfda694115b2be8e836a92d51a06398349a7aa77651919165"
+    },
+    {
+      "message_id": 19202,
+      "filename": "CIRCUIT X THE BEST VOR.1 2회 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19202_CIRCUIT.X.THE.BEST.VOR.1.2.pdf",
+      "size_bytes": 725012,
+      "telegram_date": "2026-02-07T00:37:39+00:00",
+      "title": "수학 CIRCUIT X THE BEST 2회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19202.png",
+      "sha256": "0b0f6196b7ae900d49d482d68c829af1a9990ede1098d630b70b9892af98288b"
     }
   ],
   "duplicate_message_ids": [
