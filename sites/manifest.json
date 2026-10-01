@@ -44253,6 +44253,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19517.png",
       "sha256": "89d2b77e97a152bcc48e7141392e03c9b6ab63256921c2001b0893df5d1e4485"
+    },
+    {
+      "message_id": 19515,
+      "filename": "2027_자이스토리_확률과통계_고3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19515_2027_._._.3.pdf",
+      "size_bytes": 199269323,
+      "telegram_date": "2026-02-24T04:44:01+00:00",
+      "title": "확통 자이스토리 확률과 통계",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19515.png",
+      "sha256": "b69b0e0102d7ead0802fd504e3401891198f3cc45087179abb195d25b41e8e8c"
     }
   ],
   "duplicate_message_ids": [
