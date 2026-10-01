@@ -43623,6 +43623,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19602.png",
       "sha256": "af8d3ba8fdb812e1d07cca555d8226fd64bbad77bbc66bb62f11067bb684c297"
+    },
+    {
+      "message_id": 19601,
+      "filename": "531 프로젝트 하이퍼 수학 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19601_531.1.pdf",
+      "size_bytes": 5503379,
+      "telegram_date": "2026-02-26T16:41:54+00:00",
+      "title": "수학 PROJECT 531 HYPER 수학1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19601.png",
+      "sha256": "6101f07b87244ab44aabe9721817b9460e96efde1a9ef75f08b8023e441127fe"
     }
   ],
   "duplicate_message_ids": [
