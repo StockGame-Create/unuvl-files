@@ -41145,6 +41145,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19879.png",
       "sha256": "a212876dc5331ad729f238640fbffea604cccb6757e6a0eb1ac822be090496a5"
+    },
+    {
+      "message_id": 19877,
+      "filename": "하이탑_고등_생명과학_II_3권_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19877_._._._II_3._.pdf",
+      "size_bytes": 1488050,
+      "telegram_date": "2026-03-15T04:10:20+00:00",
+      "title": "하이탑_고등_생명과학_II_3권_해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/19877.png",
+      "sha256": "5a7125a3be8e01fd1178088c8ebb0c178e8a34cf1324448b39f9f12c1b9adf89"
     }
   ],
   "duplicate_message_ids": [
