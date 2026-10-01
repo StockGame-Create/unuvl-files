@@ -42013,6 +42013,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19788.png",
       "sha256": "5d60c752d066e7966bcce799cbf2e6c603a1500e09808edb815a91451a72f17d"
+    },
+    {
+      "message_id": 19786,
+      "filename": "2027 대성 D.ARCHIVE 수학 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19786_2027.D.ARCHIVE.5.pdf",
+      "size_bytes": 7973337,
+      "telegram_date": "2026-03-12T03:44:18+00:00",
+      "title": "수학 D.ARCHIVE 5회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19786.png",
+      "sha256": "7f275660c2db622319477a319d8d2f28be87aa5b4946b7d2503a763ebd05aef2"
     }
   ],
   "duplicate_message_ids": [
