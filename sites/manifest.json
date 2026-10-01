@@ -41383,6 +41383,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19855.png",
       "sha256": "ede9bbcb121fbc60df42b8c303580bdb88f62fc055a00bc21c216c475a6489f4"
+    },
+    {
+      "message_id": 19854,
+      "filename": "브릿찌 1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19854_.1.pdf",
+      "size_bytes": 9818262,
+      "telegram_date": "2026-03-14T13:10:55+00:00",
+      "title": "영어 시대인재 브릿지 모의고사 1회 #브릿지",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19854.png",
+      "sha256": "695e31bd3823ae9b96ca9e5ea3b460e49f81d08cbefd8407d812b6c59ecb0f00"
     }
   ],
   "duplicate_message_ids": [
