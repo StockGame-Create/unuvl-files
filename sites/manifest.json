@@ -49811,6 +49811,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18825.png",
       "sha256": "4f7df073b15c49dbe022f1623ec2939bc885ffd1ba9510059b4b3234172b8b54"
+    },
+    {
+      "message_id": 18823,
+      "filename": "2027_스탠다드_미적분_2주차_수업_복습테스트_해설_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18823_2027_._._2._._._._1.pdf",
+      "size_bytes": 1628765,
+      "telegram_date": "2026-01-10T03:08:05+00:00",
+      "title": "수학 김현우 정규반 미적분 복습테스트 2주차",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18823.png",
+      "sha256": "84fa130f5e5a58540bd480e67c5941918295f416e5290c60ef3d3efd4750a38d"
     }
   ],
   "duplicate_message_ids": [
