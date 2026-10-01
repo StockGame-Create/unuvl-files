@@ -42587,6 +42587,20 @@
       "subject": "수학2",
       "thumbnail": "thumbnails/19724.png",
       "sha256": "20d43d389c19ffc02c47ba88c538dc43df2fd040fc1fb9123fd341e1c89ad92a"
+    },
+    {
+      "message_id": 19722,
+      "filename": "2027 수능특강 지구과학 II 원본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19722_2027.II.pdf",
+      "size_bytes": 23721531,
+      "telegram_date": "2026-03-07T10:57:38+00:00",
+      "title": "지2 수능특강 지구과학2 (원본)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/19722.png",
+      "sha256": "ad7a4773485b75f7a1f2a4b72b757194595323479cf0450efe30f04d62eb587d"
     }
   ],
   "duplicate_message_ids": [
