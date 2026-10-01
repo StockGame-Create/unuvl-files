@@ -43077,6 +43077,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19663.png",
       "sha256": "7022ff5683c8e8a8bb2b3265e35a5913052899428294af20d10dd314c1262709"
+    },
+    {
+      "message_id": 19662,
+      "filename": "더개념 블랙라벨 대수 해설(22개정).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19662_.22.pdf",
+      "size_bytes": 5103201,
+      "telegram_date": "2026-03-02T16:57:31+00:00",
+      "title": "대수 더개념 블랙라벨 대수",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19662.png",
+      "sha256": "abe218e04af6e2249a7af0119522f0798b7490dbac8a4f8fcf3ac5dc3149828b"
     }
   ],
   "duplicate_message_ids": [
