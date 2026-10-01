@@ -44967,6 +44967,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19435.png",
       "sha256": "aaf18b0c6112eec3b05cd94f4757e508d941a27012cb97b7bdc357a65eabe4a4"
+    },
+    {
+      "message_id": 19431,
+      "filename": "단어의+형성.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19431_.%2B.pdf",
+      "size_bytes": 499636,
+      "telegram_date": "2026-02-18T16:27:20+00:00",
+      "title": "국어 손창빈 문법특강 보충Print 단어의 형성",
+      "year": "2027",
+      "instructor": "손창빈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19431.png",
+      "sha256": "02a87a12f475b3c6de41b7d4d7dfe845773ab492c224df105b42c63821608304"
     }
   ],
   "duplicate_message_ids": [
