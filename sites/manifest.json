@@ -46451,6 +46451,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19253.png",
       "sha256": "aa84768651d95b650b352bde9bf97b6f3a5db888665db424a424753e25b7b8d6"
+    },
+    {
+      "message_id": 19252,
+      "filename": "개념플러스유형_고등_공통수학2_유형편_2022개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19252_._._.2_._2022.pdf",
+      "size_bytes": 38708249,
+      "telegram_date": "2026-02-10T01:57:37+00:00",
+      "title": "수2 개념+유형 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19252.png",
+      "sha256": "5a5e8897e15a68422f097378f3c3b1fa2f1f665138b7903943a3b0719451b5ab"
     }
   ],
   "duplicate_message_ids": [
