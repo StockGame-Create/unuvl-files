@@ -42601,6 +42601,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/19722.png",
       "sha256": "ad7a4773485b75f7a1f2a4b72b757194595323479cf0450efe30f04d62eb587d"
+    },
+    {
+      "message_id": 19721,
+      "filename": "EBS 2027 수능특강 지구과학Ⅱ 정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19721_EBS.2027.pdf",
+      "size_bytes": 1845950,
+      "telegram_date": "2026-03-07T10:57:37+00:00",
+      "title": "지2 수능특강 지구과학2 (원본)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/19721.png",
+      "sha256": "5b5c19c0697b6ebe6f16b321e57d9deb9ce6f1333893de019ad3d80ddde8304e"
     }
   ],
   "duplicate_message_ids": [
