@@ -41663,6 +41663,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/19823.png",
       "sha256": "a505c92e0252d19b956f3d78c35ec5d3fa5d947511c8e7ae79cc110d5aabf760"
+    },
+    {
+      "message_id": 19821,
+      "filename": "서킷 분석서 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19821_.2.pdf",
+      "size_bytes": 13637820,
+      "telegram_date": "2026-03-13T07:39:34+00:00",
+      "title": "수학 서킷 분석서 2회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19821.png",
+      "sha256": "d755d39b6b8c7e0b2eb57e76b1d305a874b4546a0a4541e4651239c950c52354"
     }
   ],
   "duplicate_message_ids": [
