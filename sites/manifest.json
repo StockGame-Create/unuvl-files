@@ -48971,6 +48971,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18940.png",
       "sha256": "e5de19919c39e46fe9ef644ab30f78b3b80d52c6e51e855012727077eeb6579e"
+    },
+    {
+      "message_id": 18938,
+      "filename": "2027 임정환 도표 100=end.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18938_2027.100.end.pdf",
+      "size_bytes": 156643419,
+      "telegram_date": "2026-01-21T15:08:21+00:00",
+      "title": "사문 100=END 사회문화 도표특강",
+      "year": "2027",
+      "instructor": "임정환",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/18938.png",
+      "sha256": "395a9307336eddefb42bfc6429170253604bcdad6b3475ef6c8722fa481fed7a"
     }
   ],
   "duplicate_message_ids": [
