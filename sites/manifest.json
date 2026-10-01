@@ -49195,6 +49195,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18907.png",
       "sha256": "0bd4b7dbb5757fb88301fbdbb0f2c62b647d58093db5fa6cdc16ffeed462f3ca"
+    },
+    {
+      "message_id": 18905,
+      "filename": "유형내신고쟁이공통수학1_학생용_배포용_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18905_.1_._._2.pdf",
+      "size_bytes": 9893150,
+      "telegram_date": "2026-01-19T02:31:59+00:00",
+      "title": "수학 고쟁이 유형 공통수학1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18905.png",
+      "sha256": "47ec8a98cd547b014472d65002c64a0e51600480c43d8b46abda54add033915c"
     }
   ],
   "duplicate_message_ids": [
