@@ -49083,6 +49083,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18922.png",
       "sha256": "31e40e58963aa985f7729fbb084fcf8acc6369eeee333cfb5c3a013081acaa66"
+    },
+    {
+      "message_id": 18921,
+      "filename": "2027 마더텅 화법과 작문 정답표.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18921_2027.pdf",
+      "size_bytes": 175305,
+      "telegram_date": "2026-01-20T09:39:21+00:00",
+      "title": "국어 2027 마더텅 수능기출문제집 화법과 작문",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18921.png",
+      "sha256": "08aacf63fdc2fc54cc918e58b2d9a3f765dedc2f3d0693a652e80e9a6af88711"
     }
   ],
   "duplicate_message_ids": [
