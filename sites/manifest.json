@@ -43805,6 +43805,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19578.png",
       "sha256": "74078c4873cf0f4686024aa082c0ffbf9357f1575d130f5d159ea4b5090512bd"
+    },
+    {
+      "message_id": 19576,
+      "filename": "마더텅 수능기출 수학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19576_.1.pdf",
+      "size_bytes": 276977432,
+      "telegram_date": "2026-02-25T02:09:40+00:00",
+      "title": "수학 2027 마더텅 수능기출문제집 수1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학1",
+      "thumbnail": "thumbnails/19576.png",
+      "sha256": "9b193f138e17d583a43a3068ad85ba1501131ccefa327fceb5b2835ebd0c4671"
     }
   ],
   "duplicate_message_ids": [
