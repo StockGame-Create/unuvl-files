@@ -46535,6 +46535,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19245.png",
       "sha256": "c70b0b06a1e9770cfa76acfc152ab7947d3c80313600a40df2f817c430ceb35c"
+    },
+    {
+      "message_id": 19244,
+      "filename": "1등급_만들기_정치와_법.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19244_1._._._.pdf",
+      "size_bytes": 42553055,
+      "telegram_date": "2026-02-09T08:05:55+00:00",
+      "title": "정법 1등급 만들기 정치와법",
+      "year": null,
+      "instructor": null,
+      "subject": "정치와 법",
+      "thumbnail": "thumbnails/19244.png",
+      "sha256": "591586c0b59f333f60eeca3ccabe2ad508b8734ec24d75842fe08bdeb57e44a7"
     }
   ],
   "duplicate_message_ids": [
