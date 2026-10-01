@@ -46325,6 +46325,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19274.png",
       "sha256": "402049e4f9729d07b63fca92f3240b375617bd252657e2b9cb0cf46eebd8e218"
+    },
+    {
+      "message_id": 19271,
+      "filename": "2027학년도_신영균_현장_모의고사_시즌1_4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19271_2027._._._._.1_4.pdf",
+      "size_bytes": 22548775,
+      "telegram_date": "2026-02-12T05:15:07+00:00",
+      "title": "국어 신영균 현장 모의고사 시즌1 4회 (폰스캔)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19271.png",
+      "sha256": "264c6dcaede6d2f8d593b4cc7e707e52b49f25d71ae9225dbd9a5942522713df"
     }
   ],
   "duplicate_message_ids": [
