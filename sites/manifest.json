@@ -50049,6 +50049,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18792.png",
       "sha256": "2e1ae71fb645a8be785a78b4022aac4bf80e9dffd4e0c6b513f721b0ac68554a"
+    },
+    {
+      "message_id": 18791,
+      "filename": "윤혜정의_개념의_나비효과_입문편_워크북_통합.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18791_._._._._._.pdf",
+      "size_bytes": 127108534,
+      "telegram_date": "2026-01-06T12:56:14+00:00",
+      "title": "국어 윤혜정의 개념의 나비효과 워크북 입문 편",
+      "year": "2024",
+      "instructor": "윤혜정",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18791.png",
+      "sha256": "7aa74b3353887e199736d6a9b77cd27adeb1964e7a9f49d507a187b0d26fbab2"
     }
   ],
   "duplicate_message_ids": [
