@@ -44799,6 +44799,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/19453.png",
       "sha256": "69eb0bbad76bce4d74c70d060dc430bd39e60245b57d7e355a507ff354338c2d"
+    },
+    {
+      "message_id": 19452,
+      "filename": "2027_강수영T 설특강 모의고사_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19452_2027_.T._.pdf",
+      "size_bytes": 144101,
+      "telegram_date": "2026-02-20T14:09:29+00:00",
+      "title": "생윤 강수영T 설특강 모의고사",
+      "year": "2027",
+      "instructor": "강수영",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/19452.png",
+      "sha256": "b9d6756c46ea409efbef4523dc9fe0fce975aa8c4bd0199f803307f86e83ccc3"
     }
   ],
   "duplicate_message_ids": [
