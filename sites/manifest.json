@@ -45905,6 +45905,20 @@
       "subject": "화학",
       "thumbnail": "thumbnails/19322.png",
       "sha256": "4b8b5538579b0ae64bf8e6e7e9214142a638d880f88aeb786c45318ac281fd4e"
+    },
+    {
+      "message_id": 19321,
+      "filename": "메가스터디 N제 화학 507제_해설(01-48) (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19321_.N.507._.01-48.1.pdf",
+      "size_bytes": 1180578,
+      "telegram_date": "2026-02-14T12:22:46+00:00",
+      "title": "화1 메가스터디 N제 화학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학",
+      "thumbnail": "thumbnails/19321.png",
+      "sha256": "1ac1e58f87d41f4c405bcd067464e975d41d250003f8112d56708ad2693af049"
     }
   ],
   "duplicate_message_ids": [
