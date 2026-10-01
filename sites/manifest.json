@@ -44029,6 +44029,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19543.png",
       "sha256": "2d0686acc597e894e79188c7bb8a9ec02e8554e0b6e44dc8a3a896b543dc38c8"
+    },
+    {
+      "message_id": 19542,
+      "filename": "2027학년도+복습테스트+9주차+문제지_배포용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19542_2027.%2B.%2B9.%2B._.pdf",
+      "size_bytes": 569267,
+      "telegram_date": "2026-02-24T04:46:56+00:00",
+      "title": "지1 이신혁 기출 프린트 1~9주차",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/19542.png",
+      "sha256": "98d92fd163cde78fecc2fc63f206efa0df216c6b41c837998810e0d3abb2bf74"
     }
   ],
   "duplicate_message_ids": [
