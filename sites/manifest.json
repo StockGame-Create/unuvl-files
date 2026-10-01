@@ -45723,6 +45723,20 @@
       "subject": "독서",
       "thumbnail": "thumbnails/19341.png",
       "sha256": "7c75b5f369912a2be6c0394f9239267d6799c496438ad86b1201ff42172177ca"
+    },
+    {
+      "message_id": 19340,
+      "filename": "독서 1권 본교재.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19340_.1.pdf",
+      "size_bytes": 98314285,
+      "telegram_date": "2026-02-14T12:32:06+00:00",
+      "title": "국어 2027 Piram 독서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "독서",
+      "thumbnail": "thumbnails/19340.png",
+      "sha256": "29b3e1d6e932dff630e641051c1db2ea1ab8b2d542b29c0ab4d0274260251871"
     }
   ],
   "duplicate_message_ids": [
