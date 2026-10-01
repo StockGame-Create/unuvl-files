@@ -41537,6 +41537,20 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/19837.png",
       "sha256": "a7effa6cdbd3acb6ca33dc9357c046e34463aa1e6573f31411ef639773f1bcea"
+    },
+    {
+      "message_id": 19836,
+      "filename": "생명과학개념완성.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19836_.pdf",
+      "size_bytes": 117646245,
+      "telegram_date": "2026-03-13T14:14:41+00:00",
+      "title": "통과 개념완성 생명과학",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/19836.png",
+      "sha256": "9e1f59c50605b9212c57f70269a4a10786e95e6f698c30778f0565b3ce2d0749"
     }
   ],
   "duplicate_message_ids": [
