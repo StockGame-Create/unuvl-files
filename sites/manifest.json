@@ -43315,6 +43315,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19634.png",
       "sha256": "2c9a3664bf9c46b2509b4d90e0d0c2312fba50fd3039174d47243e16e78b8e5c"
+    },
+    {
+      "message_id": 19633,
+      "filename": "[수학2+미적분+Step1]+9주차+복습테스트+해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19633_.2%2B.%2BStep1.%2B9.%2B.%2B.pdf",
+      "size_bytes": 1287319,
+      "telegram_date": "2026-03-01T16:39:53+00:00",
+      "title": "수학 강기원T 9주차 수학2 + 미적분 Review Test",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19633.png",
+      "sha256": "531607d93f0dbcbe5ed79cfd48f6d9f80280f9773e3c7871e1c702377133997d"
     }
   ],
   "duplicate_message_ids": [
