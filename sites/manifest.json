@@ -50007,6 +50007,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18800.png",
       "sha256": "052700be4f1cce134a5bc441d2e1b9b1807fe8fdf8d22d68074c931e98818cf6"
+    },
+    {
+      "message_id": 18795,
+      "filename": "2027_고수탑_수1_리뷰퀴즈_2주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18795_2027_._.1_._2.pdf",
+      "size_bytes": 120088,
+      "telegram_date": "2026-01-08T16:15:58+00:00",
+      "title": "수학 리뷰 퀴즈 Review 수학1",
+      "year": "2027",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18795.png",
+      "sha256": "6aaf7e02a083545072ef86d32eaa7db053c2b9ac5170c5b62669e0dee81ec7b0"
     }
   ],
   "duplicate_message_ids": [
