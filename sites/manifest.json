@@ -46507,6 +46507,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19248.png",
       "sha256": "9bbb2311e11005202231d007965a045ef0ae30e76e147630a2653fc9c04b7559"
+    },
+    {
+      "message_id": 19246,
+      "filename": "2027+스탠다드+미적분+5주차+수업+복습테스트+해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19246_2027%2B.%2B.%2B5.%2B.%2B.%2B.pdf",
+      "size_bytes": 1155853,
+      "telegram_date": "2026-02-09T08:06:02+00:00",
+      "title": "수학 스탠다드 미적분 05",
+      "year": "2027",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19246.png",
+      "sha256": "3200747019dee243a72ecb5585b1c046863da7eb7df67fda663cf344fa35651c"
     }
   ],
   "duplicate_message_ids": [
