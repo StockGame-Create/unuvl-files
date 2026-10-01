@@ -44225,6 +44225,20 @@
       "subject": "미적분",
       "thumbnail": "thumbnails/19520.png",
       "sha256": "e50f12cc68b2bc4dacce083ec48ceecb2f293c8a13d67f0c6c80ce17c16d3453"
+    },
+    {
+      "message_id": 19519,
+      "filename": "너기출 미적분 (for 2027) - 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19519_.for.2027.-.pdf",
+      "size_bytes": 34580659,
+      "telegram_date": "2026-02-24T04:44:01+00:00",
+      "title": "미적 너기출 미적분",
+      "year": "2027",
+      "instructor": null,
+      "subject": "미적분",
+      "thumbnail": "thumbnails/19519.png",
+      "sha256": "76cb6d3c50460a5c0d9c62721a3836b94c276a2831fd97c95414668500787555"
     }
   ],
   "duplicate_message_ids": [
