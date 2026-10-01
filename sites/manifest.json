@@ -46815,6 +46815,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19213.png",
       "sha256": "448e88f893cb52c17e7d04018fb3350747cf07a73d5f309118fb775f6d859530"
+    },
+    {
+      "message_id": 19210,
+      "filename": "과학탐구영역 지구과학 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19210_.1.pdf",
+      "size_bytes": 221831391,
+      "telegram_date": "2026-02-07T05:16:44+00:00",
+      "title": "지1 기출의미래 22개정 지구과학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/19210.png",
+      "sha256": "702f452401a11fffe7e4dc6b74fabf8acb53bf9f38f04311fd18a89e9cf0085d"
     }
   ],
   "duplicate_message_ids": [
