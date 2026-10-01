@@ -49853,6 +49853,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18820.png",
       "sha256": "66ec537f4b206a1d17ba68662ad7260279f9a65d08f9a6d99ecdd056dc09a352"
+    },
+    {
+      "message_id": 18819,
+      "filename": "이신혁 필기노트 1주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18819_.1.pdf",
+      "size_bytes": 19894381,
+      "telegram_date": "2026-01-09T17:33:20+00:00",
+      "title": "지1 필기노트 1주차",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18819.png",
+      "sha256": "0ca9a77ae543ac60dd9a8fc8ee3f48c025c7b941d7413408183c3ac6471c47d5"
     }
   ],
   "duplicate_message_ids": [
