@@ -45163,6 +45163,20 @@
       "subject": "통합사회",
       "thumbnail": "thumbnails/19406.png",
       "sha256": "856219489e4732c82d63bc0a8137b13a9ab3404e15fa70033056002ee4182859"
+    },
+    {
+      "message_id": 19405,
+      "filename": "자이스토리 통합사회 2 - 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19405_.2.-.pdf",
+      "size_bytes": 135334261,
+      "telegram_date": "2026-02-16T16:28:14+00:00",
+      "title": "통사 자이스토리 통합사회2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "통합사회",
+      "thumbnail": "thumbnails/19405.png",
+      "sha256": "2357802faf9abce5e7f8b68d904d7dad80e03e240b8d40b6d8153bddc4e8229e"
     }
   ],
   "duplicate_message_ids": [
