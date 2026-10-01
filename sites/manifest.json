@@ -44239,6 +44239,20 @@
       "subject": "미적분",
       "thumbnail": "thumbnails/19519.png",
       "sha256": "76cb6d3c50460a5c0d9c62721a3836b94c276a2831fd97c95414668500787555"
+    },
+    {
+      "message_id": 19517,
+      "filename": "1히든트랙_merged (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19517_1._merged.1.pdf",
+      "size_bytes": 36920349,
+      "telegram_date": "2026-02-24T04:44:01+00:00",
+      "title": "국어 히든 트랙 (Hidden Track) 전회차",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19517.png",
+      "sha256": "89d2b77e97a152bcc48e7141392e03c9b6ab63256921c2001b0893df5d1e4485"
     }
   ],
   "duplicate_message_ids": [
