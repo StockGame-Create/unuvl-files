@@ -46927,6 +46927,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19199.png",
       "sha256": "4790a9d2b92b8ffdecc089d85d3f95b5c903363c90491f9b5fd3358e258740d2"
+    },
+    {
+      "message_id": 19197,
+      "filename": "EBS_2027_수능특강_영어영역_영어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19197_EBS_2027_._._.pdf",
+      "size_bytes": 1900570,
+      "telegram_date": "2026-02-06T05:51:36+00:00",
+      "title": "영어 2027 수능특강 (원본)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19197.png",
+      "sha256": "0102177d133675230f16817f723b646836fb6ae1e70a252275fa8832b355d23c"
     }
   ],
   "duplicate_message_ids": [
