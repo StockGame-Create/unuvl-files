@@ -46465,6 +46465,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19252.png",
       "sha256": "5a5e8897e15a68422f097378f3c3b1fa2f1f665138b7903943a3b0719451b5ab"
+    },
+    {
+      "message_id": 19250,
+      "filename": "개념플러스유형_고등_공통수학1_정답과_해설_22개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19250_._._.1_._._22.pdf",
+      "size_bytes": 78919038,
+      "telegram_date": "2026-02-10T01:57:15+00:00",
+      "title": "수1 개념+유형 수학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19250.png",
+      "sha256": "c407b9c01abb882f1884ec5ba12854f6c775394fcb87157ece53c9603cd0b4f5"
     }
   ],
   "duplicate_message_ids": [
