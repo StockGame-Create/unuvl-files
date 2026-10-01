@@ -46829,6 +46829,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19210.png",
       "sha256": "702f452401a11fffe7e4dc6b74fabf8acb53bf9f38f04311fd18a89e9cf0085d"
+    },
+    {
+      "message_id": 19209,
+      "filename": "과학탐구영역 생명과학 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19209_.1.pdf",
+      "size_bytes": 246717180,
+      "telegram_date": "2026-02-07T05:16:39+00:00",
+      "title": "생1 기출의미래 22개정 생명과학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/19209.png",
+      "sha256": "2b1a9d8ce93c5e8af1a42d9a369e44ee2bf0716743f25a6fa44314ec4fead2a6"
     }
   ],
   "duplicate_message_ids": [
