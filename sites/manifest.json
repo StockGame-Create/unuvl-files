@@ -46857,6 +46857,20 @@
       "subject": "독서",
       "thumbnail": "thumbnails/19207.png",
       "sha256": "a1f07bb046ec2c809ee83c6296f970c18b96dcf22df0eb71d81348a775ad7536"
+    },
+    {
+      "message_id": 19205,
+      "filename": "2027 D.ARCHIVE 6회 답안.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19205_2027.D.ARCHIVE.6.pdf",
+      "size_bytes": 17862626,
+      "telegram_date": "2026-02-07T04:06:15+00:00",
+      "title": "영어 D.Archive 6회 #디아카이브",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19205.png",
+      "sha256": "6c707edb845015f7c7184b6da8a24a2c68cee97b4e482fabc50759c8262ac7b4"
     }
   ],
   "duplicate_message_ids": [
