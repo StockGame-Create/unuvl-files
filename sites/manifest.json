@@ -41873,6 +41873,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/19803.png",
       "sha256": "6bea2ff70bf70a9e1df1e584bc8fc7ea2aa95b46015ee0e770e3122c3a116d8a"
+    },
+    {
+      "message_id": 19802,
+      "filename": "1등급_만들기_생활과_윤리_760제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19802_1._._._._760.pdf",
+      "size_bytes": 13718946,
+      "telegram_date": "2026-03-12T12:42:37+00:00",
+      "title": "생윤 1등급 만들기 생활과윤리",
+      "year": null,
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/19802.png",
+      "sha256": "9a6664ed8525621eada7e76bc75aa374aa30c4f92d33f88c880449a8894bfeea"
     }
   ],
   "duplicate_message_ids": [
