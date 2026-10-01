@@ -42153,6 +42153,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19772.png",
       "sha256": "d16731f4a9c6b714c110a5e624c9286611b7c81ec48c80dfc074c8a2d116a5b4"
+    },
+    {
+      "message_id": 19770,
+      "filename": "김기현_기출_생각집_기하.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19770_._._._.PDF",
+      "size_bytes": 1950768,
+      "telegram_date": "2026-03-11T01:49:10+00:00",
+      "title": "수학 김기현 기출생각집 기하 #기생집",
+      "year": "2027",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19770.png",
+      "sha256": "b7360fde3719dbdaf52645832bf8e6efdf1b07ab9137fb2f5c3ab8630857ccc1"
     }
   ],
   "duplicate_message_ids": [
