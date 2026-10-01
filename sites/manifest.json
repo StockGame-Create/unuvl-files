@@ -42237,6 +42237,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19763.png",
       "sha256": "6ff0821d370f03cc05fb3a30109c58ec77774c98255b6b95b588443edeed5b10"
+    },
+    {
+      "message_id": 19761,
+      "filename": "2027 CIRCUIT.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19761_2027.CIRCUIT.pdf",
+      "size_bytes": 2391233,
+      "telegram_date": "2026-03-09T13:23:14+00:00",
+      "title": "수학 강대 CIRCUIT 1회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19761.png",
+      "sha256": "d3f421296cdae8edfe0051af3fe72cb5f60c1be591ee3329ed8adef96ec36dcd"
     }
   ],
   "duplicate_message_ids": [
