@@ -49685,6 +49685,20 @@
       "subject": "통합과학1",
       "thumbnail": "thumbnails/18846.png",
       "sha256": "c818ba7759641eff1fb8ae21fdafd0c8e150c15fdf36cf8a5f8cef1f4e1233c4"
+    },
+    {
+      "message_id": 18845,
+      "filename": "완자_화학_본책학생용_22개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18845_._._._22.pdf",
+      "size_bytes": 35714290,
+      "telegram_date": "2026-01-13T17:01:49+00:00",
+      "title": "통과1 완자 화학",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학1",
+      "thumbnail": "thumbnails/18845.png",
+      "sha256": "5ade9573e10419af50446ee75c8a93cefdfdeb914aa3cfd7102172c8438a3f83"
     }
   ],
   "duplicate_message_ids": [
