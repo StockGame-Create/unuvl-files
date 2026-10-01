@@ -44869,6 +44869,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19445.png",
       "sha256": "afb16ba572b441966531943c6401e63f5eabfdbc5df71e8b9f99b3db4f5be811"
+    },
+    {
+      "message_id": 19444,
+      "filename": "다담 실전 문법 30회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19444_.30.pdf",
+      "size_bytes": 343855787,
+      "telegram_date": "2026-02-20T07:20:47+00:00",
+      "title": "국어 다담 언어(국어문법) 실전모의고사 30회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19444.png",
+      "sha256": "bab5976bc43a3827315176d542d0d5c2c2ceaaa6ca093970a8c35508cb904389"
     }
   ],
   "duplicate_message_ids": [
