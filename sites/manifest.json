@@ -44729,6 +44729,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19461.png",
       "sha256": "9c5c793f631fab9afc5a93651187038fd0d5cf1041c9a12293cd469e0c15a4f7"
+    },
+    {
+      "message_id": 19459,
+      "filename": "2027 수능특강 생명과학Ⅰ.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19459_2027.pdf",
+      "size_bytes": 30487987,
+      "telegram_date": "2026-02-20T15:02:33+00:00",
+      "title": "생1 수능특강 생명과학1 (원본)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/19459.png",
+      "sha256": "48f4cc31d7f9dbc19cc01e719e1be251154b7719bc4e011256d38b4269e63d9d"
     }
   ],
   "duplicate_message_ids": [
