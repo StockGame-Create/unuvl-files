@@ -42027,6 +42027,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19786.png",
       "sha256": "7f275660c2db622319477a319d8d2f28be87aa5b4946b7d2503a763ebd05aef2"
+    },
+    {
+      "message_id": 19784,
+      "filename": "27 지인선 N제 SEASON 1 수학 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19784_27.N.SEASON.1.1.pdf",
+      "size_bytes": 120356077,
+      "telegram_date": "2026-03-11T10:29:53+00:00",
+      "title": "수학 지인선 n제 수1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19784.png",
+      "sha256": "fe2a293c101882be46b5a404951ccd5b4dc904268418bbc71219a0442ed63e15"
     }
   ],
   "duplicate_message_ids": [
