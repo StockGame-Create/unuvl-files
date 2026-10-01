@@ -41243,6 +41243,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/19866.png",
       "sha256": "40119e956de96063a5b7c33a260ec2c8f4daea0e222a03c654b4abccbf47e6b2"
+    },
+    {
+      "message_id": 19865,
+      "filename": "2027 정석준 시즌1 복습테스트 5주차 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19865_2027.1.5.pdf",
+      "size_bytes": 3257629,
+      "telegram_date": "2026-03-14T17:03:47+00:00",
+      "title": "생1 정석준 시즌1 복습테스트 2~9주차",
+      "year": "2027",
+      "instructor": "정석준",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/19865.png",
+      "sha256": "15bccfdb22bfe35e59a56096be53aea252fe8fcce5a454c03c205b93e0f35feb"
     }
   ],
   "duplicate_message_ids": [
