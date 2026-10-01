@@ -48215,6 +48215,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19029.png",
       "sha256": "d0225c98839465fc04606de9d55628f303ac5732825ee409f80af0e182a906f3"
+    },
+    {
+      "message_id": 19028,
+      "filename": "Practical Season1 #1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19028_Practical.Season1.1.pdf",
+      "size_bytes": 5601898,
+      "telegram_date": "2026-01-28T17:48:40+00:00",
+      "title": "수학 Practical 시즌1 1회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19028.png",
+      "sha256": "00668bf8a25cbe1a00795fc26f26f05198758b1c585adf57ce8dfc9397eb81bf"
     }
   ],
   "duplicate_message_ids": [
