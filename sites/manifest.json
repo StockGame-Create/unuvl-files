@@ -41845,6 +41845,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19806.png",
       "sha256": "253e09de519ab13571e6002fa8c6af1d62812db6f4814d72cac3b3f738696316"
+    },
+    {
+      "message_id": 19804,
+      "filename": "1등급_만들기_윤리와_사상_800제_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19804_1._._._._800._.pdf",
+      "size_bytes": 4785092,
+      "telegram_date": "2026-03-12T12:42:39+00:00",
+      "title": "윤사 1등급 만들기 윤리와사상",
+      "year": null,
+      "instructor": null,
+      "subject": "윤리와사상",
+      "thumbnail": "thumbnails/19804.png",
+      "sha256": "9470b6e9ece44669edd01939155e03a2c6012033b77a200826f093033131093a"
     }
   ],
   "duplicate_message_ids": [
