@@ -45135,6 +45135,20 @@
       "subject": "윤리와 사상",
       "thumbnail": "thumbnails/19410.png",
       "sha256": "736ba63ea2238f9906c3b1aacc6449f0179b5698e77954bbc7c76d7b00e6ef48"
+    },
+    {
+      "message_id": 19408,
+      "filename": "수2 프메_260202_093949.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19408_.2._260202_093949.pdf",
+      "size_bytes": 119031397,
+      "telegram_date": "2026-02-16T16:32:37+00:00",
+      "title": "수학 언바운드 프로메테우스 수학2 #프메",
+      "year": "2027",
+      "instructor": "정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19408.png",
+      "sha256": "c9e37c7521712d96f6202dbed49bc858c84222576c20205adbea50c1b1329027"
     }
   ],
   "duplicate_message_ids": [
