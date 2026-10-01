@@ -48047,6 +48047,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/19054.png",
       "sha256": "61b2e7b0c3419c6685369067cfc2635e2995996f65bf8ffe1d040b9f7d2fb1f6"
+    },
+    {
+      "message_id": 19053,
+      "filename": "2027학년도_시대인재_1월_서프_지구과학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19053_2027._._1._._.1.pdf",
+      "size_bytes": 7724217,
+      "telegram_date": "2026-01-30T14:32:16+00:00",
+      "title": "지1 시대인재 1월 예비시행 전국모의평가 #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/19053.png",
+      "sha256": "4f4968bd2c628b4fdb3239c29f05b07b42624d1981da76a08cd70384d44842c6"
     }
   ],
   "duplicate_message_ids": [
