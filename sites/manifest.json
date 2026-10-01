@@ -49895,6 +49895,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18816.png",
       "sha256": "51eae75c0f600bfa4659dbae8ff9757cea2e0c26cb1dbb71c8f0451ba98820bf"
+    },
+    {
+      "message_id": 18811,
+      "filename": "정답표_2027_마더텅_수능기출문제집_물리학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18811_._2027_._._.1.pdf",
+      "size_bytes": 115128,
+      "telegram_date": "2026-01-09T15:51:54+00:00",
+      "title": "물1 2027 마더텅 수능기출문제집 물리학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/18811.png",
+      "sha256": "4067e883b71888424634b59b47c627dc20522f63d1541733cf78443e2820e96a"
     }
   ],
   "duplicate_message_ids": [
