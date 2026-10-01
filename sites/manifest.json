@@ -43763,6 +43763,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19586.png",
       "sha256": "c89918f0b0370712e2f89320c3e4d66ead3c757bcbb8f9c91076ded400abcc33"
+    },
+    {
+      "message_id": 19584,
+      "filename": "9주차+미적분+필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19584_9.%2B.%2B.pdf",
+      "size_bytes": 1636766,
+      "telegram_date": "2026-02-25T09:48:25+00:00",
+      "title": "수학 강기원T 정규반 Step1 9주차 필기노트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19584.png",
+      "sha256": "fc29dcc95817ad07807f59a64e86ff13b5ba2b8c6d7c5ac7028e1db25f2a41e3"
     }
   ],
   "duplicate_message_ids": [
