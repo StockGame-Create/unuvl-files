@@ -44393,6 +44393,20 @@
       "subject": "수학2",
       "thumbnail": "thumbnails/19504.png",
       "sha256": "3f189347d7c7c5240711f104928af0a62e72dae02b0bda5b424522ef6d31fafe"
+    },
+    {
+      "message_id": 19502,
+      "filename": "2027_수능특강_세계사_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19502_2027_._._.pdf",
+      "size_bytes": 1536260,
+      "telegram_date": "2026-02-22T14:17:29+00:00",
+      "title": "세사 수능특강 세계사 #수특",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계사",
+      "thumbnail": "thumbnails/19502.png",
+      "sha256": "412746124078b9080c24e8ba59e6f1e998f6f0dfe56c0d9cdaf1914396065590"
     }
   ],
   "duplicate_message_ids": [
