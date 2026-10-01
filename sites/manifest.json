@@ -43637,6 +43637,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19601.png",
       "sha256": "6101f07b87244ab44aabe9721817b9460e96efde1a9ef75f08b8023e441127fe"
+    },
+    {
+      "message_id": 19599,
+      "filename": "2027 이감 시즌1 제1차 예비평가(지문분석).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19599_2027.1.1.pdf",
+      "size_bytes": 24844084,
+      "telegram_date": "2026-02-25T16:07:18+00:00",
+      "title": "국어 이감 국어 모의고사 시즌1 1회 (인쇄소퀄) #이감",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19599.png",
+      "sha256": "aa05ecdb10b8c8361ab6ea9f6129409b877d6ddc8bcc1077995c61a727017e86"
     }
   ],
   "duplicate_message_ids": [
