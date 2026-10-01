@@ -49251,6 +49251,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/18901.png",
       "sha256": "7da0c3b4514be7e3b001b32c7fb84696e0dd671d7ab152c9790563ed30c9adb5"
+    },
+    {
+      "message_id": 18899,
+      "filename": "러셀_베이스캠프_시즌_1_제2회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18899_._._._1_.2._.pdf",
+      "size_bytes": 18820537,
+      "telegram_date": "2026-01-18T15:50:14+00:00",
+      "title": "수학 러셀 베이스캠프 시즌1 제2회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18899.png",
+      "sha256": "2e2044149ae4785f3e65293cb6bf4bb807db7a8790aa4f8624a5b11fc6194f2c"
     }
   ],
   "duplicate_message_ids": [
