@@ -43007,6 +43007,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19676.png",
       "sha256": "cd7fe8d14b11bd94fc91613f2d61405a68747c8755ad9ca67b522360c65cd4c6"
+    },
+    {
+      "message_id": 19672,
+      "filename": "2027_마더텅_수능기출문제집_세계지리_문제편_정답X.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19672_2027_._._._._.X.pdf",
+      "size_bytes": 236446565,
+      "telegram_date": "2026-03-03T11:41:56+00:00",
+      "title": "세지 2027 마더텅 수능기출문제집",
+      "year": "2027",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/19672.png",
+      "sha256": "bef0b6997d70bc9ebc5b5640a8d947fe522d3404c95870cd72acd7a9e94b07a1"
     }
   ],
   "duplicate_message_ids": [
