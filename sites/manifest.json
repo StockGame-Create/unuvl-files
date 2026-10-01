@@ -42335,6 +42335,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19749.png",
       "sha256": "7e2e8111685c1471c3605ec0af7a1cea6d5ec7b413178b0af2b97f8153ce7850"
+    },
+    {
+      "message_id": 19748,
+      "filename": "수능특강_문학_연계기출2_고전산문,현대소설_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19748_._._.2_._.pdf",
+      "size_bytes": 251733003,
+      "telegram_date": "2026-03-08T07:27:19+00:00",
+      "title": "국어 수능특강 문학 연계기출",
+      "year": "2027",
+      "instructor": null,
+      "subject": "문학",
+      "thumbnail": "thumbnails/19748.png",
+      "sha256": "33ab408e8bbbc7c20a520c98b979832bdb5ff65c2c2ce48a46fcb3f477ebda4b"
     }
   ],
   "duplicate_message_ids": [
