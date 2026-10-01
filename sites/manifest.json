@@ -46045,6 +46045,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19306.png",
       "sha256": "9cc5e048f00bc26a0eabf931e8dbaf7d353c46637accedaa81cb2ebb54da94e1"
+    },
+    {
+      "message_id": 19304,
+      "filename": "2027 상상아카이브 폰스캔.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19304_2027.pdf",
+      "size_bytes": 61555314,
+      "telegram_date": "2026-02-14T12:20:53+00:00",
+      "title": "국어 상상아카이브 (폰스캔)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19304.png",
+      "sha256": "ff3c64ee858743ff33755ff5ab679c8d12d4000e66da453cb303cf3de7d1221c"
     }
   ],
   "duplicate_message_ids": [
