@@ -41425,6 +41425,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19851.png",
       "sha256": "fe6ba18d66dd120c14a3dc93aef42085becfccc43dd57d0f27664582d33f1bad"
+    },
+    {
+      "message_id": 19849,
+      "filename": "2027 간쓸개 시즌 2-1_rotated.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19849_2027.2-1_rotated.pdf",
+      "size_bytes": 7951671,
+      "telegram_date": "2026-03-14T13:10:24+00:00",
+      "title": "국어 간쓸개 시즌2 1,2권",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19849.png",
+      "sha256": "ede01bff9f3a54ecf479767197e399d1ae6937c8b32bc0805cefada72f61ad84"
     }
   ],
   "duplicate_message_ids": [
