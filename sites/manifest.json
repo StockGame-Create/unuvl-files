@@ -45205,6 +45205,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19401.png",
       "sha256": "fe156a23e906d79d7254e28d0530106b6496fc7c9d271b6e4f4ffe270a3a1f82"
+    },
+    {
+      "message_id": 19395,
+      "filename": "시발점 미적분Ⅰ.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19395_.pdf",
+      "size_bytes": 190464570,
+      "telegram_date": "2026-02-15T14:00:33+00:00",
+      "title": "수학 시발점 미적분1",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19395.png",
+      "sha256": "56d9123a4706ea70f396c4f273d0feaec13cccff0ef91b1f94b5d07f3be449df"
     }
   ],
   "duplicate_message_ids": [
