@@ -41187,6 +41187,20 @@
       "subject": null,
       "thumbnail": "thumbnails/19875.png",
       "sha256": "9d566815894b1ad9320409599051fee4d112df584cc4eaf9b79c8572e23130d8"
+    },
+    {
+      "message_id": 19874,
+      "filename": "하이탑_고등_생명과학_II_2권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19874_._._._II_2.pdf",
+      "size_bytes": 115586348,
+      "telegram_date": "2026-03-15T04:10:18+00:00",
+      "title": "하이탑_고등_생명과학_II_2권",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/19874.png",
+      "sha256": "07a34bec1db41ae771c9d9c787c6e2d243effb419b6ef4f929becb45d4c555f4"
     }
   ],
   "duplicate_message_ids": [
