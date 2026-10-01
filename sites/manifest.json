@@ -49433,6 +49433,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18875.png",
       "sha256": "b46a63ec4c0f73ddafc0c0c25412a43bb409b78f7166f0d960bf3b984fe8b041"
+    },
+    {
+      "message_id": 18874,
+      "filename": "[2027 HOLYDAYS 신기해 공통] 01 손해설_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18874_.2027.HOLYDAYS.01._.pdf",
+      "size_bytes": 4981395,
+      "telegram_date": "2026-01-17T07:45:47+00:00",
+      "title": "수학 HOLY DAY 2027 신기해 공통 1,2주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18874.png",
+      "sha256": "116bf5bd8a5cce3ad65bc14b4b0593adb3b4e7b28c03bec76ad0da7ae5de87ee"
     }
   ],
   "duplicate_message_ids": [
