@@ -46955,6 +46955,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19191.png",
       "sha256": "1e8cbc0449a329e6a676657c96e9bfe3dd7833c9161172a75df1a110a285f595"
+    },
+    {
+      "message_id": 19189,
+      "filename": "페메 수2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19189_.2.pdf",
+      "size_bytes": 117954183,
+      "telegram_date": "2026-02-05T02:34:14+00:00",
+      "title": "수학 페이스메이커 수학2",
+      "year": "2027",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19189.png",
+      "sha256": "66df4433eee25feead5cd20dd75b4145a1331694b2c91b718d99e0d8abe95bc9"
     }
   ],
   "duplicate_message_ids": [
