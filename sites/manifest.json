@@ -44953,6 +44953,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19436.png",
       "sha256": "1247d857629adc1daae62023dc90d33561ff47f8ec47ba1c14f6542ba2b0bb17"
+    },
+    {
+      "message_id": 19435,
+      "filename": "수능특강 독서 사용설명서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19435_.pdf",
+      "size_bytes": 679173746,
+      "telegram_date": "2026-02-20T02:00:23+00:00",
+      "title": "국어 2027 수능특강 사용설명서 독서",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19435.png",
+      "sha256": "aaf18b0c6112eec3b05cd94f4757e508d941a27012cb97b7bdc357a65eabe4a4"
     }
   ],
   "duplicate_message_ids": [
