@@ -42167,6 +42167,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19770.png",
       "sha256": "b7360fde3719dbdaf52645832bf8e6efdf1b07ab9137fb2f5c3ab8630857ccc1"
+    },
+    {
+      "message_id": 19768,
+      "filename": "시대인재_사문_킬러마스터_01_0_킬마+오리엔테이션.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19768_._._._01_0_.%2B.pdf",
+      "size_bytes": 5535617,
+      "telegram_date": "2026-03-10T09:38:19+00:00",
+      "title": "사문 문서연 사문 킬러마스터 12주차",
+      "year": "2027",
+      "instructor": "문서연",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/19768.png",
+      "sha256": "7f418ed4a7071eae8f8be4f963066b6fc8668071e5026e746a02f2c99dd54b98"
     }
   ],
   "duplicate_message_ids": [
