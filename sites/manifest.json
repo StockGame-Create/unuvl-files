@@ -50259,6 +50259,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/18766.png",
       "sha256": "d20901f3defb5900d8fef2da3b810993ce2c3abe0d14e30fbddb9b09c57ad8c5"
+    },
+    {
+      "message_id": 18762,
+      "filename": "국어,+김재훈,+특강반,+주간지1+_+2024_3월,+2024_4월.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18762_.%2B.%2B.%2B.1%2B_%2B2024_3.%2B2024_4.pdf",
+      "size_bytes": 2046713,
+      "telegram_date": "2026-01-03T14:49:09+00:00",
+      "title": "국어 김재훈 선생님과 함께하는 수능국어 과제장 (1)",
+      "year": "2027",
+      "instructor": "김재훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18762.png",
+      "sha256": "b22274ba959426c14eff20a688def320aaca9d209550c3ebd9b95376e11634f3"
     }
   ],
   "duplicate_message_ids": [
