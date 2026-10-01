@@ -41929,6 +41929,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19799.png",
       "sha256": "e1aa2279ce6444ff226b4d56c17dd1ae1669339269c64b97a574e8e2b5a5612d"
+    },
+    {
+      "message_id": 19797,
+      "filename": "능률보카 어원편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19797_.pdf",
+      "size_bytes": 44328460,
+      "telegram_date": "2026-03-12T11:43:28+00:00",
+      "title": "영어 능률 VOCA 어원편",
+      "year": null,
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19797.png",
+      "sha256": "98074e5198bfbf6364a338ca8786f7df92f0c33b0dfa833d0df42911fd8f9a78"
     }
   ],
   "duplicate_message_ids": [
