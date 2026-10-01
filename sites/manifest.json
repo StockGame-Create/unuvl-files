@@ -43119,6 +43119,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19660.png",
       "sha256": "f25ab33e0844511d31c50905904641ab1e98295b590d55b81235bcda91d48e33"
+    },
+    {
+      "message_id": 19658,
+      "filename": "시대기출 물리.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19658_.pdf",
+      "size_bytes": 221070981,
+      "telegram_date": "2026-03-02T12:44:56+00:00",
+      "title": "물1 시대인재 수능기출 문제집 물리학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/19658.png",
+      "sha256": "ea580fd156b852b55c5cc5ec6b3e9745e1dc47f229e9c7cf6046f5543fb1c668"
     }
   ],
   "duplicate_message_ids": [
