@@ -47641,6 +47641,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/19105.png",
       "sha256": "993275f5b0e9f7605381ae0d7a2d070145fecd6364843c37c1526aac6f66bc60"
+    },
+    {
+      "message_id": 19104,
+      "filename": "2027학년도_시대인재_1월_서프_물리학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19104_2027._._1._._.2.pdf",
+      "size_bytes": 5882132,
+      "telegram_date": "2026-02-02T04:53:07+00:00",
+      "title": "물2 시대인재 1월 예비시행 전국모의평가 (폰스캔) #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/19104.png",
+      "sha256": "7737283feb74ae926a3eb5b04ba614e38801f2d0ed0ecc69920895059add73a3"
     }
   ],
   "duplicate_message_ids": [
