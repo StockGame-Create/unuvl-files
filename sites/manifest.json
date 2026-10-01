@@ -46843,6 +46843,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/19209.png",
       "sha256": "2b1a9d8ce93c5e8af1a42d9a369e44ee2bf0716743f25a6fa44314ec4fead2a6"
+    },
+    {
+      "message_id": 19207,
+      "filename": "수능특강_독서2027_스캔본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19207_._.2027_.pdf",
+      "size_bytes": 259005145,
+      "telegram_date": "2026-02-07T04:09:28+00:00",
+      "title": "국어 2027 수능특강 독서 (스캔)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "독서",
+      "thumbnail": "thumbnails/19207.png",
+      "sha256": "a1f07bb046ec2c809ee83c6296f970c18b96dcf22df0eb71d81348a775ad7536"
     }
   ],
   "duplicate_message_ids": [
