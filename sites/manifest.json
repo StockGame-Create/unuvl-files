@@ -43889,6 +43889,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19568.png",
       "sha256": "31c7d51381dc3fffb97e54b4e9fca4f4072f96d77814052ba805cc2af6213743"
+    },
+    {
+      "message_id": 19567,
+      "filename": "문학올인원_문제_전형태.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19567_._._.pdf",
+      "size_bytes": 143519351,
+      "telegram_date": "2026-02-24T13:39:07+00:00",
+      "title": "국어 문학 올인원",
+      "year": "2027",
+      "instructor": "전형태",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19567.png",
+      "sha256": "122dc5920f374b27dc6c8eec0709ead5c6f89ce73467e866a57d99c03f94b76d"
     }
   ],
   "duplicate_message_ids": [
