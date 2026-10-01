@@ -41915,6 +41915,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/19800.png",
       "sha256": "585290cecf55c1df1c6bcddf869492e1d67454b4d12f6118bf3bd81262dad03c"
+    },
+    {
+      "message_id": 19799,
+      "filename": "2026_EBS_수능특강_Light_영어독해연습.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19799_2026_EBS_._Light_.pdf",
+      "size_bytes": 45960469,
+      "telegram_date": "2026-03-12T11:44:45+00:00",
+      "title": "영어 수능특강 Light 영어독해연습(22개정)",
+      "year": "2027",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/19799.png",
+      "sha256": "e1aa2279ce6444ff226b4d56c17dd1ae1669339269c64b97a574e8e2b5a5612d"
     }
   ],
   "duplicate_message_ids": [
