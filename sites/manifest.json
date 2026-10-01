@@ -43931,6 +43931,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19565.png",
       "sha256": "435ef10fc9a120355711fbce4260c21d652ecd129548465b6e40babf7c34956b"
+    },
+    {
+      "message_id": 19559,
+      "filename": "EBS_2027_수능특강_한국사영역_한국사_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19559_EBS_2027_._._._.pdf",
+      "size_bytes": 3142973,
+      "telegram_date": "2026-02-24T11:18:09+00:00",
+      "title": "한국사 2027 수능특강",
+      "year": "2027",
+      "instructor": null,
+      "subject": "한국사",
+      "thumbnail": "thumbnails/19559.png",
+      "sha256": "8f115e8151a64cffe19de76ef5ce48446b526483dbe22cb1d2c19d9b9d1a70df"
     }
   ],
   "duplicate_message_ids": [
