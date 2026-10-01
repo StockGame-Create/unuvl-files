@@ -46661,6 +46661,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19229.png",
       "sha256": "0c176f0bcc45d6b9b704f87bec45f8b1b05815ac654a0af681035f969d769d98"
+    },
+    {
+      "message_id": 19228,
+      "filename": "2027학년도_수능특강_언어와 매체.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19228_2027._._.pdf",
+      "size_bytes": 148175832,
+      "telegram_date": "2026-02-08T05:15:19+00:00",
+      "title": "국어 2027 수능특강 언어와 매체",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19228.png",
+      "sha256": "ac2b97bbd4186484ae27b8a7c4e6ece952c8fd70277e6cf98ca7c935de819bda"
     }
   ],
   "duplicate_message_ids": [
