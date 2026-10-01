@@ -42727,6 +42727,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19708.png",
       "sha256": "4ad0b23b351e7dcf1db16945429ae61bca8121c02c74374b2316ef042fd212cc"
+    },
+    {
+      "message_id": 19706,
+      "filename": "서킷 Vol.1 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19706_.Vol.1.1.pdf",
+      "size_bytes": 34753123,
+      "telegram_date": "2026-03-05T13:50:02+00:00",
+      "title": "수학 강대 CIRCUIT 1회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19706.png",
+      "sha256": "10d478fd8a60d0882f76d264e994cddb428b8d558f5e634baa8420f16e1f0ad8"
     }
   ],
   "duplicate_message_ids": [
