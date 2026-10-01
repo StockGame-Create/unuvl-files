@@ -47501,6 +47501,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19123.png",
       "sha256": "80ec2b256abb651b84b499c83cbc3de092450bae9eaa862d2f2214f6697ded1a"
+    },
+    {
+      "message_id": 19121,
+      "filename": "5주차+미적분+필기노트+(1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19121_5.%2B.%2B.%2B.1.pdf",
+      "size_bytes": 2247158,
+      "telegram_date": "2026-02-02T15:41:51+00:00",
+      "title": "수학 강기원T 정규반 Step1 5주차 필기노트",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19121.png",
+      "sha256": "47ae5d1da6925e0c4ada48653da409ecd1d2178df082cb14cf8788e908e8dd0f"
     }
   ],
   "duplicate_message_ids": [
