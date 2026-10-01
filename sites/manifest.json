@@ -43735,6 +43735,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19590.png",
       "sha256": "b4ea205d4c286643a735f05c672c30938aa23deb0475db169175475133b3a537"
+    },
+    {
+      "message_id": 19587,
+      "filename": "시냅스 수1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19587_.1.pdf",
+      "size_bytes": 58168645,
+      "telegram_date": "2026-02-25T09:48:44+00:00",
+      "title": "수학 시냅스 수1",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19587.png",
+      "sha256": "eca43e150f6e1649da14aa5a050438a8dba0a436b9039ea1b5a2dc8dbaaac926"
     }
   ],
   "duplicate_message_ids": [
