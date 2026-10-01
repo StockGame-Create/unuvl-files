@@ -44813,6 +44813,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/19452.png",
       "sha256": "b9d6756c46ea409efbef4523dc9fe0fce975aa8c4bd0199f803307f86e83ccc3"
+    },
+    {
+      "message_id": 19450,
+      "filename": "EBS_2027_수능특강_사회탐구영역_동아시아사_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19450_EBS_2027_._._._.pdf",
+      "size_bytes": 2958453,
+      "telegram_date": "2026-02-20T10:52:30+00:00",
+      "title": "동사 2027 수능특강 동아시아사",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회",
+      "thumbnail": "thumbnails/19450.png",
+      "sha256": "5ca48f59bfbf35a58f85245d729d03476447b337db276788986cb9fbcaa0a2bc"
     }
   ],
   "duplicate_message_ids": [
