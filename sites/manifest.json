@@ -49489,6 +49489,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18865.png",
       "sha256": "ec414847629916f7118e4a75fc249beee2c1a0520739ef1492cfcd0e61fe7e31"
+    },
+    {
+      "message_id": 18863,
+      "filename": "강기분_독서3_해설편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18863_._.3_.pdf",
+      "size_bytes": 105273937,
+      "telegram_date": "2026-01-15T17:37:54+00:00",
+      "title": "국어 강민철의 기출분석 독서 3",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18863.png",
+      "sha256": "d6e23891c5db4f83089ca4601e2c205a636a9c57b74e36590d773d147416a856"
     }
   ],
   "duplicate_message_ids": [
