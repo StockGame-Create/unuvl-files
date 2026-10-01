@@ -46899,6 +46899,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19202.png",
       "sha256": "0b0f6196b7ae900d49d482d68c829af1a9990ede1098d630b70b9892af98288b"
+    },
+    {
+      "message_id": 19201,
+      "filename": "CIRCUIT X THE BEST VOL.1 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19201_CIRCUIT.X.THE.BEST.VOL.1.2.pdf",
+      "size_bytes": 363258,
+      "telegram_date": "2026-02-07T00:37:38+00:00",
+      "title": "수학 CIRCUIT X THE BEST 2회 #서킷",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19201.png",
+      "sha256": "cc29a00778f6bebc2bb0ae613f1eb8b482b62dfd20ea200ce3355d83272ec6e8"
     }
   ],
   "duplicate_message_ids": [
