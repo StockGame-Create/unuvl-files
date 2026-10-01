@@ -49937,6 +49937,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/18808.png",
       "sha256": "efe72d07ca874d9734e08761a4daa8c48f7fa7d286b79ed516bdbd80c7054ad3"
+    },
+    {
+      "message_id": 18806,
+      "filename": "new_2027_개념완성_백호_생명과학_I.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18806_new_2027_._._._I.pdf",
+      "size_bytes": 66396715,
+      "telegram_date": "2026-01-09T15:49:45+00:00",
+      "title": "생1 2027 Renewal 섬세한 개념완성",
+      "year": "2027",
+      "instructor": "백호",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/18806.png",
+      "sha256": "27e19445dbd41686796cbec5c1aad26f729c54706828353d6185e1a51fd00f4b"
     }
   ],
   "duplicate_message_ids": [
