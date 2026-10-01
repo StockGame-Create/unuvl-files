@@ -43105,6 +43105,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19661.png",
       "sha256": "a7cde9fe929a15ff93d1ba6d4efc1fe2ffc40ca76502dd9b4c87286217108e95"
+    },
+    {
+      "message_id": 19660,
+      "filename": "EBS 올림포스 전국연합 대수 2026 본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19660_EBS.2026.pdf",
+      "size_bytes": 14450778,
+      "telegram_date": "2026-03-02T16:57:25+00:00",
+      "title": "대수 EBS올림포스 전국연합학력평가문제집 대수",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19660.png",
+      "sha256": "f25ab33e0844511d31c50905904641ab1e98295b590d55b81235bcda91d48e33"
     }
   ],
   "duplicate_message_ids": [
