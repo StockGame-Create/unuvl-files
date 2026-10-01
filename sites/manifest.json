@@ -41411,6 +41411,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19852.png",
       "sha256": "b0db5cf92d5bd2476a78eb013f0b73cf8294df01d77af99333df4a79eca54f0f"
+    },
+    {
+      "message_id": 19851,
+      "filename": "쎈B 수2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19851_.B.2.pdf",
+      "size_bytes": 8478208,
+      "telegram_date": "2026-03-14T13:10:40+00:00",
+      "title": "수학 쎈B 수학2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/19851.png",
+      "sha256": "fe6ba18d66dd120c14a3dc93aef42085becfccc43dd57d0f27664582d33f1bad"
     }
   ],
   "duplicate_message_ids": [
