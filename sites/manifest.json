@@ -43455,6 +43455,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/19618.png",
       "sha256": "d6998a906400895ec74bb911d6755827ec667fad6c9d8797ccef6f3009e1de9c"
+    },
+    {
+      "message_id": 19617,
+      "filename": "2027출제자의눈워크북이지영.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19617_2027.pdf",
+      "size_bytes": 72881065,
+      "telegram_date": "2026-02-27T12:47:12+00:00",
+      "title": "사문 2027 출제자의 눈 워크북",
+      "year": "2027",
+      "instructor": "이지영",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/19617.png",
+      "sha256": "acae669f7929e3791a9d2d87126595b4a601dd08d757fe58266345263345ad57"
     }
   ],
   "duplicate_message_ids": [
