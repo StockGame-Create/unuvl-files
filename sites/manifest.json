@@ -47571,6 +47571,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19113.png",
       "sha256": "9f5832b846c530769e0280d7cb411669eb0be8c53a5a811334ec755296999892"
+    },
+    {
+      "message_id": 19111,
+      "filename": "2027 이신혁 시즌1 필기노트 02주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19111_2027.1.02.pdf",
+      "size_bytes": 3660868,
+      "telegram_date": "2026-02-02T05:02:17+00:00",
+      "title": "지1 아폴로 시즌1 02호 + 필기노트 2주차",
+      "year": "2027",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/19111.png",
+      "sha256": "82e180a5d3b2c90b8a0927193c959c5a7543a8e94e03d0b7b80f762a9556dc56"
     }
   ],
   "duplicate_message_ids": [
