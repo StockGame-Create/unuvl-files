@@ -44589,6 +44589,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19477.png",
       "sha256": "53a8beec2c40509a26ee6be2fc5e5295a61edc16e8f96ecc00a3cf328e97868f"
+    },
+    {
+      "message_id": 19474,
+      "filename": "2027_수능특강_정치와_법.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19474_2027_._._.pdf",
+      "size_bytes": 30331652,
+      "telegram_date": "2026-02-21T17:22:58+00:00",
+      "title": "정법 수능특강 정치와 법",
+      "year": "2027",
+      "instructor": null,
+      "subject": "정치와 법",
+      "thumbnail": "thumbnails/19474.png",
+      "sha256": "a882558e523c09b97fed944f68fa0d984caf3aa70331c441fa75f804d3b6db9b"
     }
   ],
   "duplicate_message_ids": [
