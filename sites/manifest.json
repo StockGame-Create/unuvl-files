@@ -47151,6 +47151,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19167.png",
       "sha256": "09120d8b23c955f6b015c8a70155ce84a9395f37ad29f307d725520cfb4dcd2d"
+    },
+    {
+      "message_id": 19165,
+      "filename": "2027 수능특강 윤사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19165_2027.pdf",
+      "size_bytes": 12881568,
+      "telegram_date": "2026-02-03T15:32:08+00:00",
+      "title": "윤사 2027 수능특강 윤리와 사상",
+      "year": "2027",
+      "instructor": null,
+      "subject": "윤리와 사상",
+      "thumbnail": "thumbnails/19165.png",
+      "sha256": "bde2ee5bd6904df5a4c188a6fcde0307d79105b55b9fee3c26d4886046bbe5df"
     }
   ],
   "duplicate_message_ids": [
