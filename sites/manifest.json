@@ -44183,6 +44183,20 @@
       "subject": "미적분",
       "thumbnail": "thumbnails/19527.png",
       "sha256": "292b4fe45ff879eab5d8e9d3fc5113950571554b9475f6084da06ebcea548c3d"
+    },
+    {
+      "message_id": 19526,
+      "filename": "마더텅 고3 수2 교사용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19526_.3.2.pdf",
+      "size_bytes": 394516528,
+      "telegram_date": "2026-02-24T04:44:02+00:00",
+      "title": "수학 2027 마더텅 수능기출문제집 수2",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학2",
+      "thumbnail": "thumbnails/19526.png",
+      "sha256": "5ea60e660902b950ecf17b43b03d131b97d75b0f4434189f4e709dc61e50bf53"
     }
   ],
   "duplicate_message_ids": [
