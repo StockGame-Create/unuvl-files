@@ -50063,6 +50063,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18791.png",
       "sha256": "7aa74b3353887e199736d6a9b77cd27adeb1964e7a9f49d507a187b0d26fbab2"
+    },
+    {
+      "message_id": 18789,
+      "filename": "2027 강기원 어싸 02주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18789_2027.02.pdf",
+      "size_bytes": 57817001,
+      "telegram_date": "2026-01-06T06:16:12+00:00",
+      "title": "수학 Assignment 수학2 + 미적분 Step1 02주차 #어싸",
+      "year": "2027",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18789.png",
+      "sha256": "a36adf99c8ae1e6b3668d024e420175e096007707a65bcd920915c035c9234d9"
     }
   ],
   "duplicate_message_ids": [
