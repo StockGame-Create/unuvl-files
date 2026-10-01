@@ -45877,6 +45877,20 @@
       "subject": "지구과학",
       "thumbnail": "thumbnails/19324.png",
       "sha256": "0e5fa6aea5fa9cf71587f7ec3a445e103d79738e3a3c25fe18a272379ce1ca56"
+    },
+    {
+      "message_id": 19323,
+      "filename": "메가스터디 N제 지구과학 685제_해설(001_048) (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19323_.N.685._.001_048.1.pdf",
+      "size_bytes": 2759364,
+      "telegram_date": "2026-02-14T12:22:54+00:00",
+      "title": "지1 메가스터디 N제 지구과학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학",
+      "thumbnail": "thumbnails/19323.png",
+      "sha256": "a8c4fac253b91bcacfd3fe4d5460190afb76f63314313165f27a0ce7eb10df8d"
     }
   ],
   "duplicate_message_ids": [
