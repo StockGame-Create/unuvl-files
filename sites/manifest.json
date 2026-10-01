@@ -44379,6 +44379,20 @@
       "subject": "수학2",
       "thumbnail": "thumbnails/19505.png",
       "sha256": "e864b57daac6569463adc3325d05a9283ef7b54e3adaacca62e5cf8a50e4916a"
+    },
+    {
+      "message_id": 19504,
+      "filename": "2027공통_7주차복습테스트(수정본).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19504_2027._7.pdf",
+      "size_bytes": 1280420,
+      "telegram_date": "2026-02-22T18:29:24+00:00",
+      "title": "수학 저스트 수학2 테스트 7회",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학2",
+      "thumbnail": "thumbnails/19504.png",
+      "sha256": "3f189347d7c7c5240711f104928af0a62e72dae02b0bda5b424522ef6d31fafe"
     }
   ],
   "duplicate_message_ids": [
