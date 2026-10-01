@@ -49391,6 +49391,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18882.png",
       "sha256": "8207a79c4965b2bf6172ab3a05cf974551f513b1ebab1379db6ce887c73e1582"
+    },
+    {
+      "message_id": 18877,
+      "filename": "[2027 HOLYDAY 신기해 공통] 2주차__.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18877_.2027.HOLYDAY.2.__.pdf",
+      "size_bytes": 6262016,
+      "telegram_date": "2026-01-17T07:45:47+00:00",
+      "title": "수학 HOLY DAY 2027 신기해 공통 1,2주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18877.png",
+      "sha256": "e067a4964d4ae5066128b5680d2271c88603a9f49de3f4eb14a4ff7b0b0d226c"
     }
   ],
   "duplicate_message_ids": [
