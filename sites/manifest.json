@@ -46717,6 +46717,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/19223.png",
       "sha256": "d70384cbf316f23bb458eda74c45b44bbc48557a987e393430c11a5d40052610"
+    },
+    {
+      "message_id": 19222,
+      "filename": "EBS_2027_수능특강_과학탐구영역_지구과학Ⅰ_정답과해설2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19222_EBS_2027_._._._.2.pdf",
+      "size_bytes": 2827687,
+      "telegram_date": "2026-02-07T09:20:43+00:00",
+      "title": "지1 2027 수능특강 지구과학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/19222.png",
+      "sha256": "2ad83df0ec4a797b0dd7e5acf9d4d84118e606e577a4fc0409d7e215accae555"
     }
   ],
   "duplicate_message_ids": [
