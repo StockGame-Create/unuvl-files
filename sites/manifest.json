@@ -43427,6 +43427,20 @@
       "subject": "통합사회2",
       "thumbnail": "thumbnails/19621.png",
       "sha256": "45e0f89fbecf101730b112ced3f8ebec045f9e1ca9dbfbb81361ff13b2a19b82"
+    },
+    {
+      "message_id": 19620,
+      "filename": "2025 개념완성 통합사회1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19620_2025.1.pdf",
+      "size_bytes": 123072852,
+      "telegram_date": "2026-02-28T13:59:18+00:00",
+      "title": "통합사회1 EBS 개념완성",
+      "year": null,
+      "instructor": null,
+      "subject": "통합사회1",
+      "thumbnail": "thumbnails/19620.png",
+      "sha256": "ccc363677cd508415c4e8c26abecbfe213a5f178bfea58ad528f54a5cbb5a20a"
     }
   ],
   "duplicate_message_ids": [
