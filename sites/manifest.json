@@ -41159,6 +41159,20 @@
       "subject": null,
       "thumbnail": "thumbnails/19877.png",
       "sha256": "5a7125a3be8e01fd1178088c8ebb0c178e8a34cf1324448b39f9f12c1b9adf89"
+    },
+    {
+      "message_id": 19876,
+      "filename": "시대인재_4교시_탐구영역_OMR_답안지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19876_._4._._OMR_.pdf",
+      "size_bytes": 455975,
+      "telegram_date": "2026-03-15T04:10:19+00:00",
+      "title": "시대인재_4교시_탐구영역_OMR_답안지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/19876.png",
+      "sha256": "359b739077121bc21c103556c3942b1095048874c2fba752985e0982e4e5db10"
     }
   ],
   "duplicate_message_ids": [
