@@ -47529,6 +47529,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19119.png",
       "sha256": "e91a1633c274713e4484eab377bae91599e7c637d10d7cd4913e235b43d7b827"
+    },
+    {
+      "message_id": 19116,
+      "filename": "2027학년도_시대인재_1월_서프_물리학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19116_2027._._1._._.1.pdf",
+      "size_bytes": 2473772,
+      "telegram_date": "2026-02-02T15:35:08+00:00",
+      "title": "물1 시대인재 1월 예비시행 전국모의평가 (폰스캔) #서프",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/19116.png",
+      "sha256": "e6bb9f3b2ac69a05e215debf3deeeeac7299b17dc22d25ef53cec1cd12de5b40"
     }
   ],
   "duplicate_message_ids": [
