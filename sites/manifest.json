@@ -44617,6 +44617,20 @@
       "subject": "정치와 법",
       "thumbnail": "thumbnails/19473.png",
       "sha256": "f641fb2973c00a9d30f263e991154d013abd0156d9c6899afc6afdb820e948f9"
+    },
+    {
+      "message_id": 19471,
+      "filename": "2027 검더텅 국사 정답표.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19471_2027.pdf",
+      "size_bytes": 300782,
+      "telegram_date": "2026-02-21T17:22:42+00:00",
+      "title": "한국사 2027 마더텅 수능기출문제집",
+      "year": "2027",
+      "instructor": null,
+      "subject": "한국사",
+      "thumbnail": "thumbnails/19471.png",
+      "sha256": "5c670b4ec740bf8f61704d3278cdd2ca7ed4df63c5abe0647e7edf496c4e53b7"
     }
   ],
   "duplicate_message_ids": [
