@@ -46073,6 +46073,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19299.png",
       "sha256": "cf4870775e57631fbdb52be7a9641b3363795684daaeb9de65fe4f4f814d5940"
+    },
+    {
+      "message_id": 19298,
+      "filename": "새기분독서2_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19298_.2_.pdf",
+      "size_bytes": 42058073,
+      "telegram_date": "2026-02-14T01:32:25+00:00",
+      "title": "국어 새로운 기출 분석 독서2 (폰스캔) #새기분",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19298.png",
+      "sha256": "667032d3babadb6349b1fbfbb993ef048dd8767b8c22db1850a09f31eb7d540d"
     }
   ],
   "duplicate_message_ids": [
