@@ -41089,6 +41089,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19885.png",
       "sha256": "ae08c5976f2553f2681368032af4219960caa15118ee65033c7b624af67ab72d"
+    },
+    {
+      "message_id": 19884,
+      "filename": "오아시스_도형_테마_강대_정병훈.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19884_._._._._.pdf",
+      "size_bytes": 4400687,
+      "telegram_date": "2026-03-16T23:41:50+00:00",
+      "title": "수학 정병훈T 오아시스 도형 챕터 테마 시리즈",
+      "year": "2027",
+      "instructor": "정병훈",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19884.png",
+      "sha256": "16811be0d8a21b7db18e264655263379fa30930e7b3e177cb0da37d893cb99f0"
     }
   ],
   "duplicate_message_ids": [
