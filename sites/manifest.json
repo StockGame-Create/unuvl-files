@@ -44771,6 +44771,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/19456.png",
       "sha256": "56d78faa9891d185a3fb73c749c045bcf99b42bb4e6d56a6b13f55627a3dbafe"
+    },
+    {
+      "message_id": 19455,
+      "filename": "2027_마더텅_수능기출문제집_화학_문제편정답표시없음.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19455_2027_._._._.pdf",
+      "size_bytes": 99335667,
+      "telegram_date": "2026-02-20T14:22:44+00:00",
+      "title": "화1 마더텅 수능기출문제집 화학1 #마더텅",
+      "year": "2027",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/19455.png",
+      "sha256": "61708517369015fa128481016d9fdf68d18b9b3caf04ec292935810da359c000"
     }
   ],
   "duplicate_message_ids": [
