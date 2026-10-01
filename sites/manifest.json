@@ -45555,6 +45555,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19360.png",
       "sha256": "63dc4a7222e43a1b3ff939cc46709fa7a3b2a7e273c4faba854ca5ff36ccd96f"
+    },
+    {
+      "message_id": 19359,
+      "filename": "드릴드1 수1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19359_.1.1.pdf",
+      "size_bytes": 17065895,
+      "telegram_date": "2026-02-15T08:56:32+00:00",
+      "title": "수학 현우진 드릴드1 수1 수2 미적 #드릴드",
+      "year": "2021",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/19359.png",
+      "sha256": "f4c9bcaeaaa427dfbbf15c0c2c313c918707acd06b1f08bc89db357e3f6351f7"
     }
   ],
   "duplicate_message_ids": [
