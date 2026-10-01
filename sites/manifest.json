@@ -44911,6 +44911,20 @@
       "subject": "한국사",
       "thumbnail": "thumbnails/19440.png",
       "sha256": "e9d3316dfd6e1cdbdaafd16aa2dac3dcb4348e8586767e27b1537450b07efc80"
+    },
+    {
+      "message_id": 19439,
+      "filename": "한국사 1등급 만들기_260220_023458.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19439_.1._260220_023458.pdf",
+      "size_bytes": 126855234,
+      "telegram_date": "2026-02-20T02:01:00+00:00",
+      "title": "한국사 1등급 만들기",
+      "year": null,
+      "instructor": null,
+      "subject": "한국사",
+      "thumbnail": "thumbnails/19439.png",
+      "sha256": "b22898a02a4efffb76d28a1f4369643c0aedfbe201a0ea535196601a7b3d2ca4"
     }
   ],
   "duplicate_message_ids": [
