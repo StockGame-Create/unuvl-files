@@ -41551,6 +41551,20 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/19836.png",
       "sha256": "9e1f59c50605b9212c57f70269a4a10786e95e6f698c30778f0565b3ce2d0749"
+    },
+    {
+      "message_id": 19831,
+      "filename": "30. _____ _____(_____ 30____ ________).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-3/19831_30._____._____._____.30____.________.pdf",
+      "size_bytes": 1309839,
+      "telegram_date": "2026-03-13T08:33:31+00:00",
+      "title": "국어 Hidden Track",
+      "year": "2027",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/19831.png",
+      "sha256": "3584fa780bd309544811ac0c6b7357f55dbeb310825409e4783430a8dbf0c839"
     }
   ],
   "duplicate_message_ids": [
