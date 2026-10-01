@@ -49265,6 +49265,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18899.png",
       "sha256": "2e2044149ae4785f3e65293cb6bf4bb807db7a8790aa4f8624a5b11fc6194f2c"
+    },
+    {
+      "message_id": 18898,
+      "filename": "러셀_베이스캠프_시즌_1_제2회_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18898_._._._1_.2._.pdf",
+      "size_bytes": 6702243,
+      "telegram_date": "2026-01-18T15:50:14+00:00",
+      "title": "러셀_베이스캠프_시즌_1_제2회_답지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18898.png",
+      "sha256": "1949ce2f2d22ad867c777e1bbab61435ad780251b7b90b9d4784c0b82b4fb9fb"
     }
   ],
   "duplicate_message_ids": [
