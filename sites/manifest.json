@@ -43483,6 +43483,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19616.png",
       "sha256": "1cf87e3d900fd33e9467d3a894b38cb633bb6856e4aae3644a7460d0ea52d3c4"
+    },
+    {
+      "message_id": 19614,
+      "filename": "(22개정)하이탑 화학 3권(교사용).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19614_.22.3.pdf",
+      "size_bytes": 10775267,
+      "telegram_date": "2026-02-27T01:26:16+00:00",
+      "title": "과학 하이탑 화학",
+      "year": null,
+      "instructor": null,
+      "subject": "화학",
+      "thumbnail": "thumbnails/19614.png",
+      "sha256": "22ee99662f2d8ce442caa9e1583263a50ddb68a98da8475789b2e06c28176a8f"
     }
   ],
   "duplicate_message_ids": [
