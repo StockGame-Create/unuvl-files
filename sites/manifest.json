@@ -42713,6 +42713,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/19709.png",
       "sha256": "da40cb55cc0ce05afc0b754831247ce6e06fa35a8628dde70b33d184c397a8a6"
+    },
+    {
+      "message_id": 19708,
+      "filename": "2027 유신T 1주차 교재.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19708_2027.T.1.pdf",
+      "size_bytes": 148676267,
+      "telegram_date": "2026-03-05T13:50:18+00:00",
+      "title": "국어 유신 글읽기의 3원리 1~2주차",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/19708.png",
+      "sha256": "4ad0b23b351e7dcf1db16945429ae61bca8121c02c74374b2316ef042fd212cc"
     }
   ],
   "duplicate_message_ids": [
