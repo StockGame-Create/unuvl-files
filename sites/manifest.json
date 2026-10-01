@@ -49713,6 +49713,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18837.png",
       "sha256": "b20d5f84f519e38c514617407b19a4b49c675dcaf8afaeda1fd0591fc85a0f4b"
+    },
+    {
+      "message_id": 18836,
+      "filename": "고쟁이 기하 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18836_.pdf",
+      "size_bytes": 8149762,
+      "telegram_date": "2026-01-12T04:50:08+00:00",
+      "title": "수학 고쟁이 유형 + 내신 기하",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18836.png",
+      "sha256": "77662d952136c1620bb7e3d8a1f8fe62a0fa43b6d880d98d8b366817e22cf563"
     }
   ],
   "duplicate_message_ids": [
