@@ -46199,6 +46199,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/19286.png",
       "sha256": "a76bdfa03f1d2f0f84d4c2cb5b7f5ca65f9be239a5ed866c5cc2faada8ac4e80"
+    },
+    {
+      "message_id": 19285,
+      "filename": "2027_EBS_수능특강_물리학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19285_2027_EBS_._.1.pdf",
+      "size_bytes": 171709230,
+      "telegram_date": "2026-02-12T18:06:05+00:00",
+      "title": "물1 2027 수능특강 물리학1",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/19285.png",
+      "sha256": "a24890b239eed6b44de630706c06c7848a880643265083044d9505d4b8c67007"
     }
   ],
   "duplicate_message_ids": [
