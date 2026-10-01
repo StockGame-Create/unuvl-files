@@ -49727,6 +49727,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18836.png",
       "sha256": "77662d952136c1620bb7e3d8a1f8fe62a0fa43b6d880d98d8b366817e22cf563"
+    },
+    {
+      "message_id": 18833,
+      "filename": "REACT 수학 2-2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18833_REACT.2-2.pdf",
+      "size_bytes": 20933556,
+      "telegram_date": "2026-01-11T15:34:52+00:00",
+      "title": "수학 REACT 수학2",
+      "year": "2027",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18833.png",
+      "sha256": "c6ff494d6dfcc456462daed2d7280d38eb8a7ad69f96713d3cd08e380e1756f5"
     }
   ],
   "duplicate_message_ids": [
