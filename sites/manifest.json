@@ -45093,6 +45093,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/19414.png",
       "sha256": "b1c5956361909db0b6866f47225518df503c30bbbc000c6945ca7ae031b67675"
+    },
+    {
+      "message_id": 19412,
+      "filename": "호시탐탐 복습.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19412_.pdf",
+      "size_bytes": 117093557,
+      "telegram_date": "2026-02-17T01:37:33+00:00",
+      "title": "윤사 호시탐탐 개념 + 복습 정치와 법",
+      "year": "2027",
+      "instructor": "이지영",
+      "subject": "윤리와 사상",
+      "thumbnail": "thumbnails/19412.png",
+      "sha256": "77f1cdf79aefcb251e54f0f25bf38c072c69bded8abd7566b2fe6bfe9d6f451d"
     }
   ],
   "duplicate_message_ids": [
