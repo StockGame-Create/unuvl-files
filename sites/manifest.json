@@ -46591,6 +46591,20 @@
       "subject": "통합사회",
       "thumbnail": "thumbnails/19237.png",
       "sha256": "b1a9ca39f808b53235691089b27d68080906861a0d66e83a745e3e8a3a9867ac"
+    },
+    {
+      "message_id": 19236,
+      "filename": "00_고1_사회_내공의_힘통합사회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/19236_00_.1_._._.pdf",
+      "size_bytes": 49631076,
+      "telegram_date": "2026-02-08T11:19:44+00:00",
+      "title": "사회 내공의힘(2022) 통합사회",
+      "year": null,
+      "instructor": null,
+      "subject": "통합사회",
+      "thumbnail": "thumbnails/19236.png",
+      "sha256": "922cfd255ca81716187988c2a969932d754c0fffcafc16d7a238249f2a501f4c"
     }
   ],
   "duplicate_message_ids": [
