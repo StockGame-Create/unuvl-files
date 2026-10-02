@@ -53185,6 +53185,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18402.png",
       "sha256": "8acbdae1c9fe792588a17401d3f0a0c74ed0d38316e81c3be5e2575b3844ea75"
+    },
+    {
+      "message_id": 18401,
+      "filename": "특난도 모의고사 파이널 시즌 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18401_.1.pdf",
+      "size_bytes": 52702827,
+      "telegram_date": "2025-11-11T14:53:22+00:00",
+      "title": "특난도 모의고사 파이널 시즌 1",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18401.png",
+      "sha256": "17346a94245c750c5c61ba4a1c9a26eb30f4d98553fbad46104a7d188bd65a54"
     }
   ],
   "duplicate_message_ids": [
