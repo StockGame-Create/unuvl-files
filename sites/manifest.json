@@ -58449,6 +58449,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17828.png",
       "sha256": "ae47247fec39e38a1d98dccc3dc55026548073675aa4c38be1d604894f705b12"
+    },
+    {
+      "message_id": 17826,
+      "filename": "김승리_아수라일지라도_총정리과제6.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17826_._._.6.pdf",
+      "size_bytes": 192622115,
+      "telegram_date": "2025-11-01T11:32:31+00:00",
+      "title": "김승리_아수라일지라도_총정리과제6",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17826.png",
+      "sha256": "6f63650349a8398add5948b28a62056727a1b30dbed118e05e4bbc509502c605"
     }
   ],
   "duplicate_message_ids": [
