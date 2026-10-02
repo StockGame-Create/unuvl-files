@@ -65127,6 +65127,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17145.png",
       "sha256": "6169e715732ebc29939eddc1380750fb26bcc0c0747ab8c4393bd94fa1038331"
+    },
+    {
+      "message_id": 17144,
+      "filename": "저스트N 미적분 1권 손필기 해설지(마스킹).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17144_.N.1.pdf",
+      "size_bytes": 24808967,
+      "telegram_date": "2025-10-23T03:17:10+00:00",
+      "title": "수학 저스트N 추석특강",
+      "year": "2026",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17144.png",
+      "sha256": "6ea3e573231cd60ba3fa092c3119e229a309f75330456e47b67e0bca860b3e52"
     }
   ],
   "duplicate_message_ids": [
