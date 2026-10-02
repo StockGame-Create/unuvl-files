@@ -57763,6 +57763,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17902.png",
       "sha256": "e106d81e1558133503cd1a6165bc1f0e25e1e5f71af69ec2e52754afc446d7de"
+    },
+    {
+      "message_id": 17900,
+      "filename": "2026핵년도_파이널_강민철_실전_모의고사_해설지2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17900_2026._._._._._.2.pdf",
+      "size_bytes": 28264035,
+      "telegram_date": "2025-11-02T13:20:09+00:00",
+      "title": "국어 파이널 강민철 실전 모의고사 2회 (해설지)",
+      "year": "2026",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/17900.png",
+      "sha256": "cfff757f2f865338d80b3e7c153ef97a5c95236dbb559ff8540d4c36530f24d9"
     }
   ],
   "duplicate_message_ids": [
