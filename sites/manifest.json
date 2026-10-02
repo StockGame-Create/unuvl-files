@@ -66219,6 +66219,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17007.png",
       "sha256": "f782339d804725814dc8e5cdd665fabc75e694f520ab655703a008aee69a3295"
+    },
+    {
+      "message_id": 17005,
+      "filename": "2022개정_개념원리_공통수학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17005_2022._._.2.pdf",
+      "size_bytes": 78132874,
+      "telegram_date": "2025-10-19T13:29:12+00:00",
+      "title": "수학 개념원리 RPM 공통수학2",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17005.png",
+      "sha256": "d962c01275f82930c18e2a507d617b8194b63bcd9a00a4c40dcc5b2d9cf86f91"
     }
   ],
   "duplicate_message_ids": [
