@@ -51729,6 +51729,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18583.png",
       "sha256": "938ed41b10080b8e2fbf913ade4eaa0dead9cca2ea878e2be92d88eb943fb269"
+    },
+    {
+      "message_id": 18582,
+      "filename": "2026 강모 화2 21회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18582_2026.2.21.pdf",
+      "size_bytes": 7395182,
+      "telegram_date": "2025-12-16T03:14:47+00:00",
+      "title": "2026 강모 화2 21회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18582.png",
+      "sha256": "454b05c2f62516543e2263f57f8b62d1adf89a8f1ad10327f4c2e07bf1cbeadd"
     }
   ],
   "duplicate_message_ids": [
