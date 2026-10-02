@@ -59821,6 +59821,20 @@
       "subject": "동아시아사",
       "thumbnail": "thumbnails/17697.png",
       "sha256": "001f1846defbe07594f8ec7e59a15697d25a0cd6a483268ad64d4aaf4863ad1a"
+    },
+    {
+      "message_id": 17695,
+      "filename": "2026_9월_평가원_지1_문항_해설_및_심층_분석_최종.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17695_2026_9._._.1_._._._._._.pdf",
+      "size_bytes": 4855718,
+      "telegram_date": "2025-10-31T13:46:36+00:00",
+      "title": "2026_9월_평가원_지1_문항_해설_및_심층_분석_최종",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17695.png",
+      "sha256": "06bf1c21a8e27c9974124e18f12f2c8d9079918cd922272d21bfd916d7f708a6"
     }
   ],
   "duplicate_message_ids": [
