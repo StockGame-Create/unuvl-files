@@ -57791,6 +57791,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17898.png",
       "sha256": "cadffe9dd58e372fa226bfafa953d68e88a9cd7e7c6edb6dd5c9866aaba8d54d"
+    },
+    {
+      "message_id": 17897,
+      "filename": "2026학년도_대학수학능력시험_국어_상상_7일의_기적_모의고사_4_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17897_2026._._._._7._._._4_._._.pdf",
+      "size_bytes": 222765277,
+      "telegram_date": "2025-11-02T12:34:52+00:00",
+      "title": "국어 상상 7일의 기적 모의고사 해설 #칠기모",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17897.png",
+      "sha256": "2391aaca90fe8189f8241ef08254e20e58ce1abb49113d6e4461811a95acb903"
     }
   ],
   "duplicate_message_ids": [
