@@ -64203,6 +64203,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17230.png",
       "sha256": "5dd6527c06cd9b9a49456bc3fa5f06e081370ea07c148a2504a3fae98cc976ff"
+    },
+    {
+      "message_id": 17229,
+      "filename": "김범준 모의고사 9회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17229_.9.pdf",
+      "size_bytes": 11690777,
+      "telegram_date": "2025-10-23T15:06:45+00:00",
+      "title": "김범준 모의고사 9회 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17229.png",
+      "sha256": "a67d28fa2203c280256c74bd8851fe147a5ecfe41b5a3e76624bfae44879d359"
     }
   ],
   "duplicate_message_ids": [
