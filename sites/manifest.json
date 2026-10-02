@@ -50679,6 +50679,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/18711.png",
       "sha256": "8c6cc39e98ce47a248d26eb74ccdd1c13afe06a296e6ae1b7627e8e072524dcb"
+    },
+    {
+      "message_id": 18710,
+      "filename": "2027 KISSAVE 상편 션티.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18710_2027.KISSAVE.pdf",
+      "size_bytes": 163231016,
+      "telegram_date": "2025-12-29T10:46:53+00:00",
+      "title": "영어 2027 KISSAVE",
+      "year": "2027",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/18710.png",
+      "sha256": "596d44627049bb8e20008b2bf0aec2164bc91cdbdf962991d220d9eeb8185e96"
     }
   ],
   "duplicate_message_ids": [
