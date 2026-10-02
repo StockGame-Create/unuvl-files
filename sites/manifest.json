@@ -55145,6 +55145,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/18182.png",
       "sha256": "d8b2d13bdba3d46476499ee763b433919efb2f82f8b62946967a607e96a02595"
+    },
+    {
+      "message_id": 18181,
+      "filename": "2026_이신혁_모의평가_FINAL_9회_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18181_2026_._._FINAL_9._.pdf",
+      "size_bytes": 7567523,
+      "telegram_date": "2025-11-06T14:02:41+00:00",
+      "title": "지1 이신혁 모의평가 FINAL 9회",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18181.png",
+      "sha256": "cfcd7b6c040067dc0a24685a1b6117a34868db2181a618ca002cf508d2371c41"
     }
   ],
   "duplicate_message_ids": [
