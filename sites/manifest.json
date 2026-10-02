@@ -55523,6 +55523,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18151.png",
       "sha256": "b31fc0512004b4ad9a332ade6627173cb878ba5de406c1be3cb33dd14dafe361"
+    },
+    {
+      "message_id": 18150,
+      "filename": "2026 상상 7일의 기적 모의고사 예열 지문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18150_2026.7.pdf",
+      "size_bytes": 53815899,
+      "telegram_date": "2025-11-06T13:07:28+00:00",
+      "title": "국어 상상 7일의 기적 모의고사 예열 지문 #칠기모",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18150.png",
+      "sha256": "7841b345cfae920a442c403aff3ca938d8bd2006332b30018cf0ea242fa845fd"
     }
   ],
   "duplicate_message_ids": [
