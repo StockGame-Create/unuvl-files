@@ -64511,6 +64511,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17207.png",
       "sha256": "199c93d04fe05184781c0cec618f54d4d0c151f43264aa490187678f73b6aee4"
+    },
+    {
+      "message_id": 17206,
+      "filename": "5교시사문D_Fine_제2회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17206_5.D_Fine_.2._.pdf",
+      "size_bytes": 1118125,
+      "telegram_date": "2025-10-23T14:45:37+00:00",
+      "title": "사문 D.Fine Final 1,2회 #디파인",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17206.png",
+      "sha256": "69e9f796cabcb2a29b25e58224acce44d038006bdf0f974423de439c53d8c2d1"
     }
   ],
   "duplicate_message_ids": [
