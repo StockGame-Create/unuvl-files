@@ -54683,6 +54683,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/18229.png",
       "sha256": "997b80dd1f81057c5922b65273489603aba358f54e54f604d28858a04c16f582"
+    },
+    {
+      "message_id": 18228,
+      "filename": "답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18228_.pdf",
+      "size_bytes": 24873274,
+      "telegram_date": "2025-11-07T15:44:03+00:00",
+      "title": "화1 시대인재 서바이벌 전국 모의고사 17회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/18228.png",
+      "sha256": "072ddbda28a321b6d28cc1740ff98b86e3bf7705e1e7720587f3bb8a9a32ea54"
     }
   ],
   "duplicate_message_ids": [
