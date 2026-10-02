@@ -64609,6 +64609,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/17200.png",
       "sha256": "364a4d22b8045a0ca71223cd3e5650b18d210ad28066da30eaea947294cc1775"
+    },
+    {
+      "message_id": 17199,
+      "filename": "3교시영어D_Fine_제2회_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17199_3.D_Fine_.2._.pdf",
+      "size_bytes": 1999212,
+      "telegram_date": "2025-10-23T14:45:02+00:00",
+      "title": "영어 D.Fine Final 1,2회 #디파인",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/17199.png",
+      "sha256": "7744793aa045175189edb8570012eeba60b5f1be0f0dcd446fa3e9817dec4a79"
     }
   ],
   "duplicate_message_ids": [
