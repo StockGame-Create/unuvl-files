@@ -63937,6 +63937,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/17250.png",
       "sha256": "ea2bf442a76da9444af00ebbbcd5c416b0e0973a5a81e46fc97161bf1225df5b"
+    },
+    {
+      "message_id": 17249,
+      "filename": "14102025114717.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17249_14102025114717.pdf",
+      "size_bytes": 1397164,
+      "telegram_date": "2025-10-23T15:10:35+00:00",
+      "title": "물2 시대인재 추석특강 FLUXION",
+      "year": "2026",
+      "instructor": "현정훈",
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/17249.png",
+      "sha256": "3b185a53f2c4f329d1e2d0020c74c8ba2a152a3a54203da9239811e20ae40c98"
     }
   ],
   "duplicate_message_ids": [
