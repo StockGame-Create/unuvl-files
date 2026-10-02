@@ -53073,6 +53073,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/18415.png",
       "sha256": "8fcd8802fdbed75b77436a7c933d4209da2dc6b8f843eb3e0ccc1f09b0c7d0e9"
+    },
+    {
+      "message_id": 18413,
+      "filename": "이지영_FINAL_샤프_모의고사_2차_생활과_윤리_제2회_정답_및_해석.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18413_._FINAL_._._2._._._.2._._._.pdf",
+      "size_bytes": 5346003,
+      "telegram_date": "2025-11-11T15:31:57+00:00",
+      "title": "이지영_FINAL_샤프_모의고사_2차_생활과_윤리_제2회_정답_및_해석",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18413.png",
+      "sha256": "3d204597a4454f36a43291abcf7820df0223c92e034d235361e4b501fa6f069e"
     }
   ],
   "duplicate_message_ids": [
