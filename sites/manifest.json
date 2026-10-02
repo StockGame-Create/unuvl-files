@@ -56125,6 +56125,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18077.png",
       "sha256": "c478b3847c0b0991e887f42b8c43e0d7764206df9e6bb7f1e62071256fd06743"
+    },
+    {
+      "message_id": 18075,
+      "filename": "2026_서프_11월_빠답국수영한사과Scanned_20251105_124659.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18075_2026_._11._.Scanned_20251105_124659.pdf",
+      "size_bytes": 2324638,
+      "telegram_date": "2025-11-05T04:03:39+00:00",
+      "title": "전과목 시대인재 11월 전국모의평가 빠답 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18075.png",
+      "sha256": "0b033c4a02f4601034792bc6a6195e95aeda7647ae1351986432ecdc904dccb8"
     }
   ],
   "duplicate_message_ids": [
