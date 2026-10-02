@@ -58421,6 +58421,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17832.png",
       "sha256": "dd1a04eda4fb86f90e1461489ba55d1d04d12d9718f879595e7a8ef372e222de"
+    },
+    {
+      "message_id": 17830,
+      "filename": "현자의돌_생윤_다지선다모의고사_개똥퀄_풀사람만푸셈.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17830_._._._._.pdf",
+      "size_bytes": 7312920,
+      "telegram_date": "2025-11-01T11:41:44+00:00",
+      "title": "현자의돌_생윤_다지선다모의고사_개똥퀄_풀사람만푸셈",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17830.png",
+      "sha256": "cc99eb7347947c8820e50e60bf13ff4bed3f10a4fc2f8db643dc37fbbc971a31"
     }
   ],
   "duplicate_message_ids": [
