@@ -64371,6 +64371,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17218.png",
       "sha256": "281f2c1671d3d3eb2d9830c6937b85aa0b3565b4b85c5db12c8d7d08adcc1672"
+    },
+    {
+      "message_id": 17217,
+      "filename": "김범준 모의고사 1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17217_.1.pdf",
+      "size_bytes": 1763418,
+      "telegram_date": "2025-10-23T15:06:08+00:00",
+      "title": "수학 김범준 모의평가 1~4회 #범모",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17217.png",
+      "sha256": "f4f63ce5571002e9c8e64f28feab5ca9c53c60a1c3f4cdec38638e394e2aa4b6"
     }
   ],
   "duplicate_message_ids": [
