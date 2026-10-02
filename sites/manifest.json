@@ -56825,6 +56825,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/18003.png",
       "sha256": "3793532ba59acebd76cfeac6eb1fda67e1bf01074e4b8ae8ff3c254731ef5017"
+    },
+    {
+      "message_id": 18001,
+      "filename": "2026시대인재최지욱_추가_최고난도_N제_5회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18001_2026._._._N._5._.pdf",
+      "size_bytes": 1246033,
+      "telegram_date": "2025-11-04T13:45:50+00:00",
+      "title": "2026시대인재최지욱_추가_최고난도_N제_5회_해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18001.png",
+      "sha256": "c70895ba788e2f549a59da1a405e7bc2f74e91ec4e607f30d5083442fbb14811"
     }
   ],
   "duplicate_message_ids": [
