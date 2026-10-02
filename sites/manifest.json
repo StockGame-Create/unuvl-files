@@ -61375,6 +61375,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/17533.png",
       "sha256": "9b23f626c7d1404a28f90d297bbe313aa7ff95824ea5f94a2f3e3687e9782e61"
+    },
+    {
+      "message_id": 17531,
+      "filename": "2026학년도_시대인재_서바이벌_전국_모의고사_13회_정치와_법.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17531_2026._._._._._13._._.pdf",
+      "size_bytes": 16519993,
+      "telegram_date": "2025-10-28T15:03:12+00:00",
+      "title": "정법 시대인재 서바이벌 전국 13~15회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/17531.png",
+      "sha256": "4abde5b3bcd3613ce2f746e687919ba59aff4f508780b154e27b7bcc8e3dd976"
     }
   ],
   "duplicate_message_ids": [
