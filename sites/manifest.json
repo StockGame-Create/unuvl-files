@@ -56839,6 +56839,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18001.png",
       "sha256": "c70895ba788e2f549a59da1a405e7bc2f74e91ec4e607f30d5083442fbb14811"
+    },
+    {
+      "message_id": 18000,
+      "filename": "[2026]시대인재최지욱_추가_최고난도_N제_5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18000_.2026._._._N._5.pdf",
+      "size_bytes": 372054,
+      "telegram_date": "2025-11-04T13:45:50+00:00",
+      "title": "[2026]시대인재최지욱_추가_최고난도_N제_5회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18000.png",
+      "sha256": "af1085f7797afce7578d3b3e8efbb7d2d3c58a2367c31b1f91b47ff8489a737f"
     }
   ],
   "duplicate_message_ids": [
