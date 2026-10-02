@@ -53535,6 +53535,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/18362.png",
       "sha256": "5a1d66b0394660c2f43030169217d95b3bdac7341c80f0c15ec7ca3631021f87"
+    },
+    {
+      "message_id": 18358,
+      "filename": "2026학년도_대학수학능력시험_백호_실전_모의고사_시즌4.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18358_2026._._._._._.4.pdf",
+      "size_bytes": 171424416,
+      "telegram_date": "2025-11-10T14:50:53+00:00",
+      "title": "2026학년도_대학수학능력시험_백호_실전_모의고사_시즌4",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18358.png",
+      "sha256": "ce649848a6940cfc95f5559f7518a0d5d0bd46530c9c5813bdc8e0546f9911d2"
     }
   ],
   "duplicate_message_ids": [
