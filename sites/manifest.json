@@ -51421,6 +51421,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18621.png",
       "sha256": "137c5eb35de6ccbf957c01041ab4e1afe435f58badfbd1f66db3d221253d520a"
+    },
+    {
+      "message_id": 18620,
+      "filename": "2026 지구과학2 서바이벌 3회 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18620_2026.2.3.1.pdf",
+      "size_bytes": 15994496,
+      "telegram_date": "2025-12-16T10:44:09+00:00",
+      "title": "2026 지구과학2 서바이벌 3회 (1)",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18620.png",
+      "sha256": "cabef2115a2ea1f70eba64e4ebad3a5c4d482a472cec541a7b13881a17628ed4"
     }
   ],
   "duplicate_message_ids": [
