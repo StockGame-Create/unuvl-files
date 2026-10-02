@@ -56223,6 +56223,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/18067.png",
       "sha256": "b613170f1c476e83476e0211482fae014986b1f0631ba273e94ff5378bcf9411"
+    },
+    {
+      "message_id": 18061,
+      "filename": "2026 장재원 response 6회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18061_2026.response.6.pdf",
+      "size_bytes": 13297515,
+      "telegram_date": "2025-11-05T03:15:35+00:00",
+      "title": "2026 장재원 response 6회 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18061.png",
+      "sha256": "6dd880d457e0215d58e8179b87b5cde8fe70e347d042f95256715ed7b2766404"
     }
   ],
   "duplicate_message_ids": [
