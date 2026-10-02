@@ -54473,6 +54473,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18258.png",
       "sha256": "4bc25364ccaf345717455b8961ae2b8f1b6ba7246b91c4f65068886d30655980"
+    },
+    {
+      "message_id": 18256,
+      "filename": "2026_김범준_모의고사_파이널_문제지_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18256_2026_._._._._%40yubin_MPGA.pdf",
+      "size_bytes": 157179303,
+      "telegram_date": "2025-11-08T13:59:52+00:00",
+      "title": "수학 김범준 FINAL 1~3회 #범모",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18256.png",
+      "sha256": "e39ba9ad1e35ecdf146c57e1da506e7fd934e59d546dd28a59bbff22a1f1d3e2"
     }
   ],
   "duplicate_message_ids": [
