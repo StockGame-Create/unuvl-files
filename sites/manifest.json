@@ -60969,6 +60969,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17576.png",
       "sha256": "2e801a3ee23399a8d8f8c8eca19ea3b9b7981fb644c65cff0f4664fd63860b2d"
+    },
+    {
+      "message_id": 17574,
+      "filename": "특난도_모의고사_파이널_시즌_1_14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17574_._._._._1_14.pdf",
+      "size_bytes": 25519558,
+      "telegram_date": "2025-10-29T09:03:33+00:00",
+      "title": "물1 강민웅 특난도 모의고사 파이널1 1~4회 (문제지)",
+      "year": "2026",
+      "instructor": "강민웅",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/17574.png",
+      "sha256": "bbfbf4cc83c12c752197cdda0fa8d382011d8d6490535c0378eccb3ce8367850"
     }
   ],
   "duplicate_message_ids": [
