@@ -65855,6 +65855,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/17056.png",
       "sha256": "9980cd8e0a41519cc86c09b5574f13db100b8fd3fca9f8b7e7a4df0cd579cf69"
+    },
+    {
+      "message_id": 17055,
+      "filename": "2026 생명과학2 서바이벌 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17055_2026.2.1.pdf",
+      "size_bytes": 4487307,
+      "telegram_date": "2025-10-21T09:25:01+00:00",
+      "title": "생2 시대인재 서바이벌 모의고사 1회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/17055.png",
+      "sha256": "19865c67ba60a26f48d7e6a718984151210306daa4294ef24356e0e6269a53b9"
     }
   ],
   "duplicate_message_ids": [
