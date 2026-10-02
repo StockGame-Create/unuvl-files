@@ -62495,6 +62495,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/17412.png",
       "sha256": "8932601206501abe52d1eb6416744c6808d65bd6a33cb2be085adc1907393e01"
+    },
+    {
+      "message_id": 17410,
+      "filename": "강_k_영어_2026년_14회_+_하프.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17410_._k_._2026._14._%2B_.pdf",
+      "size_bytes": 6299112,
+      "telegram_date": "2025-10-26T00:12:30+00:00",
+      "title": "영어 강대모의고사K 14회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/17410.png",
+      "sha256": "ee87c20b471c488acad09242a6c81eaa1d1d4f4c3c8df5eef740798c8bd3d301"
     }
   ],
   "duplicate_message_ids": [
