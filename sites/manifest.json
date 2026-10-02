@@ -62901,6 +62901,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17372.png",
       "sha256": "9dcb801482afd2b65b0f021fef12b3de6c3c665dbe8d0667971a42cb9f215ff9"
+    },
+    {
+      "message_id": 17370,
+      "filename": "오르새_e모의고사_1회_빠른정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17370_._e._1._.pdf",
+      "size_bytes": 32834,
+      "telegram_date": "2025-10-25T07:42:24+00:00",
+      "title": "오르새_e모의고사_1회_빠른정답",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17370.png",
+      "sha256": "ca6fbca80e17592895711730626d64acbe4b23ef71c9c7a8c975fa8d6ca27a96"
     }
   ],
   "duplicate_message_ids": [
