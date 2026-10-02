@@ -62243,6 +62243,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/17436.png",
       "sha256": "041acf53778b8589549a4868a04368c0a093719ab11bcd24bd109e837fa741c5"
+    },
+    {
+      "message_id": 17435,
+      "filename": "2026_시대인재_물리_n서바이벌_5회_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17435_2026_._._n._5._._._.pdf",
+      "size_bytes": 5477154,
+      "telegram_date": "2025-10-26T14:47:51+00:00",
+      "title": "물1 시대인재 서바이벌 N전용 모의고사 1~5회 #서바N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/17435.png",
+      "sha256": "f9ce6c96389f25770daa34c693f5668645a04d333097d28b6f55dd0cbbb50d5c"
     }
   ],
   "duplicate_message_ids": [
