@@ -65995,6 +65995,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17037.png",
       "sha256": "57ec761b8683677bed655d1e04e10c8afdb7cd95e4f3c28a6184b2cec2ada431"
+    },
+    {
+      "message_id": 17035,
+      "filename": "2026 브릿지 전국 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17035_2026.7.pdf",
+      "size_bytes": 9598285,
+      "telegram_date": "2025-10-20T13:21:46+00:00",
+      "title": "화1 시대인재 브릿지 전국 모의고사 7회 #브릿지전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/17035.png",
+      "sha256": "8ffb7814bfa186e86bd0906113d50a0854cd9b40d919d38c117c812780c92190"
     }
   ],
   "duplicate_message_ids": [
