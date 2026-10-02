@@ -61669,6 +61669,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17500.png",
       "sha256": "9ba64c1eccb131674a4f1bd304afe7ec6cdca01344f5b90e0745fcbaa23cb5f3"
+    },
+    {
+      "message_id": 17499,
+      "filename": "2026_마더텅_수능기출문제집_지구과학1_정답표_250921_104835.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17499_2026_._._.1_._250921_104835.pdf",
+      "size_bytes": 523623,
+      "telegram_date": "2025-10-27T15:01:13+00:00",
+      "title": "지1 마더텅 수능기출문제 지구과학1 (답지)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/17499.png",
+      "sha256": "988f5e991dcee5816d8b010c711b75a237dd62a4b533474e5f53618634a5aa36"
     }
   ],
   "duplicate_message_ids": [
