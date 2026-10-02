@@ -61039,6 +61039,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17568.png",
       "sha256": "e323094cf863a8416af23d28abf6472edf0533d4be38dfdd4c33c0ef320803f3"
+    },
+    {
+      "message_id": 17566,
+      "filename": "2026_생명과학1_강대_서킷_소퀄_6회_진귀한자료_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17566_2026_.1_._._._6._._.pdf",
+      "size_bytes": 1211709,
+      "telegram_date": "2025-10-29T03:35:03+00:00",
+      "title": "생1 강대 CIRCUIT 6회 #서킷",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/17566.png",
+      "sha256": "d2a033fbb937e3dd868612a5f35c165002df444c4f8c25955b04d71f73cc346f"
     }
   ],
   "duplicate_message_ids": [
