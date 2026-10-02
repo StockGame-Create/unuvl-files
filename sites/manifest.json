@@ -60185,6 +60185,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17657.png",
       "sha256": "91e3ed3d812b65b5710a5706fa5750e075b6ade563a16456c04299fd1dfe0b50"
+    },
+    {
+      "message_id": 17656,
+      "filename": "2026학년도_히든카이스_모의고사_시즌7_문제_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17656_2026._._._.7_._1.pdf",
+      "size_bytes": 3477335,
+      "telegram_date": "2025-10-30T15:02:08+00:00",
+      "title": "수학 Hidden Kice 모의고사 25회 #히카",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17656.png",
+      "sha256": "b8145153b565fd0854e203adb1a3f828787c7ec1a595aca2bd59615910c1c084"
     }
   ],
   "duplicate_message_ids": [
