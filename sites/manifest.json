@@ -64931,6 +64931,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17169.png",
       "sha256": "8541eba81de913ac2f7399c23024c3e9848e5b7b360d176b01859e2b443dc0db"
+    },
+    {
+      "message_id": 17167,
+      "filename": "김동하 8회차 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17167_.8.pdf",
+      "size_bytes": 6612166,
+      "telegram_date": "2025-10-23T12:58:29+00:00",
+      "title": "영어 대치동 김동하 모의고사 #FINAL 8회",
+      "year": "2026",
+      "instructor": "김동하",
+      "subject": "영어",
+      "thumbnail": "thumbnails/17167.png",
+      "sha256": "ca821e4d1cfaa0c6e4760405718306dc866e91a170ab3c68747a58f2ce398a35"
     }
   ],
   "duplicate_message_ids": [
