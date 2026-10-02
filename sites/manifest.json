@@ -59247,6 +59247,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17755.png",
       "sha256": "525f3565864861810a727b4d450cfe47ed0446946f2dfa46676aaf3940440694"
+    },
+    {
+      "message_id": 17754,
+      "filename": "C25HC57425ZZH072_OCT.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17754_C25HC57425ZZH072_OCT.PDF",
+      "size_bytes": 439881,
+      "telegram_date": "2025-11-01T07:46:14+00:00",
+      "title": "사문 적중예감 FINAL 현장전용 미공개 N제 특선 (원본)",
+      "year": "2026",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17754.png",
+      "sha256": "6351f04ea94a41b0f39a1ea6ba68f1ec25374e8cc921efc53486c4a2a8f93f60"
     }
   ],
   "duplicate_message_ids": [
