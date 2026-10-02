@@ -67171,6 +67171,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16929.png",
       "sha256": "c3e08b6027be2c8c66d108d9f2d770b2db1600f8379b335499c73965ee6ea99f"
+    },
+    {
+      "message_id": 16927,
+      "filename": "아폴로 시즌4 3호.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16927_.4.3.pdf",
+      "size_bytes": 97076797,
+      "telegram_date": "2025-10-18T15:07:46+00:00",
+      "title": "지1 Apollo.n 시즌4 2,3호 #아폴로",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16927.png",
+      "sha256": "0afc107d457b00542d5f5bb6e60be6b802f75aedc6b75d71e742b673791edd05"
     }
   ],
   "duplicate_message_ids": [
