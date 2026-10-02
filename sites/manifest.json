@@ -54851,6 +54851,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18210.png",
       "sha256": "e6a0513fd7963afbef7a37be0f6744f7874887c33d92cb110b5d0d89e8d14d75"
+    },
+    {
+      "message_id": 18208,
+      "filename": "서바 28회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18208_.28.pdf",
+      "size_bytes": 26453069,
+      "telegram_date": "2025-11-07T01:07:07+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 28회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18208.png",
+      "sha256": "f4dfdef32b2bd81c9d7b81b1ccf1585d577b13bf2d1a6dfc8baf9a1c2f6b2558"
     }
   ],
   "duplicate_message_ids": [
