@@ -55593,6 +55593,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18130.png",
       "sha256": "f6dce530804b448c5529ad1a560b960f5c7ca6077f8a63cee1dfd596ca6a7503"
+    },
+    {
+      "message_id": 18128,
+      "filename": "2025 매기분 지구과학2.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18128_2025.2.PDF",
+      "size_bytes": 8323769,
+      "telegram_date": "2025-11-05T14:23:23+00:00",
+      "title": "2025 매기분 지구과학2",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18128.png",
+      "sha256": "b24bd17be1ad364745e3e328115f36a4dd3e7676073eac06039503fa0d4a7979"
     }
   ],
   "duplicate_message_ids": [
