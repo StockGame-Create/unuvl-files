@@ -65981,6 +65981,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17039.png",
       "sha256": "c3151adbc731e28db8734e9d016ed6b4729d3b808766df0d38223c19edff13b6"
+    },
+    {
+      "message_id": 17037,
+      "filename": "생윤 서바 10회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17037_.10.pdf",
+      "size_bytes": 14594554,
+      "telegram_date": "2025-10-20T13:25:18+00:00",
+      "title": "생윤 시대인재 서바이벌 모의고사 10회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17037.png",
+      "sha256": "57ec761b8683677bed655d1e04e10c8afdb7cd95e4f3c28a6184b2cec2ada431"
     }
   ],
   "duplicate_message_ids": [
