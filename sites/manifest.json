@@ -53437,6 +53437,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18369.png",
       "sha256": "050f5ca64705d870bc0fa7702ea6c67bfd68e5228a84f6643264c9e25b2010b0"
+    },
+    {
+      "message_id": 18368,
+      "filename": "2026 김현우 스탠다드 모의고사 10회 빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18368_2026.10.pdf",
+      "size_bytes": 20211,
+      "telegram_date": "2025-11-10T22:35:35+00:00",
+      "title": "수학 김현우 스탠다드 모의고사 10회",
+      "year": "2026",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18368.png",
+      "sha256": "96396fbf2dcf0dcc312053cdf1b479c51c88654171af6b1f4df8c613e56ef247"
     }
   ],
   "duplicate_message_ids": [
