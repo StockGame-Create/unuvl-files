@@ -62509,6 +62509,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/17410.png",
       "sha256": "ee87c20b471c488acad09242a6c81eaa1d1d4f4c3c8df5eef740798c8bd3d301"
+    },
+    {
+      "message_id": 17409,
+      "filename": "강 k 15회 영어 2026.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17409_.k.15.2026.pdf",
+      "size_bytes": 6579155,
+      "telegram_date": "2025-10-26T00:08:58+00:00",
+      "title": "영어 강대모의고사K 15회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/17409.png",
+      "sha256": "05c16fa3e087f179a65f3839c15b50fb3f73d8274bffc10045c5b1e946c9abb2"
     }
   ],
   "duplicate_message_ids": [
