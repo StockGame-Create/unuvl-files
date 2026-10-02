@@ -59527,6 +59527,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17725.png",
       "sha256": "e892b6f9811c94bcc73554375d43267754713ddb066f45e2a2c1872bea03b896"
+    },
+    {
+      "message_id": 17724,
+      "filename": "2026학년도_이해원_모의고사_피날레시즌_0회1회_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17724_2026._._._._0.1._.pdf",
+      "size_bytes": 15199263,
+      "telegram_date": "2025-10-31T14:32:22+00:00",
+      "title": "수학 이해원 모의고사 Finale 0회, 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17724.png",
+      "sha256": "5319ea7fe7bb8173ceb639a777e9cd1c84846325feadeedae4da47df273238f7"
     }
   ],
   "duplicate_message_ids": [
