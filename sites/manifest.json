@@ -52135,6 +52135,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/18547.png",
       "sha256": "925b6457c58c0584306300916ea1b829612b00de0ef089a9e3b0e306fdc70eed"
+    },
+    {
+      "message_id": 18546,
+      "filename": "2025 생2 n서바 6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18546_2025.2.n.6.pdf",
+      "size_bytes": 13540138,
+      "telegram_date": "2025-12-15T12:00:31+00:00",
+      "title": "생2 시대인재 서바이벌 N전용 모의고사 5~8회 #서바N",
+      "year": "2025",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/18546.png",
+      "sha256": "dd7d9942b2263d94facac02b63429591820ac2f680eb55a9bcc68b16d3ac5a01"
     }
   ],
   "duplicate_message_ids": [
