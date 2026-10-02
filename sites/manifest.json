@@ -61207,6 +61207,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17548.png",
       "sha256": "73f16d9a767b13f185cf4504ede3c0c464df0dc3646527613e5427fc3b1c464c"
+    },
+    {
+      "message_id": 17547,
+      "filename": "사만다_모의고사_FINAL_문항복습.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17547_._._FINAL_.pdf",
+      "size_bytes": 19244415,
+      "telegram_date": "2025-10-28T15:24:02+00:00",
+      "title": "사문 사만다 모의고사 Final 1~3회 (해설지)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17547.png",
+      "sha256": "8613ab694326fcc53de3cafc8365da8e38ac2bbe90af22065f1d561c114fb9fc"
     }
   ],
   "duplicate_message_ids": [
