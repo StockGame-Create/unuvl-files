@@ -64763,6 +64763,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17189.png",
       "sha256": "759237a0903add8c50d7fec79b132a7f5d9f0633d6e3969916f84c28219f07cf"
+    },
+    {
+      "message_id": 17188,
+      "filename": "1교시국어D_Fine_제1회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17188_1.D_Fine_.1._.pdf",
+      "size_bytes": 3562489,
+      "telegram_date": "2025-10-23T14:43:50+00:00",
+      "title": "국어 D.Fine Final 1,2회 #디파인",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17188.png",
+      "sha256": "1d2aef2d1daa2065924cb56fd47653243843268180479fa8d513783ced5a133f"
     }
   ],
   "duplicate_message_ids": [
