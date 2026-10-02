@@ -64007,6 +64007,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/17245.png",
       "sha256": "3ea7ac5c4e03a89bfb010bf8e2637a761309b77a45ba731535cd273f3483211b"
+    },
+    {
+      "message_id": 17244,
+      "filename": "강k 지2 1314회 해설_250823_234133.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17244_.k.2.1314._250823_234133.pdf",
+      "size_bytes": 7553108,
+      "telegram_date": "2025-10-23T15:09:44+00:00",
+      "title": "지2 강대모의고사K 10~14회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/17244.png",
+      "sha256": "cb2b3f05e0c2b048c3591889a1a66386a4cab0035d801dc2bcaa64f2abf1a994"
     }
   ],
   "duplicate_message_ids": [
