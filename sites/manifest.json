@@ -54305,6 +54305,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18277.png",
       "sha256": "cf68388dd08b93ef6bb7ec01f820ea6fcf67eb5209044bbd750cfe489ba58065"
+    },
+    {
+      "message_id": 18276,
+      "filename": "정답표_2026_100℃의_파이널.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18276_._2026_100._.pdf",
+      "size_bytes": 17445,
+      "telegram_date": "2025-11-08T23:36:59+00:00",
+      "title": "정답표_2026_100℃의_파이널",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18276.png",
+      "sha256": "0df7a40fcbd7ba2192d931392d7454917b212b8b3bd7bbf34666cea547055700"
     }
   ],
   "duplicate_message_ids": [
