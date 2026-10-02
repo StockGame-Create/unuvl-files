@@ -62467,6 +62467,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17415.png",
       "sha256": "1923e4f37cd9ba2efe0804268eb327987105a4c068c1268dd75ccf7a8379be9d"
+    },
+    {
+      "message_id": 17413,
+      "filename": "2022학년도_물리학2_POLY_모의고사_제_1회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17413_2022._.2_POLY_._._1._.pdf",
+      "size_bytes": 1523335,
+      "telegram_date": "2025-10-26T03:03:37+00:00",
+      "title": "물2 POLY 모의평가",
+      "year": "2022",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/17413.png",
+      "sha256": "986f53e217bed403a15500f0a9f68ebb52f353a0183fa7282aef448e86f41aa4"
     }
   ],
   "duplicate_message_ids": [
