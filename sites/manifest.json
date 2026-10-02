@@ -64847,6 +64847,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/17177.png",
       "sha256": "ac13e0923171aa505feab40b234566f47c0497474f04e645bf3c65fb05172103"
+    },
+    {
+      "message_id": 17176,
+      "filename": "강대모의고사k_물리학2_정답_및_해설_통합.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17176_.k_.2_._._._.pdf",
+      "size_bytes": 11260144,
+      "telegram_date": "2025-10-23T14:21:17+00:00",
+      "title": "물2 강대모의고사K 1~24회 합본 #강k (13,14,15,16회X)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/17176.png",
+      "sha256": "387eedbba53d25ef3a25a9f88f4656ef069516b751c8887ecfc3a1ef6513fe77"
     }
   ],
   "duplicate_message_ids": [
