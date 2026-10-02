@@ -56727,6 +56727,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18013.png",
       "sha256": "e85420438e7eed466ea0fc75d22566ee7e42e0d60779f29b165a548019ed5f67"
+    },
+    {
+      "message_id": 18012,
+      "filename": "2026 장재원 리플레이 13권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18012_2026.13.pdf",
+      "size_bytes": 2250481,
+      "telegram_date": "2025-11-04T13:51:07+00:00",
+      "title": "2026 장재원 리플레이 13권",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18012.png",
+      "sha256": "9d5db7165842527114bc58b4dec8e2bf5880545bf13091636ca323b0e6044266"
     }
   ],
   "duplicate_message_ids": [
