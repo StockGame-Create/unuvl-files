@@ -62425,6 +62425,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17420.png",
       "sha256": "0d38071db5ff1a7ff9749732662855ef422db79f385953394585e79628f86d91"
+    },
+    {
+      "message_id": 17418,
+      "filename": "지1 유시훈 쏸 모의고사 4회(인쇄소퀄).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17418_.1.4.pdf",
+      "size_bytes": 19859167,
+      "telegram_date": "2025-10-26T09:02:01+00:00",
+      "title": "지1 유시훈 쏸 모의고사 4회",
+      "year": "2026",
+      "instructor": "유시훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/17418.png",
+      "sha256": "a6005db991da1956379913f813ec4ddbe4712796b424ecd46798347cce8267e0"
     }
   ],
   "duplicate_message_ids": [
