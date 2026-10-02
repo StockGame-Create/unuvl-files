@@ -54039,6 +54039,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18302.png",
       "sha256": "9ecdd6229481037deda672ca928e8869f92e9906f7187d47a2e399e514e484e5"
+    },
+    {
+      "message_id": 18300,
+      "filename": "수능 전날 숙면.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18300_.pdf",
+      "size_bytes": 1864781,
+      "telegram_date": "2025-11-09T14:00:33+00:00",
+      "title": "수능 전날 숙면",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18300.png",
+      "sha256": "af6ae56fac3ed16719fecc0ce588705d025c20a8c43d8086d0b1393dea7667fa"
     }
   ],
   "duplicate_message_ids": [
