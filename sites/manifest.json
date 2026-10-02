@@ -55775,6 +55775,20 @@
       "subject": "사회탐구",
       "thumbnail": "thumbnails/18112.png",
       "sha256": "829185e81cac36a0648d45066ea3a27e5dc5a822cfa3c82c62aeb34e8f5eecd6"
+    },
+    {
+      "message_id": 18111,
+      "filename": "시대인재_2026학년도_11월_전국_모의평가_4교시_사탐_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18111_._2026._11._._._4._._.pdf",
+      "size_bytes": 8928807,
+      "telegram_date": "2025-11-05T13:38:09+00:00",
+      "title": "사탐 시대인재 10월 전국모의평가 (인쇄소퀄) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/18111.png",
+      "sha256": "6f845b3d67f9b97fc0ce61383c8b04ee08025f046fc646c9577a41c93d029975"
     }
   ],
   "duplicate_message_ids": [
