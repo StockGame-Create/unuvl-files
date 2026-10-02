@@ -65393,6 +65393,20 @@
       "subject": "생활과윤리, 윤리와사상, 사회문화, 정치와법, 한국지리, 세계지리",
       "thumbnail": "thumbnails/17124.png",
       "sha256": "89bea375270f0f24cf73dac879a87d4b71c20423b4225ec3508b3d0bfd0e396e"
+    },
+    {
+      "message_id": 17117,
+      "filename": "최종점검2 영어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17117_.2.pdf",
+      "size_bytes": 5609183,
+      "telegram_date": "2025-10-22T22:56:08+00:00",
+      "title": "영어 시대인재 서바이벌 최종점검 2회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/17117.png",
+      "sha256": "a316416658c13cb8dd4f3a9069cf69a634f11d9c1340d79aed59bdf4e2afd2ea"
     }
   ],
   "duplicate_message_ids": [
