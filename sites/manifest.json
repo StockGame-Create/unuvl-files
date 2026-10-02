@@ -71,6 +71,20 @@
       "sha256": "eeaf33a1112455f2d30c8d4b7d0d7cf3324441783dbd9ce8d537ee519aae7ed8"
     },
     {
+      "message_id": 24824,
+      "filename": "모주모 시즌2 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/24824_.2.2.pdf",
+      "size_bytes": 12815387,
+      "telegram_date": "2026-10-02T23:38:58+00:00",
+      "title": "정법 김용택 모주모 시즌2 2회",
+      "year": "2027",
+      "instructor": "김용택",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/24824.png",
+      "sha256": "c4ee940772c09aa4deb9a4464e2c40288f7b20aa4f05f26c239ae57589fc3091"
+    },
+    {
       "message_id": 24822,
       "filename": "적생모_정법_시즌3_9회.pdf",
       "stored_as": null,
