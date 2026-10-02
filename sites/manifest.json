@@ -60899,6 +60899,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/17583.png",
       "sha256": "65d66afc8d4c23d4d0978fca4577a958954b7ab19cef517ac5850d2689b5abe6"
+    },
+    {
+      "message_id": 17582,
+      "filename": "2026수능대비 생2 이서준모고 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17582_2026.2.3.pdf",
+      "size_bytes": 1324146,
+      "telegram_date": "2025-10-29T09:41:08+00:00",
+      "title": "생2 시대인재 이서준T 파이널 모의고사 3회",
+      "year": "2026",
+      "instructor": "이서준",
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/17582.png",
+      "sha256": "2ff33c4e48ed3ec4c5ba45df7fd6e839c9c843237d3c12995184457b36f08f47"
     }
   ],
   "duplicate_message_ids": [
