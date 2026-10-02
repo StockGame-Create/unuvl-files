@@ -59961,6 +59961,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17679.png",
       "sha256": "fce67c9c5f5edbf90358ccf7454a33ce391c1a7585e7ab80024e74cfc10203d7"
+    },
+    {
+      "message_id": 17678,
+      "filename": "Scenario s3 14회_251025_124902.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17678_Scenario.s3.14._251025_124902.pdf",
+      "size_bytes": 3166822,
+      "telegram_date": "2025-10-31T05:40:47+00:00",
+      "title": "생1 BLITZ 시즌3 SCENARIO 12~15회",
+      "year": "2026",
+      "instructor": "홍준용",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/17678.png",
+      "sha256": "464dc19d9449b221418a17d67c89b1fac7c1c1639ed132d069926c8fb2e0b325"
     }
   ],
   "duplicate_message_ids": [
