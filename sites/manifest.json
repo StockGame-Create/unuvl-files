@@ -53353,6 +53353,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18380.png",
       "sha256": "3ff7df59b8dd3016856fe45b964f3cbcc2f54c410f40c41d741d45a423a35f53"
+    },
+    {
+      "message_id": 18378,
+      "filename": "예열 자료_For_VIC-TEAM.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18378_._For_VIC-TEAM.pdf",
+      "size_bytes": 2276399,
+      "telegram_date": "2025-11-11T09:21:24+00:00",
+      "title": "국어 김승리 수능 예열 자료",
+      "year": "2026",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18378.png",
+      "sha256": "d0aa8b922d724e4566ca6c55fb1fd08e92f3a57fcbe5dad73b7da3dac9f195b7"
     }
   ],
   "duplicate_message_ids": [
