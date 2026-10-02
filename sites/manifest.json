@@ -63629,6 +63629,20 @@
       "subject": "생명과학2, 화학2, 물리학2, 지구과학2",
       "thumbnail": "thumbnails/17285.png",
       "sha256": "800c75c54ec829f28c782953e7c842fa7d5a86a73c2d76d37d0a3895a9d33497"
+    },
+    {
+      "message_id": 17284,
+      "filename": "최종점검 과학탐구 2과목 1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17284_.2.1.pdf",
+      "size_bytes": 20405525,
+      "telegram_date": "2025-10-24T07:24:16+00:00",
+      "title": "물2, 화2, 생2, 지2 시대인재 서바이벌 최종점검 1,2회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학2, 화학2, 물리학2, 지구과학2",
+      "thumbnail": "thumbnails/17284.png",
+      "sha256": "1764d471d618d9e635b83c023448ba38bd604b316456409129f4df9e5137868b"
     }
   ],
   "duplicate_message_ids": [
