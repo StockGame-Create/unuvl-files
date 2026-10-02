@@ -61599,6 +61599,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17506.png",
       "sha256": "d0206158e87d06a85f2f7096e4e380d40cbc6413873d35abdd15c049ee778049"
+    },
+    {
+      "message_id": 17505,
+      "filename": "2026_생명과학1_강대_서킷_모의고사_5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17505_2026_.1_._._._5.pdf",
+      "size_bytes": 1185087,
+      "telegram_date": "2025-10-27T22:36:53+00:00",
+      "title": "생1 강대 CIRCUIT 5회 #서킷",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/17505.png",
+      "sha256": "b92d709490d17a4b48bf4e66bcec4e3e751513ed6beaa87aa1d749780e9ae014"
     }
   ],
   "duplicate_message_ids": [
