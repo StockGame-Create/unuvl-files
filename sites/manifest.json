@@ -58099,6 +58099,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17871.png",
       "sha256": "cf6ead7b82a166d0e1fd832f2d151d46de71d2483abf98bdef5fa32febbc3cbd"
+    },
+    {
+      "message_id": 17870,
+      "filename": "물리학1_2026_OWL_PANORAMA_FINAL_3회_문제지_251031.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17870_.1_2026_OWL_PANORAMA_FINAL_3._._251031.pdf",
+      "size_bytes": 612174,
+      "telegram_date": "2025-11-02T09:06:51+00:00",
+      "title": "물리학1_2026_OWL_PANORAMA_FINAL_3회_문제지_251031",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17870.png",
+      "sha256": "016493926875819058ead161a0b61398a3d9b55bcc9ea1689eefe7c25e0c656e"
     }
   ],
   "duplicate_message_ids": [
