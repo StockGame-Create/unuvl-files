@@ -54347,6 +54347,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18271.png",
       "sha256": "cd2f5b337a8c6da2d12d70b5501f5c16abb3925ba5f5761b6949f2274f431885"
+    },
+    {
+      "message_id": 18269,
+      "filename": "2026_강민철_예열_모의고사_1회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18269_2026_._._._1._.pdf",
+      "size_bytes": 1083388,
+      "telegram_date": "2025-11-08T14:06:22+00:00",
+      "title": "2026_강민철_예열_모의고사_1회_문제지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18269.png",
+      "sha256": "01791f30d3316e5f39b5f64869f8fe7d268a1bb9998e9db46d3c2c1c4e472c66"
     }
   ],
   "duplicate_message_ids": [
