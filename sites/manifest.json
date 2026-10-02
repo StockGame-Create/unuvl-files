@@ -59233,6 +59233,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17756.png",
       "sha256": "22a7dbe948553f7b84005448e76b121ecd2910600dab738e047d6c2942123362"
+    },
+    {
+      "message_id": 17755,
+      "filename": "백건아_세계사_하이엔드_시즌1_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17755_._._._.1_1.pdf",
+      "size_bytes": 3506142,
+      "telegram_date": "2025-11-01T07:47:32+00:00",
+      "title": "백건아_세계사_하이엔드_시즌1_1회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17755.png",
+      "sha256": "525f3565864861810a727b4d450cfe47ed0446946f2dfa46676aaf3940440694"
     }
   ],
   "duplicate_message_ids": [
