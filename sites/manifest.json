@@ -57441,6 +57441,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17938.png",
       "sha256": "c02452e1c588bedc876f68a77328eeaae4c0fecf5399af8be4f313331e8e76a0"
+    },
+    {
+      "message_id": 17936,
+      "filename": "11섶 사문 빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17936_11.pdf",
+      "size_bytes": 949289,
+      "telegram_date": "2025-11-03T13:02:42+00:00",
+      "title": "사문 시대인재 11월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17936.png",
+      "sha256": "825a55ef00b083755ff9e6dc1f41b33a0a6f6da313f8a06dad71bd44a89c9c48"
     }
   ],
   "duplicate_message_ids": [
