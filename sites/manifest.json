@@ -60381,6 +60381,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17635.png",
       "sha256": "31e12e5f28bdb645f50c3085f24bf3773c1a171828965ba65cbaa8580e87ef5b"
+    },
+    {
+      "message_id": 17634,
+      "filename": "이미지 시즌2 정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17634_.2.pdf",
+      "size_bytes": 92588951,
+      "telegram_date": "2025-10-30T14:39:44+00:00",
+      "title": "수학 TheIMAGE 모의고사 시즌2 1~3회",
+      "year": "2026",
+      "instructor": "이미지",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17634.png",
+      "sha256": "393f2a64b5587293361909bd7f74371ce584c5ae860b0825393e03b300aae13b"
     }
   ],
   "duplicate_message_ids": [
