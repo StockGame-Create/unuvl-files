@@ -64105,6 +64105,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/17238.png",
       "sha256": "574c0562401cce309a5308eaf127118c647ea4ec6ea5613a357f53b96bacf3d4"
+    },
+    {
+      "message_id": 17236,
+      "filename": "2026 수학 김범준 모의고사 12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17236_2026.12.pdf",
+      "size_bytes": 7048731,
+      "telegram_date": "2025-10-23T15:06:46+00:00",
+      "title": "수학 김범준 모의평가 6~12회 #범모",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17236.png",
+      "sha256": "c47f1a71a7e40bac7902cda1a2f33ca60631a0e122b66552f10487bdff3644cb"
     }
   ],
   "duplicate_message_ids": [
