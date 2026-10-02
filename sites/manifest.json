@@ -65015,6 +65015,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17156.png",
       "sha256": "fc2ea663cb14498415b1f456e42cdcf8f20bc5da3a7a2042b14ab899fc14dcd6"
+    },
+    {
+      "message_id": 17153,
+      "filename": "26학년도_10월_대성 더프_EX_수학_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17153_26._10._._EX_._.pdf",
+      "size_bytes": 1256154,
+      "telegram_date": "2025-10-23T09:08:46+00:00",
+      "title": "수학 THE PREMIUM EX 10월",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17153.png",
+      "sha256": "65a5f4faefce77cc51c7fbf51517e23714d6b40a24577331f934e88ecd1b7e18"
     }
   ],
   "duplicate_message_ids": [
