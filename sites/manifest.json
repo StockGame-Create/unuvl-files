@@ -65729,6 +65729,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17068.png",
       "sha256": "da930f0db6f8b0a67d254fe512166c3bd4d2330b67a5a301e5ce69417a9b634b"
+    },
+    {
+      "message_id": 17066,
+      "filename": "최종점검 수학 기하 2회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17066_.2.pdf",
+      "size_bytes": 9050493,
+      "telegram_date": "2025-10-21T14:43:19+00:00",
+      "title": "수학 시대인재 서바이벌 최종점검 1,2회 (공통 + 기하) #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17066.png",
+      "sha256": "6ed8aaa66007969a0b4e6f1e4684febccc538e55447d71a90ae0f2c44e8394f5"
     }
   ],
   "duplicate_message_ids": [
