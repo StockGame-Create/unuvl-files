@@ -59051,6 +59051,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17772.png",
       "sha256": "2e09892e7cd880e788ec9c6d36643b692f2bb87a03df94441820357c7b2c840a"
+    },
+    {
+      "message_id": 17771,
+      "filename": "용택모 시즌2 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17771_.2.pdf",
+      "size_bytes": 11331355,
+      "telegram_date": "2025-11-01T09:55:22+00:00",
+      "title": "용택모 시즌2 답지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17771.png",
+      "sha256": "78925e7eee87a715f4f013e36a08d7d4c6b42cb79f84355470f113d26b677ed0"
     }
   ],
   "duplicate_message_ids": [
