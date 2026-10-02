@@ -63783,6 +63783,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17264.png",
       "sha256": "36b0641a007c68a2faef97363191d5044fa5c6cce3a33ca14fa4891e44246b93"
+    },
+    {
+      "message_id": 17263,
+      "filename": "2026학년도_수능_대비_Hesco_X_사피엔스_모의고사_3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17263_2026._._._Hesco_X_._._3.pdf",
+      "size_bytes": 579210,
+      "telegram_date": "2025-10-24T03:22:49+00:00",
+      "title": "2026학년도_수능_대비_Hesco_X_사피엔스_모의고사_3회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17263.png",
+      "sha256": "9f0e3e92a363cc4e2ca1d62f9d1080c76241f91f2fbe0d8ac6d230ca9dd5737a"
     }
   ],
   "duplicate_message_ids": [
