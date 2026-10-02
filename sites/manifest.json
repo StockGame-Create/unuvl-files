@@ -60087,6 +60087,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17670.png",
       "sha256": "8b01972ae4f0e39b069a37897297466fdef0116ad426549b3f1b6fa355d9982d"
+    },
+    {
+      "message_id": 17668,
+      "filename": "박종민 극난도모의고사 8회 초희귀자료.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17668_.8.pdf",
+      "size_bytes": 2806008,
+      "telegram_date": "2025-10-31T03:59:20+00:00",
+      "title": "수학 Limit Y 모의고사 8회",
+      "year": "2026",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17668.png",
+      "sha256": "afb9044dbf9e0728bd199cfd26d46ccfe3aa4b475023b53d219f3c2486604541"
     }
   ],
   "duplicate_message_ids": [
