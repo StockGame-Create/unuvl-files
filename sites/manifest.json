@@ -53003,6 +53003,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/18420.png",
       "sha256": "d80d92238122720f521f7f8c8611bdfacc9cf34aa6cb9c3561945f612076e6e9"
+    },
+    {
+      "message_id": 18419,
+      "filename": "2026_물리_서바_25,26회_빠른_정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18419_2026_._._25.26._._.pdf",
+      "size_bytes": 603135,
+      "telegram_date": "2025-11-11T15:45:50+00:00",
+      "title": "물1 시대인재 서바이벌 모의고사 26회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/18419.png",
+      "sha256": "7f61e1e04123ff573baae4e2df9af427449b33fa026b698d12359c9321b2b631"
     }
   ],
   "duplicate_message_ids": [
