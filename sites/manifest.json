@@ -65169,6 +65169,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17141.png",
       "sha256": "e5a56d2eab6ea20190510fb9bd09f8b13bfeb80e79ccef2af878ed12f64860fc"
+    },
+    {
+      "message_id": 17139,
+      "filename": "최종점검2 물1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17139_.2.1.pdf",
+      "size_bytes": 2425266,
+      "telegram_date": "2025-10-22T23:00:02+00:00",
+      "title": "과탐 시대인재 서바이벌 최종점검 2회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/17139.png",
+      "sha256": "2ecaaa32d6dee96cf4dfa9175c64f4c9c9bfefab59a3b32668ce1a8b1638e3cf"
     }
   ],
   "duplicate_message_ids": [
