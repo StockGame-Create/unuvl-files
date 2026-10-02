@@ -62649,6 +62649,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17397.png",
       "sha256": "ac6a8378f5f369cf8ee12b95c0c8e17179c9f708fd93d0bc05ab124acd3ae461"
+    },
+    {
+      "message_id": 17396,
+      "filename": "생윤_2026학년도_6평_손글씨_분석서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17396_._2026._6._._.pdf",
+      "size_bytes": 5050495,
+      "telegram_date": "2025-10-25T13:29:15+00:00",
+      "title": "생윤 2026학년도 6평 손글씨 분석 현자의 돌 윤리 연구소",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17396.png",
+      "sha256": "60962b250e2b769d0046defa93a2947275906c42673d907d205cbe3421f721ba"
     }
   ],
   "duplicate_message_ids": [
