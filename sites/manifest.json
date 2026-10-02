@@ -57161,6 +57161,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/17975.png",
       "sha256": "8bc79f0aa216923c7bad2242dbac2bf10fdcdfd5de3e9cacf3066fc3efd97702"
+    },
+    {
+      "message_id": 17974,
+      "filename": "26 화2 서바 20회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17974_26.2.20.pdf",
+      "size_bytes": 4546920,
+      "telegram_date": "2025-11-04T09:05:11+00:00",
+      "title": "화2 시대인재 서바이벌 모의고사 20~24회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/17974.png",
+      "sha256": "1a50367c099c92718f37aa266c14c50facf46f0128f1ff247f77cb0c97d093bd"
     }
   ],
   "duplicate_message_ids": [
