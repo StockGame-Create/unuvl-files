@@ -52639,6 +52639,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18480.png",
       "sha256": "34b808733b6ec003b0e53a261ba19501890c873a34b221839b184c99501d01c0"
+    },
+    {
+      "message_id": 18478,
+      "filename": "1등급_만들기_생명과학_1_정답과_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18478_1._._._1_._.pdf",
+      "size_bytes": 79232338,
+      "telegram_date": "2025-12-02T17:06:28+00:00",
+      "title": "생1 1등급 만들기 생명과학1",
+      "year": null,
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/18478.png",
+      "sha256": "38d8205d865a468cca9ccf5c613cb8ccc49f2d55e2f17d1895a1a9dc5e126260"
     }
   ],
   "duplicate_message_ids": [
