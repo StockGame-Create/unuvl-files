@@ -56741,6 +56741,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18012.png",
       "sha256": "9d5db7165842527114bc58b4dec8e2bf5880545bf13091636ca323b0e6044266"
+    },
+    {
+      "message_id": 18011,
+      "filename": "2026 장재원 모의반 로비스트 13주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18011_2026.13.pdf",
+      "size_bytes": 2409722,
+      "telegram_date": "2025-11-04T13:51:07+00:00",
+      "title": "2026 장재원 모의반 로비스트 13주차",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18011.png",
+      "sha256": "a72b443d92a4d7ae8b92abb1b569eb7cca822668ed6b99dd70e2dda506715ce7"
     }
   ],
   "duplicate_message_ids": [
