@@ -65141,6 +65141,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17144.png",
       "sha256": "6ea3e573231cd60ba3fa092c3119e229a309f75330456e47b67e0bca860b3e52"
+    },
+    {
+      "message_id": 17142,
+      "filename": "저스트n 2권(미분).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17142_.n.2.pdf",
+      "size_bytes": 4182360,
+      "telegram_date": "2025-10-23T03:17:10+00:00",
+      "title": "수학 저스트N 추석특강",
+      "year": "2026",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17142.png",
+      "sha256": "43143b06108027493f633314628dc2f317996cdd94d534c830a26ac8004b31d4"
     }
   ],
   "duplicate_message_ids": [
