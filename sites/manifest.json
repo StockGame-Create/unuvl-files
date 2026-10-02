@@ -64945,6 +64945,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/17167.png",
       "sha256": "ca821e4d1cfaa0c6e4760405718306dc866e91a170ab3c68747a58f2ce398a35"
+    },
+    {
+      "message_id": 17165,
+      "filename": "현돌모 파이널 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17165_.2.pdf",
+      "size_bytes": 6852330,
+      "telegram_date": "2025-10-23T11:46:30+00:00",
+      "title": "생윤 현자의 돌 파이널 모의고사 2회 #현돌모",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17165.png",
+      "sha256": "fc158ce6a0ecc921acf034c729454c3f0d69ae78c7ad9e5bc28c74009d7dcfaf"
     }
   ],
   "duplicate_message_ids": [
