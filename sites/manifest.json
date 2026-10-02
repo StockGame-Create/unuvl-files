@@ -66905,6 +66905,20 @@
       "subject": "물리학1, 화학1, 생명과학1, 지구과학1",
       "thumbnail": "thumbnails/16955.png",
       "sha256": "c09b6f2ae7b3639bac95f13c0e884584e50db2dd05cde6e4165d64f983d337ef"
+    },
+    {
+      "message_id": 16953,
+      "filename": "최종점검 정법.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16953_.pdf",
+      "size_bytes": 3066365,
+      "telegram_date": "2025-10-18T16:20:48+00:00",
+      "title": "생윤, 윤사, 사문, 정법, 세지 시대인재 서바이벌 최종점검 1회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리, 윤리와사상, 정치와법, 세계지리",
+      "thumbnail": "thumbnails/16953.png",
+      "sha256": "53fe2d6c93086346abef9d64319befeb76446e9fcaa09222c1f075b003f6808e"
     }
   ],
   "duplicate_message_ids": [
