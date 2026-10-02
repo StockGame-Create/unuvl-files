@@ -54277,6 +54277,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/18281.png",
       "sha256": "9f8a50d017ff4d8209efb905dfee0833df0060e75eb882963504ce441cde88e0"
+    },
+    {
+      "message_id": 18279,
+      "filename": "특특 week 01.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18279_.week.01.pdf",
+      "size_bytes": 2206705,
+      "telegram_date": "2025-11-08T23:38:28+00:00",
+      "title": "특특 week 01",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18279.png",
+      "sha256": "ab94bd0e56f7d4ca0b1f252c4ad4771a86b82e7caf0665019b4de165ff5ef20f"
     }
   ],
   "duplicate_message_ids": [
