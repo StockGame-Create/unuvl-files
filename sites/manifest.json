@@ -62747,6 +62747,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17389.png",
       "sha256": "92e943b157eb8cc03a0526fefa0a876a225ad6341b0e466fbd4ed5edb6377462"
+    },
+    {
+      "message_id": 17387,
+      "filename": "2026_설맞이_모의고사_시즌1_1회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17387_2026_._._.1_1._.pdf",
+      "size_bytes": 30431834,
+      "telegram_date": "2025-10-25T13:22:22+00:00",
+      "title": "수학 설맞이 모의고사 시즌1 1회 (인쇄소퀄)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17387.png",
+      "sha256": "ae94c47028b792d780a7aa252f75f964821f1585330d599726bf71481f346355"
     }
   ],
   "duplicate_message_ids": [
