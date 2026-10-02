@@ -52205,6 +52205,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/18542.png",
       "sha256": "bc5e1a933de3f653e64c687a23730a22505dd3a6c3768a92fded84e6eb7f1f0b"
+    },
+    {
+      "message_id": 18539,
+      "filename": "2026 물2 서바이벌 12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18539_2026.2.12.pdf",
+      "size_bytes": 9258551,
+      "telegram_date": "2025-12-15T02:11:12+00:00",
+      "title": "물2 시대인재 서바이벌 모의고사 12회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/18539.png",
+      "sha256": "a43502cf87be28a52c69b062fef71c01529d9e760d0905b000a8e09943ee39b2"
     }
   ],
   "duplicate_message_ids": [
