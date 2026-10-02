@@ -64567,6 +64567,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/17203.png",
       "sha256": "bbf7012ff8f8266aaf171ef5aad7de6ed8f6f8a86df518452476548dc94b1849"
+    },
+    {
+      "message_id": 17202,
+      "filename": "5교시물리D_Fine_제2회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17202_5.D_Fine_.2._.pdf",
+      "size_bytes": 959356,
+      "telegram_date": "2025-10-23T14:45:19+00:00",
+      "title": "물1 D.Fine Final 1,2회 #디파인",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/17202.png",
+      "sha256": "48a35941c17bef76e6388872974e9d1739e0f89cdb67821915c8f42023bf4f21"
     }
   ],
   "duplicate_message_ids": [
