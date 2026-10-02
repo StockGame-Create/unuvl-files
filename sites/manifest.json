@@ -53157,6 +53157,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18405.png",
       "sha256": "e7794a0a891dacacff64b9dee7e82c587d2f198382d5fa5c9146c436a237432f"
+    },
+    {
+      "message_id": 18404,
+      "filename": "V모고 시즌3 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18404_V.3.2.pdf",
+      "size_bytes": 10756014,
+      "telegram_date": "2025-11-11T14:53:47+00:00",
+      "title": "V모고 시즌3 2회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18404.png",
+      "sha256": "286d218a4f027bb1bb5d4bdc994c37ec565b06f0ed4d1e615a6c5aabbb2d40d1"
     }
   ],
   "duplicate_message_ids": [
