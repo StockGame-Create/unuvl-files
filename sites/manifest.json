@@ -60031,6 +60031,20 @@
       "subject": "한국사",
       "thumbnail": "thumbnails/17674.png",
       "sha256": "f7611cf811a47869cdcfc809391e66ca3985347bb8b1422564ef1efaefd0e5ab"
+    },
+    {
+      "message_id": 17673,
+      "filename": "2025년 종로 모의고사 10월 - 국어 정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17673_2025.10.-.pdf",
+      "size_bytes": 385820,
+      "telegram_date": "2025-10-31T05:39:39+00:00",
+      "title": "국어 종로 10월 전국연합 학력평가",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17673.png",
+      "sha256": "923e6e8ad57cecb91ebca4a282be5305f2c4bb97067cb5995067889bd39ab6d1"
     }
   ],
   "duplicate_message_ids": [
