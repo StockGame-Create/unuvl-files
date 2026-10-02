@@ -50651,6 +50651,20 @@
       "subject": "수학2",
       "thumbnail": "thumbnails/18714.png",
       "sha256": "deac85767653156a7159fb37e8fddb534df00d52216d606438803d4f3211671f"
+    },
+    {
+      "message_id": 18713,
+      "filename": "2027 수분감 수1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18713_2027.1.pdf",
+      "size_bytes": 122211682,
+      "telegram_date": "2025-12-29T15:38:36+00:00",
+      "title": "수1 2027 수분감 수학I (해설지)",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학1",
+      "thumbnail": "thumbnails/18713.png",
+      "sha256": "755ffb6432cc47a065eae5c26ff0d13b75a82b0a1880d81d230023bcb96a2216"
     }
   ],
   "duplicate_message_ids": [
