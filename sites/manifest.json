@@ -58141,6 +58141,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17866.png",
       "sha256": "47b5c5ca51cb1637f06bbbb9974ca53e001d72a579e7d7a9c6643784e5096c2c"
+    },
+    {
+      "message_id": 17865,
+      "filename": "2026_강대k+_사회문화_8회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17865_2026_.k%2B_._8._.pdf",
+      "size_bytes": 6667948,
+      "telegram_date": "2025-11-02T02:11:43+00:00",
+      "title": "사문 강대모의고사K+ 8회 #강케플",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17865.png",
+      "sha256": "fc67922bca5d5e586545e0280505c2f22d5354a7cd6e33e57b12ba96a82740df"
     }
   ],
   "duplicate_message_ids": [
