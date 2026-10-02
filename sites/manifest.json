@@ -53577,6 +53577,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/18354.png",
       "sha256": "0ce157023717f32e3221fa3c49a57d11f27485d1446306d28e1bacb9446ad5b1"
+    },
+    {
+      "message_id": 18349,
+      "filename": "2026 샤인미 모의고사 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18349_2026.2.pdf",
+      "size_bytes": 17212287,
+      "telegram_date": "2025-11-10T14:31:04+00:00",
+      "title": "2026 샤인미 모의고사 2회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18349.png",
+      "sha256": "ec6d7ae8b53f8d75acb86ab523e81e8ca9bb46423335aea6cab8d055399f2dbe"
     }
   ],
   "duplicate_message_ids": [
