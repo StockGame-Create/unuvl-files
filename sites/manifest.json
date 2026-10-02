@@ -58379,6 +58379,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17837.png",
       "sha256": "3a8a166a59dfde4679822ff6c537b2300ec78f9fbc38b34d69dfa7f5541fd269"
+    },
+    {
+      "message_id": 17835,
+      "filename": "NOT.N 독서 미니 1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17835_NOT.N.1.pdf",
+      "size_bytes": 373693,
+      "telegram_date": "2025-11-01T11:50:49+00:00",
+      "title": "NOT.N 독서 미니 1회 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17835.png",
+      "sha256": "f0d7ede2c300886c15ac66a03a9d4f7db1048d3e85dc7a94e6c07f38caf007e4"
     }
   ],
   "duplicate_message_ids": [
