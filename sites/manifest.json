@@ -64861,6 +64861,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/17176.png",
       "sha256": "387eedbba53d25ef3a25a9f88f4656ef069516b751c8887ecfc3a1ef6513fe77"
+    },
+    {
+      "message_id": 17175,
+      "filename": "2025_추석특강-사문-손글씨 풀이.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17175_2025_.-.-.pdf",
+      "size_bytes": 21084359,
+      "telegram_date": "2025-10-23T14:17:20+00:00",
+      "title": "사문 추석특강 문서연T 손글씨풀이",
+      "year": "2026",
+      "instructor": "문서연",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17175.png",
+      "sha256": "73e756b78b44def3125834604229da1bc3794e95a619bd261c0e9fe9f60eb1b6"
     }
   ],
   "duplicate_message_ids": [
