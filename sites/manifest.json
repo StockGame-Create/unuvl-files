@@ -64217,6 +64217,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17229.png",
       "sha256": "a67d28fa2203c280256c74bd8851fe147a5ecfe41b5a3e76624bfae44879d359"
+    },
+    {
+      "message_id": 17228,
+      "filename": "수학 김범준 모의고사 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17228_.7.pdf",
+      "size_bytes": 18166250,
+      "telegram_date": "2025-10-23T15:06:45+00:00",
+      "title": "수학 김범준 모의고사 7회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17228.png",
+      "sha256": "06f625570070758887cf6c70afab3b9d2ad9015f6c1187c7b750191abd277f69"
     }
   ],
   "duplicate_message_ids": [
