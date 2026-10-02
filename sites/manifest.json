@@ -52373,6 +52373,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/18518.png",
       "sha256": "5b2f683329731274f01b24c9a3f909e58a5c3e5333e0790ad04a4b0a3c9c2932"
+    },
+    {
+      "message_id": 18517,
+      "filename": "방인혁 물리2 개념기출 2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18517_.2.2.pdf",
+      "size_bytes": 433989744,
+      "telegram_date": "2025-12-13T13:53:05+00:00",
+      "title": "물2 The Fundamentals & Problem Solvings 개념 + 기출",
+      "year": null,
+      "instructor": "방인혁",
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/18517.png",
+      "sha256": "deb34e7ece8cfdbaeb1d4513432e77f52b0e103312278c7d42af1302bb403aed"
     }
   ],
   "duplicate_message_ids": [
