@@ -52051,6 +52051,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/18553.png",
       "sha256": "82ef647516456a22415c3510cb0817ac74133a0c0d8583768319353312bc941a"
+    },
+    {
+      "message_id": 18552,
+      "filename": "2025 생2 n서바 11회 해설 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18552_2025.2.n.11.pdf",
+      "size_bytes": 4066884,
+      "telegram_date": "2025-12-15T12:00:31+00:00",
+      "title": "생2 시대인재 서바이벌 N전용 모의고사 9~12회 #서바N",
+      "year": "2025",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/18552.png",
+      "sha256": "60fa519fbc7e107dd40d3745fc6211b316c8af50d8ab776cdb7bc1a10e864c89"
     }
   ],
   "duplicate_message_ids": [
