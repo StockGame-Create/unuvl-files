@@ -55201,6 +55201,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/18178.png",
       "sha256": "9edebe9149a55006aebd025992be1aa52e78985afd73775297c9d4f0ad1d4f2c"
+    },
+    {
+      "message_id": 18177,
+      "filename": "지구_서바_이신혁_아폴로_FINAL_02.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18177_._._._._FINAL_02.pdf",
+      "size_bytes": 213917111,
+      "telegram_date": "2025-11-06T14:00:52+00:00",
+      "title": "지1 Apollo.n 시즌4 2~9호 #아폴로",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18177.png",
+      "sha256": "37ec188851931bc647217ad15ca0579c0526564b57681e34736d79a3a37e8cad"
     }
   ],
   "duplicate_message_ids": [
