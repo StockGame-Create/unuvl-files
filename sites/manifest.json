@@ -57357,6 +57357,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17946.png",
       "sha256": "b4610b2a2595a687e8b285e06303f33847512e8081e9d769402a11e23412b232"
+    },
+    {
+      "message_id": 17945,
+      "filename": "26_여상진T_수리논술_미분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17945_26_.T_._.pdf",
+      "size_bytes": 327044550,
+      "telegram_date": "2025-11-03T13:40:51+00:00",
+      "title": "수학 여상진 수리논술 연구소 수학 본교재, 상, 하, 미분, 적분",
+      "year": "2026",
+      "instructor": "여상진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17945.png",
+      "sha256": "baaffe1ded45581fc2537e3b726bac8c4188b457a6ed268a0da732b355c5670f"
     }
   ],
   "duplicate_message_ids": [
