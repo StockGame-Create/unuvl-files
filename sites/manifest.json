@@ -64245,6 +64245,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17227.png",
       "sha256": "a9474cc04d655c52b38f8b61f3ad2f107f52baee9693931f4c4edd1e799dc8dd"
+    },
+    {
+      "message_id": 17226,
+      "filename": "김범준 모의고사 6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17226_.6.pdf",
+      "size_bytes": 17751132,
+      "telegram_date": "2025-10-23T15:06:45+00:00",
+      "title": "김범준 모의고사 6회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17226.png",
+      "sha256": "5f031c0b83dedb88f0a7532cf6fa56d30f11d57599448ddde3ad8477e4d9b4af"
     }
   ],
   "duplicate_message_ids": [
