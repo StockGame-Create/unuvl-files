@@ -55509,6 +55509,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18152.png",
       "sha256": "dd086df6b25f44a8fa27bf987e4d50d054482282d45b628cc8548abc60a01d8b"
+    },
+    {
+      "message_id": 18151,
+      "filename": "전지적_용T_시점_679_모의고사_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18151_._.T_._679_._.pdf",
+      "size_bytes": 681705,
+      "telegram_date": "2025-11-06T13:13:20+00:00",
+      "title": "전지적_용T_시점_679_모의고사_문제",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18151.png",
+      "sha256": "b31fc0512004b4ad9a332ade6627173cb878ba5de406c1be3cb33dd14dafe361"
     }
   ],
   "duplicate_message_ids": [
