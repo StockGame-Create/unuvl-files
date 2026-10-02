@@ -55159,6 +55159,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18181.png",
       "sha256": "cfcd7b6c040067dc0a24685a1b6117a34868db2181a618ca002cf508d2371c41"
+    },
+    {
+      "message_id": 18180,
+      "filename": "2026_이신혁_모의평가_FINAL_9회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18180_2026_._._FINAL_9._.pdf",
+      "size_bytes": 9602546,
+      "telegram_date": "2025-11-06T14:02:41+00:00",
+      "title": "지1 이신혁 모의평가 FINAL 9회",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18180.png",
+      "sha256": "3c9521d7b86eab6de8b9541781d4e2852d3d26d402767d813e665750b7d1a2f4"
     }
   ],
   "duplicate_message_ids": [
