@@ -58393,6 +58393,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17835.png",
       "sha256": "f0d7ede2c300886c15ac66a03a9d4f7db1048d3e85dc7a94e6c07f38caf007e4"
+    },
+    {
+      "message_id": 17834,
+      "filename": "NOT_N_독서_미니_모의고사_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17834_NOT_N_._._._1.pdf",
+      "size_bytes": 937584,
+      "telegram_date": "2025-11-01T11:50:49+00:00",
+      "title": "NOT_N_독서_미니_모의고사_1회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17834.png",
+      "sha256": "c3e376a75d5c5057e167ffeaba7e2363ad5fe70c5c05d868594267547d8c2e76"
     }
   ],
   "duplicate_message_ids": [
