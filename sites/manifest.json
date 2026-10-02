@@ -61641,6 +61641,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17503.png",
       "sha256": "797d35798cdb5184240847275107711665b2da80b7212f4c4fe7117d314dcc53"
+    },
+    {
+      "message_id": 17502,
+      "filename": "2026 생명과학1 서바이벌 20회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17502_2026.1.20.pdf",
+      "size_bytes": 13362998,
+      "telegram_date": "2025-10-27T22:36:29+00:00",
+      "title": "생1 시대인재 서바이벌 모의고사 19,20회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/17502.png",
+      "sha256": "23274cd6110c5be9d3bddc86f99365597e25ab729a751b1a01b4a73300ce3191"
     }
   ],
   "duplicate_message_ids": [
