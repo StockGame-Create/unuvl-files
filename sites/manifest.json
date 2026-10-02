@@ -54249,6 +54249,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18284.png",
       "sha256": "e087fb779f4b3c263cdec8d49ef0cd82573bc7b0d0d871323d845a834742e11c"
+    },
+    {
+      "message_id": 18282,
+      "filename": "2026_한국지리_전국_서바이벌_1_8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18282_2026_._._._1_8.pdf",
+      "size_bytes": 65436615,
+      "telegram_date": "2025-11-09T00:47:05+00:00",
+      "title": "한지 시대인재 서바이벌 전국 모의고사 1~8회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "한국지리",
+      "thumbnail": "thumbnails/18282.png",
+      "sha256": "49a6cd62fcd66c98e07abaac10391c3e5590694266a293f1ae2baf7ada765c64"
     }
   ],
   "duplicate_message_ids": [
