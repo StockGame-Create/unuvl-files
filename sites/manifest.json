@@ -50693,6 +50693,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/18710.png",
       "sha256": "596d44627049bb8e20008b2bf0aec2164bc91cdbdf962991d220d9eeb8185e96"
+    },
+    {
+      "message_id": 18709,
+      "filename": "2027 KISSAVE 하편 션티.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18709_2027.KISSAVE.pdf",
+      "size_bytes": 203038437,
+      "telegram_date": "2025-12-29T10:46:52+00:00",
+      "title": "영어 2027 KISSAVE",
+      "year": "2027",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/18709.png",
+      "sha256": "57a9a6e40e7e803fc47140427f794852ee67262ff800c68a860194727ca5a4fc"
     }
   ],
   "duplicate_message_ids": [
