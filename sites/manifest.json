@@ -56335,6 +56335,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/18052.png",
       "sha256": "c851ac4396d0f72965736cecb97fa0de0df34a15d734f396b04da39a5aae1eab"
+    },
+    {
+      "message_id": 18050,
+      "filename": "2026년_영어_서바이벌_115회_합본_문제,해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18050_2026._._._115._._.pdf",
+      "size_bytes": 306527714,
+      "telegram_date": "2025-11-04T23:13:04+00:00",
+      "title": "영어 시대인재 서바이벌 모의고사 1~14회 (합본) #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/18050.png",
+      "sha256": "7fb2a83c9bc41f2369ed3df613f81be3d74f9f99645a3d1b4769b314c37cd37f"
     }
   ],
   "duplicate_message_ids": [
