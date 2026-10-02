@@ -67073,6 +67073,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16939.png",
       "sha256": "206bcc9adc283f038970ffc12517a977489afe116f0fbcdf297e91ab1d7e2039"
+    },
+    {
+      "message_id": 16938,
+      "filename": "2026_바탕_모의고사_11회_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16938_2026_._._11._.pdf",
+      "size_bytes": 4557093,
+      "telegram_date": "2025-10-18T15:24:09+00:00",
+      "title": "국어 바탕 모의고사 11회 #바탕",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16938.png",
+      "sha256": "1e64a200fd52b64f51d29cd0f15ca8fb53051d4692d1dc58dae24917100120d5"
     }
   ],
   "duplicate_message_ids": [
