@@ -52485,6 +52485,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18503.png",
       "sha256": "695071580ac35ac3d889e5fa3b8fa08d227ee723679aec30bb3692ee2aa0e877"
+    },
+    {
+      "message_id": 18501,
+      "filename": "마플시너지_공통수학1_정답및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18501_._.1_._.pdf",
+      "size_bytes": 103857373,
+      "telegram_date": "2025-12-09T07:32:00+00:00",
+      "title": "수학 마플 시너지 공통수학1",
+      "year": null,
+      "instructor": null,
+      "subject": "공통수학",
+      "thumbnail": "thumbnails/18501.png",
+      "sha256": "5600f5a2a4e147ae5bee7b041025c1f8a0460170bdcead3f18e2a8e0708bd123"
     }
   ],
   "duplicate_message_ids": [
