@@ -62789,6 +62789,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17384.png",
       "sha256": "68fce34005de1f9dd4018e4f2772480294c081a440f9d749dfe9ba978b45f7e3"
+    },
+    {
+      "message_id": 17383,
+      "filename": "이해원_2026_합성함수_해석.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17383_._2026_._.pdf",
+      "size_bytes": 20195519,
+      "telegram_date": "2025-10-25T12:56:53+00:00",
+      "title": "수학 이해원 합성함수 해석",
+      "year": "2026",
+      "instructor": "이해원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17383.png",
+      "sha256": "4a9d1cb1310d32324e653d3f9e0b3f3b8fa2f4f6ce276e657573dd7a2356e322"
     }
   ],
   "duplicate_message_ids": [
