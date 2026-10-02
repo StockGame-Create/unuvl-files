@@ -61487,6 +61487,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17517.png",
       "sha256": "358f77c2b1263a0903d68127f8b92cad914cb5b14719b4c93f5652e9680287b9"
+    },
+    {
+      "message_id": 17515,
+      "filename": "우일신 2-2 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17515_.2-2.pdf",
+      "size_bytes": 4378621,
+      "telegram_date": "2025-10-28T03:27:37+00:00",
+      "title": "수학 우일신 파이널 모의고사 시즌2 1,2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17515.png",
+      "sha256": "578bccc1c4541c2b4e05483b27f1ebaf9bc025e99dc1b99207a1df4aa633c885"
     }
   ],
   "duplicate_message_ids": [
