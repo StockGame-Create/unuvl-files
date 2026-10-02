@@ -57525,6 +57525,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17929.png",
       "sha256": "6e4c9cdd746c54d3d0dd45ddd018ce100566b7420b03a09901109780c34ae103"
+    },
+    {
+      "message_id": 17927,
+      "filename": "2025년_11월_3학년_더프리미엄_모의고사_빠른정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17927_2025._11._3._._._.pdf",
+      "size_bytes": 338006,
+      "telegram_date": "2025-11-03T07:40:18+00:00",
+      "title": "전과목 THE PREMIUM 11월 모의고사 (답지) #더프",
+      "year": "2026",
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17927.png",
+      "sha256": "6a3bad6abd955b9c3d5641a342772d9d5a0c96c366ea4007d56f7914423d93ea"
     }
   ],
   "duplicate_message_ids": [
