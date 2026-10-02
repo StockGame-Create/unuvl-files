@@ -52779,6 +52779,20 @@
       "subject": "통합사회",
       "thumbnail": "thumbnails/18464.png",
       "sha256": "6d8542d1f0429aa79c9402e527092f798c692f7379a057a95d4074aa4ca5528d"
+    },
+    {
+      "message_id": 18463,
+      "filename": "1등급_만들기_통합사회_1000제_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18463_1._._._1000._.pdf",
+      "size_bytes": 4012869,
+      "telegram_date": "2025-11-29T05:49:30+00:00",
+      "title": "사회 1등급 만들기 통합사회 1000제",
+      "year": null,
+      "instructor": null,
+      "subject": "통합사회",
+      "thumbnail": "thumbnails/18463.png",
+      "sha256": "f601acf7bda10971de18c1270e50ab6f8af740dd467ef4b72682599525d985fa"
     }
   ],
   "duplicate_message_ids": [
