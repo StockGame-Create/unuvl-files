@@ -52751,6 +52751,20 @@
       "subject": "공통수학",
       "thumbnail": "thumbnails/18467.png",
       "sha256": "95eebd1e4a92483a64a6b5decc15470fb7e21f2ebf2e82dd595779d6a3c4fe8e"
+    },
+    {
+      "message_id": 18465,
+      "filename": "15개정완자_고등통합사회_정답친해.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18465_15._._.pdf",
+      "size_bytes": 10180645,
+      "telegram_date": "2025-11-29T05:56:16+00:00",
+      "title": "사회 자율학습시 비상구 완자로 53 통합사회",
+      "year": null,
+      "instructor": null,
+      "subject": "통합사회",
+      "thumbnail": "thumbnails/18465.png",
+      "sha256": "0e53501485051c1b7c83e831ce1e5b26012cad8637e864a0e972142a96df268c"
     }
   ],
   "duplicate_message_ids": [
