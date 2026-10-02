@@ -61613,6 +61613,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17505.png",
       "sha256": "b92d709490d17a4b48bf4e66bcec4e3e751513ed6beaa87aa1d749780e9ae014"
+    },
+    {
+      "message_id": 17504,
+      "filename": "서바_1920회_정답(수정).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17504_._1920._.pdf",
+      "size_bytes": 84820,
+      "telegram_date": "2025-10-27T22:36:29+00:00",
+      "title": "생1 시대인재 서바이벌 모의고사 19,20회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/17504.png",
+      "sha256": "5e610ff8cdd8f3f1b7c47e7582e7c55521f339efe50a78a2235ef6f2fe9ef132"
     }
   ],
   "duplicate_message_ids": [
