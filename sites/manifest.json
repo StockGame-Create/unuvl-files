@@ -57987,6 +57987,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17883.png",
       "sha256": "357ce0ce0553d6b134aabcc954b78b88d9f68a2c44905f5e4657afe53dca9f28"
+    },
+    {
+      "message_id": 17882,
+      "filename": "2026 Hidden Kice 모의고사 21회 문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17882_2026.Hidden.Kice.21.pdf",
+      "size_bytes": 29885138,
+      "telegram_date": "2025-11-02T09:14:26+00:00",
+      "title": "수학 Hidden Kice 모의고사 21~24회 #히카",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17882.png",
+      "sha256": "88f8f434a374a3f6d9afbcfaa11e397fa45533aa1366a148ca270b78a6da54a2"
     }
   ],
   "duplicate_message_ids": [
