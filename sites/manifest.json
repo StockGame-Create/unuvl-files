@@ -53311,6 +53311,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/18390.png",
       "sha256": "b6d9bd6811e8d128ab7c4a060a26ad1337f327a18fe681df8fcada9f5b7b3faa"
+    },
+    {
+      "message_id": 18389,
+      "filename": "홓ㅕㅇ훈제 27 28회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18389_.27.28.pdf",
+      "size_bytes": 48815601,
+      "telegram_date": "2025-11-11T13:55:40+00:00",
+      "title": "물1 강민웅 특난도 모의고사 파이널 시즌1 1~8회",
+      "year": "2026",
+      "instructor": "강민웅",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/18389.png",
+      "sha256": "4a6016a66d2656cea0a4641a89e33213ce36b92d97199ba41144eaf142a6b4ba"
     }
   ],
   "duplicate_message_ids": [
