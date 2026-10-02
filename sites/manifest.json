@@ -64273,6 +64273,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17225.png",
       "sha256": "8aa19af9776a7450362ae79dff670f2877cd0ab7db774db5ed9c6b9ffad9dc13"
+    },
+    {
+      "message_id": 17224,
+      "filename": "김범준 모의고사 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17224_.4.pdf",
+      "size_bytes": 2032850,
+      "telegram_date": "2025-10-23T15:06:09+00:00",
+      "title": "수학 김범준 모의평가 1~4회 #범모",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17224.png",
+      "sha256": "218ef6369b1a52f470c7b3c287885f03d0593ab502c49497ae5deda101bff6f1"
     }
   ],
   "duplicate_message_ids": [
