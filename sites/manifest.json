@@ -61991,6 +61991,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17465.png",
       "sha256": "8b3feab186ac3a98767d6c2d0218465c40f5ea8acb8dc2524629ce3f3f6fcac6"
+    },
+    {
+      "message_id": 17464,
+      "filename": "이투스N 08회_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17464_.N.08._.pdf",
+      "size_bytes": 17893812,
+      "telegram_date": "2025-10-27T03:29:50+00:00",
+      "title": "이투스N 08회_문제",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17464.png",
+      "sha256": "855fe0eed8a1c0d6f785ed62f20d474c459c7f8b9b990e512111e3128b266c05"
     }
   ],
   "duplicate_message_ids": [
