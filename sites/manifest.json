@@ -61221,6 +61221,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17547.png",
       "sha256": "8613ab694326fcc53de3cafc8365da8e38ac2bbe90af22065f1d561c114fb9fc"
+    },
+    {
+      "message_id": 17546,
+      "filename": "26수능 악어모의고사 3회 확통.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17546_26.3.pdf",
+      "size_bytes": 1680731,
+      "telegram_date": "2025-10-28T15:17:37+00:00",
+      "title": "26수능 악어모의고사 3회 확통",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17546.png",
+      "sha256": "000d67e373fd716a26dd68991dbdfae395243ce86d8ad052fe96f1e153956713"
     }
   ],
   "duplicate_message_ids": [
