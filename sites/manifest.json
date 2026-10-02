@@ -56755,6 +56755,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18011.png",
       "sha256": "a72b443d92a4d7ae8b92abb1b569eb7cca822668ed6b99dd70e2dda506715ce7"
+    },
+    {
+      "message_id": 18008,
+      "filename": "시대인재_final_브릿지_모의고사_17회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18008_._final_._._17.pdf",
+      "size_bytes": 3803873,
+      "telegram_date": "2025-11-04T13:49:09+00:00",
+      "title": "사문 시대인재 Final 브릿지 전국 모의고사 16회 #파브전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/18008.png",
+      "sha256": "7927f45f69e350f16e145ac2ca67b69fa09d925a71537c11be5f57d30c257452"
     }
   ],
   "duplicate_message_ids": [
