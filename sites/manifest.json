@@ -55635,6 +55635,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18125.png",
       "sha256": "4c9c296adba566da7c2d0ec30ef232071d3d15f83599f9b4b9e62f424f69d033"
+    },
+    {
+      "message_id": 18123,
+      "filename": "2026_생1_정석준_싱크로_시즌2_3주개념_+_개념형_기출_+_추론형_기출_12주.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18123_2026_.1_._._.2_3._%2B_._._%2B_._._12.pdf",
+      "size_bytes": 15080525,
+      "telegram_date": "2025-11-05T13:54:05+00:00",
+      "title": "2026_생1_정석준_싱크로_시즌2_3주개념_+_개념형_기출_+_추론형_기출_12주",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18123.png",
+      "sha256": "be8e6d917ff9a373c3a5322ff9370f3049c4d6ad40ba7e275bffb60e33f43a18"
     }
   ],
   "duplicate_message_ids": [
