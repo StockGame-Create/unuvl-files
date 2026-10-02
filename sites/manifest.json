@@ -64399,6 +64399,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/17215.png",
       "sha256": "bc460a02b24aff2ae5c58b270f90d805292bad22d4fc92057bbf251988feda28"
+    },
+    {
+      "message_id": 17214,
+      "filename": "5교시지구D_Fine_제2회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17214_5.D_Fine_.2._.pdf",
+      "size_bytes": 1008917,
+      "telegram_date": "2025-10-23T14:46:15+00:00",
+      "title": "지1 D.Fine Final 1,2회 #디파인",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/17214.png",
+      "sha256": "10d5a585173797be24a774f52c8c88f524e913207c06fa09a14e2aff775a314c"
     }
   ],
   "duplicate_message_ids": [
