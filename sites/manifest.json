@@ -52513,6 +52513,20 @@
       "subject": "공통수학",
       "thumbnail": "thumbnails/18500.png",
       "sha256": "725881a688c63b36ceb19a5979a2d2f3334c2112ae017a7339dfc99f072fe535"
+    },
+    {
+      "message_id": 18498,
+      "filename": "2028학년도_통합사회_지리_영역_MERIDIAN_예시문항.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18498_2028._._._._MERIDIAN_.pdf",
+      "size_bytes": 16072570,
+      "telegram_date": "2025-12-08T06:21:41+00:00",
+      "title": "사회 2028학년도 통합사회 지리 영역 MERIDIAN 예시문항",
+      "year": null,
+      "instructor": null,
+      "subject": "통합사회",
+      "thumbnail": "thumbnails/18498.png",
+      "sha256": "1e2b8600105296723ce9aa00827baaca0c3b3d1d90ef5b4bedcd6e9e89ad1349"
     }
   ],
   "duplicate_message_ids": [
