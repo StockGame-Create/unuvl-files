@@ -56279,6 +56279,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18058.png",
       "sha256": "b9b5117be602ee5197d1bfadfc1983eb41f7981e10fb8577f77be5e3653f1276"
+    },
+    {
+      "message_id": 18056,
+      "filename": "[PDF] 기출의 파급효과 2026 - 물리학1(상)_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18056_.PDF.2026.-.1._.pdf",
+      "size_bytes": 3825285,
+      "telegram_date": "2025-11-05T01:14:44+00:00",
+      "title": "[PDF] 기출의 파급효과 2026 - 물리학1(상)_해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18056.png",
+      "sha256": "2bda74f76e68b570d01f3621cd6b3403556f12c6b1b88923ade0c0f5532c1f19"
     }
   ],
   "duplicate_message_ids": [
