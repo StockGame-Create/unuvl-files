@@ -63839,6 +63839,20 @@
       "subject": "사화문화",
       "thumbnail": "thumbnails/17259.png",
       "sha256": "234cf3252ca6378982c6e084660dc09bdaca35305ed9d7992ba115ed84f09728"
+    },
+    {
+      "message_id": 17257,
+      "filename": "Untitled_20251024_073216_cropped - converted.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17257_Untitled_20251024_073216_cropped.-.converted.pdf",
+      "size_bytes": 2047114,
+      "telegram_date": "2025-10-24T03:04:11+00:00",
+      "title": "수학 휘문 모의평가 (인쇄소퀄)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17257.png",
+      "sha256": "60b314eb6a1e2f8bc1cf5013a6a8a8405af42fca72f72f2d86961a3a5980fab7"
     }
   ],
   "duplicate_message_ids": [
