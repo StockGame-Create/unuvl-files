@@ -57301,6 +57301,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17952.png",
       "sha256": "33896a92e708f32e54a8b0b4916fb982a5138e95579369b3218bc67a2d015846"
+    },
+    {
+      "message_id": 17951,
+      "filename": "2026학년도_11월_더프_국어_화작.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17951_2026._11._._._.pdf",
+      "size_bytes": 56416481,
+      "telegram_date": "2025-11-03T13:47:27+00:00",
+      "title": "국어 THE PREMIUM 11월 모의고사 (문제지) #더프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17951.png",
+      "sha256": "befe6ae67496a195ae77a3bdd6c723bcb4cbe569b1be7ce518a9a9044a3ece0f"
     }
   ],
   "duplicate_message_ids": [
