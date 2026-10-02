@@ -55915,6 +55915,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18100.png",
       "sha256": "f3131833e967aa0ad12fd7e026d46560d2b99a77975493aedcfd0133cc7b3607"
+    },
+    {
+      "message_id": 18098,
+      "filename": "2026_국어_서바이벌_18회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18098_2026_._._18._.pdf",
+      "size_bytes": 43197292,
+      "telegram_date": "2025-11-05T13:26:10+00:00",
+      "title": "국어 시대인재 서바이벌 모의고사 18회 (인쇄소퀄) #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18098.png",
+      "sha256": "b7a2756eba8c322e8bae1230cef14c4fc2d9d1fcea25b6a26d22cc5a036788e2"
     }
   ],
   "duplicate_message_ids": [
