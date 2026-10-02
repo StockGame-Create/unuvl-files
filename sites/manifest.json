@@ -61361,6 +61361,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17535.png",
       "sha256": "263037777930363d479442f2dc635227c3cc57efd3a04a5f36290576c94d2c60"
+    },
+    {
+      "message_id": 17533,
+      "filename": "2026 강모 화2 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17533_2026.2.1.pdf",
+      "size_bytes": 5145847,
+      "telegram_date": "2025-10-28T15:04:57+00:00",
+      "title": "화2 강준호 모의고사 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/17533.png",
+      "sha256": "9b23f626c7d1404a28f90d297bbe313aa7ff95824ea5f94a2f3e3687e9782e61"
     }
   ],
   "duplicate_message_ids": [
