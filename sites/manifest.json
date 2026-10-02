@@ -57651,6 +57651,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/17912.png",
       "sha256": "cd82e81373daea07b8624fa1c141ea286d08823e5a8ee6141b23fc4b584e4a6e"
+    },
+    {
+      "message_id": 17911,
+      "filename": "세지_전국서바_5회_문+해.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17911_._._5._.%2B.pdf",
+      "size_bytes": 9634402,
+      "telegram_date": "2025-11-02T13:53:13+00:00",
+      "title": "세지 시대인재 서바이벌 전국 모의고사 5회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/17911.png",
+      "sha256": "3d96974eb05307f114d75c17143cae0e8e859d7af94036e3f470932d9ff27a48"
     }
   ],
   "duplicate_message_ids": [
