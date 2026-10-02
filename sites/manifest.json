@@ -60017,6 +60017,20 @@
       "subject": "한국사",
       "thumbnail": "thumbnails/17675.png",
       "sha256": "79014ae64a193e9dba13cd013cfe4b72ecb8f6658d4ebd482ef6b5d520b3163d"
+    },
+    {
+      "message_id": 17674,
+      "filename": "2025년 종로 모의고사 10월 - 한국사 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17674_2025.10.-.pdf",
+      "size_bytes": 147063,
+      "telegram_date": "2025-10-31T05:40:16+00:00",
+      "title": "한국사 종로 10월 전국연합 학력평가",
+      "year": "2026",
+      "instructor": null,
+      "subject": "한국사",
+      "thumbnail": "thumbnails/17674.png",
+      "sha256": "f7611cf811a47869cdcfc809391e66ca3985347bb8b1422564ef1efaefd0e5ab"
     }
   ],
   "duplicate_message_ids": [
