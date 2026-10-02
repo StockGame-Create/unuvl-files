@@ -57385,6 +57385,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17944.png",
       "sha256": "79137cb8e0b065df2067f69962d6361c9ffe2585a1cf3a8f4e896ffc60f0db39"
+    },
+    {
+      "message_id": 17942,
+      "filename": "2026 FINAL 이매진 HOT 100.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17942_2026.FINAL.HOT.100.pdf",
+      "size_bytes": 539171076,
+      "telegram_date": "2025-11-03T13:38:16+00:00",
+      "title": "국어 이매진 HOT 100 2026 FINAL",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17942.png",
+      "sha256": "55c0b76d40082a6bd4e6b6680b5af721b2cffd8bdb7e77ec1d1f0de1b8a0ed20"
     }
   ],
   "duplicate_message_ids": [
