@@ -61557,6 +61557,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/17510.png",
       "sha256": "56c9cc81b7a9df7ce45ef9d981a6cd7ce3dbf00bc86fb5301178ea3fd0bf7831"
+    },
+    {
+      "message_id": 17508,
+      "filename": "마플시너지_수학Ⅰ_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17508_._._.pdf",
+      "size_bytes": 534842926,
+      "telegram_date": "2025-10-28T03:24:09+00:00",
+      "title": "수학 마플 시너지 수학1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17508.png",
+      "sha256": "ad3959870f04aa2eb4868d5347bb27ffed7c24a9b220413bb22cdd13c8f907da"
     }
   ],
   "duplicate_message_ids": [
