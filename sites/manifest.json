@@ -63713,6 +63713,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17275.png",
       "sha256": "3b8700a978a5b10f6d2b60b1cf0f96c268eeb90ec26499dc0890d07ce098e64c"
+    },
+    {
+      "message_id": 17274,
+      "filename": "DEBS 2회 문제_251024_125400.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17274_DEBS.2._251024_125400.pdf",
+      "size_bytes": 2801663,
+      "telegram_date": "2025-10-24T07:20:15+00:00",
+      "title": "DEBS 2회 문제_251024_125400",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17274.png",
+      "sha256": "2a3ee273a64c1e6141f223d3a21cc0a4dad035760f385300ec6d8f3564a9d557"
     }
   ],
   "duplicate_message_ids": [
