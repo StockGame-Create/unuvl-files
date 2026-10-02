@@ -54809,6 +54809,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18214.png",
       "sha256": "92c9d1a8cb3aa844807814e4e093d1b804ac8d2bb1a73ef0c1e5d038a129137c"
+    },
+    {
+      "message_id": 18213,
+      "filename": "세계사_백건아_high_end_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18213_._._high_end_.pdf",
+      "size_bytes": 1814745,
+      "telegram_date": "2025-11-07T09:03:27+00:00",
+      "title": "세계사_백건아_high_end_답지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18213.png",
+      "sha256": "846d974fcb7ce809d87f595bf98c141bd1c30aed51f2380cd4f24c24a57242cd"
     }
   ],
   "duplicate_message_ids": [
