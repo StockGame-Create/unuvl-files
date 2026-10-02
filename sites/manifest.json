@@ -56363,6 +56363,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18049.png",
       "sha256": "e5f09ab95585a76bb2aa2d1785cd57949963c4f4b8fe3b5c9c453786d110b690"
+    },
+    {
+      "message_id": 18048,
+      "filename": "동아시아사_2026학년도_백건아_수능_대비_D_DAY_모의고사_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18048_._2026._._._._D_DAY_._.pdf",
+      "size_bytes": 5596229,
+      "telegram_date": "2025-11-04T23:12:08+00:00",
+      "title": "동아시아사_2026학년도_백건아_수능_대비_D_DAY_모의고사_문제지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18048.png",
+      "sha256": "521dcd9715870c19ec30dbd4e05ed027007eef4c29a34b516df64e61358fc362"
     }
   ],
   "duplicate_message_ids": [
