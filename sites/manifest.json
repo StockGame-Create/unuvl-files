@@ -64889,6 +64889,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17173.png",
       "sha256": "ac0a9c8f769ff4056edf223d44ccd61849e7a4af81eb36bb2aaeff01b5a3822e"
+    },
+    {
+      "message_id": 17172,
+      "filename": "잘푸모_생윤_시즌2_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17172_._._.2_.pdf",
+      "size_bytes": 156043247,
+      "telegram_date": "2025-10-23T14:08:21+00:00",
+      "title": "생윤 잘 푸는 모의고사 시즌2(파이널) 1~12회 #잘푸모",
+      "year": "2026",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17172.png",
+      "sha256": "ad514e8090b1137b7a3ff24b6dd923d2edb99910a46184db071a678fbc397796"
     }
   ],
   "duplicate_message_ids": [
