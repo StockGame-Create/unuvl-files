@@ -52415,6 +52415,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/18512.png",
       "sha256": "b30fa39204d8216f24bb1303952bebb9cec486587409378d96a00e55efeac52a"
+    },
+    {
+      "message_id": 18511,
+      "filename": "완자 생2 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18511_.2.pdf",
+      "size_bytes": 29483691,
+      "telegram_date": "2025-12-11T12:25:16+00:00",
+      "title": "생2 완자 생명과학2",
+      "year": null,
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/18511.png",
+      "sha256": "0166e3a6323b492363badef8a04cda2141ee708814908ef0c623a388c24809c5"
     }
   ],
   "duplicate_message_ids": [
