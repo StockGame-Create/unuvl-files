@@ -64959,6 +64959,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17165.png",
       "sha256": "fc158ce6a0ecc921acf034c729454c3f0d69ae78c7ad9e5bc28c74009d7dcfaf"
+    },
+    {
+      "message_id": 17163,
+      "filename": "사만다 파이널 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17163_.1.pdf",
+      "size_bytes": 10794309,
+      "telegram_date": "2025-10-23T09:21:06+00:00",
+      "title": "사문 사만다 모의고사 Final 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17163.png",
+      "sha256": "4895f3f50fb44b61034cf102c141d63e5c7e9ecc4badca51fa087bce9eb8214f"
     }
   ],
   "duplicate_message_ids": [
