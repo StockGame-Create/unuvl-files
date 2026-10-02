@@ -66835,6 +66835,20 @@
       "subject": "동아시아사",
       "thumbnail": "thumbnails/16960.png",
       "sha256": "2abb56d528229fee71d7ffeb0115a2f89521a5cf86f9ab50e81dccd8d653d23e"
+    },
+    {
+      "message_id": 16959,
+      "filename": "최종점검 화1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16959_.1.pdf",
+      "size_bytes": 2067179,
+      "telegram_date": "2025-10-18T16:21:56+00:00",
+      "title": "물1, 화1, 생1, 지1 시대인재 서바이벌 최종점검 1회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1, 화학1, 생명과학1, 지구과학1",
+      "thumbnail": "thumbnails/16959.png",
+      "sha256": "f39f9ac0c4b2902de5ad4ecaccb762d50894446cdc9a4b6e91ab9fee8a6bd86c"
     }
   ],
   "duplicate_message_ids": [
