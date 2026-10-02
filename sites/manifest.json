@@ -61025,6 +61025,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17569.png",
       "sha256": "5405d59f7c53c3c7873af3c158b258519140b88d569b0fb979d40492c6d68b43"
+    },
+    {
+      "message_id": 17568,
+      "filename": "2026학년도 강민철 실전모의 1회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17568_2026.1.pdf",
+      "size_bytes": 8975046,
+      "telegram_date": "2025-10-29T03:36:37+00:00",
+      "title": "국어 파이널 강민철 실전 모의고사 1회 (인쇄소퀄)",
+      "year": "2026",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/17568.png",
+      "sha256": "e323094cf863a8416af23d28abf6472edf0533d4be38dfdd4c33c0ef320803f3"
     }
   ],
   "duplicate_message_ids": [
