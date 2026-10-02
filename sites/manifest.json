@@ -59387,6 +59387,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17741.png",
       "sha256": "e7ed4797452dd2fe893a62260b609ad162601b1d519b71fe9555f987b80a1ad6"
+    },
+    {
+      "message_id": 17740,
+      "filename": "2026 수학 서바이벌 리부트 14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17740_2026.14.pdf",
+      "size_bytes": 15308164,
+      "telegram_date": "2025-10-31T23:14:29+00:00",
+      "title": "수학 시대인재 서바이벌 리부트 모의고사 13,14회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17740.png",
+      "sha256": "640905e51a8b9b9399f7d1dd64a3e4ee763578e6b992c3dcb5ee3ffcaad8eadd"
     }
   ],
   "duplicate_message_ids": [
