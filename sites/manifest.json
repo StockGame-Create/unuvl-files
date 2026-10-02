@@ -53255,6 +53255,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18394.png",
       "sha256": "a44c560a752ac0419212524ddd16530ffbcec515c67e90b66f0d7a6f83509459"
+    },
+    {
+      "message_id": 18393,
+      "filename": "스러너 34 33회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18393_.34.33.pdf",
+      "size_bytes": 53559652,
+      "telegram_date": "2025-11-11T13:55:41+00:00",
+      "title": "물1 강민웅 특난도 모의고사 파이널 시즌1 1~8회",
+      "year": "2026",
+      "instructor": "강민웅",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/18393.png",
+      "sha256": "0b64040318fc235bb617204c5fe75fb35bf4c5b17c4799a1564a263cb4c1f9bc"
     }
   ],
   "duplicate_message_ids": [
