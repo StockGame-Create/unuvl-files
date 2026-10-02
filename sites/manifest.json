@@ -66191,6 +66191,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/17010.png",
       "sha256": "94c5922bcd124346460a9f093f999374c953053cee9f6c0785fadbee2898d9de"
+    },
+    {
+      "message_id": 17009,
+      "filename": "Let’s_Be_모의고사_정답_+_총평등급컷.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17009_Let.s_Be_._._%2B_.pdf",
+      "size_bytes": 101186,
+      "telegram_date": "2025-10-19T13:33:36+00:00",
+      "title": "영어 Let's Be 모의고사 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/17009.png",
+      "sha256": "a9db280b2a44ec3e82553ed228f5374a9af975a73694f27b34b662b7f00e3c16"
     }
   ],
   "duplicate_message_ids": [
