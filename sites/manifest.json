@@ -59443,6 +59443,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17735.png",
       "sha256": "029313f20a7194d3b20b9515fc8616957bfad80ad4cbe80a0af34f0d4bc525ab"
+    },
+    {
+      "message_id": 17734,
+      "filename": "2026_이해원_한양대의대_동기들_화이팅_국시화이팅_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17734_2026_._._._._._2.pdf",
+      "size_bytes": 32702645,
+      "telegram_date": "2025-10-31T14:56:21+00:00",
+      "title": "수학 이해원 모의고사 Final 0회, 1회 (공통 + 미적분)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17734.png",
+      "sha256": "94df97dc0140a139e70516df06891a04f1493b30a7b6506451bc690e9dc75d9b"
     }
   ],
   "duplicate_message_ids": [
