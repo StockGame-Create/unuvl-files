@@ -50777,6 +50777,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18699.png",
       "sha256": "5afe6c6a3cd537a6fe6cf18ca1182f0f28d1b5f885485b521bd7001da2ede42b"
+    },
+    {
+      "message_id": 18698,
+      "filename": "자이 독서 정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18698_.pdf",
+      "size_bytes": 929933449,
+      "telegram_date": "2025-12-27T05:14:46+00:00",
+      "title": "독서 자이스토리 수능기출문제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18698.png",
+      "sha256": "052561c5eabf80433a4192daafd205cbfef08bb9aee55e0af3e83f392fa615d4"
     }
   ],
   "duplicate_message_ids": [
