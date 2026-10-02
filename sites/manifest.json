@@ -63881,6 +63881,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17254.png",
       "sha256": "3a1ea2d99331344d8e727b7d109152576f0d9dae254b3f5513a68bbbfe2427e3"
+    },
+    {
+      "message_id": 17253,
+      "filename": "손창빈 주간과제 S3_8(30주차).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17253_.S3_8.30.pdf",
+      "size_bytes": 50468166,
+      "telegram_date": "2025-10-23T22:29:21+00:00",
+      "title": "국어 주간과제 9모대비 workbook 1,2회",
+      "year": "2026",
+      "instructor": "손창빈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/17253.png",
+      "sha256": "2115ca2dc00befed14eafe4acbd612ea055dcc63d9de4237630b20c88b580b21"
     }
   ],
   "duplicate_message_ids": [
