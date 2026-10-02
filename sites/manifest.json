@@ -60759,6 +60759,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17596.png",
       "sha256": "f2ed8bcd81e146c0bae6b9ab334d1ba4519fff4cd2fcfa6d05b469f7c8b469ba"
+    },
+    {
+      "message_id": 17594,
+      "filename": "IMG_0013.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17594_IMG_0013.pdf",
+      "size_bytes": 1318100,
+      "telegram_date": "2025-10-29T14:02:31+00:00",
+      "title": "정법 적자생존 모의고사 시즌4 10회",
+      "year": "2026",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/17594.png",
+      "sha256": "4e32ccd062dab31675ce29937a1af15f8148f79fc009321a880190a259fdf58d"
     }
   ],
   "duplicate_message_ids": [
