@@ -66261,6 +66261,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/17002.png",
       "sha256": "9d72606826d8fd53ba4ec24eee8f1cc1b4082a570b642e553600308425773042"
+    },
+    {
+      "message_id": 17001,
+      "filename": "강대모의고사k_01회_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17001_.k_01._._._.pdf",
+      "size_bytes": 872514,
+      "telegram_date": "2025-10-19T13:25:31+00:00",
+      "title": "물2 강대모의고사K 1회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/17001.png",
+      "sha256": "0a576a75de96a4d2f36239dbdd88b046243ba121975b22f452d85f84fa71f49e"
     }
   ],
   "duplicate_message_ids": [
