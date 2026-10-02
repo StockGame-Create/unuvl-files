@@ -50511,6 +50511,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/18737.png",
       "sha256": "cd5a1f149ce2b91e0583e8158cf60a03663d4d9a4e4978876a6a00d6a7b2ee78"
+    },
+    {
+      "message_id": 18736,
+      "filename": "2027 션티 Frequency 하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18736_2027.Frequency.pdf",
+      "size_bytes": 256734256,
+      "telegram_date": "2026-01-02T11:34:26+00:00",
+      "title": "영어 2027 수능영어 Frequency",
+      "year": "2027",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/18736.png",
+      "sha256": "be93c9d1d105ca9ef2e4bc37f2e74064faa0cf521d3dd8741c6ffe2b2dc778e9"
     }
   ],
   "duplicate_message_ids": [
