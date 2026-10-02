@@ -55705,6 +55705,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18119.png",
       "sha256": "15126aa3f2ee431ac4c2f78004d56090720ae5e0b1f14f334e0228011f3a0b3c"
+    },
+    {
+      "message_id": 18118,
+      "filename": "2026 생1 정석준 decode 시즌3 1주(17주).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18118_2026.1.decode.3.1.17.pdf",
+      "size_bytes": 14730166,
+      "telegram_date": "2025-11-05T13:53:21+00:00",
+      "title": "2026 생1 정석준 decode 시즌3 1주(17주)",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18118.png",
+      "sha256": "7e262f1d3c5a79044f40e4a9879257fb1b668c8618982a893cce63af048f8ae4"
     }
   ],
   "duplicate_message_ids": [
