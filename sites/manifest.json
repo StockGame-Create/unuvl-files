@@ -59331,6 +59331,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17745.png",
       "sha256": "7827903e10461451c5f4f3e7b10a989ac70b6b042ee412cb59584d4627d40908"
+    },
+    {
+      "message_id": 17744,
+      "filename": "2026 수학 파이널 브릿지 일반 13회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17744_2026.13.pdf",
+      "size_bytes": 869430,
+      "telegram_date": "2025-10-31T23:14:40+00:00",
+      "title": "수학 시대인재 Final 브릿지 모의고사 13,14회 #파브",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17744.png",
+      "sha256": "9575fc283fccbbdb34401515ed69426c47728146edd377b78700ce5afb9c1767"
     }
   ],
   "duplicate_message_ids": [
