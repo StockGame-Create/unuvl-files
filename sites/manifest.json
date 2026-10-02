@@ -65085,6 +65085,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17148.png",
       "sha256": "dbd72ef2eb94b737dc1b45bc9f4c98a0abffddc7cd4338451ba4d27ffeefea60"
+    },
+    {
+      "message_id": 17147,
+      "filename": "저스트N 미적분 1회차 DAY 1 TEST(문제+답).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17147_.N.1.DAY.1.TEST.%2B.pdf",
+      "size_bytes": 381843,
+      "telegram_date": "2025-10-23T03:17:10+00:00",
+      "title": "수학 저스트N 추석특강",
+      "year": "2026",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17147.png",
+      "sha256": "ec563c969d50ff57c95819dfdb86b452861440ecbf8c5a9bdbbb56c55e6722c9"
     }
   ],
   "duplicate_message_ids": [
