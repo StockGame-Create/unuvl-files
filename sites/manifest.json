@@ -65631,6 +65631,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17090.png",
       "sha256": "2718c6ecda7f9c119c03d3f554ac280d36b4c5aa849c72cc69faea96d1d7e69f"
+    },
+    {
+      "message_id": 17087,
+      "filename": "2026_생윤_김종익_파이널_6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17087_2026_._._._6.pdf",
+      "size_bytes": 7122571,
+      "telegram_date": "2025-10-22T12:05:32+00:00",
+      "title": "생윤 잘 푸는 모의고사 시즌2(파이널) 6회 #잘푸모",
+      "year": "2026",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17087.png",
+      "sha256": "3434e900f23be3aed8bd763cf332374e113c18c260be3d5f229c072085cbe5ff"
     }
   ],
   "duplicate_message_ids": [
