@@ -54207,6 +54207,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18287.png",
       "sha256": "3e475959bd81b9ade8dbacf88d33b714302fa8648c483f674c9419db4c5ba7bf"
+    },
+    {
+      "message_id": 18286,
+      "filename": "2026_지구과학1_N서바_25_46_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18286_2026_.1_N._25_46_.pdf",
+      "size_bytes": 174043202,
+      "telegram_date": "2025-11-09T00:53:16+00:00",
+      "title": "지1 시대인재 서바이벌 N전용 모의고사 25~46회 #서바N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18286.png",
+      "sha256": "cd481021cb1ded920ca76a900bb33d9a05090de419c589b41225bdc545ab0304"
     }
   ],
   "duplicate_message_ids": [
