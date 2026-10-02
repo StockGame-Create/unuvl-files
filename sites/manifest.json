@@ -66233,6 +66233,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17005.png",
       "sha256": "d962c01275f82930c18e2a507d617b8194b63bcd9a00a4c40dcc5b2d9cf86f91"
+    },
+    {
+      "message_id": 17004,
+      "filename": "개념원리_RPM_공통수학2_22개정.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17004_._RPM_.2_22.pdf",
+      "size_bytes": 6411810,
+      "telegram_date": "2025-10-19T13:29:12+00:00",
+      "title": "수학 개념원리 RPM 공통수학2",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17004.png",
+      "sha256": "ca6ec17b6a221294277e424b62c90daa1f49ef7d0f5b79f0ea1a1a3fde519943"
     }
   ],
   "duplicate_message_ids": [
