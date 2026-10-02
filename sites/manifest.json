@@ -64175,6 +64175,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17232.png",
       "sha256": "c532e3333710734d54a7e1fa11328ef4392b038a15f334c6e62ff185667ee4f1"
+    },
+    {
+      "message_id": 17231,
+      "filename": "김범준 모의고사 10회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17231_.10.pdf",
+      "size_bytes": 5997346,
+      "telegram_date": "2025-10-23T15:06:45+00:00",
+      "title": "김범준 모의고사 10회 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17231.png",
+      "sha256": "143ad46a286720e47049e2230aeff08011d05e39a59ff00dc88b375a2a7dd724"
     }
   ],
   "duplicate_message_ids": [
