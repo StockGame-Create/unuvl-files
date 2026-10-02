@@ -63321,6 +63321,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17325.png",
       "sha256": "c1ac0dd01ee13257dfbeac88745eaa3dfde83b34879273eb695af2d134e612cb"
+    },
+    {
+      "message_id": 17324,
+      "filename": "전국서바_생명_4주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17324_._._4.pdf",
+      "size_bytes": 28270147,
+      "telegram_date": "2025-10-24T13:42:41+00:00",
+      "title": "생1 시대인재 서바이벌 전국 4회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/17324.png",
+      "sha256": "0a3608907731b681f693063f9b1dd95423cdd0b55760fe3cc2ec2ebb3822083e"
     }
   ],
   "duplicate_message_ids": [
