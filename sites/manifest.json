@@ -54571,6 +54571,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18244.png",
       "sha256": "3d56bfe3799b5232b17fcd7124f23f88d5c9f6abaa202938959e63f6482d41cf"
+    },
+    {
+      "message_id": 18242,
+      "filename": "범69.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18242_.69.pdf",
+      "size_bytes": 357533524,
+      "telegram_date": "2025-11-08T09:46:57+00:00",
+      "title": "국어 범작가 6, 9모 분석서",
+      "year": "2026",
+      "instructor": "범작가",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18242.png",
+      "sha256": "7b3ffd3e347a7083c70019171908921e8c09d6bba479d05508bde5b3fe7071b4"
     }
   ],
   "duplicate_message_ids": [
