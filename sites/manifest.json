@@ -57413,6 +57413,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17941.png",
       "sha256": "322dffffabe648ef95c2dec2fd2779973017b4a6c74f21ebb6bb2fa56168a9eb"
+    },
+    {
+      "message_id": 17940,
+      "filename": "2026_사회문화_시대인재_리프_모의고사_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17940_2026_._._._._._._.pdf",
+      "size_bytes": 299758430,
+      "telegram_date": "2025-11-03T13:32:14+00:00",
+      "title": "사문 RIFF 모의고사 SESSION. 1 1~3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17940.png",
+      "sha256": "4e62dbc1e384db84a00483aca7b4cb4eed176400a5091861a0e846a7d1586e58"
     }
   ],
   "duplicate_message_ids": [
