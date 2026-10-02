@@ -53619,6 +53619,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18343.png",
       "sha256": "dd42435f15de52475ce4a6914e932fc6dac9fab9b70420ac1e8bbf0d48357b38"
+    },
+    {
+      "message_id": 18342,
+      "filename": "2026_재종전용_현정훈_시즌2_모의고사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18342_2026_._._.2_.pdf",
+      "size_bytes": 10418198,
+      "telegram_date": "2025-11-10T14:28:23+00:00",
+      "title": "2026_재종전용_현정훈_시즌2_모의고사",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18342.png",
+      "sha256": "1772dbeed5dd2608550f12ceb77320ec84ff5b034cdd3cd5734ebdfaa0e5b2f0"
     }
   ],
   "duplicate_message_ids": [
