@@ -58729,6 +58729,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17796.png",
       "sha256": "1b2f3b96932a37376724ac1c9ee1364a02ee6fc051e47e87566d57797b64e35a"
+    },
+    {
+      "message_id": 17795,
+      "filename": "2026_사회문화_서바이벌_전국_12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17795_2026_._._._12.pdf",
+      "size_bytes": 12656090,
+      "telegram_date": "2025-11-01T10:47:58+00:00",
+      "title": "사문 시대인재 서바이벌 전국 모의고사 12회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17795.png",
+      "sha256": "0803380e62b018663c317c473ab004589bb23b8379985d88b6f73a690e1dc472"
     }
   ],
   "duplicate_message_ids": [
