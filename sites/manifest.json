@@ -67101,6 +67101,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16937.png",
       "sha256": "10f7921d03a338d0322055d0cc54296e473238d1a0913f34d56dd7dbf4eac080"
+    },
+    {
+      "message_id": 16936,
+      "filename": "2026 CIRCUIT X 시즌4 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16936_2026.CIRCUIT.X.4.pdf",
+      "size_bytes": 2719071,
+      "telegram_date": "2025-10-18T15:21:10+00:00",
+      "title": "수학 강대 CIRCUIT X 시즌4 14~16회 #서킷X",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16936.png",
+      "sha256": "abd55a3e605e1f3b2e9a8af5b6e1135e9c5f3cea9991d69a9ed3059eb185a686"
     }
   ],
   "duplicate_message_ids": [
