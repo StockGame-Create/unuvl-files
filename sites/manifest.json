@@ -54053,6 +54053,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18300.png",
       "sha256": "af6ae56fac3ed16719fecc0ce588705d025c20a8c43d8086d0b1393dea7667fa"
+    },
+    {
+      "message_id": 18298,
+      "filename": "26 김진영 모의고사 4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18298_26.4.pdf",
+      "size_bytes": 15033313,
+      "telegram_date": "2025-11-09T13:57:50+00:00",
+      "title": "26 김진영 모의고사 4회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18298.png",
+      "sha256": "7a6e11602c706835192e2c935e88e4c873462d3264e73a72b0f7d6d8dcfa9ba8"
     }
   ],
   "duplicate_message_ids": [
