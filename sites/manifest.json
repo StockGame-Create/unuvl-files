@@ -54991,6 +54991,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18193.png",
       "sha256": "445819c9fe001c0190db36f53823991b7e9e96a58f4a9e2f93a0600cbecf2135"
+    },
+    {
+      "message_id": 18192,
+      "filename": "2026 수학 서바이벌 26회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18192_2026.26.pdf",
+      "size_bytes": 28747986,
+      "telegram_date": "2025-11-06T14:05:53+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 26회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18192.png",
+      "sha256": "e66efe409efd67b21f6c027f5ce72d6037a6b4af35c0993745d5a7d61648179a"
     }
   ],
   "duplicate_message_ids": [
