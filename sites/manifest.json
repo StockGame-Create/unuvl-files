@@ -56853,6 +56853,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18000.png",
       "sha256": "af1085f7797afce7578d3b3e8efbb7d2d3c58a2367c31b1f91b47ff8489a737f"
+    },
+    {
+      "message_id": 17998,
+      "filename": "11서프 경제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17998_11.pdf",
+      "size_bytes": 8367937,
+      "telegram_date": "2025-11-04T13:44:54+00:00",
+      "title": "경제 시대인재 11월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "경제",
+      "thumbnail": "thumbnails/17998.png",
+      "sha256": "333378bc3e99d8af5bef11d0779aff6dcf8622c8c718b86ea22d57c7ee90fe54"
     }
   ],
   "duplicate_message_ids": [
