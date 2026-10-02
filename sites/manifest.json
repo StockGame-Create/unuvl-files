@@ -61767,6 +61767,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/17486.png",
       "sha256": "9de0cd03a8677205c9b97db960c3c32e120946cd68054a17c9c47fa2c4540f05"
+    },
+    {
+      "message_id": 17484,
+      "filename": "2026김민정_원포인트특강현대편_최종본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17484_2026._._.pdf",
+      "size_bytes": 714202,
+      "telegram_date": "2025-10-27T09:31:10+00:00",
+      "title": "2026김민정_원포인트특강현대편_최종본",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17484.png",
+      "sha256": "e1aa1e434922ae5f4517328901012c01f132184c2b7206298618042e00bbe2c4"
     }
   ],
   "duplicate_message_ids": [
