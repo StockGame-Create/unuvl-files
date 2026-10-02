@@ -54137,6 +54137,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18293.png",
       "sha256": "847560e8b167969eae59dc25dcb3516e12a9d1bab64843ff583518550092e648"
+    },
+    {
+      "message_id": 18292,
+      "filename": "26 김진영 모의고사 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18292_26.1.pdf",
+      "size_bytes": 30529318,
+      "telegram_date": "2025-11-09T13:57:50+00:00",
+      "title": "26 김진영 모의고사 1회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18292.png",
+      "sha256": "15830af52f4229869fe895e1ca8f4ccd38d6624aabb7a8c99c576c461f1544cf"
     }
   ],
   "duplicate_message_ids": [
