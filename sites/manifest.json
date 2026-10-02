@@ -59597,6 +59597,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17717.png",
       "sha256": "9855973b1e58b93122c4a1bb239e050ddada2b7980dd5d48b0a6a3e4b5936da6"
+    },
+    {
+      "message_id": 17716,
+      "filename": "2026 수학 김범준 강k 아나토미 29,30회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17716_2026.k.29.30.pdf",
+      "size_bytes": 11158453,
+      "telegram_date": "2025-10-31T13:57:52+00:00",
+      "title": "수학 강대모의고사K Anatomy 29,30회",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17716.png",
+      "sha256": "dafbcbaf25b0d81660326161943327bdea28796593231b409ca2794c363c5057"
     }
   ],
   "duplicate_message_ids": [
