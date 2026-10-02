@@ -63867,6 +63867,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17256.png",
       "sha256": "e8a26bd2eb509224da46aed4aff9ab74cc6860abe015369003381f41665066ca"
+    },
+    {
+      "message_id": 17254,
+      "filename": "커넥션 기하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17254_.pdf",
+      "size_bytes": 185857465,
+      "telegram_date": "2025-10-23T23:53:11+00:00",
+      "title": "커넥션 기하",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17254.png",
+      "sha256": "3a1ea2d99331344d8e727b7d109152576f0d9dae254b3f5513a68bbbfe2427e3"
     }
   ],
   "duplicate_message_ids": [
