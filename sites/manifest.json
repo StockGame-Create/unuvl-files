@@ -62859,6 +62859,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/17376.png",
       "sha256": "e64b7fb359330203183380b731351f39d2634cf1865ef32ec05ecb0c1be5a402"
+    },
+    {
+      "message_id": 17374,
+      "filename": "오르새_천우신조_final_시즌3_2회_빠른정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17374_._._final_.3_2._.pdf",
+      "size_bytes": 35890,
+      "telegram_date": "2025-10-25T07:42:42+00:00",
+      "title": "오르새_천우신조_final_시즌3_2회_빠른정답",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17374.png",
+      "sha256": "dc6ceca5f78f978fc10effec242c80c1731513a54db1c2d06bbf1cf833601ce7"
     }
   ],
   "duplicate_message_ids": [
