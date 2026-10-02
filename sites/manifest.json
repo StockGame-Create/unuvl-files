@@ -53689,6 +53689,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18333.png",
       "sha256": "ef297d2a3ce5e046bc28dc612738aabd794db746bff79ce966122f4d79806503"
+    },
+    {
+      "message_id": 18332,
+      "filename": "강대k+ 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18332_.k%2B.9.pdf",
+      "size_bytes": 4639545,
+      "telegram_date": "2025-11-09T14:41:43+00:00",
+      "title": "지1 강대모의고사K+ 9,10회 #강케플",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18332.png",
+      "sha256": "62d0a994b205eb2e97caa641fe005929de27a6f51b3db56b0d0527e1b22a820a"
     }
   ],
   "duplicate_message_ids": [
