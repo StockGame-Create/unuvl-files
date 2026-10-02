@@ -53591,6 +53591,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18349.png",
       "sha256": "ec6d7ae8b53f8d75acb86ab523e81e8ca9bb46423335aea6cab8d055399f2dbe"
+    },
+    {
+      "message_id": 18347,
+      "filename": "2026 수학 김범준 러너스하이 7주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18347_2026.7.pdf",
+      "size_bytes": 96860983,
+      "telegram_date": "2025-11-10T14:30:27+00:00",
+      "title": "2026 수학 김범준 러너스하이 7주차",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18347.png",
+      "sha256": "69002544ea597a291013685cd173f48e0af5580b592c0f1fd395bf982961c863"
     }
   ],
   "duplicate_message_ids": [
