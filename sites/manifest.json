@@ -54515,6 +54515,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18249.png",
       "sha256": "c48d79ee7418d3e300da1369a2fb73e727050a4d5f9b83d940e96887fa00736d"
+    },
+    {
+      "message_id": 18248,
+      "filename": "2026_국어_이감_시즌6_11회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18248_2026_._._.6_11._.pdf",
+      "size_bytes": 29970423,
+      "telegram_date": "2025-11-08T13:52:39+00:00",
+      "title": "국어 파이널2 11차 예비평가 이감 국어교육연구소 (인쇄소퀄) #이감",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18248.png",
+      "sha256": "371b5300870e3bd77d027ea6e32c5e2529f44e21a6b8fb5e8b00b35a9009290d"
     }
   ],
   "duplicate_message_ids": [
