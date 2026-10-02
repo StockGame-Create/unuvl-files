@@ -66793,6 +66793,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16965.png",
       "sha256": "bc3c9bd263ca69f3c9d2e4f23ef4c4c63d1555da8c0c57132baf83612bd6da47"
+    },
+    {
+      "message_id": 16963,
+      "filename": "Untitled_20211018_214203-1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16963_Untitled_20211018_214203-1.pdf",
+      "size_bytes": 5363404,
+      "telegram_date": "2025-10-18T16:26:40+00:00",
+      "title": "동사 OMEGA 모의고사 17회 #오메가",
+      "year": "2026",
+      "instructor": null,
+      "subject": "동아시아사",
+      "thumbnail": "thumbnails/16963.png",
+      "sha256": "a284f4ce54362fa42f8c76678f3181801a310d8a5eb0b7d6fdecb0222aae4716"
     }
   ],
   "duplicate_message_ids": [
