@@ -53213,6 +53213,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18399.png",
       "sha256": "4d240c94d00e1c964f921998b378636e083c1f2d3f2800221ffc8e908745475e"
+    },
+    {
+      "message_id": 18396,
+      "filename": "박광일t_E_수능특강_FULL_E_통합본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18396_.t_E_._FULL_E_.pdf",
+      "size_bytes": 260110180,
+      "telegram_date": "2025-11-11T14:50:23+00:00",
+      "title": "박광일t_E_수능특강_FULL_E_통합본",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18396.png",
+      "sha256": "8a1e9fead106ff0e339c4e613e2f3f911d038494e5cf8e1caedb8f858eb99e24"
     }
   ],
   "duplicate_message_ids": [
