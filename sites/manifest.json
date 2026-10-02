@@ -65463,6 +65463,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17110.png",
       "sha256": "723c5ecf0c7dd0962d412fccdffe8c0e7004ef32d38a935d473cbef76e9af3b4"
+    },
+    {
+      "message_id": 17108,
+      "filename": "C25JB57535AD021_OCT.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17108_C25JB57535AD021_OCT.PDF",
+      "size_bytes": 26378749,
+      "telegram_date": "2025-10-22T14:56:23+00:00",
+      "title": "수학 양승진 파이널 코드",
+      "year": "2026",
+      "instructor": "양승진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17108.png",
+      "sha256": "ab512c229db3bb7f5ec14e8d4bc0c837e0db386037bff05f86789f5ed6221150"
     }
   ],
   "duplicate_message_ids": [
