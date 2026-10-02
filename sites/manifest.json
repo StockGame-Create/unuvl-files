@@ -62635,6 +62635,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17400.png",
       "sha256": "11fca52db2fea428aa3a916e98a0d52c6d4f2d429090a55b14ceaea17123f6fd"
+    },
+    {
+      "message_id": 17397,
+      "filename": "최상위권_조교쌤의_2026학년도_9모_분석_특강_필기노트_0910.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17397_._._2026._9._._._._0910.pdf",
+      "size_bytes": 5217417,
+      "telegram_date": "2025-10-25T13:30:00+00:00",
+      "title": "생윤 2026학년도 9평 현자의 돌 분석특강",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17397.png",
+      "sha256": "ac6a8378f5f369cf8ee12b95c0c8e17179c9f708fd93d0bc05ab124acd3ae461"
     }
   ],
   "duplicate_message_ids": [
