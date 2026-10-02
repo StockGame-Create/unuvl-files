@@ -60577,6 +60577,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/17617.png",
       "sha256": "66e99ddc1b15e992a2240c7b4d3f6728be2be9b15dcf39cfb465c6a9ce1d1809"
+    },
+    {
+      "message_id": 17616,
+      "filename": "정법 적생모 10.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17616_.10.pdf",
+      "size_bytes": 16904227,
+      "telegram_date": "2025-10-30T10:04:25+00:00",
+      "title": "정법 적자생존 모의고사 시즌4 10~12회 (인쇄소퀄) #적생모",
+      "year": "2026",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/17616.png",
+      "sha256": "8129474ebcde6c64d72d69583f77e69b04b17a3e734a53997cef6e05a0f453bb"
     }
   ],
   "duplicate_message_ids": [
