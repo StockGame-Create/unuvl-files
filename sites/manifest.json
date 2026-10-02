@@ -51533,6 +51533,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18597.png",
       "sha256": "b30762049dd4a909050528a98cfdd19d8f315074456ee1b50e2dad18928d6b42"
+    },
+    {
+      "message_id": 18596,
+      "filename": "2026 강모 화2 14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18596_2026.2.14.pdf",
+      "size_bytes": 10330114,
+      "telegram_date": "2025-12-16T03:14:48+00:00",
+      "title": "2026 강모 화2 14회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18596.png",
+      "sha256": "bcc05170ef5a3b7787e08ab1a3fd61d1ab860612b357ffef631356b44bebd690"
     }
   ],
   "duplicate_message_ids": [
