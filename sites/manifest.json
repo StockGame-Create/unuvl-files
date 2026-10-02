@@ -62411,6 +62411,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17421.png",
       "sha256": "7704ba58eb0c5dc028db0f1e11f3a0122f45239516750ff428930c81d33d6d00"
+    },
+    {
+      "message_id": 17420,
+      "filename": "쎈 수학 2 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17420_.2.pdf",
+      "size_bytes": 24750009,
+      "telegram_date": "2025-10-26T13:17:35+00:00",
+      "title": "쎈 수학 2 문제",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17420.png",
+      "sha256": "0d38071db5ff1a7ff9749732662855ef422db79f385953394585e79628f86d91"
     }
   ],
   "duplicate_message_ids": [
