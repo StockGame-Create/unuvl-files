@@ -66079,6 +66079,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17024.png",
       "sha256": "7e4611634264a368dc29376ff706256d2663b381074bb9377b9b6bb43bc8c329"
+    },
+    {
+      "message_id": 17023,
+      "filename": "ebs_단권화_2026학년도_공통과목.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17023_ebs_._2026._.pdf",
+      "size_bytes": 1737840,
+      "telegram_date": "2025-10-19T14:25:04+00:00",
+      "title": "수학 ebs 단권하과목 2026학년도 공통과목",
+      "year": "2026",
+      "instructor": "이대은",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17023.png",
+      "sha256": "29e24002e9d269f2ba84f39e7922144e22a43e7b03891292f22d8ac95f0dcdca"
     }
   ],
   "duplicate_message_ids": [
