@@ -55117,6 +55117,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18184.png",
       "sha256": "a299ffb6520cfe13d814795b0c70ebf7b9ebfb19e4c6cf5b69bcda9645a9ce5e"
+    },
+    {
+      "message_id": 18183,
+      "filename": "2026_시대인재_서바이벌_전국_모의고사_17회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18183_2026_._._._._17._.pdf",
+      "size_bytes": 11650144,
+      "telegram_date": "2025-11-06T14:03:38+00:00",
+      "title": "지1 시대인재 서바이벌 전국 모의고사 17회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18183.png",
+      "sha256": "5ff8de5f38a3dcb12af3ddcb3857863b4170afb754093ee319ae5890f17f313b"
     }
   ],
   "duplicate_message_ids": [
