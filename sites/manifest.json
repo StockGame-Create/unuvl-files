@@ -61655,6 +61655,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17502.png",
       "sha256": "23274cd6110c5be9d3bddc86f99365597e25ab729a751b1a01b4a73300ce3191"
+    },
+    {
+      "message_id": 17500,
+      "filename": "수학_31_32_강_k_소퀄_251027_171530.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17500_._31_32_._k_._251027_171530.pdf",
+      "size_bytes": 77689230,
+      "telegram_date": "2025-10-27T15:03:12+00:00",
+      "title": "수학 강대모의고사K 31,32회 (인쇄소퀄) #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17500.png",
+      "sha256": "9ba64c1eccb131674a4f1bd304afe7ec6cdca01344f5b90e0745fcbaa23cb5f3"
     }
   ],
   "duplicate_message_ids": [
