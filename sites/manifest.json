@@ -61333,6 +61333,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17539.png",
       "sha256": "4f579cd6be14fd6da3f6740f154afaa67817b5c461c79b8018a631f8cf94599c"
+    },
+    {
+      "message_id": 17538,
+      "filename": "26수능 악어모의고사 1회 기하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17538_26.1.pdf",
+      "size_bytes": 2020774,
+      "telegram_date": "2025-10-28T15:17:36+00:00",
+      "title": "26수능 악어모의고사 1회 기하",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17538.png",
+      "sha256": "3050d69009e0e36ff21491eb6536edaa320a17efbdd6743076a33820e017ce01"
     }
   ],
   "duplicate_message_ids": [
