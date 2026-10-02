@@ -62005,6 +62005,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17464.png",
       "sha256": "855fe0eed8a1c0d6f785ed62f20d474c459c7f8b9b990e512111e3128b266c05"
+    },
+    {
+      "message_id": 17463,
+      "filename": "이투스N 07회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17463_.N.07._.pdf",
+      "size_bytes": 15271465,
+      "telegram_date": "2025-10-27T03:29:50+00:00",
+      "title": "이투스N 07회_해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17463.png",
+      "sha256": "9fe0339cb96286cec8712cbb099f5c0bf9fa580fa3a240012ae78bd1200aa037"
     }
   ],
   "duplicate_message_ids": [
