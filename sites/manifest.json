@@ -66023,6 +66023,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/17033.png",
       "sha256": "565ff13ba6b94d0e726a7d0a864b965b58978125db293797ae5284741bfbd86d"
+    },
+    {
+      "message_id": 17028,
+      "filename": "2026학년도 이감 수능전 중요도.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17028_2026.pdf",
+      "size_bytes": 2847803,
+      "telegram_date": "2025-10-19T22:20:15+00:00",
+      "title": "2026학년도 이감 수능전 중요도",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17028.png",
+      "sha256": "8d17681d08285f18793ce12175e0cc69992670db38bb6718f51bc4406d1132cd"
     }
   ],
   "duplicate_message_ids": [
