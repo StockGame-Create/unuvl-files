@@ -65883,6 +65883,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/17050.png",
       "sha256": "047c4ce0b2225f4f66bfb69caaa24b7e0dd56ea4081ac5df2cf697f0268f90f0"
+    },
+    {
+      "message_id": 17049,
+      "filename": "오메가_세지_4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17049_._._4.pdf",
+      "size_bytes": 47687901,
+      "telegram_date": "2025-10-20T22:39:59+00:00",
+      "title": "세지 OMEGA 모의고사 2~5회 #오메가",
+      "year": "2026",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/17049.png",
+      "sha256": "a50248443c5df124e3b104f7a96342f6d0de08dda7aafde65e30a61d3c459873"
     }
   ],
   "duplicate_message_ids": [
