@@ -52653,6 +52653,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/18478.png",
       "sha256": "38d8205d865a468cca9ccf5c613cb8ccc49f2d55e2f17d1895a1a9dc5e126260"
+    },
+    {
+      "message_id": 18477,
+      "filename": "1등급_만들기_생명과학1_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18477_1._._.1_.pdf",
+      "size_bytes": 35434295,
+      "telegram_date": "2025-12-02T17:06:28+00:00",
+      "title": "생1 1등급 만들기 생명과학1",
+      "year": null,
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/18477.png",
+      "sha256": "3ec3ff4f27110b4a3fbb07491a55d3b8ba682acde9d3ec7e1878d669d9c790d1"
     }
   ],
   "duplicate_message_ids": [
