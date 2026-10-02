@@ -55411,6 +55411,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18163.png",
       "sha256": "3d4d9e68823d820ace9f2c7c08e7b8f635d9d76caf2e073a2699f99e9c2efc58"
+    },
+    {
+      "message_id": 18162,
+      "filename": "지구_서바_이신혁_필기노트_08.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18162_._._._._08.pdf",
+      "size_bytes": 16577739,
+      "telegram_date": "2025-11-06T13:57:07+00:00",
+      "title": "지1 이신혁 파이널 필기노트 1~8주차",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18162.png",
+      "sha256": "357ee2b9d1ac65bd817a4487d1150551e3a3525336321ce1e397235be5310fba"
     }
   ],
   "duplicate_message_ids": [
