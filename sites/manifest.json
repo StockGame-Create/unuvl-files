@@ -55985,6 +55985,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/18093.png",
       "sha256": "88faa4c681be71d5b0c4f389bc4f319fc35c30220d2f318078f74ec21077c2cf"
+    },
+    {
+      "message_id": 18091,
+      "filename": "시대인재_세계사_서바이벌_16회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18091_._._._16.pdf",
+      "size_bytes": 3993677,
+      "telegram_date": "2025-11-05T13:21:28+00:00",
+      "title": "세지 시대인재 서바이벌 전국 모의고사 16회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/18091.png",
+      "sha256": "cb6983e18ba1e515f08bfc4793d172e0cf59e82d5f1abb102a368f7aba1db95d"
     }
   ],
   "duplicate_message_ids": [
