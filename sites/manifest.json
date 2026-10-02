@@ -66051,6 +66051,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17026.png",
       "sha256": "84cc65d99b50c00018ec928601afc7b5b4ff0f2b6eaeceee3bffea0f3ccb01ae"
+    },
+    {
+      "message_id": 17025,
+      "filename": "입문N코드 (1회~2회).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17025_.N.1.2.pdf",
+      "size_bytes": 2793509,
+      "telegram_date": "2025-10-19T14:29:03+00:00",
+      "title": "수학 입문N코드 1~4회",
+      "year": "2026",
+      "instructor": "양승진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17025.png",
+      "sha256": "02cf9594871d4e71966e2a888ef03cfd839dbbaec45ef76700cde4431c33c7e2"
     }
   ],
   "duplicate_message_ids": [
