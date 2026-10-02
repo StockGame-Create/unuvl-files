@@ -43,6 +43,20 @@
       "sha256": "6bc6c2391f8efdd0440afa6fa8682f0b27947db859297cccbf9f19c3f8bfeae9"
     },
     {
+      "message_id": 24829,
+      "filename": "27 사문 파브 12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/24829_27.12.pdf",
+      "size_bytes": 34138237,
+      "telegram_date": "2026-10-02T23:39:01+00:00",
+      "title": "사문 시대인재 Final 브릿지 전국 모의고사 12회 #파브전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24829.png",
+      "sha256": "c8674aff39b7db7181b87577a4f0fe5c95993e3dafb0230f3aead197088ac1c0"
+    },
+    {
       "message_id": 24822,
       "filename": "적생모_정법_시즌3_9회.pdf",
       "stored_as": null,
