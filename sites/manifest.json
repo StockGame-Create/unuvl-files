@@ -59541,6 +59541,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17724.png",
       "sha256": "5319ea7fe7bb8173ceb639a777e9cd1c84846325feadeedae4da47df273238f7"
+    },
+    {
+      "message_id": 17722,
+      "filename": "제2 교시.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17722_.2.pdf",
+      "size_bytes": 26033796,
+      "telegram_date": "2025-10-31T14:26:07+00:00",
+      "title": "수학 설맞이 모의고사 시즌2 2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17722.png",
+      "sha256": "08ba2b7a7369d6a7458cd259d7eacd2ff767eb2ef210a259d32ea6b4cb4c5e34"
     }
   ],
   "duplicate_message_ids": [
