@@ -56377,6 +56377,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18048.png",
       "sha256": "521dcd9715870c19ec30dbd4e05ed027007eef4c29a34b516df64e61358fc362"
+    },
+    {
+      "message_id": 18045,
+      "filename": "물리학1_2026_OWL_PANORAMA_FINAL_6회_정답표_251104.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18045_.1_2026_OWL_PANORAMA_FINAL_6._._251104.pdf",
+      "size_bytes": 72196,
+      "telegram_date": "2025-11-04T22:37:50+00:00",
+      "title": "물1 OWL PANORAMA FINAL 4~6회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/18045.png",
+      "sha256": "1493fd763bc1942c0762d55a0e52161753101f1607dfe4ac4aac3c59818335cc"
     }
   ],
   "duplicate_message_ids": [
