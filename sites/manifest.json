@@ -62775,6 +62775,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17386.png",
       "sha256": "84405199c3827fcb862707d0822860613efe677f7d2ae55df5398f0209bd999c"
+    },
+    {
+      "message_id": 17384,
+      "filename": "이감_파이널2_제11차 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17384_._.2_.11.1.pdf",
+      "size_bytes": 3476799,
+      "telegram_date": "2025-10-25T12:56:59+00:00",
+      "title": "국어 파이널2 11차 예비평가 이감 국어교육연구소 #이감",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17384.png",
+      "sha256": "68fce34005de1f9dd4018e4f2772480294c081a440f9d749dfe9ba978b45f7e3"
     }
   ],
   "duplicate_message_ids": [
