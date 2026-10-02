@@ -62887,6 +62887,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17373.png",
       "sha256": "b06eb172221a77f86b6da9df80240818b2dec3197a9352da8f8e31f72781604f"
+    },
+    {
+      "message_id": 17372,
+      "filename": "오르새_천우신조final_시즌3_2회.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17372_._.final_.3_2.PDF",
+      "size_bytes": 1771049,
+      "telegram_date": "2025-10-25T07:42:42+00:00",
+      "title": "오르새_천우신조final_시즌3_2회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17372.png",
+      "sha256": "9dcb801482afd2b65b0f021fef12b3de6c3c665dbe8d0667971a42cb9f215ff9"
     }
   ],
   "duplicate_message_ids": [
