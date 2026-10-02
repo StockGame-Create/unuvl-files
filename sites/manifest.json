@@ -53563,6 +53563,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/18355.png",
       "sha256": "9b1f99540c2aff7c6ed879d7d3f345fcf10c8ebd00cc34155e366fd83fcc0a3b"
+    },
+    {
+      "message_id": 18354,
+      "filename": "TalkFile_2026_사문_서바이벌_15회_pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18354_TalkFile_2026_._._15._pdf.pdf",
+      "size_bytes": 15080855,
+      "telegram_date": "2025-11-10T14:34:58+00:00",
+      "title": "사문 시대인재 서바이벌 모의고사 15회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/18354.png",
+      "sha256": "0ce157023717f32e3221fa3c49a57d11f27485d1446306d28e1bacb9446ad5b1"
     }
   ],
   "duplicate_message_ids": [
