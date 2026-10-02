@@ -65869,6 +65869,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/17055.png",
       "sha256": "19865c67ba60a26f48d7e6a718984151210306daa4294ef24356e0e6269a53b9"
+    },
+    {
+      "message_id": 17050,
+      "filename": "오메가_세지_5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17050_._._5.pdf",
+      "size_bytes": 62233848,
+      "telegram_date": "2025-10-20T22:39:59+00:00",
+      "title": "세지 OMEGA 모의고사 2~5회 #오메가",
+      "year": "2026",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/17050.png",
+      "sha256": "047c4ce0b2225f4f66bfb69caaa24b7e0dd56ea4081ac5df2cf697f0268f90f0"
     }
   ],
   "duplicate_message_ids": [
