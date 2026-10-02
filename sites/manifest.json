@@ -58673,6 +58673,20 @@
       "subject": "국어, 수학, 영어, 한국사",
       "thumbnail": "thumbnails/17802.png",
       "sha256": "db02fd7e8efaff12e3974a8c36d07f7e339ddcebb3ea4db301f635a432281aee"
+    },
+    {
+      "message_id": 17799,
+      "filename": "2026_생활과윤리_강대k+_7회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17799_2026_._.k%2B_7._.pdf",
+      "size_bytes": 8564214,
+      "telegram_date": "2025-11-01T10:50:48+00:00",
+      "title": "생윤 강대모의고사K+ 7회 #강케플",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17799.png",
+      "sha256": "6ee326a3e6f5583bb5cc85ca04fdddc4d64bdfcdade15d46d928055db6dc0147"
     }
   ],
   "duplicate_message_ids": [
