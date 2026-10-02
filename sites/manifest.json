@@ -57917,6 +57917,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17888.png",
       "sha256": "e42e1a9153d9b64bf0a641961f53ac0f1a6d09d2063a9e7adde78680fecffe33"
+    },
+    {
+      "message_id": 17887,
+      "filename": "Hidden kice 18회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17887_Hidden.kice.18.pdf",
+      "size_bytes": 16539419,
+      "telegram_date": "2025-11-02T09:14:56+00:00",
+      "title": "수학 Hidden Kice 모의고사 17~20회 #히카",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17887.png",
+      "sha256": "b834d8ac08ab7a3068948ffc55f6c2639c6ffcfed8c7a409897b638173eb7c7c"
     }
   ],
   "duplicate_message_ids": [
