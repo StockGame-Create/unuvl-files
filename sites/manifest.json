@@ -56587,6 +56587,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18026.png",
       "sha256": "d0d71d06bb32b41796c64f21608a08eb4be15a2025b5bc2d0a8613f1bb69b176"
+    },
+    {
+      "message_id": 18024,
+      "filename": "우리가_만날_수능.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18024_._._.pdf",
+      "size_bytes": 4891225,
+      "telegram_date": "2025-11-04T13:54:42+00:00",
+      "title": "우리가_만날_수능",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18024.png",
+      "sha256": "10d8d2fffcd777af094370b0404afa8eb6a2bab206ea7ad0a4fbb1d06d315d2b"
     }
   ],
   "duplicate_message_ids": [
