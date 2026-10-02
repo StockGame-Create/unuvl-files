@@ -62033,6 +62033,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17462.png",
       "sha256": "20475830d8fca04128362761eb8afaaac35820c133a7cbeea28b0ea4d8e5ce8b"
+    },
+    {
+      "message_id": 17461,
+      "filename": "이투스N 06회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17461_.N.06._.pdf",
+      "size_bytes": 15074627,
+      "telegram_date": "2025-10-27T03:29:50+00:00",
+      "title": "이투스N 06회_해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17461.png",
+      "sha256": "177d33e2632f842950b489057d38177a54ebae7693d2091d70dc99dcb7ca0986"
     }
   ],
   "duplicate_message_ids": [
