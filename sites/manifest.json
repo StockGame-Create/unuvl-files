@@ -53633,6 +53633,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18342.png",
       "sha256": "1772dbeed5dd2608550f12ceb77320ec84ff5b034cdd3cd5734ebdfaa0e5b2f0"
+    },
+    {
+      "message_id": 18340,
+      "filename": "2026 강대모의고사X 시즌4 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18340_2026.X.4.pdf",
+      "size_bytes": 4328636,
+      "telegram_date": "2025-11-10T14:27:30+00:00",
+      "title": "2026 강대모의고사X 시즌4 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18340.png",
+      "sha256": "ca300dfc4a5e958ba88bf6591e92596ac4ede68318bcc9984d1666b3ff0e47e8"
     }
   ],
   "duplicate_message_ids": [
