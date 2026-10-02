@@ -50469,6 +50469,20 @@
       "subject": "독서",
       "thumbnail": "thumbnails/18741.png",
       "sha256": "8c95cc04844dd6e5f2a9cb31980de4193ffe8af93884539381611282029d3695"
+    },
+    {
+      "message_id": 18739,
+      "filename": "RPM 미적분 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18739_RPM.pdf",
+      "size_bytes": 5839793,
+      "telegram_date": "2026-01-02T12:31:36+00:00",
+      "title": "미적 개념원리 RPM 미적분",
+      "year": null,
+      "instructor": null,
+      "subject": "미적분",
+      "thumbnail": "thumbnails/18739.png",
+      "sha256": "91a665bd1a733136605cf27d0ae8d6ad08ac827912449c93fe3a4d6a75706f27"
     }
   ],
   "duplicate_message_ids": [
