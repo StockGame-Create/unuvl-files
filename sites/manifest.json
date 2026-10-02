@@ -57427,6 +57427,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17940.png",
       "sha256": "4e62dbc1e384db84a00483aca7b4cb4eed176400a5091861a0e846a7d1586e58"
+    },
+    {
+      "message_id": 17938,
+      "filename": "2026_수학_김현우_스탠다드n_4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17938_2026_._._.n_4.pdf",
+      "size_bytes": 18607682,
+      "telegram_date": "2025-11-03T13:06:29+00:00",
+      "title": "2026_수학_김현우_스탠다드n_4회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17938.png",
+      "sha256": "c02452e1c588bedc876f68a77328eeaae4c0fecf5399af8be4f313331e8e76a0"
     }
   ],
   "duplicate_message_ids": [
