@@ -50847,6 +50847,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18693.png",
       "sha256": "0bfc85ecdca3b2f64097b1c61d9b8e509a90cbf1d7828448811ae4091b23b7e5"
+    },
+    {
+      "message_id": 18692,
+      "filename": "기출 Rebirth 수2 해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18692_.Rebirth.2.pdf",
+      "size_bytes": 186235165,
+      "telegram_date": "2025-12-26T07:59:35+00:00",
+      "title": "기출 Rebirth 수2 해설지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18692.png",
+      "sha256": "89568ca3854cb23ebb1d669546583fed126df870c2463db0ea7f1a88c35c7357"
     }
   ],
   "duplicate_message_ids": [
