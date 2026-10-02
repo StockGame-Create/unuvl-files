@@ -53717,6 +53717,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18327.png",
       "sha256": "f4143063dce3b5187269ad42c5f2d654d8bc8f1603b4c10f7e91c2a15ad5fcf1"
+    },
+    {
+      "message_id": 18326,
+      "filename": "2026_시대인재_서바이벌_전국_모의고사_18회_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18326_2026_._._._._18._.pdf",
+      "size_bytes": 7877743,
+      "telegram_date": "2025-11-09T14:25:29+00:00",
+      "title": "지1 시대인재 서바이벌 전국 모의고사 18회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18326.png",
+      "sha256": "b97645f05493d1cd95e2002067b6379d275c330e20cdfd635bd9a89cd57c55e2"
     }
   ],
   "duplicate_message_ids": [
