@@ -64497,6 +64497,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17208.png",
       "sha256": "9401b61b812d8eeecef7234dee1ddf7de2522159a9deac33c215042cdb88e981"
+    },
+    {
+      "message_id": 17207,
+      "filename": "5교시사문D_Fine_제2회_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17207_5.D_Fine_.2._.pdf",
+      "size_bytes": 520442,
+      "telegram_date": "2025-10-23T14:45:37+00:00",
+      "title": "사문 D.Fine Final 1,2회 #디파인",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17207.png",
+      "sha256": "199c93d04fe05184781c0cec618f54d4d0c151f43264aa490187678f73b6aee4"
     }
   ],
   "duplicate_message_ids": [
