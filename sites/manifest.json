@@ -54725,6 +54725,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18224.png",
       "sha256": "82d6bf72c8a8e3febea4926efcf5cd55868d763ab53488f5a081d90466b3eef7"
+    },
+    {
+      "message_id": 18223,
+      "filename": "2026_국어_이감_시즌6_간쓸개_12회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18223_2026_._._.6_._12._.pdf",
+      "size_bytes": 50378997,
+      "telegram_date": "2025-11-07T15:16:59+00:00",
+      "title": "국어 간쓸개 파이널2 시즌6 12권",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18223.png",
+      "sha256": "d92897cef3e2106c0e1161d13ea5148a4db49ad507b91e1bd60d0bc1c2665a4d"
     }
   ],
   "duplicate_message_ids": [
