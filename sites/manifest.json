@@ -59835,6 +59835,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17695.png",
       "sha256": "06bf1c21a8e27c9974124e18f12f2c8d9079918cd922272d21bfd916d7f708a6"
+    },
+    {
+      "message_id": 17689,
+      "filename": "2026 국어 시네 모의고사 2회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17689_2026.2.pdf",
+      "size_bytes": 29271582,
+      "telegram_date": "2025-10-31T11:41:19+00:00",
+      "title": "국어 시대인재 유신 시네 모의고사 1,2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17689.png",
+      "sha256": "b51b2598f728ed90fefd19c58f64fd6ed5866c4035032f3b337a1853dda688ed"
     }
   ],
   "duplicate_message_ids": [
