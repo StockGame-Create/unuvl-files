@@ -59317,6 +59317,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17746.png",
       "sha256": "6f46677d2fd50f7d81f2790a15b84deb24669f6c794a5dffad2124c8197f8637"
+    },
+    {
+      "message_id": 17745,
+      "filename": "2026학년도_대학수학능력시험_수학_시대인재_설맞이_모의고사_시즌2_정답_및_해설_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17745_2026._._._._._._.2_._._._.pdf",
+      "size_bytes": 94524295,
+      "telegram_date": "2025-10-31T23:21:55+00:00",
+      "title": "수학 설맞이 모의고사 시즌2 1,2회 (인쇄소퀄)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17745.png",
+      "sha256": "7827903e10461451c5f4f3e7b10a989ac70b6b042ee412cb59584d4627d40908"
     }
   ],
   "duplicate_message_ids": [
