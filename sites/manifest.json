@@ -60129,6 +60129,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17664.png",
       "sha256": "63907e74334521a3950fffb5ccedf3f5b146ff7dcb635f0250c01ec39e7dfdc6"
+    },
+    {
+      "message_id": 17663,
+      "filename": "2026 은돌모.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17663_2026.pdf",
+      "size_bytes": 548716,
+      "telegram_date": "2025-10-31T03:12:04+00:00",
+      "title": "2026 은돌모",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17663.png",
+      "sha256": "1770f5cc2002ceebc8e51557e09546e175d6c935d1ec6a54f5c44dfdba8156ed"
     }
   ],
   "duplicate_message_ids": [
