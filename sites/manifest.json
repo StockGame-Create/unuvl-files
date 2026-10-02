@@ -52527,6 +52527,20 @@
       "subject": "통합사회",
       "thumbnail": "thumbnails/18498.png",
       "sha256": "1e2b8600105296723ce9aa00827baaca0c3b3d1d90ef5b4bedcd6e9e89ad1349"
+    },
+    {
+      "message_id": 18496,
+      "filename": "완자+고등통합과학1_정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18496_.%2B.1_.pdf",
+      "size_bytes": 13743190,
+      "telegram_date": "2025-12-07T06:46:31+00:00",
+      "title": "과학 완자 통합과학1",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/18496.png",
+      "sha256": "582d76bdf12b0deac2984cbc39b5e235d7265be5762254e5fe395b3a040e53f2"
     }
   ],
   "duplicate_message_ids": [
