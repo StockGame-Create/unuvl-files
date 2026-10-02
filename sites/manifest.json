@@ -52667,6 +52667,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/18477.png",
       "sha256": "3ec3ff4f27110b4a3fbb07491a55d3b8ba682acde9d3ec7e1878d669d9c790d1"
+    },
+    {
+      "message_id": 18475,
+      "filename": "어삼쉬사플러스_확률과통계_문제_배포용_unlocked.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18475_._._._._unlocked.pdf",
+      "size_bytes": 12148634,
+      "telegram_date": "2025-12-01T00:02:13+00:00",
+      "title": "수학 어삼쉬사 플러스 확률과통계",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18475.png",
+      "sha256": "eff6975fd448205d33d98bc16dc0b8c5725ae83d3e24759d44b17c6b12c86daa"
     }
   ],
   "duplicate_message_ids": [
