@@ -60955,6 +60955,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17578.png",
       "sha256": "83db31ee0050b8ab02b591068e50815746fcf1b215fbb0f4a88962a71a326869"
+    },
+    {
+      "message_id": 17576,
+      "filename": "2026 신민우 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17576_2026.3.pdf",
+      "size_bytes": 15172859,
+      "telegram_date": "2025-10-29T09:35:52+00:00",
+      "title": "수학 신과함께 FINAL 모의고사 3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17576.png",
+      "sha256": "2e801a3ee23399a8d8f8c8eca19ea3b9b7981fb644c65cff0f4664fd63860b2d"
     }
   ],
   "duplicate_message_ids": [
