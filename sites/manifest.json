@@ -61949,6 +61949,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17468.png",
       "sha256": "911549d6c8b59483d368c0ba778c734db0bc21e7ddd000c7a6f54cac14f164ca"
+    },
+    {
+      "message_id": 17467,
+      "filename": "이투스N 09회_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17467_.N.09._.pdf",
+      "size_bytes": 17564217,
+      "telegram_date": "2025-10-27T03:29:57+00:00",
+      "title": "이투스N 09회_문제",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17467.png",
+      "sha256": "3ded3ca70906a240c96426d656870c5fc304319cef377ed5d16802107f884c60"
     }
   ],
   "duplicate_message_ids": [
