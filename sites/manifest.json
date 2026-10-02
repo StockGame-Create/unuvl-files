@@ -66821,6 +66821,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16961.png",
       "sha256": "1321934d1a3aafeb2d2fea680585fec8cbae9fe5cd64be9bb38332bd821de71a"
+    },
+    {
+      "message_id": 16960,
+      "filename": "Untitled_20211018_213219-1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16960_Untitled_20211018_213219-1.pdf",
+      "size_bytes": 13768416,
+      "telegram_date": "2025-10-18T16:22:55+00:00",
+      "title": "동사 OMEGA 모의고사 17회 #오메가",
+      "year": "2026",
+      "instructor": null,
+      "subject": "동아시아사",
+      "thumbnail": "thumbnails/16960.png",
+      "sha256": "2abb56d528229fee71d7ffeb0115a2f89521a5cf86f9ab50e81dccd8d653d23e"
     }
   ],
   "duplicate_message_ids": [
