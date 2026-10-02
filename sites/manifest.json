@@ -53955,6 +53955,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/18309.png",
       "sha256": "39e629f587ec791be0db01b81fd5b622c04934c8bc08718af7a7069584fc4a7f"
+    },
+    {
+      "message_id": 18308,
+      "filename": "2026_생1_시대인재_서바이벌N_모의_3회해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18308_2026_.1_._.N_._3.pdf",
+      "size_bytes": 4893989,
+      "telegram_date": "2025-11-09T14:10:23+00:00",
+      "title": "생1 시대인재 서바이벌 N전용 모의고사 3회 #서바N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/18308.png",
+      "sha256": "5aa38162bd4d8e4b1be916289413e8f6a51d319db3d46ce7988afb69641175f6"
     }
   ],
   "duplicate_message_ids": [
