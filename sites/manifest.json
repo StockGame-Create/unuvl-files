@@ -67031,6 +67031,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/16943.png",
       "sha256": "e362e01a86393196be9aa66bf410f55fa1037e74dd9d808f964682249dc7e758"
+    },
+    {
+      "message_id": 16941,
+      "filename": "2026_강대모의고사X_시즌4_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16941_2026_.X_.4_.pdf",
+      "size_bytes": 4806406,
+      "telegram_date": "2025-10-18T15:26:57+00:00",
+      "title": "수학 강대모의고사X 시즌4 13~16회 #강X",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16941.png",
+      "sha256": "2d219f37c5a9c6732f5c3de2d511b5ea40ea1655baa29ea89b2e390a72837ba2"
     }
   ],
   "duplicate_message_ids": [
