@@ -52317,6 +52317,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/18526.png",
       "sha256": "cb8abe5b5c42fec6ee0b8bf2d8b993af636008af9b1ec017c2f8d83c226f55db"
+    },
+    {
+      "message_id": 18524,
+      "filename": "강k 9회 화2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18524_.k.9.2.pdf",
+      "size_bytes": 5888961,
+      "telegram_date": "2025-12-14T10:41:18+00:00",
+      "title": "화2 강대모의고사K 9회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/18524.png",
+      "sha256": "7436826afa08dc4f6321057a8a1e22805082c15caf75ed5a38b8e3989447dbbe"
     }
   ],
   "duplicate_message_ids": [
