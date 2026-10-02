@@ -54669,6 +54669,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/18231.png",
       "sha256": "3bcf6c1e8d5f63ac760d3c45f06c42b5db098f181ae1fd6a2f546a6bdca9a3cb"
+    },
+    {
+      "message_id": 18229,
+      "filename": "17주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18229_17.pdf",
+      "size_bytes": 26685475,
+      "telegram_date": "2025-11-07T15:44:03+00:00",
+      "title": "화1 시대인재 서바이벌 전국 모의고사 17회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/18229.png",
+      "sha256": "997b80dd1f81057c5922b65273489603aba358f54e54f604d28858a04c16f582"
     }
   ],
   "duplicate_message_ids": [
