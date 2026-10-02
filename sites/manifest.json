@@ -52807,6 +52807,20 @@
       "subject": "통합사회",
       "thumbnail": "thumbnails/18462.png",
       "sha256": "49d62a7b814d2c11190a01f796741b7fa4227327f9d1d6766c57894a8adfe8c6"
+    },
+    {
+      "message_id": 18460,
+      "filename": "창비_최원식_공통국어2_자습서_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18460_._._.2_._.pdf",
+      "size_bytes": 4040207,
+      "telegram_date": "2025-11-28T02:03:22+00:00",
+      "title": "국어 고등학교 공통국어2 자습서 정답과 해설",
+      "year": null,
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18460.png",
+      "sha256": "92b66c7947ab9f3fc3e3962f940f3ce54a1597983e763b52433ecce2412acc51"
     }
   ],
   "duplicate_message_ids": [
