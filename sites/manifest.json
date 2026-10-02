@@ -63909,6 +63909,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17252.png",
       "sha256": "d5ddb99eb51e7c61bdfaffff6f1ccecd37f064a4d185a7c440efcadee4ff9402"
+    },
+    {
+      "message_id": 17251,
+      "filename": "국어, 김재훈, 추석특강 주요 기출 분석.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17251_.pdf",
+      "size_bytes": 3061598,
+      "telegram_date": "2025-10-23T15:12:11+00:00",
+      "title": "국어 주요 기출 해설",
+      "year": "2026",
+      "instructor": "김재훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/17251.png",
+      "sha256": "4d0e9b9dc00d94b48d334e753ff2603415997741c418a9640e546c0f85d94fb2"
     }
   ],
   "duplicate_message_ids": [
