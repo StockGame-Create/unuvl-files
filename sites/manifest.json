@@ -65813,6 +65813,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17060.png",
       "sha256": "5e122ab65dfd64b9060e11d7ccf28dfa9b8da5d88c2d189183178c20987f6462"
+    },
+    {
+      "message_id": 17059,
+      "filename": "윤혜정_개념의_나비효과_입문편_1권_시.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17059_._._._._1._.pdf",
+      "size_bytes": 32025609,
+      "telegram_date": "2025-10-21T13:34:35+00:00",
+      "title": "국어 윤혜정의 개념의 나비효과 입문 편 1권 시",
+      "year": null,
+      "instructor": "윤혜정",
+      "subject": "국어",
+      "thumbnail": "thumbnails/17059.png",
+      "sha256": "4f27e98e8c89fd786f300375c46992715e7eeb983b4f5662469045c4d79a26fd"
     }
   ],
   "duplicate_message_ids": [
