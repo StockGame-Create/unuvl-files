@@ -65057,6 +65057,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17150.png",
       "sha256": "12d4df6a55071b34f200a193def1805c618c0289f8a17457bcf46a5d897a2292"
+    },
+    {
+      "message_id": 17149,
+      "filename": "저스트N 미적분 29번 정복 N제 해설편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17149_.N.29.N.pdf",
+      "size_bytes": 1812184,
+      "telegram_date": "2025-10-23T03:17:10+00:00",
+      "title": "수학 저스트N 추석특강",
+      "year": "2026",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17149.png",
+      "sha256": "cf618656b6b657358cb81c7db0d291f3ba7c7a2ca2dcaee6110827c4c6306f47"
     }
   ],
   "duplicate_message_ids": [
