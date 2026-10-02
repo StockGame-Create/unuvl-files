@@ -52737,6 +52737,20 @@
       "subject": "공통수학",
       "thumbnail": "thumbnails/18468.png",
       "sha256": "ece9babfc0d29d4d8dd44ca1f1cd4c30c26aa4434cfccd70e71d41b8adf35352"
+    },
+    {
+      "message_id": 18467,
+      "filename": "22개정고등_수매씽_대수25_해설출력가능.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18467_22._._.25_.pdf",
+      "size_bytes": 26884765,
+      "telegram_date": "2025-11-30T04:09:42+00:00",
+      "title": "수학 수매씽 대수",
+      "year": null,
+      "instructor": null,
+      "subject": "공통수학",
+      "thumbnail": "thumbnails/18467.png",
+      "sha256": "95eebd1e4a92483a64a6b5decc15470fb7e21f2ebf2e82dd595779d6a3c4fe8e"
     }
   ],
   "duplicate_message_ids": [
