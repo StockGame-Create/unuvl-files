@@ -64875,6 +64875,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17175.png",
       "sha256": "73e756b78b44def3125834604229da1bc3794e95a619bd261c0e9fe9f60eb1b6"
+    },
+    {
+      "message_id": 17173,
+      "filename": "잘푸모 생윤 시즌2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17173_.2.pdf",
+      "size_bytes": 197195620,
+      "telegram_date": "2025-10-23T14:08:21+00:00",
+      "title": "생윤 잘 푸는 모의고사 시즌2(파이널) 1~12회 #잘푸모",
+      "year": "2026",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17173.png",
+      "sha256": "ac0a9c8f769ff4056edf223d44ccd61849e7a4af81eb36bb2aaeff01b5a3822e"
     }
   ],
   "duplicate_message_ids": [
