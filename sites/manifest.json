@@ -52471,6 +52471,20 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/18505.png",
       "sha256": "6e6a0b722538f4384865880c8de2a69125ea8920510c81207c26d6533677c24b"
+    },
+    {
+      "message_id": 18503,
+      "filename": "어휘,_치열하게_독하게_단어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18503_._._._.pdf",
+      "size_bytes": 6536673,
+      "telegram_date": "2025-12-09T10:04:10+00:00",
+      "title": "국어 국어, 치열하게 독하게! - 어휘편",
+      "year": null,
+      "instructor": "유대종",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18503.png",
+      "sha256": "695071580ac35ac3d889e5fa3b8fa08d227ee723679aec30bb3692ee2aa0e877"
     }
   ],
   "duplicate_message_ids": [
