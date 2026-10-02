@@ -57469,6 +57469,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17935.png",
       "sha256": "1edaf5991b17b06fc6fab401d17bffb923f106218dd558d5cff1b1fc5e079694"
+    },
+    {
+      "message_id": 17934,
+      "filename": "러너스하이 8주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17934_.8.pdf",
+      "size_bytes": 89857721,
+      "telegram_date": "2025-11-03T12:47:00+00:00",
+      "title": "수학 김범준 러너스하이 8주차",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17934.png",
+      "sha256": "dd4d83e45b48a59cb5a12be9b9c19909ffa7e492bcd7c446e819edf1d2b79258"
     }
   ],
   "duplicate_message_ids": [
