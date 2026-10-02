@@ -54403,6 +54403,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18266.png",
       "sha256": "0b4b6673d95dbf7eea4ca644810d1fd161d4f32f0056a43b95991933004947dd"
+    },
+    {
+      "message_id": 18264,
+      "filename": "강케플 10회 @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18264_.10.%40yubin_MPGA.pdf",
+      "size_bytes": 18111362,
+      "telegram_date": "2025-11-08T14:05:03+00:00",
+      "title": "생윤 강대모의고사K+ 10회 #강케플",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/18264.png",
+      "sha256": "9e97eb1c1a9f8206b16e8f01d7657b1abe33205d5d8c028115a41b190b3b5635"
     }
   ],
   "duplicate_message_ids": [
