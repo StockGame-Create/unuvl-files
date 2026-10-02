@@ -62215,6 +62215,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17441.png",
       "sha256": "ea007a0f6dd9d5a7503df18059ba69ae9c423208d5f82c0fa2a295345a65319f"
+    },
+    {
+      "message_id": 17439,
+      "filename": "서바이벌_모의고사_수학_23회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17439_._._._23.pdf",
+      "size_bytes": 2789032,
+      "telegram_date": "2025-10-26T22:01:35+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 23회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17439.png",
+      "sha256": "db2347e25a47b6161af5337d95ca36f969bca7508446d83c699dbe5509bdcaa1"
     }
   ],
   "duplicate_message_ids": [
