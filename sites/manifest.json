@@ -61319,6 +61319,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17540.png",
       "sha256": "5bb61a4ff425109e5b79070974bc8b80001b1c18079ddbb0962abd6e8c4aeb09"
+    },
+    {
+      "message_id": 17539,
+      "filename": "26수능 악어모의고사 1회 미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17539_26.1.pdf",
+      "size_bytes": 1476427,
+      "telegram_date": "2025-10-28T15:17:36+00:00",
+      "title": "26수능 악어모의고사 1회 미적분",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17539.png",
+      "sha256": "4f579cd6be14fd6da3f6740f154afaa67817b5c461c79b8018a631f8cf94599c"
     }
   ],
   "duplicate_message_ids": [
