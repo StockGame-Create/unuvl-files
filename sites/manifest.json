@@ -58743,6 +58743,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17795.png",
       "sha256": "0803380e62b018663c317c473ab004589bb23b8379985d88b6f73a690e1dc472"
+    },
+    {
+      "message_id": 17794,
+      "filename": "2026_사회문화_서바이벌_전국_12회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17794_2026_._._._12._.pdf",
+      "size_bytes": 8492854,
+      "telegram_date": "2025-11-01T10:47:58+00:00",
+      "title": "사문 시대인재 서바이벌 전국 모의고사 12회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17794.png",
+      "sha256": "60af747f3f9c70ec79e2d9d7a1c90fa95e14af7d80930df740814c79da2546d2"
     }
   ],
   "duplicate_message_ids": [
