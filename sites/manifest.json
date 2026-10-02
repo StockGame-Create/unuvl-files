@@ -60395,6 +60395,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17634.png",
       "sha256": "393f2a64b5587293361909bd7f74371ce584c5ae860b0825393e03b300aae13b"
+    },
+    {
+      "message_id": 17633,
+      "filename": "2024 브릿지R 생2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17633_2024.R.2.pdf",
+      "size_bytes": 25372341,
+      "telegram_date": "2025-10-30T14:35:35+00:00",
+      "title": "생2 시대인재 리부트 브릿지 모의고사 1회 #리부트",
+      "year": "2024",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/17633.png",
+      "sha256": "a6031598003a0f6f04d1fafc8e5b491f03ce37a911afeb9fd0ad1de035d1897e"
     }
   ],
   "duplicate_message_ids": [
