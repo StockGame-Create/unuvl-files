@@ -52457,6 +52457,20 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/18506.png",
       "sha256": "3aec195de565363c88157ddf9cb45c5cfa6db9afec98bb3a6bd50149b7488af6"
+    },
+    {
+      "message_id": 18505,
+      "filename": "1등급_만들기_통합과학_900제_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18505_1._._._900._.pdf",
+      "size_bytes": 18718965,
+      "telegram_date": "2025-12-10T09:21:22+00:00",
+      "title": "과학 1등급 만들기 통합과학 (15개정)",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/18505.png",
+      "sha256": "6e6a0b722538f4384865880c8de2a69125ea8920510c81207c26d6533677c24b"
     }
   ],
   "duplicate_message_ids": [
