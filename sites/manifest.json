@@ -59191,6 +59191,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17760.png",
       "sha256": "495b58cc1577ecdfb95b845fc0a6e9db1f7d59a62ac367d8e49a636584526330"
+    },
+    {
+      "message_id": 17759,
+      "filename": "2026학년도_SYNTHESIS_제1회_정답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17759_2026._SYNTHESIS_.1._.pdf",
+      "size_bytes": 1410037,
+      "telegram_date": "2025-11-01T07:47:54+00:00",
+      "title": "수학 SYNTHESIS 1,2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17759.png",
+      "sha256": "b63fd71fcc4acf40870e7b62270df88197b748f7f574c0c66413ad78a090b39c"
     }
   ],
   "duplicate_message_ids": [
