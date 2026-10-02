@@ -55481,6 +55481,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18155.png",
       "sha256": "19a2dc16fad38d601a1d947255ebd5a73c393b0e7dea4b678cbd8b820b522b22"
+    },
+    {
+      "message_id": 18154,
+      "filename": "2026 백건아 HIGH END 시즌1 시즌2 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18154_2026.HIGH.END.1.2.pdf",
+      "size_bytes": 89301616,
+      "telegram_date": "2025-11-06T13:37:12+00:00",
+      "title": "2026 백건아 HIGH END 시즌1 시즌2 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18154.png",
+      "sha256": "66d6141bec5ea18ebfefc21c94308e3a05ce99d9039b337c80721db7cec4f7c8"
     }
   ],
   "duplicate_message_ids": [
