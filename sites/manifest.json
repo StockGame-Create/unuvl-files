@@ -64805,6 +64805,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/17185.png",
       "sha256": "836591c2ab652fe07bfc648b222ec1d28cd6bf1b12082c4d31a6e7beab3cab02"
+    },
+    {
+      "message_id": 17181,
+      "filename": "서바_전국_수학_4회+답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17181_._._._4.%2B.pdf",
+      "size_bytes": 7185436,
+      "telegram_date": "2025-10-23T14:28:59+00:00",
+      "title": "수학 시대인재 서바이벌 전국 모의고사 4회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17181.png",
+      "sha256": "d412b14feeacaecf04d4e00429c4ee7ccb237d8f99a84ab3e5204b70d5cdb19e"
     }
   ],
   "duplicate_message_ids": [
