@@ -63405,6 +63405,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17314.png",
       "sha256": "2c6068188477fe9c4678355fa3a78998f6cd336f8d3dc98a18204210796c02ad"
+    },
+    {
+      "message_id": 17313,
+      "filename": "2026 강대 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17313_2026.7.pdf",
+      "size_bytes": 7152727,
+      "telegram_date": "2025-10-24T09:51:54+00:00",
+      "title": "수학 강대모의고사X 시즌1 6,7회 #강x",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17313.png",
+      "sha256": "b345edd3049255db8bc28cfc33ba41648ff23c8b471361e9b1d223779bb805d7"
     }
   ],
   "duplicate_message_ids": [
