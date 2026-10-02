@@ -59107,6 +59107,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17767.png",
       "sha256": "486c3dc4b23449585a904a634e64a04bfd282065bae54e9a82ce2803e8e5c087"
+    },
+    {
+      "message_id": 17766,
+      "filename": "7일의 기적 모의고사 7.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17766_7.7.pdf",
+      "size_bytes": 218101218,
+      "telegram_date": "2025-11-01T09:34:07+00:00",
+      "title": "국어 상상 7일의 기적 모의고사 (문제지) #칠기모",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17766.png",
+      "sha256": "23f347117ed4f93c44a861a1d7c61db8d6566b6094ff3bf53426bbcf8c0a65d2"
     }
   ],
   "duplicate_message_ids": [
