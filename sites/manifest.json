@@ -58575,6 +58575,20 @@
       "subject": "한국지리, 사회문화",
       "thumbnail": "thumbnails/17813.png",
       "sha256": "7689d1ff27ac203c077e419d4f436e75c6ce30c088a0ba955b4ea7e58471e484"
+    },
+    {
+      "message_id": 17812,
+      "filename": "2026학년도_시대인재_서바이벌_최종점검_2회_사회탐구_영역.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17812_2026._._._._2._._.pdf",
+      "size_bytes": 7022417,
+      "telegram_date": "2025-11-01T11:15:28+00:00",
+      "title": "한지, 사문 시대인재 서바이벌 최종점검 2회 (인쇄소퀄) #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "한국지리, 사회문화",
+      "thumbnail": "thumbnails/17812.png",
+      "sha256": "84c0cb3e41b6ce8c93473f9643207511575a1f2ad84c4af839a69fde6140fca9"
     }
   ],
   "duplicate_message_ids": [
