@@ -60703,6 +60703,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/17603.png",
       "sha256": "cb8fa2943d3491ffa801ad25f643320405c7246dea6da66d562fbc5d847b3d21"
+    },
+    {
+      "message_id": 17601,
+      "filename": "박종민 리밋y 7회_최고급자료 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17601_.y.7._.pdf",
+      "size_bytes": 3097173,
+      "telegram_date": "2025-10-30T03:40:46+00:00",
+      "title": "수학 Limit Y 모의고사 7회",
+      "year": "2026",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17601.png",
+      "sha256": "33a330c79606d77c9c63d383f1823ae005d2296d6ce7676a8fadeb4db1c9ce15"
     }
   ],
   "duplicate_message_ids": [
