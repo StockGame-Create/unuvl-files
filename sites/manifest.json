@@ -51519,6 +51519,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/18598.png",
       "sha256": "35fe6565e45db58f25911d159acd7b3a860f45e34112d9f87ea443d9759b201e"
+    },
+    {
+      "message_id": 18597,
+      "filename": "2026 강모 화2 16회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18597_2026.2.16.pdf",
+      "size_bytes": 9726052,
+      "telegram_date": "2025-12-16T03:14:48+00:00",
+      "title": "2026 강모 화2 16회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18597.png",
+      "sha256": "b30762049dd4a909050528a98cfdd19d8f315074456ee1b50e2dad18928d6b42"
     }
   ],
   "duplicate_message_ids": [
