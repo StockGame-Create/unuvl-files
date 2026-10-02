@@ -56503,6 +56503,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18036.png",
       "sha256": "28e58eb207e14becdc2632008f7dad7c3b86e0f2d4c7f23c0abc2e19bbbdc70a"
+    },
+    {
+      "message_id": 18033,
+      "filename": "파코 미적.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18033_.pdf",
+      "size_bytes": 19493284,
+      "telegram_date": "2025-11-04T14:30:01+00:00",
+      "title": "파코 미적",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18033.png",
+      "sha256": "48e4db5ac924c840262ca2c0eccf454363dae7ac2217acb8eba3829dfd68dc2e"
     }
   ],
   "duplicate_message_ids": [
