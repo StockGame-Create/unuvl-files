@@ -63573,6 +63573,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17290.png",
       "sha256": "72ad022028f607b7f14016c36991a9e138f720518f5652abd5ce1fe65610b90e"
+    },
+    {
+      "message_id": 17289,
+      "filename": "2026 현정훈 모의고사 더 레드 v3 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17289_2026.v3.pdf",
+      "size_bytes": 22220459,
+      "telegram_date": "2025-10-24T07:27:06+00:00",
+      "title": "2026 현정훈 모의고사 더 레드 v3 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17289.png",
+      "sha256": "d380a1053ff24c8e91912e6885c1cb86b715ef55a2f0984cf1e4f9747a7552e0"
     }
   ],
   "duplicate_message_ids": [
