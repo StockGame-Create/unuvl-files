@@ -62803,6 +62803,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17383.png",
       "sha256": "4a9d1cb1310d32324e653d3f9e0b3f3b8fa2f4f6ce276e657573dd7a2356e322"
+    },
+    {
+      "message_id": 17382,
+      "filename": "ASYM 모의고사 1회 문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17382_ASYM.1.pdf",
+      "size_bytes": 924761,
+      "telegram_date": "2025-10-25T12:56:40+00:00",
+      "title": "물2 ASYM 모의고사",
+      "year": "2023",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/17382.png",
+      "sha256": "c5f6ceab153bcfd4547c62e374ad28c80e1c61aa6f127e47afdb4e68ec82606e"
     }
   ],
   "duplicate_message_ids": [
