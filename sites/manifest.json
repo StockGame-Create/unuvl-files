@@ -63209,6 +63209,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17335.png",
       "sha256": "f117784d330e85b9ead4e5a961f8901c50a83ba36efc6962f3e2e1522ea6403a"
+    },
+    {
+      "message_id": 17334,
+      "filename": "6회 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17334_6.pdf",
+      "size_bytes": 127421,
+      "telegram_date": "2025-10-24T13:54:35+00:00",
+      "title": "생1 시대인재 서바이벌 모의고사 6,7회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/17334.png",
+      "sha256": "b90d73ce80783a91a8897a2f3c1ffac21e2bdfe695f24a666ed643b5ff82329e"
     }
   ],
   "duplicate_message_ids": [
