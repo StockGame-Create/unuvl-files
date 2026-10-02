@@ -63041,6 +63041,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17357.png",
       "sha256": "f8dabf49e46cb20ca415733c65ee75f302422f3a192af23dfcb725dff1ac81c4"
+    },
+    {
+      "message_id": 17356,
+      "filename": "2026 장재원 미적분 LOBBYIST PRO 8주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17356_2026.LOBBYIST.PRO.8.pdf",
+      "size_bytes": 86257415,
+      "telegram_date": "2025-10-25T00:14:02+00:00",
+      "title": "수학 시대인재 미적분 THE LOBBYIST PRO 8주차,",
+      "year": "2026",
+      "instructor": "장재원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17356.png",
+      "sha256": "32721550f08c4dd0d8e6336ccac75a9f88f604ddfcc0c34abef08b345ec96f13"
     }
   ],
   "duplicate_message_ids": [
