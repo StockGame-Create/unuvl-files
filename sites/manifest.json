@@ -53171,6 +53171,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18404.png",
       "sha256": "286d218a4f027bb1bb5d4bdc994c37ec565b06f0ed4d1e615a6c5aabbb2d40d1"
+    },
+    {
+      "message_id": 18402,
+      "filename": "특난도 모의고사 파이널 시즌 1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18402_.1.pdf",
+      "size_bytes": 35667844,
+      "telegram_date": "2025-11-11T14:53:23+00:00",
+      "title": "특난도 모의고사 파이널 시즌 1 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18402.png",
+      "sha256": "8acbdae1c9fe792588a17401d3f0a0c74ed0d38316e81c3be5e2575b3844ea75"
     }
   ],
   "duplicate_message_ids": [
