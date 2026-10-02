@@ -60731,6 +60731,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17599.png",
       "sha256": "80b0e58af1a3d25e9375c946a4759364c5c612e361b5c63f9f53c360ad6a3015"
+    },
+    {
+      "message_id": 17597,
+      "filename": "자이스토리_확률과_통계_정답및해설_pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17597_._._._._pdf.pdf",
+      "size_bytes": 283617540,
+      "telegram_date": "2025-10-29T14:03:42+00:00",
+      "title": "자이스토리_확률과_통계_정답및해설_pdf",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17597.png",
+      "sha256": "a5a8e79b93958c0958e4e28d333209fede37e5b2ebe775686e238dd3a2176b1a"
     }
   ],
   "duplicate_message_ids": [
