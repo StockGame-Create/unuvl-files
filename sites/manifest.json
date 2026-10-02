@@ -55719,6 +55719,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18118.png",
       "sha256": "7e262f1d3c5a79044f40e4a9879257fb1b668c8618982a893cce63af048f8ae4"
+    },
+    {
+      "message_id": 18116,
+      "filename": "#장현국어_2026수능_출제예감EBS_현대문학편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18116_._2026._.EBS_.pdf",
+      "size_bytes": 904323,
+      "telegram_date": "2025-11-05T13:53:03+00:00",
+      "title": "#장현국어_2026수능_출제예감EBS_현대문학편",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18116.png",
+      "sha256": "395204265a70c02c91516b6f09f85e94ad57d6dd2195ab785de2b582e33f1cf2"
     }
   ],
   "duplicate_message_ids": [
