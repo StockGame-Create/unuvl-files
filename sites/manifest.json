@@ -65953,6 +65953,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17044.png",
       "sha256": "14c08f82c5fced9e7e99ebd65886b7dee91ebb03033061719de698bf8a594274"
+    },
+    {
+      "message_id": 17041,
+      "filename": "4월 대성(사탐).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17041_4.pdf",
+      "size_bytes": 6513691,
+      "telegram_date": "2025-10-20T13:29:04+00:00",
+      "title": "사탐 THE PREMIUM 4월 모의고사 #더프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/17041.png",
+      "sha256": "575c28a943466051edaeb24ad92f51d6b2be832a60c3114b164ae4f7245c5765"
     }
   ],
   "duplicate_message_ids": [
