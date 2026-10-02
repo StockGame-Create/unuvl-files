@@ -60983,6 +60983,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/17574.png",
       "sha256": "bbfbf4cc83c12c752197cdda0fa8d382011d8d6490535c0378eccb3ce8367850"
+    },
+    {
+      "message_id": 17572,
+      "filename": "C25JC57703YT013_2OCT.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17572_C25JC57703YT013_2OCT.PDF",
+      "size_bytes": 18687,
+      "telegram_date": "2025-10-29T03:57:29+00:00",
+      "title": "정법 김용택 파이널 실전 모의고사 2회",
+      "year": "2026",
+      "instructor": "김용택",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/17572.png",
+      "sha256": "1dc33b1ba3479859b3e193fb2ad186254c3a29c155f40ae30f78093c2e40afe9"
     }
   ],
   "duplicate_message_ids": [
