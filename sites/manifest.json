@@ -59163,6 +59163,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17763.png",
       "sha256": "38c4623a92d74bd97b6e0a4d2eaa6d6be06c03dedfe44845bc78487e8fa83035"
+    },
+    {
+      "message_id": 17761,
+      "filename": "2026학년도_SYNTHESIS_제2회_문제지_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17761_2026._SYNTHESIS_.2._._2.pdf",
+      "size_bytes": 998247,
+      "telegram_date": "2025-11-01T07:47:54+00:00",
+      "title": "수학 SYNTHESIS 1,2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17761.png",
+      "sha256": "c2b024f1a1ec96488ac252c1d033546bafc759e3bc1a0c37915465806fc30a31"
     }
   ],
   "duplicate_message_ids": [
