@@ -53143,6 +53143,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18406.png",
       "sha256": "1c6b11ad7f3bdf45dd4ebd45c6c63bcc6414e730c9598ddd3533a4312bde15d4"
+    },
+    {
+      "message_id": 18405,
+      "filename": "3-2 빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18405_3-2.pdf",
+      "size_bytes": 488569,
+      "telegram_date": "2025-11-11T14:53:47+00:00",
+      "title": "3-2 빠답",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18405.png",
+      "sha256": "e7794a0a891dacacff64b9dee7e82c587d2f198382d5fa5c9146c436a237432f"
     }
   ],
   "duplicate_message_ids": [
