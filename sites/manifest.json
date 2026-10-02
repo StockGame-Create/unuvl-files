@@ -60115,6 +60115,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17666.png",
       "sha256": "3ca9a5f82f4298b8da19aac3f70c4697a89bbbab18347f23281ed1ebb5f62a8c"
+    },
+    {
+      "message_id": 17664,
+      "filename": "2026 은돌모 정답표.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17664_2026.pdf",
+      "size_bytes": 30147,
+      "telegram_date": "2025-10-31T03:12:04+00:00",
+      "title": "2026 은돌모 정답표",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17664.png",
+      "sha256": "63907e74334521a3950fffb5ccedf3f5b146ff7dcb635f0250c01ec39e7dfdc6"
     }
   ],
   "duplicate_message_ids": [
