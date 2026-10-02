@@ -57707,6 +57707,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17907.png",
       "sha256": "42957a3a46e401a46464dde9e6c3b9e52d357fbd6c8b515aaa065b5184dc6dbf"
+    },
+    {
+      "message_id": 17905,
+      "filename": "2026_김기현_모의고사_시즌2_1회문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17905_2026_._._.2_1.pdf",
+      "size_bytes": 29065223,
+      "telegram_date": "2025-11-02T13:26:27+00:00",
+      "title": "수학 김기현 COLLECTION 시즌2 1~3회 #컬렉션",
+      "year": "2026",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17905.png",
+      "sha256": "589b1732d7bfebf747b1320e3bde6259aa19dd907e1111fa9b77c8587673c310"
     }
   ],
   "duplicate_message_ids": [
