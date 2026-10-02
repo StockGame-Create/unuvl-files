@@ -62831,6 +62831,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/17381.png",
       "sha256": "99fc35ec9fe821b1b786024f5e2a6bb466e1b38f6440ebfeda60483d954ed8da"
+    },
+    {
+      "message_id": 17378,
+      "filename": "2026 화잘주스 13주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17378_2026.13.pdf",
+      "size_bytes": 7663552,
+      "telegram_date": "2025-10-25T09:02:42+00:00",
+      "title": "2026 화잘주스 13주차",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17378.png",
+      "sha256": "223073f8103697a36b6fd5dbe503809d50d0315aa55100de36879d1c4b29245d"
     }
   ],
   "duplicate_message_ids": [
