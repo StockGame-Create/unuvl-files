@@ -54375,6 +54375,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18268.png",
       "sha256": "9dd2b237959af12fdfa8246fc402a07b2ba299bde5cb717937ebf795784fdcae"
+    },
+    {
+      "message_id": 18267,
+      "filename": "2026_강민철_예열_모의고사_2회_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18267_2026_._._._2._.pdf",
+      "size_bytes": 957085,
+      "telegram_date": "2025-11-08T14:06:22+00:00",
+      "title": "2026_강민철_예열_모의고사_2회_해설지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18267.png",
+      "sha256": "a76b0797ef4e0af1d43676286d2f57b50ca4335ced0c72dbe1238ba1aa21b5b3"
     }
   ],
   "duplicate_message_ids": [
