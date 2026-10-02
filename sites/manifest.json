@@ -64553,6 +64553,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17204.png",
       "sha256": "28ede319b3bab6779ee51130351291d053b91f6a27f7d8dcf10a8d48e254b6ab"
+    },
+    {
+      "message_id": 17203,
+      "filename": "5교시물리D_Fine_제2회_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17203_5.D_Fine_.2._.pdf",
+      "size_bytes": 490075,
+      "telegram_date": "2025-10-23T14:45:19+00:00",
+      "title": "물1 D.Fine Final 1,2회 #디파인",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/17203.png",
+      "sha256": "bbf7012ff8f8266aaf171ef5aad7de6ed8f6f8a86df518452476548dc94b1849"
     }
   ],
   "duplicate_message_ids": [
