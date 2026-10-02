@@ -58939,6 +58939,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/17781.png",
       "sha256": "4121a8808a5c9c3dc63a396027035e0c8632668e8ba142d9f1cedf9c16e6d2eb"
+    },
+    {
+      "message_id": 17780,
+      "filename": "파이널_브릿지_7회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17780_._._7._.pdf",
+      "size_bytes": 15270632,
+      "telegram_date": "2025-11-01T10:42:41+00:00",
+      "title": "정법 시대인재 Final 브릿지 전국 모의고사 7회 #파브전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/17780.png",
+      "sha256": "620866a8e32219ea4053e890422792ae84f269df955cf3805b18d488bf53f610"
     }
   ],
   "duplicate_message_ids": [
