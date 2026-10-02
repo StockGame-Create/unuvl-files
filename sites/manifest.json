@@ -66163,6 +66163,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17013.png",
       "sha256": "bdff66b57fa3c938c0d5c1ae18d5229b1aa5f8537c6f7466af5bafb18eb56a3f"
+    },
+    {
+      "message_id": 17012,
+      "filename": "수능_대비_유종의_미_모의고사_3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17012_._._._._._3.pdf",
+      "size_bytes": 5396114,
+      "telegram_date": "2025-10-19T13:38:09+00:00",
+      "title": "사문 유종의 미 모의고사 1~3회",
+      "year": "2026",
+      "instructor": "유종현",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17012.png",
+      "sha256": "c351a0337f751c3f24a8de3e327495483f434d3dc0e33fefeb25d0b5ac85f641"
     }
   ],
   "duplicate_message_ids": [
