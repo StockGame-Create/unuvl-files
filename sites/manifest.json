@@ -55691,6 +55691,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18120.png",
       "sha256": "c04631ba9d5e45a6b0036ebd6e3644ad101522c71257ed4c9bfe7316d1040fd5"
+    },
+    {
+      "message_id": 18119,
+      "filename": "2026_생1_정석준_시즌3_LINKAGE_1권_정석준의_생각모의고사_해설서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18119_2026_.1_._.3_LINKAGE_1._._._.pdf",
+      "size_bytes": 9769891,
+      "telegram_date": "2025-11-05T13:53:44+00:00",
+      "title": "2026_생1_정석준_시즌3_LINKAGE_1권_정석준의_생각모의고사_해설서",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18119.png",
+      "sha256": "15126aa3f2ee431ac4c2f78004d56090720ae5e0b1f14f334e0228011f3a0b3c"
     }
   ],
   "duplicate_message_ids": [
