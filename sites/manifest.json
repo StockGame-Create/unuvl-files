@@ -61795,6 +61795,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17483.png",
       "sha256": "52a20a10da9dfb0e529cba7d42f372f684a73c769def4232d712acf2b7640ad8"
+    },
+    {
+      "message_id": 17481,
+      "filename": "2026 생명과학1 강대 서킷 소퀄 9회_고급자료.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17481_2026.1.9._.pdf",
+      "size_bytes": 1212243,
+      "telegram_date": "2025-10-27T09:26:54+00:00",
+      "title": "생1 강대 CIRCUIT 9회 #서킷",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/17481.png",
+      "sha256": "1c6277a4c45d3a9505d0ed216a99dbca4ca282956ee8299d0d49243492f11079"
     }
   ],
   "duplicate_message_ids": [
