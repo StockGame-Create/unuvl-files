@@ -56475,6 +56475,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18038.png",
       "sha256": "e985e0f62748d0d36a20389f8aa24086c2787609c2230490b14e41c1e2219782"
+    },
+    {
+      "message_id": 18037,
+      "filename": "2026+끝날끝_생활과+윤리+3주차(Theme+5,+6).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18037_2026%2B._.%2B.%2B3.Theme%2B5.%2B6.pdf",
+      "size_bytes": 1254054,
+      "telegram_date": "2025-11-04T22:36:35+00:00",
+      "title": "2026+끝날끝_생활과+윤리+3주차(Theme+5,+6)",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18037.png",
+      "sha256": "bc27aac797d9271fe0c6e531579fe670defca0addbc5231ee28021e813abee49"
     }
   ],
   "duplicate_message_ids": [
