@@ -51099,6 +51099,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18650.png",
       "sha256": "af379ed81643c820b250b9306a3dd28d8a783ba8724a851db67781e0123ad36b"
+    },
+    {
+      "message_id": 18648,
+      "filename": "Word Master 고등 Complete 본책.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18648_Word.Master.Complete.pdf",
+      "size_bytes": 27337042,
+      "telegram_date": "2025-12-19T00:01:17+00:00",
+      "title": "영어 Word Master 고등 COMPLETE",
+      "year": null,
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/18648.png",
+      "sha256": "fb6635fd93ff5032f17b4c084177758c4db8868997da8f1e718924b328deba14"
     }
   ],
   "duplicate_message_ids": [
