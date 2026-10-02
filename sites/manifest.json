@@ -62845,6 +62845,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17378.png",
       "sha256": "223073f8103697a36b6fd5dbe503809d50d0315aa55100de36879d1c4b29245d"
+    },
+    {
+      "message_id": 17376,
+      "filename": "26 물2 서바 29회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17376_26.2.29.pdf",
+      "size_bytes": 4144599,
+      "telegram_date": "2025-10-25T07:46:06+00:00",
+      "title": "물2 시대인재 서바이벌 모의고사 29회 (문제지) #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/17376.png",
+      "sha256": "e64b7fb359330203183380b731351f39d2634cf1865ef32ec05ecb0c1be5a402"
     }
   ],
   "duplicate_message_ids": [
