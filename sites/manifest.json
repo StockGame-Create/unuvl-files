@@ -52555,6 +52555,20 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/18495.png",
       "sha256": "6c5d3f511bc1199a2b5caba27640751a278b9a6593d7a292955b49029e7bf62c"
+    },
+    {
+      "message_id": 18488,
+      "filename": "고등사회개념풀2-정답_미리보기.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18488_.2-._.pdf",
+      "size_bytes": 2643708,
+      "telegram_date": "2025-12-03T13:48:40+00:00",
+      "title": "사회 개념풀 통합사회2",
+      "year": null,
+      "instructor": null,
+      "subject": "통합사회",
+      "thumbnail": "thumbnails/18488.png",
+      "sha256": "2fcf5db0950181a13cdf6de485ea613cfdbaf0bd33aa30ba706b3f54b35dca27"
     }
   ],
   "duplicate_message_ids": [
