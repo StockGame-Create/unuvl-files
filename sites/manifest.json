@@ -63265,6 +63265,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17331.png",
       "sha256": "1cd75c4851c8bb026f2715aae00f322327028239ba131be7f83fb3a7730b0e12"
+    },
+    {
+      "message_id": 17328,
+      "filename": "생명 서바 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17328_.1.pdf",
+      "size_bytes": 14714797,
+      "telegram_date": "2025-10-24T13:51:03+00:00",
+      "title": "생1 시대인재 서바이벌 모의고사 1회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/17328.png",
+      "sha256": "fb991a50307815d633b79573195b9eb14c22d47f29267d2e699918ee8cf672f4"
     }
   ],
   "duplicate_message_ids": [
