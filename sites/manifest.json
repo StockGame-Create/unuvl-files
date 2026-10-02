@@ -66177,6 +66177,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17012.png",
       "sha256": "c351a0337f751c3f24a8de3e327495483f434d3dc0e33fefeb25d0b5ac85f641"
+    },
+    {
+      "message_id": 17010,
+      "filename": "레쓰비 모의고사 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17010_.1.pdf",
+      "size_bytes": 1168250,
+      "telegram_date": "2025-10-19T13:33:36+00:00",
+      "title": "영어 Let's Be 모의고사 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/17010.png",
+      "sha256": "94c5922bcd124346460a9f093f999374c953053cee9f6c0785fadbee2898d9de"
     }
   ],
   "duplicate_message_ids": [
