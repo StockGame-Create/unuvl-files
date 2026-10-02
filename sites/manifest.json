@@ -67045,6 +67045,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16941.png",
       "sha256": "2d219f37c5a9c6732f5c3de2d511b5ea40ea1655baa29ea89b2e390a72837ba2"
+    },
+    {
+      "message_id": 16940,
+      "filename": "2026_강대모의고사X_시즌4_1316.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16940_2026_.X_.4_1316.pdf",
+      "size_bytes": 2877283,
+      "telegram_date": "2025-10-18T15:26:57+00:00",
+      "title": "수학 강대모의고사X 시즌4 13~16회 #강X",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16940.png",
+      "sha256": "9527b7d3016c43caee8b428473b11ed5ac645642f5c6ad37300c4f474c7cce01"
     }
   ],
   "duplicate_message_ids": [
