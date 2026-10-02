@@ -59499,6 +59499,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17730.png",
       "sha256": "ad214eaa8f08ee2a8f2f989298336350abfeeb84a263dbf43b8412d7c9fe2a13"
+    },
+    {
+      "message_id": 17727,
+      "filename": "이원준 파이널 모고.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17727_.pdf",
+      "size_bytes": 119780042,
+      "telegram_date": "2025-10-31T14:35:09+00:00",
+      "title": "국어 원준모 파이널 모의고사 1,2회",
+      "year": "2026",
+      "instructor": "이원준",
+      "subject": "국어",
+      "thumbnail": "thumbnails/17727.png",
+      "sha256": "835acf16f8705c5a2f78c99a12674c402ed28aa615129a7ef9e0c0746f9cd0b4"
     }
   ],
   "duplicate_message_ids": [
