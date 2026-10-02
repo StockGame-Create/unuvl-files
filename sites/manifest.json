@@ -54445,6 +54445,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18261.png",
       "sha256": "2353e9669eb656c23c69b50345741f8ca1325892eee5278853c0d3f4f4d80bcd"
+    },
+    {
+      "message_id": 18260,
+      "filename": "시대인재_지구과학1_서바이벌_C전용_1회_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18260_._.1_._C._1._%40yubin_MPGA.pdf",
+      "size_bytes": 6332575,
+      "telegram_date": "2025-11-08T14:04:09+00:00",
+      "title": "지1 시대인재 서바이벌 C전용 모의고사 1회 #서바C",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18260.png",
+      "sha256": "cf5cafa10a57b6059adeac738f7265e708942ba3a8506fbf001feeebb54fdfac"
     }
   ],
   "duplicate_message_ids": [
