@@ -54585,6 +54585,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18242.png",
       "sha256": "7b3ffd3e347a7083c70019171908921e8c09d6bba479d05508bde5b3fe7071b4"
+    },
+    {
+      "message_id": 18240,
+      "filename": "2026 양승진의 9월 모평 분석서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18240_2026.9.pdf",
+      "size_bytes": 6854376,
+      "telegram_date": "2025-11-08T09:30:16+00:00",
+      "title": "수학 양승진의 6,9월 모평 분석서",
+      "year": "2026",
+      "instructor": "양승진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/18240.png",
+      "sha256": "703fe17179da1fe4ea211018ae76555a12b26ef396bae25bf821fe4093537d8a"
     }
   ],
   "duplicate_message_ids": [
