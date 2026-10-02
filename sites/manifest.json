@@ -61459,6 +61459,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17520.png",
       "sha256": "aa8e2041c690211e767b02ca7932a0316b401cbea41bd4af48aa74d3a55d0453"
+    },
+    {
+      "message_id": 17518,
+      "filename": "2026 사문 사만다 파이널 3회 답+해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17518_2026.3.%2B.pdf",
+      "size_bytes": 16391040,
+      "telegram_date": "2025-10-28T14:09:51+00:00",
+      "title": "사문 사만다 모의고사 Final 3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17518.png",
+      "sha256": "d976bd033648761bcd08486cccda633e99e5e2486cf9b76d9ef73b5357942c9b"
     }
   ],
   "duplicate_message_ids": [
