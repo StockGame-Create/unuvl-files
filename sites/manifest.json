@@ -60493,6 +60493,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17625.png",
       "sha256": "826f051e861cbb55d7420d0e7ed0bbf7a266fb05696c9e389fb50751bf88d32d"
+    },
+    {
+      "message_id": 17624,
+      "filename": "2026_강대k_사회문화_14회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17624_2026_.k_._14._.pdf",
+      "size_bytes": 7595512,
+      "telegram_date": "2025-10-30T14:31:21+00:00",
+      "title": "사문 강대모의고사K 14회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17624.png",
+      "sha256": "bcc6c3a7ec767cc9e1b64fa6ad6f6b8bf9a458184214832f17ecc2048169f8f3"
     }
   ],
   "duplicate_message_ids": [
