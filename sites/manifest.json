@@ -55677,6 +55677,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18121.png",
       "sha256": "25ecedae19233407675e3e639e1dbe6ba2d6cdbcbfd539d402fab3a6e9723bc5"
+    },
+    {
+      "message_id": 18120,
+      "filename": "2026_생1_정석준_시즌3_LINKAGE_모의고사_1회문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18120_2026_.1_._.3_LINKAGE_._1.pdf",
+      "size_bytes": 2624060,
+      "telegram_date": "2025-11-05T13:53:44+00:00",
+      "title": "2026_생1_정석준_시즌3_LINKAGE_모의고사_1회문제",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18120.png",
+      "sha256": "c04631ba9d5e45a6b0036ebd6e3644ad101522c71257ed4c9bfe7316d1040fd5"
     }
   ],
   "duplicate_message_ids": [
