@@ -60507,6 +60507,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/17624.png",
       "sha256": "bcc6c3a7ec767cc9e1b64fa6ad6f6b8bf9a458184214832f17ecc2048169f8f3"
+    },
+    {
+      "message_id": 17622,
+      "filename": "2026_마더텅_수능기출문제집_사회문화_빠른정답표.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17622_2026_._._._.pdf",
+      "size_bytes": 569558,
+      "telegram_date": "2025-10-30T13:59:48+00:00",
+      "title": "사문 마더텅 수능기출문제 사회 문화",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17622.png",
+      "sha256": "756d82f9d003ab00f313fdc57822c8a8bc78ea4bea8eea580eae47522af1ce28"
     }
   ],
   "duplicate_message_ids": [
