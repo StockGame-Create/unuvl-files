@@ -57315,6 +57315,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17951.png",
       "sha256": "befe6ae67496a195ae77a3bdd6c723bcb4cbe569b1be7ce518a9a9044a3ece0f"
+    },
+    {
+      "message_id": 17949,
+      "filename": "스캔_문서,_2025_11_3_오후_4_53_42.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17949_._._2025_11_3_._4_53_42.pdf",
+      "size_bytes": 10969254,
+      "telegram_date": "2025-11-03T13:44:32+00:00",
+      "title": "생윤 THE PREMIUM 11월 모의고사 (문제지) #더프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17949.png",
+      "sha256": "553aec089fa59245cc201ab39a50318f80117b380f0c93295678b1c676f80a39"
     }
   ],
   "duplicate_message_ids": [
