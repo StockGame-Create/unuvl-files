@@ -53115,6 +53115,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18410.png",
       "sha256": "711ac7fdfe2a413942a40079f84adf4c734b54c471fae5a0ce2cab577a1e8b42"
+    },
+    {
+      "message_id": 18408,
+      "filename": "강e분 n제 문학 시즌2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18408_.e.n.2.pdf",
+      "size_bytes": 227443063,
+      "telegram_date": "2025-11-11T14:55:04+00:00",
+      "title": "강e분 n제 문학 시즌2",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18408.png",
+      "sha256": "530b6f308b62862aa232d09289a7508f9e9395ec35054dfff0feb4bfbdf51914"
     }
   ],
   "duplicate_message_ids": [
