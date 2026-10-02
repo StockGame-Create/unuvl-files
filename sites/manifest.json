@@ -53395,6 +53395,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/18374.png",
       "sha256": "b01f32a175b2fa9ffcb79cded5b67fb9f632690bee642296d5c76ff7a45945e8"
+    },
+    {
+      "message_id": 18373,
+      "filename": "2026_생윤_현돌_모의고사_5회차_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18373_2026_._._._5._.pdf",
+      "size_bytes": 21695491,
+      "telegram_date": "2025-11-10T22:54:12+00:00",
+      "title": "생윤 현자의 돌 파이널 모의고사 5회 #현돌모",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/18373.png",
+      "sha256": "97f96a553ab67f39adc82b1c67138adb6e1f433ae152c8c2323c3aadb06343f3"
     }
   ],
   "duplicate_message_ids": [
