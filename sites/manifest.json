@@ -51757,6 +51757,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18581.png",
       "sha256": "0c66995aea9d6f80b094a838cb8c133436a1097ffd31e11c883cee7079fc39ff"
+    },
+    {
+      "message_id": 18580,
+      "filename": "2026 강모 화2 19회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18580_2026.2.19.pdf",
+      "size_bytes": 10661134,
+      "telegram_date": "2025-12-16T03:14:47+00:00",
+      "title": "2026 강모 화2 19회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18580.png",
+      "sha256": "2f1ec7910ccfc07bd2de6d6d23a2370b4fd4b168ac72bdb1c531704be44b6054"
     }
   ],
   "duplicate_message_ids": [
