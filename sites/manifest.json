@@ -52597,6 +52597,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/18485.png",
       "sha256": "f84df6266fddd311cf199a41830cc2888c668b17dd57be9a994e57ce4a401389"
+    },
+    {
+      "message_id": 18484,
+      "filename": "물리학_251203_093830.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18484_._251203_093830.pdf",
+      "size_bytes": 84310153,
+      "telegram_date": "2025-12-03T01:32:47+00:00",
+      "title": "물1 기출 PICK",
+      "year": null,
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/18484.png",
+      "sha256": "d4d1cf409275a7faf69de84c3f46d54947cfd2a13c1073025981f0dc4904f099"
     }
   ],
   "duplicate_message_ids": [
