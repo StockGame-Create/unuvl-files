@@ -61851,6 +61851,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17476.png",
       "sha256": "7c2b0e923fda8d3a5c1b0fb29700724e8e7d5f41207d8c0814409279d897458b"
+    },
+    {
+      "message_id": 17474,
+      "filename": "절대등급확률과통계_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17474_._.pdf",
+      "size_bytes": 951098,
+      "telegram_date": "2025-10-27T07:41:48+00:00",
+      "title": "절대등급확률과통계_해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17474.png",
+      "sha256": "ded6e2a85519f1dd2e809ac137560674e26486ce8d9b767f0058c41f2de00e0b"
     }
   ],
   "duplicate_message_ids": [
