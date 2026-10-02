@@ -53605,6 +53605,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18347.png",
       "sha256": "69002544ea597a291013685cd173f48e0af5580b592c0f1fd395bf982961c863"
+    },
+    {
+      "message_id": 18343,
+      "filename": "2026_물1_재종전용_모고답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18343_2026_.1_._.pdf",
+      "size_bytes": 76295016,
+      "telegram_date": "2025-11-10T14:28:23+00:00",
+      "title": "2026_물1_재종전용_모고답지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18343.png",
+      "sha256": "dd42435f15de52475ce4a6914e932fc6dac9fab9b70420ac1e8bbf0d48357b38"
     }
   ],
   "duplicate_message_ids": [
