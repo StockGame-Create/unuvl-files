@@ -53031,6 +53031,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/18418.png",
       "sha256": "a100955a5df6168dd88e3740ab5b0ab36932804987d7e2366d53447860ed4340"
+    },
+    {
+      "message_id": 18417,
+      "filename": "2026_물리_전국_서바이벌_17회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18417_2026_._._._17._.pdf",
+      "size_bytes": 11955825,
+      "telegram_date": "2025-11-11T15:40:08+00:00",
+      "title": "물1 시대인재 서바이벌 전국 모의고사 17회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/18417.png",
+      "sha256": "8ca96be531b0d8bccde6e87e970ca7e100e52fa01873a7c5d439f19cd94ec035"
     }
   ],
   "duplicate_message_ids": [
