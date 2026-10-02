@@ -65645,6 +65645,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17087.png",
       "sha256": "3434e900f23be3aed8bd763cf332374e113c18c260be3d5f229c072085cbe5ff"
+    },
+    {
+      "message_id": 17081,
+      "filename": "ㅇㅇ.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17081_.pdf",
+      "size_bytes": 1931616,
+      "telegram_date": "2025-10-22T11:23:01+00:00",
+      "title": "전과목 THE PREMIUM 10월 모의고사 (답지) #더프",
+      "year": "2026",
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17081.png",
+      "sha256": "ce6e4c56ed4f81277d4f39fca93e64339c3c7083622a5927138bc1945503777d"
     }
   ],
   "duplicate_message_ids": [
