@@ -54557,6 +54557,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18245.png",
       "sha256": "8e69f7cb6acc6a92c550d2371e7a59cdf133a360a24e6d7f48df0a6138ba355b"
+    },
+    {
+      "message_id": 18244,
+      "filename": "권현석_모의고사_1회답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18244_._._1.pdf",
+      "size_bytes": 439352,
+      "telegram_date": "2025-11-08T13:51:15+00:00",
+      "title": "권현석_모의고사_1회답지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18244.png",
+      "sha256": "3d56bfe3799b5232b17fcd7124f23f88d5c9f6abaa202938959e63f6482d41cf"
     }
   ],
   "duplicate_message_ids": [
