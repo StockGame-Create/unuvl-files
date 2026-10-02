@@ -53661,6 +53661,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18339.png",
       "sha256": "9c4889fc6b36a2c741e1e52fd1ae665256b123fa6eae7d829bda6a28cf13fad4"
+    },
+    {
+      "message_id": 18335,
+      "filename": "강 k 14회 국어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18335_.k.14.pdf",
+      "size_bytes": 190078048,
+      "telegram_date": "2025-11-09T15:02:17+00:00",
+      "title": "국어 강대모의고사K 14회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18335.png",
+      "sha256": "b7a246cbe403fc9a87f15f5dd7d418fbff494e7e018969249f71d23b33bd78d8"
     }
   ],
   "duplicate_message_ids": [
