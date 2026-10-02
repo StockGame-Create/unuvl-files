@@ -53339,6 +53339,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/18388.png",
       "sha256": "b58fe36d8c9095d910ca930455a062bcbcb31fbcfbe2072e2108b9480a01c098"
+    },
+    {
+      "message_id": 18380,
+      "filename": "KIT_08_증기압력과_상평형_그림.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18380_KIT_08_._._.pdf",
+      "size_bytes": 73289646,
+      "telegram_date": "2025-11-11T09:23:16+00:00",
+      "title": "KIT_08_증기압력과_상평형_그림",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18380.png",
+      "sha256": "3ff7df59b8dd3016856fe45b964f3cbcc2f54c410f40c41d741d45a423a35f53"
     }
   ],
   "duplicate_message_ids": [
