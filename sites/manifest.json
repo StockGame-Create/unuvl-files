@@ -59485,6 +59485,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17732.png",
       "sha256": "9016a39a9b7d4ae92406d21ef323e13174bb4a1aaede98306c73cb6a90202977"
+    },
+    {
+      "message_id": 17730,
+      "filename": "현장 N제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17730_.N.pdf",
+      "size_bytes": 3037627,
+      "telegram_date": "2025-10-31T14:38:23+00:00",
+      "title": "사문 적중예감 FINAL 현장전용 미공개 N제 특선",
+      "year": "2026",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17730.png",
+      "sha256": "ad214eaa8f08ee2a8f2f989298336350abfeeb84a263dbf43b8412d7c9fe2a13"
     }
   ],
   "duplicate_message_ids": [
