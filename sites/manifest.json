@@ -54767,6 +54767,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/18220.png",
       "sha256": "72db6db18ffbec769ee8a21bd0d76fd98e91a9c926953ed16f24638b7355ce20"
+    },
+    {
+      "message_id": 18216,
+      "filename": "역전 5 멘탈 관리 PDF.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18216_.5.PDF.pdf",
+      "size_bytes": 49862,
+      "telegram_date": "2025-11-07T15:05:54+00:00",
+      "title": "역전 5 멘탈 관리 PDF",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18216.png",
+      "sha256": "5abf7a3fd5f073381d62f0fbf366b5d7b1793a318c28edc464626b85f1918560"
     }
   ],
   "duplicate_message_ids": [
