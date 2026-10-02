@@ -55467,6 +55467,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18157.png",
       "sha256": "16c9aad9785f1bdda76087fc2cddddd372118bb0a27e1186c73fc70b9ad3f303"
+    },
+    {
+      "message_id": 18155,
+      "filename": "2026 백건아 HIGH END 모의고사 시즌1 시즌2 합본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18155_2026.HIGH.END.1.2.pdf",
+      "size_bytes": 105647315,
+      "telegram_date": "2025-11-06T13:37:13+00:00",
+      "title": "2026 백건아 HIGH END 모의고사 시즌1 시즌2 합본",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18155.png",
+      "sha256": "19a2dc16fad38d601a1d947255ebd5a73c393b0e7dea4b678cbd8b820b522b22"
     }
   ],
   "duplicate_message_ids": [
