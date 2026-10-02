@@ -63685,6 +63685,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17278.png",
       "sha256": "07ae53392960d5960c7ad672f245a311ef71f26e7d47d2ad15992646cb664542"
+    },
+    {
+      "message_id": 17277,
+      "filename": "블리츠_s3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17277_._s3.pdf",
+      "size_bytes": 11821646,
+      "telegram_date": "2025-10-24T07:21:30+00:00",
+      "title": "블리츠_s3",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17277.png",
+      "sha256": "f202408d328627cd5e63c3f4c599450f0e5c0eada9464541fef385cfdcc74e66"
     }
   ],
   "duplicate_message_ids": [
