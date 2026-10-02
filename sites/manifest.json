@@ -51043,6 +51043,20 @@
       "subject": "수학2",
       "thumbnail": "thumbnails/18671.png",
       "sha256": "f0e5acf7d48f6e710dcc6055597cddb40590f0615b7b5603084a777af6481638"
+    },
+    {
+      "message_id": 18670,
+      "filename": "2027_수능대비_자이스토리_고3_수학1_L.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18670_2027_._._.3_.1_L.pdf",
+      "size_bytes": 234007462,
+      "telegram_date": "2025-12-22T12:46:46+00:00",
+      "title": "수1 자이스토리 수능기출문제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학1",
+      "thumbnail": "thumbnails/18670.png",
+      "sha256": "c6df62704eba925865765a1ed553325811d4a740d33b035dcc654dc381bb8706"
     }
   ],
   "duplicate_message_ids": [
