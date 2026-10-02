@@ -54781,6 +54781,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18216.png",
       "sha256": "5abf7a3fd5f073381d62f0fbf366b5d7b1793a318c28edc464626b85f1918560"
+    },
+    {
+      "message_id": 18215,
+      "filename": "세계사_백건아_high_end_파이널_3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18215_._._high_end_._3.pdf",
+      "size_bytes": 2951831,
+      "telegram_date": "2025-11-07T09:03:27+00:00",
+      "title": "세계사_백건아_high_end_파이널_3회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18215.png",
+      "sha256": "eb5e3b3b6bcff3e492ea8a07b698d031ee7c4e097faa490e649f41d43956a58f"
     }
   ],
   "duplicate_message_ids": [
