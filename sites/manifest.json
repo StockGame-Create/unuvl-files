@@ -57679,6 +57679,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/17910.png",
       "sha256": "7ba84987b2aa8e8a521074c896764d85d38d5aa75d11609873e77dfb18a92bfe"
+    },
+    {
+      "message_id": 17908,
+      "filename": "2026 강대k 34회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17908_2026.k.34.pdf",
+      "size_bytes": 1758867,
+      "telegram_date": "2025-11-02T13:28:24+00:00",
+      "title": "수학 강대모의고사K 34회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17908.png",
+      "sha256": "a9600944e7cc045c45848451df7cba71d741f5e377237f3cac86d6a72929c0e3"
     }
   ],
   "duplicate_message_ids": [
