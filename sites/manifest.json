@@ -50721,6 +50721,20 @@
       "subject": "미적분",
       "thumbnail": "thumbnails/18708.png",
       "sha256": "99c608f5b2443b65ce0098c3568c5c5ee199348b71bd5c21105ae3b4ea2eaf7b"
+    },
+    {
+      "message_id": 18707,
+      "filename": "2027_수분감_수학2_문제_현우진.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18707_2027_._.2_._.pdf",
+      "size_bytes": 120221103,
+      "telegram_date": "2025-12-29T10:44:10+00:00",
+      "title": "수2 2027 수분감 수학II (문제지)",
+      "year": "2027",
+      "instructor": "현우진",
+      "subject": "수학2",
+      "thumbnail": "thumbnails/18707.png",
+      "sha256": "1fbb9196430dbb5afc0e8f52503c8209d23cd4c1db6654f5d49648d484f9a3d3"
     }
   ],
   "duplicate_message_ids": [
