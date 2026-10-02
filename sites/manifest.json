@@ -52863,6 +52863,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18453.png",
       "sha256": "4f3f0dd04a554d4830c22a4c298da4f56c0349213c5baeb8d21ed5b24672df2a"
+    },
+    {
+      "message_id": 18452,
+      "filename": "2027 박광일 TEXT.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18452_2027.TEXT.pdf",
+      "size_bytes": 195076907,
+      "telegram_date": "2025-11-23T18:54:59+00:00",
+      "title": "국어 TEXT",
+      "year": "2027",
+      "instructor": "박광일",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18452.png",
+      "sha256": "dd7d1253b45e8d97a7453bb6801e461879065e064381f83087648e16825757f2"
     }
   ],
   "duplicate_message_ids": [
