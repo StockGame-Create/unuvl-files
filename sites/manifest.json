@@ -52429,6 +52429,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/18511.png",
       "sha256": "0166e3a6323b492363badef8a04cda2141ee708814908ef0c623a388c24809c5"
+    },
+    {
+      "message_id": 18508,
+      "filename": "2026 Physics Code 물리학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18508_2026.Physics.Code.2.pdf",
+      "size_bytes": 29790598,
+      "telegram_date": "2025-12-10T13:43:02+00:00",
+      "title": "물2 2026 Physics Code 물리학2",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/18508.png",
+      "sha256": "3927071871b1687d657aa9a74ce246032c52ba32bfcc292421284162a3bd0e37"
     }
   ],
   "duplicate_message_ids": [
