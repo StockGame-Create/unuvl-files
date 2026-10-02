@@ -61095,6 +61095,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17558.png",
       "sha256": "32ebee861e015aa88eb23cf56add013e0bb1627a174ed0e0bf6007fcf97167fb"
+    },
+    {
+      "message_id": 17556,
+      "filename": "브릿지n16.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17556_.n16.pdf",
+      "size_bytes": 2561342,
+      "telegram_date": "2025-10-28T15:26:51+00:00",
+      "title": "수학 시대인재 브릿지 N전용 모의고사 16회 #브릿지N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17556.png",
+      "sha256": "8b9decbcb156b47b44ce067fa35e8acc56632d6efdc6eed68c239d729f98bdef"
     }
   ],
   "duplicate_message_ids": [
