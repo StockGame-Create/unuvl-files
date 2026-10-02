@@ -55131,6 +55131,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18183.png",
       "sha256": "5ff8de5f38a3dcb12af3ddcb3857863b4170afb754093ee319ae5890f17f313b"
+    },
+    {
+      "message_id": 18182,
+      "filename": "2026_생명과학1_서바이벌_전국모의고사_17회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18182_2026_.1_._._17.pdf",
+      "size_bytes": 24597277,
+      "telegram_date": "2025-11-06T14:02:48+00:00",
+      "title": "생1 시대인재 서바이벌 전국 모의고사 17회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/18182.png",
+      "sha256": "d8b2d13bdba3d46476499ee763b433919efb2f82f8b62946967a607e96a02595"
     }
   ],
   "duplicate_message_ids": [
