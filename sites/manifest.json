@@ -62299,6 +62299,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/17432.png",
       "sha256": "1e5449000a7144d4ce9bc246f2d793f67432a24bd695dd2914c454cabee9342a"
+    },
+    {
+      "message_id": 17431,
+      "filename": "2026 시대인재 물리 n서바이벌 3회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17431_2026.n.3.pdf",
+      "size_bytes": 5289395,
+      "telegram_date": "2025-10-26T14:47:50+00:00",
+      "title": "물1 시대인재 서바이벌 N전용 모의고사 1~5회 #서바N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/17431.png",
+      "sha256": "df458eda2e3d564acf377b6ded6e9fd5bc0f298a61a86dc5f35a59ac0a00cc2b"
     }
   ],
   "duplicate_message_ids": [
