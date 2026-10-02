@@ -60423,6 +60423,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/17632.png",
       "sha256": "51542e1d25cc433d5d362b53ab7f042a1b8f22afdcc10de2c3584bfbee7148a2"
+    },
+    {
+      "message_id": 17630,
+      "filename": "2026학년도_이모_1회_문제지_대인라_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17630_2026._._1._._._1.pdf",
+      "size_bytes": 2421002,
+      "telegram_date": "2025-10-30T14:33:50+00:00",
+      "title": "국어 이정수 모의고사 1,2회",
+      "year": "2026",
+      "instructor": "이정수",
+      "subject": "국어",
+      "thumbnail": "thumbnails/17630.png",
+      "sha256": "b5b771d7cc4665cc6b55a807f800878fa9113aa06022ff891dc83566edcd510f"
     }
   ],
   "duplicate_message_ids": [
