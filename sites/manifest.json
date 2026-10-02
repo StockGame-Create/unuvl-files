@@ -51813,6 +51813,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/18577.png",
       "sha256": "7ac9461502d0323b70f8512b0efc77956fec2219bb59d94e4e2981a7b0051738"
+    },
+    {
+      "message_id": 18575,
+      "filename": "2026_생명과학2_서바이벌n_3회_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18575_2026_.2_.n_3._2.pdf",
+      "size_bytes": 7768449,
+      "telegram_date": "2025-12-15T15:50:00+00:00",
+      "title": "생2 시대인재 서바이벌 N전용 모의고사 3회 #서바N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/18575.png",
+      "sha256": "2096173d71b42ed2bc1f4db1b0ae374f685c02c27b03f42cbd91dd118d8b12f4"
     }
   ],
   "duplicate_message_ids": [
