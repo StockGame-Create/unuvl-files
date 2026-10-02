@@ -52891,6 +52891,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18451.png",
       "sha256": "9ee3803e1c30d4f7e0b3648a5e6749f015fb2eab8686a16aa3e77527cf300395"
+    },
+    {
+      "message_id": 18450,
+      "filename": "2027 윤혜정의 나비효과 2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18450_2027.2.pdf",
+      "size_bytes": 277055473,
+      "telegram_date": "2025-11-23T18:53:28+00:00",
+      "title": "국어 윤혜정의 개념의 나비효과 수능 편 문학, 독서",
+      "year": "2027",
+      "instructor": "윤혜정",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18450.png",
+      "sha256": "6154406bfee013bbccaeb20c074b0c9fd7500f2c0100eed9b09ae2a0504aa307"
     }
   ],
   "duplicate_message_ids": [
