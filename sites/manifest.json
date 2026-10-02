@@ -62369,6 +62369,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/17427.png",
       "sha256": "ce14247c9d6f44001c5f6a96f3f540ad12466a549471e0d14930e09a214dc4ad"
+    },
+    {
+      "message_id": 17425,
+      "filename": "2026학년도_대학수학능력시험_국어_상상N제_화작_251010.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17425_2026._._._.N._._251010.pdf",
+      "size_bytes": 295790605,
+      "telegram_date": "2025-10-26T14:43:50+00:00",
+      "title": "국어 화법과 작문 상상국어 N제",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17425.png",
+      "sha256": "816f59a561d6afef6de903c7966e499747e615c3b908dfad493f31bedbaf0c22"
     }
   ],
   "duplicate_message_ids": [
