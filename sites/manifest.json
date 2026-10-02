@@ -59275,6 +59275,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17752.png",
       "sha256": "26cb59beedd97300260b25fac491f6944c4a23d9576a98afcebfa7e9bfb61bb1"
+    },
+    {
+      "message_id": 17749,
+      "filename": "2026 오메가 국어 14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17749_2026.14.pdf",
+      "size_bytes": 7796749,
+      "telegram_date": "2025-11-01T03:16:59+00:00",
+      "title": "2026 오메가 국어 14회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17749.png",
+      "sha256": "6516cddcbffee951d44403a1479ba03d4fb5105a95bda089b5f51bc413fd02fb"
     }
   ],
   "duplicate_message_ids": [
