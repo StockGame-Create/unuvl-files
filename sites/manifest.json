@@ -59611,6 +59611,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17716.png",
       "sha256": "dafbcbaf25b0d81660326161943327bdea28796593231b409ca2794c363c5057"
+    },
+    {
+      "message_id": 17714,
+      "filename": "26 지학 신혁모시즌2 15회 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17714_26.2.15.pdf",
+      "size_bytes": 817167,
+      "telegram_date": "2025-10-31T13:56:08+00:00",
+      "title": "지1 이신혁 모의평가 시즌2 15,16회 (인쇄소퀄)",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/17714.png",
+      "sha256": "c0b45e024a0dc213d4cde916ab4aee99f4a8455e3a04c3ad5491999c09b04e18"
     }
   ],
   "duplicate_message_ids": [
