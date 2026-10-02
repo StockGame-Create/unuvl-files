@@ -62929,6 +62929,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17369.png",
       "sha256": "04f3d5d63849aab7c797a44a4f53a74ce0da91a837998e1a8d2905c560f8e297"
+    },
+    {
+      "message_id": 17368,
+      "filename": "오르새 e 모의고사 2회.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17368_.e.2.PDF",
+      "size_bytes": 1037835,
+      "telegram_date": "2025-10-25T07:42:24+00:00",
+      "title": "오르새 e 모의고사 2회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17368.png",
+      "sha256": "fdbcd3e6a961c23c4c7763129929ddfc594171695ccac8c2b644ea0e88fae354"
     }
   ],
   "duplicate_message_ids": [
