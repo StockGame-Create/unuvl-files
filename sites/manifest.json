@@ -61893,6 +61893,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17472.png",
       "sha256": "7f0b8f69631b0dc30e93cf5f2b2fd4c265315164ba167ba74425da4af1f26df2"
+    },
+    {
+      "message_id": 17471,
+      "filename": "절대등급 고등 확률과 통계.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17471_.pdf",
+      "size_bytes": 44242452,
+      "telegram_date": "2025-10-27T07:41:48+00:00",
+      "title": "절대등급 고등 확률과 통계",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17471.png",
+      "sha256": "253767edd028f5c5959a3939cefbcfc0566148d1afeabf683437073dae2ca94b"
     }
   ],
   "duplicate_message_ids": [
