@@ -50581,6 +50581,20 @@
       "subject": "수학1",
       "thumbnail": "thumbnails/18732.png",
       "sha256": "6cafbf75fe24fa8a400ad3d17cde954908411197618ff78d5020c8c42f742004"
+    },
+    {
+      "message_id": 18727,
+      "filename": "2027_마더텅_수능기출문제집_사회문화_빠른정답표.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18727_2027_._._._.pdf",
+      "size_bytes": 138275,
+      "telegram_date": "2025-12-31T11:24:33+00:00",
+      "title": "사문 마더텅 수능기출문제 사회문화",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/18727.png",
+      "sha256": "be2a2cb9715026b6fa4de1837302e4693474e80f067a874ebb340e3a9c6c60d4"
     }
   ],
   "duplicate_message_ids": [
