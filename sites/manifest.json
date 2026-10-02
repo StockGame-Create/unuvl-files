@@ -58645,6 +58645,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17804.png",
       "sha256": "79c6db88d545c23d47be1abbcf5542aa7a9f879349c87f16fcca213da12e1839"
+    },
+    {
+      "message_id": 17803,
+      "filename": "2026학년도_시대인재_서바이벌_최종점검_1회_국수영한_영역.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17803_2026._._._._1._._.pdf",
+      "size_bytes": 11958476,
+      "telegram_date": "2025-11-01T11:09:30+00:00",
+      "title": "국어, 수학, 영어, 한국사 시대인재 서바이벌 최종점검 1,2회 (해설지) (인쇄소퀄) #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어, 수학, 영어, 한국사",
+      "thumbnail": "thumbnails/17803.png",
+      "sha256": "e37fefaf4fd04455dc14ff702ef9c7937bab60a0a5e599e2bace4c7e60b3f344"
     }
   ],
   "duplicate_message_ids": [
