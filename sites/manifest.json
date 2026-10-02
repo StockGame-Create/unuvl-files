@@ -61837,6 +61837,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17478.png",
       "sha256": "1d46e2ec18baa043146b99fa96ee42e08d51ed913aa564835ee212373a1fa32c"
+    },
+    {
+      "message_id": 17476,
+      "filename": "이해원모의고사 시즌3 확통만.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17476_.3.pdf",
+      "size_bytes": 374261,
+      "telegram_date": "2025-10-27T07:47:10+00:00",
+      "title": "수학 이해원 모의고사 시즌3 0회, 1회 (확통)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17476.png",
+      "sha256": "7c2b0e923fda8d3a5c1b0fb29700724e8e7d5f41207d8c0814409279d897458b"
     }
   ],
   "duplicate_message_ids": [
