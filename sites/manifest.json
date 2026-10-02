@@ -57595,6 +57595,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17919.png",
       "sha256": "a7f798cc57c25dddfeae9d8d574f3c74454791fff570f38dda73caa234fdf255"
+    },
+    {
+      "message_id": 17917,
+      "filename": "2026 국어 강은양 e 5권_251102_230942.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17917_2026.e.5._251102_230942.pdf",
+      "size_bytes": 92519657,
+      "telegram_date": "2025-11-02T14:12:51+00:00",
+      "title": "2026 국어 강은양 e 5권_251102_230942",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17917.png",
+      "sha256": "76d01acf724d5cc71d9eeafd4fa00c9ff76d724d12f695e8b75f4a153af3e5fa"
     }
   ],
   "duplicate_message_ids": [
