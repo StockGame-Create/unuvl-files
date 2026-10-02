@@ -62915,6 +62915,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17370.png",
       "sha256": "ca6fbca80e17592895711730626d64acbe4b23ef71c9c7a8c975fa8d6ca27a96"
+    },
+    {
+      "message_id": 17369,
+      "filename": "오르새 e 모의고사 1회.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17369_.e.1.PDF",
+      "size_bytes": 809445,
+      "telegram_date": "2025-10-25T07:42:24+00:00",
+      "title": "오르새 e 모의고사 1회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17369.png",
+      "sha256": "04f3d5d63849aab7c797a44a4f53a74ce0da91a837998e1a8d2905c560f8e297"
     }
   ],
   "duplicate_message_ids": [
