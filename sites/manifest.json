@@ -52625,6 +52625,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18481.png",
       "sha256": "499049041bda9025f877984dbaca1d969309e86f6404b09011c06b99d59e1061"
+    },
+    {
+      "message_id": 18480,
+      "filename": "완자 기출픽 지구과학1 정답해설_251203_093854.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18480_.1._251203_093854.pdf",
+      "size_bytes": 11431453,
+      "telegram_date": "2025-12-03T01:31:43+00:00",
+      "title": "지1 기출 PICK",
+      "year": null,
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18480.png",
+      "sha256": "34b808733b6ec003b0e53a261ba19501890c873a34b221839b184c99501d01c0"
     }
   ],
   "duplicate_message_ids": [
