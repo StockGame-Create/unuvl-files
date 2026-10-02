@@ -64651,6 +64651,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/17197.png",
       "sha256": "34d7e0707baafb845ef67a27e9994a4b2d66be3442d8596119c0a697aeb38a8e"
+    },
+    {
+      "message_id": 17196,
+      "filename": "3교시영어D_Fine_제1회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17196_3.D_Fine_.1._.pdf",
+      "size_bytes": 1820321,
+      "telegram_date": "2025-10-23T14:45:02+00:00",
+      "title": "영어 D.Fine Final 1,2회 #디파인",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/17196.png",
+      "sha256": "6951027551fabe6ff74d5525612e90776275888395d0231b32d3865e2b4df03f"
     }
   ],
   "duplicate_message_ids": [
