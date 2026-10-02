@@ -59751,6 +59751,20 @@
       "subject": "동아시아사",
       "thumbnail": "thumbnails/17703.png",
       "sha256": "f9b8b8995a71550e8a47b3443c8ca38674e3613dafeb64034e4943464e4df95a"
+    },
+    {
+      "message_id": 17702,
+      "filename": "동아시아 모의고사 6회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17702_.6.pdf",
+      "size_bytes": 2265183,
+      "telegram_date": "2025-10-31T13:47:57+00:00",
+      "title": "동사 이다지도 신선한 동아시아사 모의고사 (문제지) 1~10회",
+      "year": "2026",
+      "instructor": "이다지",
+      "subject": "동아시아사",
+      "thumbnail": "thumbnails/17702.png",
+      "sha256": "50aef64cdc175e514ed892f1429f3d8b99da9189b39a30776eb2380a9278d8fd"
     }
   ],
   "duplicate_message_ids": [
