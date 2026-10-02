@@ -66093,6 +66093,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17023.png",
       "sha256": "29e24002e9d269f2ba84f39e7922144e22a43e7b03891292f22d8ac95f0dcdca"
+    },
+    {
+      "message_id": 17021,
+      "filename": "1회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17021_1.pdf",
+      "size_bytes": 2557310,
+      "telegram_date": "2025-10-19T14:24:11+00:00",
+      "title": "생윤 잘 푸는 모의고사 시즌2 1회 #잘푸모",
+      "year": "2026",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17021.png",
+      "sha256": "b63c64521abf09a7f3702fcf6ec167bde4fb3e3186057713fbd3bcc9172d41b8"
     }
   ],
   "duplicate_message_ids": [
