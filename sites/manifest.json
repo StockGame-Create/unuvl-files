@@ -58715,6 +58715,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17797.png",
       "sha256": "9e8c66e6506dfef5e1c69094221b3c42a149d75f81a6a345a36c860596322b61"
+    },
+    {
+      "message_id": 17796,
+      "filename": "2026_생활과윤리_강대k_13회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17796_2026_._.k_13.pdf",
+      "size_bytes": 6923603,
+      "telegram_date": "2025-11-01T10:49:21+00:00",
+      "title": "생윤 강대모의고사K 13회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/17796.png",
+      "sha256": "1b2f3b96932a37376724ac1c9ee1364a02ee6fc051e47e87566d57797b64e35a"
     }
   ],
   "duplicate_message_ids": [
