@@ -59009,6 +59009,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/17776.png",
       "sha256": "fd753a7c8312da5ea3db31d25f006c9bb5c0669a8adefd23d475eb9304ecfa3d"
+    },
+    {
+      "message_id": 17775,
+      "filename": "2026학년도_이해원_모의고사_파이널시즌_0회1회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17775_2026._._._._0.1._.pdf",
+      "size_bytes": 6473752,
+      "telegram_date": "2025-11-01T10:32:23+00:00",
+      "title": "수학 이해원 모의고사 Final 0회, 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17775.png",
+      "sha256": "01531dde81974778d2e5bdc575fd20be1b0d7445bf46b1525398cbb4e6936213"
     }
   ],
   "duplicate_message_ids": [
