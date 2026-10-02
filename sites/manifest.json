@@ -57637,6 +57637,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17914.png",
       "sha256": "0e2659be468c0f5ef7faeb905a08e6aac6ee2c932782c6d06004dcd7a1a9532f"
+    },
+    {
+      "message_id": 17912,
+      "filename": "세지 서바 5회 문+해.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17912_.5.%2B.pdf",
+      "size_bytes": 8185010,
+      "telegram_date": "2025-11-02T13:53:57+00:00",
+      "title": "세지 시대인재 서바이벌 모의고사 5회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/17912.png",
+      "sha256": "cd82e81373daea07b8624fa1c141ea286d08823e5a8ee6141b23fc4b584e4a6e"
     }
   ],
   "duplicate_message_ids": [
