@@ -62201,6 +62201,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17450.png",
       "sha256": "49d073d19787c562b219f0c5a7f58e3de8a1d33692f22f0f52616f4b434bb8ff"
+    },
+    {
+      "message_id": 17441,
+      "filename": "이라클 모의고사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17441_.pdf",
+      "size_bytes": 7460771,
+      "telegram_date": "2025-10-27T03:14:03+00:00",
+      "title": "국어 ELACLE 모의고사 (문제지) #이라클",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17441.png",
+      "sha256": "ea007a0f6dd9d5a7503df18059ba69ae9c423208d5f82c0fa2a295345a65319f"
     }
   ],
   "duplicate_message_ids": [
