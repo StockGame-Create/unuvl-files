@@ -52961,6 +52961,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18425.png",
       "sha256": "6cc1af0752d80c21dcd184ced7c839c060e7981a9be3930099807fb257b28057"
+    },
+    {
+      "message_id": 18422,
+      "filename": "2026_물리학1_서바이벌_전국_모의고사_18회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18422_2026_.1_._._._18._.pdf",
+      "size_bytes": 15045945,
+      "telegram_date": "2025-11-11T15:45:58+00:00",
+      "title": "물1 시대인재 서바이벌 전국 모의고사 18회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/18422.png",
+      "sha256": "a840c2faf7303a10191ac436c37d360c83b3c75191bac61aa8b0a6f1ddd2712d"
     }
   ],
   "duplicate_message_ids": [
