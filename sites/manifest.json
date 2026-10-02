@@ -51113,6 +51113,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/18648.png",
       "sha256": "fb6635fd93ff5032f17b4c084177758c4db8868997da8f1e718924b328deba14"
+    },
+    {
+      "message_id": 18646,
+      "filename": "2027 김승리 올오카 오리진.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18646_2027.pdf",
+      "size_bytes": 201785390,
+      "telegram_date": "2025-12-17T15:23:31+00:00",
+      "title": "국어 ALL OF KICE ORIGIN",
+      "year": "2027",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18646.png",
+      "sha256": "b44a84658e2bdb48bce695391dd62105737d08611e6f57ba7818a55977ad38b8"
     }
   ],
   "duplicate_message_ids": [
