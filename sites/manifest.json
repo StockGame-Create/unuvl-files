@@ -58463,6 +58463,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17826.png",
       "sha256": "6f63650349a8398add5948b28a62056727a1b30dbed118e05e4bbc509502c605"
+    },
+    {
+      "message_id": 17824,
+      "filename": "김종웅 흥겨웅 동아시아사 교재 @Logic_Files.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17824_.%40Logic_Files.PDF",
+      "size_bytes": 339709,
+      "telegram_date": "2025-11-01T11:31:21+00:00",
+      "title": "김종웅 흥겨웅 동아시아사 교재 @Logic_Files",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17824.png",
+      "sha256": "c543c8a2749f39d62950855b45713adbe668f14f1934d73ccb192657931ef722"
     }
   ],
   "duplicate_message_ids": [
