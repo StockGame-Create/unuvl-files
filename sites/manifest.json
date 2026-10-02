@@ -51001,6 +51001,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18676.png",
       "sha256": "c2d7f8e5a9d9d64bd37aa7a8fd06aa897498a80f8178f3e32d6fdc08ee4f53eb"
+    },
+    {
+      "message_id": 18675,
+      "filename": "워드마스터 수능 2000.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18675_.2000.pdf",
+      "size_bytes": 364066,
+      "telegram_date": "2025-12-23T02:41:45+00:00",
+      "title": "영어 Word Master 수능 2000 (정리본)",
+      "year": null,
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/18675.png",
+      "sha256": "c9d8183459ed9f298b36f7938e29f562550c773f1f0a897ed3320597b3b0d02c"
     }
   ],
   "duplicate_message_ids": [
