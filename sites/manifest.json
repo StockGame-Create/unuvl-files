@@ -53101,6 +53101,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18412.png",
       "sha256": "934d59d688c2529e268825e2d6858d27c3b7da28b931057e8fcdcb929cb188ac"
+    },
+    {
+      "message_id": 18410,
+      "filename": "현돌 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18410_.9.pdf",
+      "size_bytes": 26252860,
+      "telegram_date": "2025-11-11T14:55:45+00:00",
+      "title": "현돌 9회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18410.png",
+      "sha256": "711ac7fdfe2a413942a40079f84adf4c734b54c471fae5a0ce2cab577a1e8b42"
     }
   ],
   "duplicate_message_ids": [
