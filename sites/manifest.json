@@ -61543,6 +61543,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17512.png",
       "sha256": "48dfe9b98c3b460087fc65e7f9ea3882293d09f6bfe50a1057275d3300911a56"
+    },
+    {
+      "message_id": 17510,
+      "filename": "이마다 모고 해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17510_.pdf",
+      "size_bytes": 39883042,
+      "telegram_date": "2025-10-28T03:25:09+00:00",
+      "title": "세지 실전 모의고사 (해설지) #이마다",
+      "year": "2026",
+      "instructor": "이기상",
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/17510.png",
+      "sha256": "56c9cc81b7a9df7ce45ef9d981a6cd7ce3dbf00bc86fb5301178ea3fd0bf7831"
     }
   ],
   "duplicate_message_ids": [
