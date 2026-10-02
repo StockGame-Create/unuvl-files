@@ -66625,6 +66625,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/16978.png",
       "sha256": "e3e1f76ea39f6b6d8101bdbb8b25cfd9169ed1293901719836b036a5ac5bd2f0"
+    },
+    {
+      "message_id": 16977,
+      "filename": "2026_강대모의고사K+_물리학_5회_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16977_2026_.K%2B_._5._.pdf",
+      "size_bytes": 1888900,
+      "telegram_date": "2025-10-19T01:24:11+00:00",
+      "title": "물1 강대모의고사K+ 1~5회 #강케플",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/16977.png",
+      "sha256": "cf79e41babe9905848c18b65d63f12f8967aed6f28bc5de4f87a11e8f3a930de"
     }
   ],
   "duplicate_message_ids": [
