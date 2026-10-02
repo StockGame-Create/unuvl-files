@@ -61823,6 +61823,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17480.png",
       "sha256": "bea4d52e9a05ec5d591484c517e16df9212af8856e9a3e97daa0d9ca24af1ed8"
+    },
+    {
+      "message_id": 17478,
+      "filename": "NEWT N제 세계지리 Part 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17478_NEWT.N.Part.1.pdf",
+      "size_bytes": 1344852,
+      "telegram_date": "2025-10-27T09:25:54+00:00",
+      "title": "NEWT N제 세계지리 Part 1",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17478.png",
+      "sha256": "1d46e2ec18baa043146b99fa96ee42e08d51ed913aa564835ee212373a1fa32c"
     }
   ],
   "duplicate_message_ids": [
