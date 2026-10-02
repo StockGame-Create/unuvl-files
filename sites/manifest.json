@@ -57091,6 +57091,20 @@
       "subject": "세계사",
       "thumbnail": "thumbnails/17980.png",
       "sha256": "8638ba71c008c75c8f943deed77eacb5b5d0418fefa0fd87c011feff456e0f7b"
+    },
+    {
+      "message_id": 17979,
+      "filename": "세계사 모의고사 1회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17979_.1.pdf",
+      "size_bytes": 2424094,
+      "telegram_date": "2025-11-04T09:07:16+00:00",
+      "title": "세사 이다지도 신선한 세계사 모의고사 (문제지) 1~10회",
+      "year": "2026",
+      "instructor": "이다지",
+      "subject": "세계사",
+      "thumbnail": "thumbnails/17979.png",
+      "sha256": "c2fa255adb79e1c1f3d26af0bd569f36d15bbd42c2e7cd02c0e86a16bc490811"
     }
   ],
   "duplicate_message_ids": [
