@@ -63643,6 +63643,20 @@
       "subject": "생명과학2, 화학2, 물리학2, 지구과학2",
       "thumbnail": "thumbnails/17284.png",
       "sha256": "1764d471d618d9e635b83c023448ba38bd604b316456409129f4df9e5137868b"
+    },
+    {
+      "message_id": 17281,
+      "filename": "2024학년도_TEAM_PHASE_물리학2_직전_모의평가_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17281_2024._TEAM_PHASE_.2_._._._._.pdf",
+      "size_bytes": 8257839,
+      "telegram_date": "2025-10-24T07:24:08+00:00",
+      "title": "물2 PHYSICAT 직전 모의고사",
+      "year": "2024",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/17281.png",
+      "sha256": "729050c95ec7366787a5f8e855cd5bbfc5a19881fd2b93a2cdd0887f0679e887"
     }
   ],
   "duplicate_message_ids": [
