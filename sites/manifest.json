@@ -61137,6 +61137,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17553.png",
       "sha256": "561b21e73219338cab03d11c9ce1f7c5dffa55fe374200eba0e16a9b53e5632b"
+    },
+    {
+      "message_id": 17552,
+      "filename": "상상 파이널2 8차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17552_.2.8.pdf",
+      "size_bytes": 67456054,
+      "telegram_date": "2025-10-28T15:24:50+00:00",
+      "title": "국어 파이널2 8차 모의고사 상상 국어평가연구소 (인쇄소퀄) #상상",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/17552.png",
+      "sha256": "b8228338fa896fff5af7e2611665ed8b9f0385b14756389dab45e1301cb685d8"
     }
   ],
   "duplicate_message_ids": [
