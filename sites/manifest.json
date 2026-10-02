@@ -60157,6 +60157,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/17661.png",
       "sha256": "f013a8dbe78cca8548984a472ed1aa522eefc1db5f48c718bef3dbabac5be04c"
+    },
+    {
+      "message_id": 17659,
+      "filename": "EBS_NEXT_STEP_수능특강_수1+수2+확통_for2026_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17659_EBS_NEXT_STEP_._.1%2B.2%2B._for2026_.pdf",
+      "size_bytes": 119148581,
+      "telegram_date": "2025-10-30T22:56:39+00:00",
+      "title": "EBS_NEXT_STEP_수능특강_수1+수2+확통_for2026_문제",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17659.png",
+      "sha256": "5f8c99f3ba4f184bcf1b42d06f06292b724f568e395e73950e160b211043d359"
     }
   ],
   "duplicate_message_ids": [
