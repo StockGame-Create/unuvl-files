@@ -60409,6 +60409,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/17633.png",
       "sha256": "a6031598003a0f6f04d1fafc8e5b491f03ce37a911afeb9fd0ad1de035d1897e"
+    },
+    {
+      "message_id": 17632,
+      "filename": "2024_브릿지R_생명2_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17632_2024_.R_.2_.pdf",
+      "size_bytes": 29389924,
+      "telegram_date": "2025-10-30T14:35:35+00:00",
+      "title": "생2 시대인재 리부트 브릿지 모의고사 1회 #리부트",
+      "year": "2024",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/17632.png",
+      "sha256": "51542e1d25cc433d5d362b53ab7f042a1b8f22afdcc10de2c3584bfbee7148a2"
     }
   ],
   "duplicate_message_ids": [
