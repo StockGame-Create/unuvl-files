@@ -62439,6 +62439,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/17418.png",
       "sha256": "a6005db991da1956379913f813ec4ddbe4712796b424ecd46798347cce8267e0"
+    },
+    {
+      "message_id": 17416,
+      "filename": "2025학년도 쎈B 수학1 해설 및 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17416_2025.B.1.pdf",
+      "size_bytes": 11257059,
+      "telegram_date": "2025-10-26T09:01:28+00:00",
+      "title": "2025학년도 쎈B 수학1 해설 및 답지",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17416.png",
+      "sha256": "10bf42426eba6c2737005d5b7b8956ae9e5ce34497338d7a09ebb972e43ee704"
     }
   ],
   "duplicate_message_ids": [
