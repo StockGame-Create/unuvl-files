@@ -54529,6 +54529,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18248.png",
       "sha256": "371b5300870e3bd77d027ea6e32c5e2529f44e21a6b8fb5e8b00b35a9009290d"
+    },
+    {
+      "message_id": 18246,
+      "filename": "권현석_공통_모의고사_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18246_._._._1.pdf",
+      "size_bytes": 4336102,
+      "telegram_date": "2025-11-08T13:51:15+00:00",
+      "title": "권현석_공통_모의고사_1회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18246.png",
+      "sha256": "58a4a17fe406f07d3e428d50c21d7e3cb0b6482878d4a85d9754e0bce787a1f4"
     }
   ],
   "duplicate_message_ids": [
