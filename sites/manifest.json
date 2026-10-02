@@ -58323,6 +58323,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17843.png",
       "sha256": "0c07c220a524f9a04612dd7be45d1f268fd45e473f4476faf6d96f7bbf674f02"
+    },
+    {
+      "message_id": 17842,
+      "filename": "엑셀싱크로_7권속성반용.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17842_._7.pdf",
+      "size_bytes": 4606014,
+      "telegram_date": "2025-11-01T13:13:13+00:00",
+      "title": "엑셀싱크로_7권속성반용",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17842.png",
+      "sha256": "ab40d167182b4b507b0f43b08435f9e916b7646094c00bcddb3348875c1aa007"
     }
   ],
   "duplicate_message_ids": [
