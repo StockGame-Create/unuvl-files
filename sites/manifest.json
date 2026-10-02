@@ -51603,6 +51603,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18592.png",
       "sha256": "d7243d44663c4aa84652b1c326a75693e18cfdd58909db5338d1ea2ee5f9a559"
+    },
+    {
+      "message_id": 18591,
+      "filename": "2026 강모 화2 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18591_2026.2.9.pdf",
+      "size_bytes": 10371341,
+      "telegram_date": "2025-12-16T03:14:48+00:00",
+      "title": "2026 강모 화2 9회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18591.png",
+      "sha256": "7a16d540a816c3c1531dc3d4e93115518cc3f7b5e0bae7c0111a2bdb8f442ff3"
     }
   ],
   "duplicate_message_ids": [
