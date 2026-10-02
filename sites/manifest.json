@@ -55173,6 +55173,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18180.png",
       "sha256": "3c9521d7b86eab6de8b9541781d4e2852d3d26d402767d813e665750b7d1a2f4"
+    },
+    {
+      "message_id": 18179,
+      "filename": "2026 LCS CE,BR 17 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18179_2026.LCS.CE.BR.17.pdf",
+      "size_bytes": 20229245,
+      "telegram_date": "2025-11-06T14:01:03+00:00",
+      "title": "생1 LCS BLADE RUNNER 17회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/18179.png",
+      "sha256": "73ceb1809ecac947f8f8f8cecaeec4439932c149998cb2b1f309db1be73bda3f"
     }
   ],
   "duplicate_message_ids": [
