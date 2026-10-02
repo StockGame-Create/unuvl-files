@@ -54459,6 +54459,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18260.png",
       "sha256": "cf5cafa10a57b6059adeac738f7265e708942ba3a8506fbf001feeebb54fdfac"
+    },
+    {
+      "message_id": 18258,
+      "filename": "@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18258_%40yubin_MPGA.pdf",
+      "size_bytes": 9638155,
+      "telegram_date": "2025-11-08T14:01:00+00:00",
+      "title": "지1 강대모의고사K 31,32회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/18258.png",
+      "sha256": "4bc25364ccaf345717455b8961ae2b8f1b6ba7246b91c4f65068886d30655980"
     }
   ],
   "duplicate_message_ids": [
