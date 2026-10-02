@@ -57189,6 +57189,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/17973.png",
       "sha256": "2ac4bc9d8a2a9720f6494ddc8738ec4bc9fadbacae10ef170b379c2233d7dde0"
+    },
+    {
+      "message_id": 17969,
+      "filename": "다중부정형_마스터_자료_산업&정보사회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17969_._._._.pdf",
+      "size_bytes": 78423,
+      "telegram_date": "2025-11-04T01:04:48+00:00",
+      "title": "다중부정형_마스터_자료_산업&정보사회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17969.png",
+      "sha256": "4ba3e0d9d23d4a58bc0410b71c6e053bc5ff534c83e5b5c907f6f17aa6f76324"
     }
   ],
   "duplicate_message_ids": [
