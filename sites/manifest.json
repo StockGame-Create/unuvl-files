@@ -50805,6 +50805,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18697.png",
       "sha256": "1d1dd67bd53602a9ad7afe31cb199e640abb68668b831fba9f284e96b53f4d27"
+    },
+    {
+      "message_id": 18696,
+      "filename": "자이 문학정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18696_.pdf",
+      "size_bytes": 996449077,
+      "telegram_date": "2025-12-27T05:14:08+00:00",
+      "title": "문학 자이스토리 수능기출문제",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18696.png",
+      "sha256": "808a1eeddfdec7d81904049d8e9ec76fc6bfbd2c677f29032919934042b8c6d0"
     }
   ],
   "duplicate_message_ids": [
