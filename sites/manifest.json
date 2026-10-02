@@ -55565,6 +55565,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/18148.png",
       "sha256": "3c77fd5bca2b0e2dae96b7322665af0bbd1f4c85161e2cbc2e781f76ac022b1d"
+    },
+    {
+      "message_id": 18144,
+      "filename": "강은양_KEY_모의고사_3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18144_._KEY_._3.pdf",
+      "size_bytes": 14617857,
+      "telegram_date": "2025-11-06T13:01:59+00:00",
+      "title": "국어 KEY 국어 모의고사 3회",
+      "year": "2026",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/18144.png",
+      "sha256": "042facd1b0bfad4198821c80ac9d66646a2da0b4cb3a5c5a907544a9b02cc155"
     }
   ],
   "duplicate_message_ids": [
