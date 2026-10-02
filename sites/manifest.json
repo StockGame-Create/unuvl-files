@@ -60325,6 +60325,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/17641.png",
       "sha256": "9b8496a721d9513fd9624dad1e34395f8041dba2c1986d7e6ab4d7c3ab2b181c"
+    },
+    {
+      "message_id": 17639,
+      "filename": "화2 26 서바 14회분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17639_.2.26.14.pdf",
+      "size_bytes": 44302134,
+      "telegram_date": "2025-10-30T14:43:01+00:00",
+      "title": "화2 시대인재 서바이벌 모의고사 1~14회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/17639.png",
+      "sha256": "1f7fd258db19a1a5ee9bc7f045a7eb975ed45709d0bd3c1876ce9715d2eac6dc"
     }
   ],
   "duplicate_message_ids": [
