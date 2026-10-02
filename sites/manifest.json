@@ -64441,6 +64441,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/17212.png",
       "sha256": "672a8fe926b2b934885c7b2ef5090ae5a15771c4a87e95d87982989453127826"
+    },
+    {
+      "message_id": 17211,
+      "filename": "5교시생명D_Fine_제2회_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17211_5.D_Fine_.2._.pdf",
+      "size_bytes": 525975,
+      "telegram_date": "2025-10-23T14:45:57+00:00",
+      "title": "생1 D.Fine Final 1,2회 #디파인",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/17211.png",
+      "sha256": "fb8b99a9f349212ff2a94a4d9a8aa8b62201d21793480d4de7e080c808bd3a28"
     }
   ],
   "duplicate_message_ids": [
