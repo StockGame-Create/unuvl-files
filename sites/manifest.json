@@ -64679,6 +64679,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17195.png",
       "sha256": "c4426a7b2ba6285fced2ea1a31f9bef2f571ffde2fc2bf7ed62de0079f071702"
+    },
+    {
+      "message_id": 17194,
+      "filename": "2교시수학D_Fine_제2회_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17194_2.D_Fine_.2._.pdf",
+      "size_bytes": 1557441,
+      "telegram_date": "2025-10-23T14:44:20+00:00",
+      "title": "수학 D.Fine Final 1,2회 #디파인",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/17194.png",
+      "sha256": "414c80ec2b0d556a939036b7d06cd3947ee84226b345b06deffc06fb18ef0b2d"
     }
   ],
   "duplicate_message_ids": [
