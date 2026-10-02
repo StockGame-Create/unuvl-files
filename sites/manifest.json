@@ -52947,6 +52947,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18426.png",
       "sha256": "36479ea9cb8093b3a0e4acd27a022be6558431c350146b27a8145480ba301099"
+    },
+    {
+      "message_id": 18425,
+      "filename": "국바 17회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18425_.17.pdf",
+      "size_bytes": 18129815,
+      "telegram_date": "2025-11-12T00:40:00+00:00",
+      "title": "국어 서바이벌 모의고사 17회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18425.png",
+      "sha256": "6cc1af0752d80c21dcd184ced7c839c060e7981a9be3930099807fb257b28057"
     }
   ],
   "duplicate_message_ids": [
