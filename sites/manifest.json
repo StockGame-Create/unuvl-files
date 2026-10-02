@@ -61417,6 +61417,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/17529.png",
       "sha256": "deb9a0a78998b63a4c0a48b2440bfad4ff463912dc6e29edc5cd3812b8d20e14"
+    },
+    {
+      "message_id": 17527,
+      "filename": "16072025153455.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17527_16072025153455.pdf",
+      "size_bytes": 48429236,
+      "telegram_date": "2025-10-28T14:52:47+00:00",
+      "title": "영어 김지영 V유형독해",
+      "year": "2026",
+      "instructor": "김지영",
+      "subject": "영어",
+      "thumbnail": "thumbnails/17527.png",
+      "sha256": "e3948a11fe8fb83b596224dcc8e5a410d97517aeecaed5f8048391dd7d88db82"
     }
   ],
   "duplicate_message_ids": [
