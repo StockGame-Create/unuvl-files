@@ -65673,6 +65673,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/17075.png",
       "sha256": "40b02475dcf11f89201d89151b5d1b7a1450d147d699fecc4b575644bca71afd"
+    },
+    {
+      "message_id": 17072,
+      "filename": "Masterpiece Special.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17072_Masterpiece.Special.pdf",
+      "size_bytes": 105070824,
+      "telegram_date": "2025-10-21T22:25:49+00:00",
+      "title": "수학 시대인재 추석특강 마스터피스 스페셜",
+      "year": "2026",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17072.png",
+      "sha256": "f615e7b385ebc33ce82faaa254cec9c2c00172d3e9bef4766e5329f79d2850f1"
     }
   ],
   "duplicate_message_ids": [
