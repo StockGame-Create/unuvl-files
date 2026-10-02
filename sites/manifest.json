@@ -65687,6 +65687,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17072.png",
       "sha256": "f615e7b385ebc33ce82faaa254cec9c2c00172d3e9bef4766e5329f79d2850f1"
+    },
+    {
+      "message_id": 17071,
+      "filename": "Adobe Scan 2025년 10월 22일 (1).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17071_Adobe.Scan.2025.10.22.1.pdf",
+      "size_bytes": 1162314,
+      "telegram_date": "2025-10-21T22:23:56+00:00",
+      "title": "사문 NEXT Post-9 모의고사",
+      "year": "2026",
+      "instructor": "제니",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/17071.png",
+      "sha256": "1760d527057ab8fc3daf3279a0a0bdf72a87823f425156d098b2fb56fee19e1f"
     }
   ],
   "duplicate_message_ids": [
