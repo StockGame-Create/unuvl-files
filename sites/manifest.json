@@ -56181,6 +56181,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/18071.png",
       "sha256": "82b52dd0fb165a37919bfd74974473151bee6ed27dcac102ac3aec73b8702293"
+    },
+    {
+      "message_id": 18070,
+      "filename": "화학1_2026_OWL_PANORAMA_FINAL_1회_정답표_251104.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18070_.1_2026_OWL_PANORAMA_FINAL_1._._251104.pdf",
+      "size_bytes": 72009,
+      "telegram_date": "2025-11-05T03:19:21+00:00",
+      "title": "화1 OWL PANORAMA FINAL 1,2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/18070.png",
+      "sha256": "4bfaedd38d7d676e813ee259622f2319dcfad6cae49ba298dfb828e08c884f46"
     }
   ],
   "duplicate_message_ids": [
