@@ -52541,6 +52541,20 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/18496.png",
       "sha256": "582d76bdf12b0deac2984cbc39b5e235d7265be5762254e5fe395b3a040e53f2"
+    },
+    {
+      "message_id": 18495,
+      "filename": "완자 통합과학1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18495_.1.pdf",
+      "size_bytes": 70839533,
+      "telegram_date": "2025-12-07T06:46:31+00:00",
+      "title": "과학 완자 통합과학1",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/18495.png",
+      "sha256": "6c5d3f511bc1199a2b5caba27640751a278b9a6593d7a292955b49029e7bf62c"
     }
   ],
   "duplicate_message_ids": [
