@@ -51239,6 +51239,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/18635.png",
       "sha256": "c4a8e451bd52a4e729de5706cfbb5f0b68c7d5d04bbd16e3d5ccab09177afe1c"
+    },
+    {
+      "message_id": 18634,
+      "filename": "강k 화2 19_250913_230638.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18634_.k.2.19_250913_230638.pdf",
+      "size_bytes": 7592548,
+      "telegram_date": "2025-12-16T11:05:11+00:00",
+      "title": "화2 강대모의고사K 15~22회 (문제지) #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/18634.png",
+      "sha256": "63e3ead25459021de6ba58bcaeb3a2fb04cbceff43db0a4e9d150575ed84cbde"
     }
   ],
   "duplicate_message_ids": [
