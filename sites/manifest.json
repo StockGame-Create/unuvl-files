@@ -56265,6 +56265,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18059.png",
       "sha256": "6a18a0c51c8730fc2fc98ead63dcc24870e3dd6d59c2e3d2590586d25a1d6a9b"
+    },
+    {
+      "message_id": 18058,
+      "filename": "2026 장재원 response 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18058_2026.response.5.pdf",
+      "size_bytes": 2475727,
+      "telegram_date": "2025-11-05T03:15:35+00:00",
+      "title": "2026 장재원 response 5회",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18058.png",
+      "sha256": "b9b5117be602ee5197d1bfadfc1983eb41f7981e10fb8577f77be5e3653f1276"
     }
   ],
   "duplicate_message_ids": [
