@@ -56713,6 +56713,20 @@
       "subject": null,
       "thumbnail": "thumbnails/18014.png",
       "sha256": "42fb60f5c4777be852e9118d6d21e6b57a3f35cd9982edb4be5902c9ac106592"
+    },
+    {
+      "message_id": 18013,
+      "filename": "2026_로비스트모의고사_제25회,_제26회_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/18013_2026_._.25._.26._._._.pdf",
+      "size_bytes": 24034056,
+      "telegram_date": "2025-11-04T13:51:07+00:00",
+      "title": "2026_로비스트모의고사_제25회,_제26회_정답_및_해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18013.png",
+      "sha256": "e85420438e7eed466ea0fc75d22566ee7e42e0d60779f29b165a548019ed5f67"
     }
   ],
   "duplicate_message_ids": [
