@@ -51505,6 +51505,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/18604.png",
       "sha256": "cb0ad749266c156aa62dca2bba7dd29508390fb603cd7a78e48fb3768bfe598e"
+    },
+    {
+      "message_id": 18598,
+      "filename": "2026 강모 화2 15회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18598_2026.2.15.pdf",
+      "size_bytes": 8865048,
+      "telegram_date": "2025-12-16T03:14:48+00:00",
+      "title": "화2 강준호 모의고사 5~25회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/18598.png",
+      "sha256": "35fe6565e45db58f25911d159acd7b3a860f45e34112d9f87ea443d9759b201e"
     }
   ],
   "duplicate_message_ids": [
