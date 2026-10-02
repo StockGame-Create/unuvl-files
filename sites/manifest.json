@@ -57581,6 +57581,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17920.png",
       "sha256": "6aec14fc4c8a6d608080cec17dcf65b27a1ad67b30c24d12fac99fb1ad6e86c2"
+    },
+    {
+      "message_id": 17919,
+      "filename": "2026_강기원_모의고사_6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17919_2026_._._6.pdf",
+      "size_bytes": 17589501,
+      "telegram_date": "2025-11-02T14:30:58+00:00",
+      "title": "제보자의 한마디 : 수학 강기원 모의고사 6회",
+      "year": "2026",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17919.png",
+      "sha256": "a7f798cc57c25dddfeae9d8d574f3c74454791fff570f38dda73caa234fdf255"
     }
   ],
   "duplicate_message_ids": [
