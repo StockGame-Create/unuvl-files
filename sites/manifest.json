@@ -53731,6 +53731,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/18326.png",
       "sha256": "b97645f05493d1cd95e2002067b6379d275c330e20cdfd635bd9a89cd57c55e2"
+    },
+    {
+      "message_id": 18324,
+      "filename": "2026_생1_시대인재_서바이벌N_모의_4회해설_unlocked.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18324_2026_.1_._.N_._4._unlocked.pdf",
+      "size_bytes": 4070714,
+      "telegram_date": "2025-11-09T14:23:10+00:00",
+      "title": "생1 시대인재 서바이벌 N전용 모의고사 4회 #서바N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/18324.png",
+      "sha256": "5cc56259df6c14273f99e74b5cbc97ef4b8929c87c32f0f89f82bdf964ef6b41"
     }
   ],
   "duplicate_message_ids": [
