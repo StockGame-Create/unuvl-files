@@ -58239,6 +58239,20 @@
       "subject": null,
       "thumbnail": "thumbnails/17852.png",
       "sha256": "e7e9c72e7e43008286b6a616585182fac64293b18706891d5efae8554a64d038"
+    },
+    {
+      "message_id": 17850,
+      "filename": "26잘푸모윤사시즌2_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17850_26.2_1.pdf",
+      "size_bytes": 21672904,
+      "telegram_date": "2025-11-01T13:53:25+00:00",
+      "title": "윤사 잘 푸는 모의고사 시즌2 (파이널) 1회 (인쇄소퀄) #잘푸모",
+      "year": "2026",
+      "instructor": "김종익",
+      "subject": "윤리와사상",
+      "thumbnail": "thumbnails/17850.png",
+      "sha256": "fbedd6dc1d523da26cbae01eccc21d7062c031bd33fa2296a774d94dc35b35b1"
     }
   ],
   "duplicate_message_ids": [
