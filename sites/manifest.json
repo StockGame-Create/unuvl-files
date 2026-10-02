@@ -57329,6 +57329,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/17949.png",
       "sha256": "553aec089fa59245cc201ab39a50318f80117b380f0c93295678b1c676f80a39"
+    },
+    {
+      "message_id": 17947,
+      "filename": "26_여상진T_수리논술_적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17947_26_.T_._.pdf",
+      "size_bytes": 302595234,
+      "telegram_date": "2025-11-03T13:40:52+00:00",
+      "title": "수학 여상진 수리논술 연구소 수학 본교재, 상, 하, 미분, 적분",
+      "year": "2026",
+      "instructor": "여상진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/17947.png",
+      "sha256": "d67bc257ae277c6b7f490816c5c1d38c56eef375a0e8bc81fd6b2a0c3572709c"
     }
   ],
   "duplicate_message_ids": [
