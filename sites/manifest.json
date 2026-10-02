@@ -60437,6 +60437,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/17630.png",
       "sha256": "b5b771d7cc4665cc6b55a807f800878fa9113aa06022ff891dc83566edcd510f"
+    },
+    {
+      "message_id": 17629,
+      "filename": "2026학년도_이모_1회_해설지_대인라_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17629_2026._._1._._._1.pdf",
+      "size_bytes": 1406164,
+      "telegram_date": "2025-10-30T14:33:50+00:00",
+      "title": "국어 이정수 모의고사 1,2회",
+      "year": "2026",
+      "instructor": "이정수",
+      "subject": "국어",
+      "thumbnail": "thumbnails/17629.png",
+      "sha256": "ba0889dbbe0c774bcde4ad41c5385cd851f811f2303bcddeec1c98ade6aa6c53"
     }
   ],
   "duplicate_message_ids": [
