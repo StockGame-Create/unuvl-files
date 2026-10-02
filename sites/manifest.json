@@ -58309,6 +58309,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/17845.png",
       "sha256": "2a7b7ae0de049ed0cf7503ac337e995f3af87b1f6977067bc421c05883532c4b"
+    },
+    {
+      "message_id": 17843,
+      "filename": "엑싱 속성반 8권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/17843_.8.pdf",
+      "size_bytes": 5997893,
+      "telegram_date": "2025-11-01T13:13:13+00:00",
+      "title": "엑싱 속성반 8권",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/17843.png",
+      "sha256": "0c07c220a524f9a04612dd7be45d1f268fd45e473f4476faf6d96f7bbf674f02"
     }
   ],
   "duplicate_message_ids": [
