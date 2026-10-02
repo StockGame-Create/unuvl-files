@@ -54977,6 +54977,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18194.png",
       "sha256": "18801d1f3c99f7d52106bef4468d1b031fbb3b2338c7f2b072f2de5e0a4eff5b"
+    },
+    {
+      "message_id": 18193,
+      "filename": "2026_수학_서바이벌_26회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18193_2026_._._26._.pdf",
+      "size_bytes": 31538077,
+      "telegram_date": "2025-11-06T14:05:53+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 26회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/18193.png",
+      "sha256": "445819c9fe001c0190db36f53823991b7e9e96a58f4a9e2f93a0600cbecf2135"
     }
   ],
   "duplicate_message_ids": [
