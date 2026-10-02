@@ -51085,6 +51085,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18651.png",
       "sha256": "6b53b030bea688f68a274f7d3831f6098994c879db6eda327a4511ae8858ec27"
+    },
+    {
+      "message_id": 18650,
+      "filename": "2027_마더텅_수능기출문제집_국어_문학_문제편정답표시X.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18650_2027_._._._._.X.pdf",
+      "size_bytes": 15572410,
+      "telegram_date": "2025-12-19T10:34:18+00:00",
+      "title": "국어 마더텅 수능기출문제 문학",
+      "year": "2027",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/18650.png",
+      "sha256": "af379ed81643c820b250b9306a3dd28d8a783ba8724a851db67781e0123ad36b"
     }
   ],
   "duplicate_message_ids": [
