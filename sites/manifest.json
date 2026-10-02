@@ -66989,6 +66989,20 @@
       "subject": "생활과윤리, 윤리와사상, 정치와법, 세계지리",
       "thumbnail": "thumbnails/16948.png",
       "sha256": "02b08aeafff3b6c49888a72aacb68002eac2dcaa4770a525eba7bac747843a96"
+    },
+    {
+      "message_id": 16947,
+      "filename": "최종점검 한국사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16947_.pdf",
+      "size_bytes": 3018908,
+      "telegram_date": "2025-10-18T16:18:34+00:00",
+      "title": "한국사 시대인재 서바이벌 최종점검 1회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "한국사",
+      "thumbnail": "thumbnails/16947.png",
+      "sha256": "1abde8679f21355b3edeb8de2972bd3efdc2a9f20de31e22f391461615d17a17"
     }
   ],
   "duplicate_message_ids": [
