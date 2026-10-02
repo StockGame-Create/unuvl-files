@@ -51855,6 +51855,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/18570.png",
       "sha256": "12eaf3f7b6c316b35e39ee4ab0fd3aaa03db684a89ce3b9cb0b9d22d23024d42"
+    },
+    {
+      "message_id": 18569,
+      "filename": "2026_나진환_지구과학2_시즌1_SPECTRUM_고체_1권_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18569_2026_._.2_.1_SPECTRUM_._1._.pdf",
+      "size_bytes": 40089642,
+      "telegram_date": "2025-12-15T15:23:33+00:00",
+      "title": "지2 나진환 스펙트럼 고체편 1권",
+      "year": "2026",
+      "instructor": "나진환",
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/18569.png",
+      "sha256": "c858203b8e440a3795deb66e8b2ed003b36fd7c3e625462eac55f4071aa070ca"
     }
   ],
   "duplicate_message_ids": [
