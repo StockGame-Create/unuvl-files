@@ -53367,6 +53367,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/18378.png",
       "sha256": "d0aa8b922d724e4566ca6c55fb1fd08e92f3a57fcbe5dad73b7da3dac9f195b7"
+    },
+    {
+      "message_id": 18376,
+      "filename": "심찬우_작두_지문_문학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-4/18376_._._._.pdf",
+      "size_bytes": 16146764,
+      "telegram_date": "2025-11-11T03:33:11+00:00",
+      "title": "심찬우_작두_지문_문학",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/18376.png",
+      "sha256": "59b1f938d0da4ba8f367bdf5bd699bf8c7c22fa2626322a857182a3f2c1b6b50"
     }
   ],
   "duplicate_message_ids": [
