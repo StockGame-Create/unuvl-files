@@ -75515,6 +75515,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16155.png",
       "sha256": "ef5568094239a80bce5970ec9c48f5a43d0b126304f2822f89f3d93d530b8031"
+    },
+    {
+      "message_id": 16154,
+      "filename": "강k 9회 지2_250817_000429.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16154_.k.9.2_250817_000429.pdf",
+      "size_bytes": 5706770,
+      "telegram_date": "2025-10-04T23:19:04+00:00",
+      "title": "지2 강대모의고사K 9회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/16154.png",
+      "sha256": "eeee7be5c62c420e01f7111bc729cba5f3274c79e74414375b04d14849f5a5ec"
     }
   ],
   "duplicate_message_ids": [
