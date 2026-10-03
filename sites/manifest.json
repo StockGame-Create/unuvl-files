@@ -73947,6 +73947,20 @@
       "subject": "사화문화",
       "thumbnail": "thumbnails/16316.png",
       "sha256": "082120d525136f914add4aeeefb51942df34395eb113b49768773d5c27a76d97"
+    },
+    {
+      "message_id": 16315,
+      "filename": "26_사문_전국_파브_11회_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16315_26_._._._11._%40yubin_MPGA.pdf",
+      "size_bytes": 11863501,
+      "telegram_date": "2025-10-08T15:13:53+00:00",
+      "title": "사문 시대인재 Final 브릿지 전국 모의고사 11회 #파브전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사화문화",
+      "thumbnail": "thumbnails/16315.png",
+      "sha256": "ec413235e55067b99917d187028b10b4465679cf148735ffaa39e57d076d2d21"
     }
   ],
   "duplicate_message_ids": [
