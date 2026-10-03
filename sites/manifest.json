@@ -69803,6 +69803,20 @@
       "subject": null,
       "thumbnail": "thumbnails/16652.png",
       "sha256": "53b3cf54c175681acd86c07ad85b8d0eabf588dceea23b1f4ef575977a81d4a6"
+    },
+    {
+      "message_id": 16651,
+      "filename": "2026 강대모의고사K 물리학 2회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16651_2026.K.2.pdf",
+      "size_bytes": 498187,
+      "telegram_date": "2025-10-14T11:52:24+00:00",
+      "title": "2026 강대모의고사K 물리학 2회 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/16651.png",
+      "sha256": "7f7c1f9e620307930317832cf7098f3451a5cae850132ecd258ed189b1cb25a6"
     }
   ],
   "duplicate_message_ids": [
