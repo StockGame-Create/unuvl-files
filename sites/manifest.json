@@ -82025,6 +82025,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/15477.png",
       "sha256": "67d4bea11befff22c978fc1a58a09c56d6fd1da1153689c97675b25da7e65f8f"
+    },
+    {
+      "message_id": 15476,
+      "filename": "2025_김종익_파이널_생윤_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15476_2025_._._._.pdf",
+      "size_bytes": 94941062,
+      "telegram_date": "2025-09-25T09:19:36+00:00",
+      "title": "생윤 파이널 김종익 모의고사 1회 ~ 12회 합본",
+      "year": "2025",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/15476.png",
+      "sha256": "92fc906c72466d983d75c416f547556059e3ffbd76c953eb72f056c1149c39fb"
     }
   ],
   "duplicate_message_ids": [
