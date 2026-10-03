@@ -83453,6 +83453,20 @@
       "subject": null,
       "thumbnail": "thumbnails/14774.png",
       "sha256": "2c1041af0f6f133ae0b240af0153ee96b2eed6db86c456804cb2784f6eb01c34"
+    },
+    {
+      "message_id": 14772,
+      "filename": "2025년_9월_더프_국어_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14772_2025._9._._._%40yubin_MPGA.pdf",
+      "size_bytes": 16722355,
+      "telegram_date": "2025-09-19T07:59:29+00:00",
+      "title": "국어 THE PREMIUM 9월 모의고사 (문제지) #더프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14772.png",
+      "sha256": "d0902d7e0a0dea28f3bf83f5f8ea8317869fce750a84a5a048abc62e7dc9a969"
     }
   ],
   "duplicate_message_ids": [
