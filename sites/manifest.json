@@ -69201,6 +69201,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16722.png",
       "sha256": "b5a4dc2a3e981a38551c4c34741f9840dfb4e0d2b671ec66a6d2c8eb55abd12a"
+    },
+    {
+      "message_id": 16721,
+      "filename": "2026 국어 강은양 경제 스키마 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16721_2026.pdf",
+      "size_bytes": 94871787,
+      "telegram_date": "2025-10-15T22:51:09+00:00",
+      "title": "국어 schema 경제",
+      "year": "2026",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/16721.png",
+      "sha256": "c7e09e9509e6ed96871e4d590b1458fe7366b9996ca167998887855f19682119"
     }
   ],
   "duplicate_message_ids": [
