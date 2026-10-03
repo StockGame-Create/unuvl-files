@@ -79645,6 +79645,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/15713.png",
       "sha256": "04790b4089dbf1a8f77698382dbfc60dc0f0dfaec2d8f787df670e72136f78b0"
+    },
+    {
+      "message_id": 15712,
+      "filename": "1회 2회 빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15712_1.2.pdf",
+      "size_bytes": 1184873,
+      "telegram_date": "2025-09-27T09:17:10+00:00",
+      "title": "영어 김지영 V모의고사 1회, 2회",
+      "year": "2026",
+      "instructor": "김지영",
+      "subject": "영어",
+      "thumbnail": "thumbnails/15712.png",
+      "sha256": "a9c18ef7f47a645790c4af5ce1d982bfd170d1a6f54d660e474d55e4584a0b73"
     }
   ],
   "duplicate_message_ids": [
