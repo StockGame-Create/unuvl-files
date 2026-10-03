@@ -77363,6 +77363,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15945.png",
       "sha256": "c1e254dab15e8728b52a60a62267b74b3bf5bab3c425e6765dee51c12d93e195"
+    },
+    {
+      "message_id": 15943,
+      "filename": "2026_수학_김현우_파이널_스탠다드_9평대비_30제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15943_2026_._._._._9._30.pdf",
+      "size_bytes": 6989023,
+      "telegram_date": "2025-09-30T14:22:29+00:00",
+      "title": "수학 김현우 스탠다드 9평 대비 30제",
+      "year": "2026",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15943.png",
+      "sha256": "a06dea40b5c2b116e452ddccb3b2f2b777451334993f7476c09beb654e9263f4"
     }
   ],
   "duplicate_message_ids": [
