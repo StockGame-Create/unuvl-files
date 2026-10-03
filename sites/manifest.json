@@ -76817,6 +76817,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/16008.png",
       "sha256": "5e8dd507198341c33919c72bc367846d17163e9004fbaa6bc5cba35678a8964d"
+    },
+    {
+      "message_id": 16007,
+      "filename": "홍준용_블리츠_시즌2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16007_._._.2.pdf",
+      "size_bytes": 10429031,
+      "telegram_date": "2025-10-02T00:28:33+00:00",
+      "title": "생1 BLITZ 시즌2 SCENARIO 8~11회",
+      "year": "2026",
+      "instructor": "홍준용",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/16007.png",
+      "sha256": "f1cd5565ebf213d1665c4a0e453905b917511d78bec20887a5714f2fc44b9724"
     }
   ],
   "duplicate_message_ids": [
