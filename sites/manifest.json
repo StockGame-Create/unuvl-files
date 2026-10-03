@@ -71315,6 +71315,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16512.png",
       "sha256": "8f6408fed40ea19bfaf553139cee3c2df4d3594676393ccbb5f4556df15ff127"
+    },
+    {
+      "message_id": 16511,
+      "filename": "2026학년도_대성_The_Constant_수학_모의고사_4회_문제_@yubin.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16511_2026._._The_Constant_._._4._._%40yubin.pdf",
+      "size_bytes": 3003453,
+      "telegram_date": "2025-10-12T03:00:56+00:00",
+      "title": "수학 THE CONSTANT 1~5회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16511.png",
+      "sha256": "ea4afb4b0bc3ee8c4621ba53b22e503331ca8c35225e3c9eb1b5a83a5ff2f8da"
     }
   ],
   "duplicate_message_ids": [
