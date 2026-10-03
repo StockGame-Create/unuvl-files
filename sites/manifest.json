@@ -76299,6 +76299,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16062.png",
       "sha256": "97ceab19113f53f910c40cad0185be78205c814e8b85c4911a128883e8fa0265"
+    },
+    {
+      "message_id": 16059,
+      "filename": "윤성훈 mskill2026.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16059_.mskill2026.pdf",
+      "size_bytes": 513041302,
+      "telegram_date": "2025-10-02T23:15:34+00:00",
+      "title": "사문 윤성훈 도표통계 M-Skill 12",
+      "year": "2026",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/16059.png",
+      "sha256": "5b61ece314d17bc2b56f33b0e78eff1abbb03472e2e8d5d25f236afa5af722cf"
     }
   ],
   "duplicate_message_ids": [
