@@ -77699,6 +77699,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15907.png",
       "sha256": "e16946eaafe407cc989140d491fc7971ba2052e60d4022878a4015e827063622"
+    },
+    {
+      "message_id": 15906,
+      "filename": "강 k 12회 사문 6회 k+ 2026.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15906_.k.12.6.k%2B.2026.pdf",
+      "size_bytes": 25278948,
+      "telegram_date": "2025-09-30T01:07:53+00:00",
+      "title": "사문 강대모의고사K 12회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/15906.png",
+      "sha256": "8e97f5099aa5eff9039add7a561d473a3c9262db56f58ba560627df73bddd58b"
     }
   ],
   "duplicate_message_ids": [
