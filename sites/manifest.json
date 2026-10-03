@@ -84377,6 +84377,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/14666.png",
       "sha256": "654513e6a7683f120b83a6c95210a38d6d2cc2f565168351fb124a80aa29c0ae"
+    },
+    {
+      "message_id": 14661,
+      "filename": "2026 지구과학1 강대K 17회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14661_2026.1.K.17.pdf",
+      "size_bytes": 11332896,
+      "telegram_date": "2025-09-17T14:18:25+00:00",
+      "title": "지1 강대모의고사K 17회 #강k",
+      "year": "2024",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14661.png",
+      "sha256": "6cdf0c6e9523566392aa8022670a6ac13915f88e3b24a4954fb285e17501cb44"
     }
   ],
   "duplicate_message_ids": [
