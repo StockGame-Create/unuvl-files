@@ -83593,6 +83593,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/14758.png",
       "sha256": "b3cca68c6dc989f952ff150453dbd9b556e3f72dcb14db268df5e8d93a6aad17"
+    },
+    {
+      "message_id": 14756,
+      "filename": "2026 화학1 실전모의고사 SEASON1 해설지 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14756_2026.1.SEASON1.pdf",
+      "size_bytes": 3841074,
+      "telegram_date": "2025-09-19T00:01:46+00:00",
+      "title": "화1 HeLiOS 실전 모의고사 시즌1 1회 ~ 3회 #헬리오스",
+      "year": "2022",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/14756.png",
+      "sha256": "ea651eb8bb5e4ce20df05e67af6723c5eac37576566e2a1703f05593d22d729b"
     }
   ],
   "duplicate_message_ids": [
