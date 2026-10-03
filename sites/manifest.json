@@ -85021,6 +85021,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/14598.png",
       "sha256": "e74738001e26d45379d329f24d1ab7036c769ef271746e826735ff32b9d173b4"
+    },
+    {
+      "message_id": 14596,
+      "filename": "2026_리앤로_빈칸완성_250705_201847.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14596_2026_._._250705_201847.pdf",
+      "size_bytes": 22485576,
+      "telegram_date": "2025-09-17T09:07:06+00:00",
+      "title": "영어 READ N LOGIC 빈칸완성편",
+      "year": "2026",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/14596.png",
+      "sha256": "a188b8914febc7f882b2c7bab1eb2beaf4a19dc43cb359e645588ea794adcb30"
     }
   ],
   "duplicate_message_ids": [
