@@ -75627,6 +75627,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16141.png",
       "sha256": "e2146bb343e86181f4ca2c2fcc253517fb43b3d598b1a0721931a2e3d89d6cae"
+    },
+    {
+      "message_id": 16139,
+      "filename": "쏸 모의고사 2회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16139_.2.pdf",
+      "size_bytes": 3441564,
+      "telegram_date": "2025-10-04T14:31:49+00:00",
+      "title": "지1 쏸 모의고사 2회",
+      "year": "2026",
+      "instructor": "유시훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16139.png",
+      "sha256": "99809467bebf05e595b6f3fabb9f246ec40852c1d366f79ffcef2be95870360a"
     }
   ],
   "duplicate_message_ids": [
