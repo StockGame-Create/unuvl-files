@@ -82613,6 +82613,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/14870.png",
       "sha256": "d6945c0e8114dda76b4dad3c0fb5b009ffa8a2f342fb5ec2ecab1e3349c48251"
+    },
+    {
+      "message_id": 14869,
+      "filename": "서바 3~10.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14869_.3.10.pdf",
+      "size_bytes": 4837410,
+      "telegram_date": "2025-09-20T03:03:08+00:00",
+      "title": "생2 시대인재 서바이벌 3회 ~ 10회 #서바",
+      "year": "2024",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/14869.png",
+      "sha256": "54db091bf7c188911491091df2ac2f60c9fae51ca5044a32899dc96cb97ca95e"
     }
   ],
   "duplicate_message_ids": [
