@@ -77013,6 +77013,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/15984.png",
       "sha256": "72c2cce7eb65cdd08146fbb4e47c85a81e8553790ac534ac199ae7e461d454aa"
+    },
+    {
+      "message_id": 15983,
+      "filename": "2026 TDYD 15 복습북.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15983_2026.TDYD.15.pdf",
+      "size_bytes": 209573540,
+      "telegram_date": "2025-10-01T14:54:18+00:00",
+      "title": "영어 조정식 The Day is Your Day! 1.5, 복습북 #더데유데",
+      "year": "2026",
+      "instructor": "조정식",
+      "subject": "영어",
+      "thumbnail": "thumbnails/15983.png",
+      "sha256": "1d6296d4fbc0012b44107d0f96ac90261a287395c77243c385500465a5c64f8e"
     }
   ],
   "duplicate_message_ids": [
