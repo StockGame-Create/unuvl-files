@@ -86127,6 +86127,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14459.png",
       "sha256": "0b986c18e1a7f1c66a8225a5852e4c1b5187b13268af81aef5bbf6f1a21e39d0"
+    },
+    {
+      "message_id": 14457,
+      "filename": "2026학년도_강준호_모의고사_20회_복사본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14457_2026._._._20._.pdf",
+      "size_bytes": 148201534,
+      "telegram_date": "2025-09-15T15:32:02+00:00",
+      "title": "화2 강준호 모의고사 20회",
+      "year": "2026",
+      "instructor": "강준호",
+      "subject": "화학2",
+      "thumbnail": "thumbnails/14457.png",
+      "sha256": "76abce61281e45579336ed2b8cef368a3c7561a663af3e9c5cf1476828c5f027"
     }
   ],
   "duplicate_message_ids": [
