@@ -70363,6 +70363,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/16605.png",
       "sha256": "e1c6c5c3a87a6492030af2fdc7c010cfd6285cd3727f4210209138b898af6eeb"
+    },
+    {
+      "message_id": 16604,
+      "filename": "인트론 3주차 _250328_194101.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16604_.3._250328_194101.pdf",
+      "size_bytes": 32145033,
+      "telegram_date": "2025-10-13T15:06:22+00:00",
+      "title": "생2 INTRON 1~8주차",
+      "year": "2026",
+      "instructor": "이서준",
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/16604.png",
+      "sha256": "5a1864e2e698e02574709053f188b888f0e17c29b176a2c5feae7de5a2ee7be0"
     }
   ],
   "duplicate_message_ids": [
