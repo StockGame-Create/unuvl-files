@@ -77741,6 +77741,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15901.png",
       "sha256": "ffcc4fa4bb4f929ec2f71f6ec85a0741c871950ed61254044d5a0b07f793ede2"
+    },
+    {
+      "message_id": 15895,
+      "filename": "2026_수학_강기원_서바이벌_어싸_11주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15895_2026_._._._._11.pdf",
+      "size_bytes": 83306529,
+      "telegram_date": "2025-09-29T14:58:13+00:00",
+      "title": "수학 Assignment Survival 11주차 #어싸",
+      "year": "2026",
+      "instructor": "강기원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15895.png",
+      "sha256": "229c5b6edd0b30e4f01e32feedb52e71a474cce7b0631d08e27f418a4e9095e7"
     }
   ],
   "duplicate_message_ids": [
