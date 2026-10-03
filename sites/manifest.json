@@ -77475,6 +77475,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/15932.png",
       "sha256": "79dab2d01af28f6949f125069de5a47d54e2943efa56cd71f38feee0d971eed0"
+    },
+    {
+      "message_id": 15930,
+      "filename": "Untitled_20250924_233816.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15930_Untitled_20250924_233816.pdf",
+      "size_bytes": 53933441,
+      "telegram_date": "2025-09-30T14:09:25+00:00",
+      "title": "사문 FULLEST 시즌1 1~4회",
+      "year": "2026",
+      "instructor": "우영호",
+      "subject": "경제",
+      "thumbnail": "thumbnails/15930.png",
+      "sha256": "3ee587e448565cbb79d84ed281b59819f8e2a19c2c8e9ad4bc588ba13d27d33b"
     }
   ],
   "duplicate_message_ids": [
