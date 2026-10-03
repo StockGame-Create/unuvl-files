@@ -76621,6 +76621,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/16026.png",
       "sha256": "6d5259da3d54a77a1940be1d99c8de20ede33827318a100e8a243b60e9ab8e52"
+    },
+    {
+      "message_id": 16024,
+      "filename": "변기모 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16024_.pdf",
+      "size_bytes": 874322,
+      "telegram_date": "2025-10-02T14:15:26+00:00",
+      "title": "국어 변기 고난도 모의고사",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16024.png",
+      "sha256": "116b4732f84cd20c233215e78a1851cbfce5c2682d5def696eead8dd55c7b4e3"
     }
   ],
   "duplicate_message_ids": [
