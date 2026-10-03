@@ -1,6 +1,20 @@
 {
   "files": [
     {
+      "message_id": 24878,
+      "filename": "27 강k 물리 10회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24878_27.k.10.pdf",
+      "size_bytes": 5428524,
+      "telegram_date": "2026-10-03T05:58:41+00:00",
+      "title": "물1 강대모의고사K 10회 #강k",
+      "year": "2027",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/24878.png",
+      "sha256": "be8a504955fa372247c5713b52e2c8dc1ad4c131c8d8e449673757637d5dbecd"
+    },
+    {
       "message_id": 24870,
       "filename": "솔의눈_강K 9회.pdf",
       "stored_as": null,
