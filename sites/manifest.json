@@ -84027,6 +84027,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14705.png",
       "sha256": "fb8ee4b4e6ed9ca3a30388b142283769e21e39780b4498d5645d1f15a25772d5"
+    },
+    {
+      "message_id": 14702,
+      "filename": "2026_EBS_수능특강사용설명서_독서_인문예술_250503_091821.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14702_2026_EBS_._._._250503_091821.pdf",
+      "size_bytes": 40089653,
+      "telegram_date": "2025-09-18T03:32:07+00:00",
+      "title": "국어 EBS 수능특강 사용설명서 독서",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14702.png",
+      "sha256": "2e6df03046e4907dc89dff750979f0b98862225607818e27e46e6b7af6ab520c"
     }
   ],
   "duplicate_message_ids": [
