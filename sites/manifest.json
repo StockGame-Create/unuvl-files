@@ -74857,6 +74857,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16217.png",
       "sha256": "8015b396361a0a2db29a22137a9f49d9e8323c044c4f6b87438dc79a045f6da0"
+    },
+    {
+      "message_id": 16215,
+      "filename": "이그라이트 시즌 2 3-4.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16215_.2.3-4.pdf",
+      "size_bytes": 3099219,
+      "telegram_date": "2025-10-05T23:40:13+00:00",
+      "title": "수학 이그라이트 시즌2",
+      "year": "2026",
+      "instructor": "정병호, 정병훈",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16215.png",
+      "sha256": "34499613d467a7f708eb8af626b86aadffc15f06dbe64bc0d877eacab2d9046f"
     }
   ],
   "duplicate_message_ids": [
