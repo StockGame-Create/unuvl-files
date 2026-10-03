@@ -69103,6 +69103,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16732.png",
       "sha256": "a0e2dc1a4d4d4b1a7bfac47ed82cd6b40aded517562b4bd8cfa0993a3c468089"
+    },
+    {
+      "message_id": 16728,
+      "filename": "[해설지] 4주차 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16728_.4.2.pdf",
+      "size_bytes": 905359,
+      "telegram_date": "2025-10-16T14:10:27+00:00",
+      "title": "생윤 현자의 돌 현장 강의 시즌3 모의고사 4주차 1,2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/16728.png",
+      "sha256": "48b70e6a23f89b25ca009c0a1c281968dab9ee5593b01c25f93d290f19459a44"
     }
   ],
   "duplicate_message_ids": [
