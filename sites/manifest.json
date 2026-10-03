@@ -68039,6 +68039,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16839.png",
       "sha256": "c62f7d24c23a98817d3479160bd84f4e994b6ad7edb0a258f244ee2bd8f1e7c2"
+    },
+    {
+      "message_id": 16838,
+      "filename": "추특교재 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16838_.1.pdf",
+      "size_bytes": 49510683,
+      "telegram_date": "2025-10-17T15:36:31+00:00",
+      "title": "국어 문법 Theme 정리 1~3권",
+      "year": "2026",
+      "instructor": "손창빈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/16838.png",
+      "sha256": "79991952510768455656c81658d1d30de9b6dee4ee89b0b75851528e34c2e4cc"
     }
   ],
   "duplicate_message_ids": [
