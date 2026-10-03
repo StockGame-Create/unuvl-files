@@ -84839,6 +84839,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/14618.png",
       "sha256": "af660b4cdd9145b5869172a5b6b8844d1c95ac2f6275443fe4fc9768ad6d50ff"
+    },
+    {
+      "message_id": 14617,
+      "filename": "앱스키마_3_문학_해설편_기울기.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14617_._3_._._.pdf",
+      "size_bytes": 105238586,
+      "telegram_date": "2025-09-17T11:44:10+00:00",
+      "title": "국어 EB-SCHEMA 3 문학, 독서 #앱스키마",
+      "year": "2026",
+      "instructor": "김승리",
+      "subject": "국어",
+      "thumbnail": "thumbnails/14617.png",
+      "sha256": "baa8aedc4df69d43c3e101bdc87cebfc9de87a57ec6ea0af764f384395a07926"
     }
   ],
   "duplicate_message_ids": [
