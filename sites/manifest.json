@@ -74535,6 +74535,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16257.png",
       "sha256": "ef42732aa316b41b7eb02a5f18c4f832fcd7b06a1cd5ac5d2c9c9f8a8dca6411"
+    },
+    {
+      "message_id": 16255,
+      "filename": "적자생존_사문_시즌3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16255_._._.3.pdf",
+      "size_bytes": 3998374,
+      "telegram_date": "2025-10-07T13:55:47+00:00",
+      "title": "사문 적자생존 모의고사 시즌3 7,8회",
+      "year": "2026",
+      "instructor": "최적",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/16255.png",
+      "sha256": "60202d5803ba21164c12b8eb1af4b68a1a5f66fcaa3839ad9d69d024ea7a6fdb"
     }
   ],
   "duplicate_message_ids": [
