@@ -85063,6 +85063,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14593.png",
       "sha256": "ffab7a87b62ffd5784a877c9ff9570597d3475495621302af3676b1093f89042"
+    },
+    {
+      "message_id": 14591,
+      "filename": "2024_국어_이원준_리트_300제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14591_2024_._._._300.pdf",
+      "size_bytes": 272385888,
+      "telegram_date": "2025-09-17T05:36:12+00:00",
+      "title": "국어 리트 300제",
+      "year": "2024",
+      "instructor": "이원준",
+      "subject": "국어",
+      "thumbnail": "thumbnails/14591.png",
+      "sha256": "89b76c6816b7d9ba1159378c9c69cbc2488b290ff857e36f2ede25f040cdbe3a"
     }
   ],
   "duplicate_message_ids": [
