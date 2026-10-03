@@ -82459,6 +82459,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/14886.png",
       "sha256": "be02afa402c17ae72de93f3e669c020f4d4db5b4a02e37406e3f7d011b2c30fd"
+    },
+    {
+      "message_id": 14884,
+      "filename": "허들링_공통_10주차_본교재.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14884_._._10._.pdf",
+      "size_bytes": 14765713,
+      "telegram_date": "2025-09-20T11:25:20+00:00",
+      "title": "수학 THE HURDLING 공통 10주차 #허들링",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14884.png",
+      "sha256": "c15580591bcaf8afb435c3e0a3bf348ec1ee3028bf56555367cc4a57859f7a3a"
     }
   ],
   "duplicate_message_ids": [
