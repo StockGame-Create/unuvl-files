@@ -74647,6 +74647,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16242.png",
       "sha256": "3bc446c7450b08311dce061666e2effc084a36a4c9b8f84a76f9b442d463ad39"
+    },
+    {
+      "message_id": 16240,
+      "filename": "26 리바 생윤 2권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16240_26.2.pdf",
+      "size_bytes": 114034876,
+      "telegram_date": "2025-10-06T13:37:09+00:00",
+      "title": "생윤 REVIVAL 2,3권 #리바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/16240.png",
+      "sha256": "9924a6c44655b063fa7f87a898b9134d6ccee0a5976519ccffd23e8e336a0b8f"
     }
   ],
   "duplicate_message_ids": [
