@@ -83887,6 +83887,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14723.png",
       "sha256": "48ffcb8fbb583ae077d42257b1e5678b45d9dd3e14e2ed03fb18cafa9cef2ea1"
+    },
+    {
+      "message_id": 14722,
+      "filename": "22_생2_브릿지_9_22회_14회분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14722_22_.2_._9_22._14.pdf",
+      "size_bytes": 41537962,
+      "telegram_date": "2025-09-18T14:08:12+00:00",
+      "title": "생2 시대인재 브릿지 모의고사 9회  ~ 22회 합본 #브릿지",
+      "year": "2022",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/14722.png",
+      "sha256": "dc5351be00ede707cf477371bc7000f63a0d41c4d47b063679ae40e4cd98b9ce"
     }
   ],
   "duplicate_message_ids": [
