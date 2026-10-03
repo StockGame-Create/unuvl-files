@@ -76663,6 +76663,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16021.png",
       "sha256": "060554023362970053827f9b5d67de10234f20398a1d1cc6900651cddc33807d"
+    },
+    {
+      "message_id": 16019,
+      "filename": "한수_파이널Ⅰ_4차_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16019_._._4._.pdf",
+      "size_bytes": 3063366,
+      "telegram_date": "2025-10-02T03:12:42+00:00",
+      "title": "국어 한수 파이널1 1~5차 #한수",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16019.png",
+      "sha256": "5eb6f58706f109e11d44ae118f21fbb38e9a222adf9a0bb7f062bbb021470acd"
     }
   ],
   "duplicate_message_ids": [
