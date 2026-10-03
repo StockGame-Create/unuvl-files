@@ -86057,6 +86057,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/14469.png",
       "sha256": "647d3a9970f2098234bac1978ec6664c3f147b6d4856d2d7f2fc3196e5345e0e"
+    },
+    {
+      "message_id": 14467,
+      "filename": "9월 정법 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14467_9.pdf",
+      "size_bytes": 430909,
+      "telegram_date": "2025-09-15T23:25:48+00:00",
+      "title": "정법 시대인재 9월 전국모의평가 (해설지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/14467.png",
+      "sha256": "04098867c9e84fb5cf78bd8b6a8b0a51f13c12b47ea0cb66f95522fa167e6b1e"
     }
   ],
   "duplicate_message_ids": [
