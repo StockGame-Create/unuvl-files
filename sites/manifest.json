@@ -74773,6 +74773,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16227.png",
       "sha256": "09f303763892acb72c4d6e22d6149013367bd6073cab5372eb8dedb2e559a15c"
+    },
+    {
+      "message_id": 16225,
+      "filename": "김젬마_듄스트라다무스_고전문학_현강_클리닉_자료_251006.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16225_._._._._._._251006.pdf",
+      "size_bytes": 1419540,
+      "telegram_date": "2025-10-06T09:08:14+00:00",
+      "title": "국어 듄스트다라무스 고전시가",
+      "year": "2026",
+      "instructor": "김젬마",
+      "subject": "국어",
+      "thumbnail": "thumbnails/16225.png",
+      "sha256": "3e84d3559c1d84aa83e737a0d11be59e55a9a8d61c9500536204547ab9449ee8"
     }
   ],
   "duplicate_message_ids": [
