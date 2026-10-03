@@ -75473,6 +75473,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/16160.png",
       "sha256": "b582e7f01a46aae27ba0021c09032d97089c408ca6b8ffc9856ecec020a4643d"
+    },
+    {
+      "message_id": 16158,
+      "filename": "최적 적생모 시즌 1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16158_.1.pdf",
+      "size_bytes": 34024864,
+      "telegram_date": "2025-10-05T12:53:12+00:00",
+      "title": "정법 적자생존 모의고사 시즌1 1~3회",
+      "year": "2026",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/16158.png",
+      "sha256": "b45406eb2830d8f6f4fdcddb3a87c944b0a98401aaa581c023e0639d27f80fd2"
     }
   ],
   "duplicate_message_ids": [
