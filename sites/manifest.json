@@ -68977,6 +68977,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/16747.png",
       "sha256": "c7eac1444e51aa331e42592c0065d441632bc4c79521d677b4a7009c134a7974"
+    },
+    {
+      "message_id": 16745,
+      "filename": "2026 강대K 26회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16745_2026.K.26.pdf",
+      "size_bytes": 30518524,
+      "telegram_date": "2025-10-16T14:25:22+00:00",
+      "title": "수학 강대모의고사K 25,26회 (인쇄소퀄) #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16745.png",
+      "sha256": "27f2354ab84baf7dfa10a77f3f05ce5815048d930b4e3d7754a652f320c337e6"
     }
   ],
   "duplicate_message_ids": [
