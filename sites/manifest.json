@@ -69579,6 +69579,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16673.png",
       "sha256": "cb505debc6554321283d3b9e8cef0012aacdba63d563a8b6fbe9f70049a27ca2"
+    },
+    {
+      "message_id": 16670,
+      "filename": "2026_물리학1_서바이벌_14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16670_2026_.1_._14.pdf",
+      "size_bytes": 12185161,
+      "telegram_date": "2025-10-14T13:51:42+00:00",
+      "title": "물1 시대인재 서바이벌 모의고사 14회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/16670.png",
+      "sha256": "e9a1bf34af47735b645b8fd6e23ddb97c8676270dd039291e441aa16ab7f29f3"
     }
   ],
   "duplicate_message_ids": [
