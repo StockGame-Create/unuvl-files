@@ -84783,6 +84783,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14626.png",
       "sha256": "898904b5ec32c1518b8a228669a093c14251d3e11c5ab4d3a9f6fc0d5e2776a4"
+    },
+    {
+      "message_id": 14624,
+      "filename": "화1 김준 시그모 5~6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14624_.1.5.6.pdf",
+      "size_bytes": 6339818,
+      "telegram_date": "2025-09-17T13:23:38+00:00",
+      "title": "화1 시그니처 모의고사 5회, 6회 #시그모",
+      "year": "2026",
+      "instructor": "김준",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/14624.png",
+      "sha256": "93e4c81279402b29a4dd0e98c99db56ab9e332882ba6e42e9ed64795b2045e7c"
     }
   ],
   "duplicate_message_ids": [
