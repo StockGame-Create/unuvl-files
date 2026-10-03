@@ -80401,6 +80401,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15644.png",
       "sha256": "e1acb3046f959260c77547bb643766a6d185d180e4b1d3b8f97510571bca9a9e"
+    },
+    {
+      "message_id": 15642,
+      "filename": "브릿지 N전용 8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15642_.N.8.pdf",
+      "size_bytes": 13415828,
+      "telegram_date": "2025-09-27T02:19:32+00:00",
+      "title": "수학 시대인재 브릿지 N 전용 모의고사 8회 #브릿지N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15642.png",
+      "sha256": "7b7dd5e281c94fc1a4530bce8bfb2e273716950ea13686f30c02b2e3876f8c8b"
     }
   ],
   "duplicate_message_ids": [
