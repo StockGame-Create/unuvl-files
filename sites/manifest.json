@@ -72939,6 +72939,20 @@
       "subject": "생활과윤리, 윤리와사상, 한국지리, 세계지리, 동아시아사, 세계사, 경제, 정치와법, 사회문화",
       "thumbnail": "thumbnails/16397.png",
       "sha256": "cbfb4b51cc14140e0a696ae229051f18693530c661cd4455ef8d30784ff028de"
+    },
+    {
+      "message_id": 16396,
+      "filename": "시대인재_2026학년도_10월_전국_모의평가_4교시_과학탐구_지구2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16396_._2026._10._._._4._._.2.pdf",
+      "size_bytes": 4822702,
+      "telegram_date": "2025-10-10T14:33:18+00:00",
+      "title": "지2 시대인재 10월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/16396.png",
+      "sha256": "dfe317d71f6942411c018bcc23726845a88b4d39f31de5454f6fbb999f71f86b"
     }
   ],
   "duplicate_message_ids": [
