@@ -77783,6 +77783,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15892.png",
       "sha256": "70fd797bab809fb3640595533a734e5a6d30fac1bb50ad997e71e7afacad715b"
+    },
+    {
+      "message_id": 15891,
+      "filename": "2026_수학_파이널_브릿지_전국_11회_문제,해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15891_2026_._._._._11._.pdf",
+      "size_bytes": 9363929,
+      "telegram_date": "2025-09-29T14:53:52+00:00",
+      "title": "수학 시대인재 Final 브릿지 모의고사 11회 #파브",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15891.png",
+      "sha256": "2b9a025d86cb0aec0429e86e0e30f03483db3ea737a07556e02a5156c1543946"
     }
   ],
   "duplicate_message_ids": [
