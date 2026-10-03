@@ -83075,6 +83075,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14821.png",
       "sha256": "f815fb6ec368d8b98c0cbfe2d5be69ec17ac39983acc36a18318f95d6e87c361"
+    },
+    {
+      "message_id": 14818,
+      "filename": "상상_파이널2_4차_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14818_._.2_4._.pdf",
+      "size_bytes": 38437191,
+      "telegram_date": "2025-09-19T11:10:14+00:00",
+      "title": "국어 상상 파이널2 3차, 4차 모의고사 (해설지) #상상",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14818.png",
+      "sha256": "dac6ed7e1fc01bb3af0437fad8d8242798a9e6696258650de9fbc1733cc2830b"
     }
   ],
   "duplicate_message_ids": [
