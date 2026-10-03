@@ -82753,6 +82753,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/14854.png",
       "sha256": "26a5cda33aeffe09d216bbb1a66f7cf53fec4e12f29480ccbc1ca3f2b08f266a"
+    },
+    {
+      "message_id": 14853,
+      "filename": "2026_생명과학1_정석준_인간실격_모의고사_6회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14853_2026_.1_._._._6._.pdf",
+      "size_bytes": 5016797,
+      "telegram_date": "2025-09-19T15:50:52+00:00",
+      "title": "생1 인간실격 모의고사 모의고사 6회",
+      "year": "2026",
+      "instructor": "정석준",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/14853.png",
+      "sha256": "f17a4a050c005086a68161e2d2a5137e5e4960acfd56e5db21da1da96ca741c3"
     }
   ],
   "duplicate_message_ids": [
