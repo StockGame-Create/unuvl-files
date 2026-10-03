@@ -76593,6 +76593,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16029.png",
       "sha256": "e86bc25bf84b7bdd84e4810768fcbdd00f3af5f999141725703aa07c4eb8eebf"
+    },
+    {
+      "message_id": 16027,
+      "filename": "특난도_모의고사_파이널_시즌_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16027_._._._._1.pdf",
+      "size_bytes": 13187805,
+      "telegram_date": "2025-10-02T14:17:56+00:00",
+      "title": "물1 강민웅 특난도 모의고사 파이널1 1,2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/16027.png",
+      "sha256": "cee7f0e1e8e09cb397563bac36496eab373a9b5be261bf77512f108cf10d8e6b"
     }
   ],
   "duplicate_message_ids": [
