@@ -76075,6 +76075,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16091.png",
       "sha256": "747c0070feffa809c2e58aab2968c4a0a33d334f2256138f450c09fcdf088233"
+    },
+    {
+      "message_id": 16090,
+      "filename": "2026_시대인재_지구과학_전국서바이벌_10회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16090_2026_._._._10._.pdf",
+      "size_bytes": 939406,
+      "telegram_date": "2025-10-03T15:05:43+00:00",
+      "title": "지1 시대인재 서바이벌 전국 모의고사 10회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16090.png",
+      "sha256": "4e51b001a7cf225c1048c14cc61c3a59aa51ac7411ae4078206aa6c028c952e4"
     }
   ],
   "duplicate_message_ids": [
