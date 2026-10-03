@@ -74283,6 +74283,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/16284.png",
       "sha256": "a2bca280b098a5d843828bb9ec9b67e12f2b4d94fe38028d12b16f1074233c0e"
+    },
+    {
+      "message_id": 16282,
+      "filename": "다항함수그래프의_모든것_250526_101918.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16282_._._250526_101918.pdf",
+      "size_bytes": 41323120,
+      "telegram_date": "2025-10-08T13:08:10+00:00",
+      "title": "수학 다항함수 그래프의 모든 것",
+      "year": "2026",
+      "instructor": "양승진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16282.png",
+      "sha256": "2e76276cd942dce19dce0c64c738b538076c18c10899a747259cfed252f75546"
     }
   ],
   "duplicate_message_ids": [
