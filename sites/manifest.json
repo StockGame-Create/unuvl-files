@@ -70685,6 +70685,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16582.png",
       "sha256": "7751d2878f5dcea402cb2c5cadff19f057c24ecf234e895d89c467a8b9c3834c"
+    },
+    {
+      "message_id": 16580,
+      "filename": "사문 강K+ 7회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16580_.K%2B.7.pdf",
+      "size_bytes": 17038836,
+      "telegram_date": "2025-10-13T14:25:35+00:00",
+      "title": "사문 강대모의고사K 13회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/16580.png",
+      "sha256": "1bf7768fb1a01a30f322b98072cb5ee6b532d51b227ef0116e1dafaf5701c380"
     }
   ],
   "duplicate_message_ids": [
