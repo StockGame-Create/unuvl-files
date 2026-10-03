@@ -68473,6 +68473,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/16801.png",
       "sha256": "19cea0ce09694776616440383b121575d1b8805bcf91b713fdacbec68e4de3f8"
+    },
+    {
+      "message_id": 16799,
+      "filename": "한완기_2025_10_해설_확통.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16799_._2025_10_._.pdf",
+      "size_bytes": 2255317,
+      "telegram_date": "2025-10-17T14:52:38+00:00",
+      "title": "수학 한완기 10월 고3 전국연합학력평가 공개해설 공통, 확통, 미적분, 기하",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16799.png",
+      "sha256": "890631a4d3fcd004d2acc1812212382bc019d3a3f46180e1f4208d6ffaaeaa9e"
     }
   ],
   "duplicate_message_ids": [
