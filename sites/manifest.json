@@ -73513,6 +73513,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16340.png",
       "sha256": "1e1cbb0f81dc0db78eb3d2cce502755fe82431b125537c47a7486ddcc9798b96"
+    },
+    {
+      "message_id": 16336,
+      "filename": "NOT.N 국어 N제 @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16336_NOT.N.N.%40yubin_MPGA.pdf",
+      "size_bytes": 2289675,
+      "telegram_date": "2025-10-09T14:38:03+00:00",
+      "title": "국어 NOT N 국어 N제",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16336.png",
+      "sha256": "ea6abadb2b0cdd8d68bf8a1b57949f225d62eefd7547673fe43243badcc9770a"
     }
   ],
   "duplicate_message_ids": [
