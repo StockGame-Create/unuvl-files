@@ -70279,6 +70279,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/16612.png",
       "sha256": "e794113495500eb99faac91540ce16e5e39f099096ca6df26a4662ec946baf49"
+    },
+    {
+      "message_id": 16610,
+      "filename": "2026_생2_이서준_INTRON_8주_유전자의_발현2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16610_2026_.2_._INTRON_8._._.2.pdf",
+      "size_bytes": 43208983,
+      "telegram_date": "2025-10-13T15:06:23+00:00",
+      "title": "생2 INTRON 1~8주차",
+      "year": "2026",
+      "instructor": "이서준",
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/16610.png",
+      "sha256": "19eb807293be42e549c75ae320e30ee0c5d2d365d37a4988957a717ef8bd64ec"
     }
   ],
   "duplicate_message_ids": [
