@@ -76019,6 +76019,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16097.png",
       "sha256": "8d47230226aad46708b5476c891558629942702ea5cdf0e7271ba3e35c5b423d"
+    },
+    {
+      "message_id": 16096,
+      "filename": "피크 1단원 고지자기_250828_224012.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16096_.1._250828_224012.pdf",
+      "size_bytes": 2265319,
+      "telegram_date": "2025-10-03T15:57:37+00:00",
+      "title": "지1 PEAK",
+      "year": "2026",
+      "instructor": "엄기은",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16096.png",
+      "sha256": "4c370356f1ddb4715fb417c5f6b1cc2f124cfd11b6da0c29a90d0d938b15dd38"
     }
   ],
   "duplicate_message_ids": [
