@@ -73331,6 +73331,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16363.png",
       "sha256": "06f0a8630638e22335da7513924b2a0fd48da64bbef514369d5ba4de40106171"
+    },
+    {
+      "message_id": 16360,
+      "filename": "지구과학1_김진영_모의고사_1회_해설_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16360_.1_._._1._._%40yubin_MPGA.pdf",
+      "size_bytes": 15391825,
+      "telegram_date": "2025-10-09T15:22:53+00:00",
+      "title": "지1 김진영 모의고사 1회",
+      "year": "2026",
+      "instructor": "김진영",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16360.png",
+      "sha256": "fafa74ead3a9ab13423237d675e9026ab80ed7bd0763a16dbec3db8f740b281b"
     }
   ],
   "duplicate_message_ids": [
