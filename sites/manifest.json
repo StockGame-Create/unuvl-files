@@ -80121,6 +80121,20 @@
       "subject": "사화문화",
       "thumbnail": "thumbnails/15669.png",
       "sha256": "1e766b5c70108e863eb7c473dd0036e2d8fc272c65684b0ef54ead2027454a95"
+    },
+    {
+      "message_id": 15667,
+      "filename": "2026_LCS_EE_EDGE_생명과학1_8회_250927_101926.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15667_2026_LCS_EE_EDGE_.1_8._250927_101926.pdf",
+      "size_bytes": 13663791,
+      "telegram_date": "2025-09-27T04:28:34+00:00",
+      "title": "생1 LCS EE EDGE 8회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15667.png",
+      "sha256": "be4eacf1ef3b447094cdacb2032d86f0f78773c90123671a6afcfa8566b7e3cd"
     }
   ],
   "duplicate_message_ids": [
