@@ -78819,6 +78819,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15793.png",
       "sha256": "4a236c81cdbed6b83ce72aacc62b502ab37008c79f803363f7f8427750c8f389"
+    },
+    {
+      "message_id": 15792,
+      "filename": "최지욱_6평_마스터피스_본교재.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15792_._6._._.pdf",
+      "size_bytes": 64156542,
+      "telegram_date": "2025-09-28T11:50:41+00:00",
+      "title": "수학 시대인재 최지욱 6평 분석, 마스터피스",
+      "year": "2026",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15792.png",
+      "sha256": "c881b8c37f3b39c69c9d879faf119da0996f2b4b996bf596760f76a2bda6d73d"
     }
   ],
   "duplicate_message_ids": [
