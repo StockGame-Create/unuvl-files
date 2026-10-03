@@ -70517,6 +70517,20 @@
       "subject": null,
       "thumbnail": "thumbnails/16594.png",
       "sha256": "4b388e0ad5ff94f248f4a74f51f9cd9e27761e2544f61d2faad9f43019d678d8"
+    },
+    {
+      "message_id": 16593,
+      "filename": "진화와_증거원리2_5주차_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16593_._.2_5._1.pdf",
+      "size_bytes": 41740543,
+      "telegram_date": "2025-10-13T15:05:19+00:00",
+      "title": "진화와_증거원리2_5주차_1",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/16593.png",
+      "sha256": "63a4bd03f8e2b573367ca91a0631cd0b432ae3ef5550a10d52a4fec9fccad754"
     }
   ],
   "duplicate_message_ids": [
