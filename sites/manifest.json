@@ -84489,6 +84489,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/14651.png",
       "sha256": "08508a7777aa1bae8af974adc74a6fb5b0255a2842398e2cc72eb752d09d6971"
+    },
+    {
+      "message_id": 14650,
+      "filename": "2023 시대인재 엑셀러레이터 물리학2 31-50회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14650_2023.2.31-50.pdf",
+      "size_bytes": 83309057,
+      "telegram_date": "2025-09-17T14:05:59+00:00",
+      "title": "물2 시대인재 엑셀러레이터 N전용 31회 ~ 50회 합본 #엑셀N",
+      "year": "2023",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/14650.png",
+      "sha256": "cdce460d53b530e701dcfecec68a1724d4a2251ae286b7da1a7095932bbdb5fd"
     }
   ],
   "duplicate_message_ids": [
