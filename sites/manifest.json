@@ -68515,6 +68515,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16797.png",
       "sha256": "b813b7c1928d4eb9b808f808dbab5b9a873b6e6461df6ac4a0c8ff821d3dec72"
+    },
+    {
+      "message_id": 16796,
+      "filename": "한완기_2025_10_해설_공통.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16796_._2025_10_._.pdf",
+      "size_bytes": 2506544,
+      "telegram_date": "2025-10-17T14:52:38+00:00",
+      "title": "수학 한완기 10월 고3 전국연합학력평가 공개해설 공통, 확통, 미적분, 기하",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16796.png",
+      "sha256": "0297712a176e5d0113ac21e01f6902785cfac5e728e8da55132496f4ff9c7410"
     }
   ],
   "duplicate_message_ids": [
