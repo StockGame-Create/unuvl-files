@@ -85749,6 +85749,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/14504.png",
       "sha256": "1a1528eae4681f9ccc394ef26ce554d9fb4c13e470ee672458e1f53014991f8c"
+    },
+    {
+      "message_id": 14502,
+      "filename": "너기출_for_2026_수학Ⅱ_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14502_._for_2026_._.pdf",
+      "size_bytes": 197889446,
+      "telegram_date": "2025-09-16T09:10:18+00:00",
+      "title": "수학 너기출 수학2",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14502.png",
+      "sha256": "83bbbc235f19b5c3f8aacb5fa861edd087f738cd7fde5fabd98a5eb117ba6fdf"
     }
   ],
   "duplicate_message_ids": [
