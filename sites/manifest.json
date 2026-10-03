@@ -74815,6 +74815,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16222.png",
       "sha256": "d483517812e4da75c93d328243640fbed8557950a071a86156dcfd5e2a367e66"
+    },
+    {
+      "message_id": 16220,
+      "filename": "이투스 the Fittest 1회 국어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16220_.the.Fittest.1.pdf",
+      "size_bytes": 15100955,
+      "telegram_date": "2025-10-06T08:55:16+00:00",
+      "title": "국어 the Fittest 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16220.png",
+      "sha256": "06b77566118dd32f6ee156a11ec9d81a82b685dc85f18747e59ec8607a46d58a"
     }
   ],
   "duplicate_message_ids": [
