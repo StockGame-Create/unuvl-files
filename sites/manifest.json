@@ -83747,6 +83747,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/14744.png",
       "sha256": "b747238b8afab9ae451226d34322c51f69d8a51caf06643e486ebb88a72187da"
+    },
+    {
+      "message_id": 14741,
+      "filename": "2026_김범준_모의고사_8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14741_2026_._._8.pdf",
+      "size_bytes": 17561791,
+      "telegram_date": "2025-09-18T15:06:22+00:00",
+      "title": "수학 김범준 모의평가 8회 #범모",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14741.png",
+      "sha256": "dbc96beb30a631ad13c09a254013f21f08cfda2d808b5bc87ff7f0e04c76aa67"
     }
   ],
   "duplicate_message_ids": [
