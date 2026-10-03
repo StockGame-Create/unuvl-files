@@ -84139,6 +84139,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14692.png",
       "sha256": "3ce1b0003baff638b7bf072f8f244a7a49a5187cb19129680cb5c4b32f53c8fd"
+    },
+    {
+      "message_id": 14688,
+      "filename": "TalkFile_Adobe Scan 2025년 9월 18일.pdf.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14688_TalkFile_Adobe.Scan.2025.9.18.pdf.pdf",
+      "size_bytes": 355945,
+      "telegram_date": "2025-09-17T23:27:06+00:00",
+      "title": "지1 시대인재 서바이벌 모의고사 13회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14688.png",
+      "sha256": "8c9d33e0c087aa5445e1b54e4e549d4dd0167468e3184ef0134088badfda07e6"
     }
   ],
   "duplicate_message_ids": [
