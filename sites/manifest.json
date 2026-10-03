@@ -75851,6 +75851,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16117.png",
       "sha256": "e80ea1062ee77c47ba197f05737e1e85fc8d90175d84bb10a003c394923322af"
+    },
+    {
+      "message_id": 16115,
+      "filename": "2025_백인대장_모의고사_시즌1_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16115_2025_._._.1_.pdf",
+      "size_bytes": 152160695,
+      "telegram_date": "2025-10-04T01:09:45+00:00",
+      "title": "수학 백인대장 모의고사 시즌1 손풀이 해설",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16115.png",
+      "sha256": "4ec9efc1148cdfc42e8a716caf592ff123622dcfdcc3b22a39caab70e9bca996"
     }
   ],
   "duplicate_message_ids": [
