@@ -75053,6 +75053,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16200.png",
       "sha256": "a9f79cd908e7ad7b21f6b3771af196aa887767aefc4b2c965da0554c5b1a3925"
+    },
+    {
+      "message_id": 16198,
+      "filename": "강대_강_k_영어_10회_문제지_강대모의고사_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16198_._._k_._10._._._.pdf",
+      "size_bytes": 13316473,
+      "telegram_date": "2025-10-05T14:29:00+00:00",
+      "title": "영어 강대모의고사K 10회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/16198.png",
+      "sha256": "534506aa6aa3f487784baae976a8a00c44a04dba39ded5621d29c3a6392f06b1"
     }
   ],
   "duplicate_message_ids": [
