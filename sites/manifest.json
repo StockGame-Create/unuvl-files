@@ -75613,6 +75613,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16142.png",
       "sha256": "24f7bd2d880684ba2a6e260d50c5254f42835166311655c4d27f45cfd352c659"
+    },
+    {
+      "message_id": 16141,
+      "filename": "서바 18회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16141_.18.pdf",
+      "size_bytes": 18490147,
+      "telegram_date": "2025-10-04T14:34:03+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 17,18회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16141.png",
+      "sha256": "e2146bb343e86181f4ca2c2fcc253517fb43b3d598b1a0721931a2e3d89d6cae"
     }
   ],
   "duplicate_message_ids": [
