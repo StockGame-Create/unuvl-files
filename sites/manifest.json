@@ -74017,6 +74017,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/16311.png",
       "sha256": "9427e82f7d2cbf166e230f6ad1aea95f233189518c9e7d496f800b9d57b99fa9"
+    },
+    {
+      "message_id": 16310,
+      "filename": "26_사문_서바이벌_12회_해설_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16310_26_._._12._._%40yubin_MPGA.pdf",
+      "size_bytes": 15406035,
+      "telegram_date": "2025-10-08T15:11:30+00:00",
+      "title": "사문 시대인재 서바이벌 전국 모의고사 12회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/16310.png",
+      "sha256": "4ed81c1c983f4fcc44a675b7af865e20fbe1ca25601c4454e18a613d655ff209"
     }
   ],
   "duplicate_message_ids": [
