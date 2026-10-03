@@ -79407,6 +79407,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15742.png",
       "sha256": "aae53f0a4a18c5da5e122cc0f83c8cfd731ae022a60566a0c0ee45a4403612b2"
+    },
+    {
+      "message_id": 15741,
+      "filename": "2026학년도_오르새_천우신조_모의고사_시즌1_4회_손해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15741_2026._._._._.1_4._.pdf",
+      "size_bytes": 3515242,
+      "telegram_date": "2025-09-27T14:47:48+00:00",
+      "title": "수학 FINAL 천우신조 모의고사 시즌1 3회, 4회",
+      "year": "2026",
+      "instructor": "오르새",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15741.png",
+      "sha256": "1a4dbb97d3a76562744b8ae024146c8319c5edba3008f868fd327f4d38174a4c"
     }
   ],
   "duplicate_message_ids": [
