@@ -76187,6 +76187,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16077.png",
       "sha256": "6e660c7668aa1cadc4dc7237a0053cf9e3247a13a33b4d1ad0d471610e13db70"
+    },
+    {
+      "message_id": 16075,
+      "filename": "2026학년도_지인선×정병호_80제_최종본_0623.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16075_2026._.x._80._._0623.pdf",
+      "size_bytes": 1178725,
+      "telegram_date": "2025-10-03T14:48:38+00:00",
+      "title": "수학 지인선 x 정병호 수학1 + 수학2 80제",
+      "year": "2026",
+      "instructor": "지인선, 정병호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16075.png",
+      "sha256": "2d3f86b80cffc9a9e2824dffdfaf157404f475140e37ec91bc20b94dcb12af80"
     }
   ],
   "duplicate_message_ids": [
