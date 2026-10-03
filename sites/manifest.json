@@ -77601,6 +77601,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/15919.png",
       "sha256": "265369d8754aa189441d8277cb427d314023f1b432d40657783e7196e569ba16"
+    },
+    {
+      "message_id": 15918,
+      "filename": "조정식_더데유데_시즌1_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15918_._._.1_.pdf",
+      "size_bytes": 21965561,
+      "telegram_date": "2025-09-30T13:45:40+00:00",
+      "title": "영어 조정식 the Day is your Day! 시즌 1 모의고사 #더데유데",
+      "year": "2026",
+      "instructor": "조정식",
+      "subject": "영어",
+      "thumbnail": "thumbnails/15918.png",
+      "sha256": "9779f3801fcd4d2b144f415dffac06c8ac8c651478c95dc9fd98ab755ec18637"
     }
   ],
   "duplicate_message_ids": [
