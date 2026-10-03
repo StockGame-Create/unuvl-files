@@ -82473,6 +82473,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14884.png",
       "sha256": "c15580591bcaf8afb435c3e0a3bf348ec1ee3028bf56555367cc4a57859f7a3a"
+    },
+    {
+      "message_id": 14882,
+      "filename": "2026_생명과학1_강대K_16회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14882_2026_.1_.K_16._.pdf",
+      "size_bytes": 1919904,
+      "telegram_date": "2025-09-20T11:23:51+00:00",
+      "title": "생1 강대모의고사K 16회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/14882.png",
+      "sha256": "232f46c3612ddc22d692af11a5e790d98119abbfe0ad0b0e30b9216ff1ded606"
     }
   ],
   "duplicate_message_ids": [
