@@ -74451,6 +74451,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16265.png",
       "sha256": "b7ab08883a828ca8166fb70e74b949a3fe6cae4d63095be7cb4997f5310779a8"
+    },
+    {
+      "message_id": 16263,
+      "filename": "GRIT 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16263_GRIT.pdf",
+      "size_bytes": 300818524,
+      "telegram_date": "2025-10-07T14:44:59+00:00",
+      "title": "국어 GRIT 문학 #그릿",
+      "year": "2026",
+      "instructor": "김상훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/16263.png",
+      "sha256": "bce7cf4ff23f00113faa984f16715ce49320afb4a6a3ea7fc64acac6749b0d66"
     }
   ],
   "duplicate_message_ids": [
