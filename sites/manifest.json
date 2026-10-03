@@ -77951,6 +77951,20 @@
       "subject": "통합과학",
       "thumbnail": "thumbnails/15873.png",
       "sha256": "9dd2ca5a75e685d5e98bf2b7e75568bc32cb9189013b82baed85065072ea131f"
+    },
+    {
+      "message_id": 15872,
+      "filename": "완자_기출픽_통합과학_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15872_._._._2.pdf",
+      "size_bytes": 21624528,
+      "telegram_date": "2025-09-29T14:23:46+00:00",
+      "title": "통과 완자 기출 PICK 통합과학2 764제",
+      "year": null,
+      "instructor": null,
+      "subject": "통합과학",
+      "thumbnail": "thumbnails/15872.png",
+      "sha256": "0beb4656ab8b2ffb681e0decaeca82056e749f6e34501017074013688e7377c7"
     }
   ],
   "duplicate_message_ids": [
