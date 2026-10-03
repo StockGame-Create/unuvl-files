@@ -69061,6 +69061,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16737.png",
       "sha256": "20102d7d8b2774312d5f7b413c4137e86599ae947a9eb174c3b2d94bbe006738"
+    },
+    {
+      "message_id": 16735,
+      "filename": "시선_국어_하프_합본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16735_._._._.pdf",
+      "size_bytes": 35869040,
+      "telegram_date": "2025-10-16T14:15:49+00:00",
+      "title": "국어 시선 국어 모의고사",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16735.png",
+      "sha256": "acfe2ec19f3e857f354947b8efde69be93d950717dfe34117f0a6eece14cc700"
     }
   ],
   "duplicate_message_ids": [
