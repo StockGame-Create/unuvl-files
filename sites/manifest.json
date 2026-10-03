@@ -82781,6 +82781,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14851.png",
       "sha256": "902497a4e6bd7535d02fdbf6af9f47e8daeeb1e54db6aeb2e5e200cb016da40a"
+    },
+    {
+      "message_id": 14849,
+      "filename": "2026_한종철_철두철미_모의고사_시즌2_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14849_2026_._._._.2_.pdf",
+      "size_bytes": 5100470,
+      "telegram_date": "2025-09-19T15:23:17+00:00",
+      "title": "생1 철두철미 모의고사 시즌2 1회 ~ 8회",
+      "year": "2026",
+      "instructor": "한종철",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/14849.png",
+      "sha256": "864d315123cf6e6f450485af18a79b294945295daede008ef12f0c9716e4cf2d"
     }
   ],
   "duplicate_message_ids": [
