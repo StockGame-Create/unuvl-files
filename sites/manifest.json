@@ -84433,6 +84433,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14656.png",
       "sha256": "342066ed3b16311234add4ab3a1c0333af38558b1b5bc405b69301f7bbf1ee4c"
+    },
+    {
+      "message_id": 14655,
+      "filename": "2026_규토_라이트_N제_수1_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14655_2026_._._N._.1_.pdf",
+      "size_bytes": 38597294,
+      "telegram_date": "2025-09-17T14:16:51+00:00",
+      "title": "수학 규토 라이트 N제 수학1, 수학2",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14655.png",
+      "sha256": "29b3fd4c71b2698caec235224e99becdd15704046883168ae61c89673b7ce783"
     }
   ],
   "duplicate_message_ids": [
