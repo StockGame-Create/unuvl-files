@@ -70727,6 +70727,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/16578.png",
       "sha256": "7ec3d3ff1f206ed518cde1ee34ea7f4d71816f7831fa4637db27aa706a07a1c5"
+    },
+    {
+      "message_id": 16576,
+      "filename": "2025 연계 고전시가.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16576_2025.pdf",
+      "size_bytes": 104717671,
+      "telegram_date": "2025-10-13T14:20:44+00:00",
+      "title": "국어 연계 고전시가 final 고전시가",
+      "year": "2026",
+      "instructor": "김재훈",
+      "subject": "국어",
+      "thumbnail": "thumbnails/16576.png",
+      "sha256": "dae39587de886abd7a5b187c471ebae6fa05a511c855b381c7f1de94281d6df6"
     }
   ],
   "duplicate_message_ids": [
