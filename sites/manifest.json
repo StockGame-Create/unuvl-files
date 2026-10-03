@@ -73919,6 +73919,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/16321.png",
       "sha256": "055fa2406bc1c95c3b5a111f596dee0de8a9435864bc9f9908a4d33680e8aefc"
+    },
+    {
+      "message_id": 16318,
+      "filename": "1_꿈꾸는라이언_한국사_요약노트_73회_한능검_업데이트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16318_1_._._._73._._.pdf",
+      "size_bytes": 654225,
+      "telegram_date": "2025-10-08T22:15:08+00:00",
+      "title": "한국사 꿈꾸는 라이언 한국사 요약노트 조선전기",
+      "year": "2026",
+      "instructor": null,
+      "subject": "한국사",
+      "thumbnail": "thumbnails/16318.png",
+      "sha256": "7196653639d04602ca2e3e75e2b6fb0cffb67aad4babab92a2499199a4f08572"
     }
   ],
   "duplicate_message_ids": [
