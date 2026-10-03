@@ -76509,6 +76509,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16035.png",
       "sha256": "822f80d731753fea663f4b2082e4263467af49f935b4f0de010c0bb7268d17f9"
+    },
+    {
+      "message_id": 16034,
+      "filename": "02_2_현자의돌_시즌1_해설_11_20회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16034_02_2_._.1_._11_20.pdf",
+      "size_bytes": 188506886,
+      "telegram_date": "2025-10-02T14:20:50+00:00",
+      "title": "생윤 현자의 돌 모의고사 시즌1 1~20회 (인쇄소퀄) #현돌모",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/16034.png",
+      "sha256": "4eef5ab7e61fe8cf09918f2ddf07e82d0435821aca8e61c78cb0d66e18a7cb49"
     }
   ],
   "duplicate_message_ids": [
