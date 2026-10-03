@@ -71105,6 +71105,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16533.png",
       "sha256": "95ed97950d22c1a047ee3bbeefbc8fcbc2b7328038562e672cefa0b6472dcd03"
+    },
+    {
+      "message_id": 16530,
+      "filename": "2026_국어_상상_시즌2_모의_2회문제_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16530_2026_._._.2_._2._2.pdf",
+      "size_bytes": 201186355,
+      "telegram_date": "2025-10-12T14:16:56+00:00",
+      "title": "국어 시즌2 1,2회 #상상",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16530.png",
+      "sha256": "6358078987b67f03d9731cbd2bfce364c010566b794778df13d63dd1bb7e3462"
     }
   ],
   "duplicate_message_ids": [
