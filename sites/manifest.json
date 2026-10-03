@@ -82543,6 +82543,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14876.png",
       "sha256": "7cf075b209575fe1c7670f6dab8c7313ac9cce63bc3f0e26b65e883efa6ee74a"
+    },
+    {
+      "message_id": 14875,
+      "filename": "26 강k 지구 15회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14875_26.k.15.pdf",
+      "size_bytes": 7735325,
+      "telegram_date": "2025-09-20T03:15:56+00:00",
+      "title": "지1 강대모의고사K 13~18회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14875.png",
+      "sha256": "8abb69afb2d528f4c1aacf0c9d34b0b20174659e15cbf7f55fd45926f5f6a2ac"
     }
   ],
   "duplicate_message_ids": [
