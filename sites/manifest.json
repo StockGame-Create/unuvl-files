@@ -70153,6 +70153,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16623.png",
       "sha256": "2982ed8d70b17bb99361221a9e8ca8f72eecdaa146253796efdb7ffe664727cd"
+    },
+    {
+      "message_id": 16622,
+      "filename": "이신혁T 17주차 복테.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16622_.T.17.pdf",
+      "size_bytes": 538546,
+      "telegram_date": "2025-10-13T22:17:07+00:00",
+      "title": "지1 시대인재 시즌2 3~5주차 복습 테스트",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16622.png",
+      "sha256": "fff121b2b5cf1b247d9d52063117ff23849ff19b2fe178405958865fd2e00627"
     }
   ],
   "duplicate_message_ids": [
