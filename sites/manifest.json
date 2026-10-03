@@ -82277,6 +82277,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14904.png",
       "sha256": "400e4485bcdd499d58677a8688ba8782b937920818cfd35332a6095cfa7f0617"
+    },
+    {
+      "message_id": 14903,
+      "filename": "이신혁T_시즌4_1호_다지선다천체문제_최종본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14903_.T_.4_1._._.pdf",
+      "size_bytes": 1383043,
+      "telegram_date": "2025-09-20T11:45:37+00:00",
+      "title": "지1 전범위 다지선다 시즌4 1호",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14903.png",
+      "sha256": "b1f3fd449fda3daf06fedb2e9280964766b2460f68adf40fefd2a43df9905008"
     }
   ],
   "duplicate_message_ids": [
