@@ -68795,6 +68795,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16772.png",
       "sha256": "fecc9654bb0d673ffa5edb5005b0a09c57b97adced094ad2c85b2e6ac63f7dad"
+    },
+    {
+      "message_id": 16771,
+      "filename": "2-1-HDL-S3-MO-TEST (1회).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16771_2-1-HDL-S3-MO-TEST.1.pdf",
+      "size_bytes": 1023711,
+      "telegram_date": "2025-10-17T09:23:24+00:00",
+      "title": "생윤 현자의 돌 현장 강의 시즌3 모의고사 2주차 1회, 3주차 1~2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/16771.png",
+      "sha256": "0ca6e912449da734cec12d4621485ea7a5d5d8ef020ebaf9ddfe04e0ee63e3d3"
     }
   ],
   "duplicate_message_ids": [
