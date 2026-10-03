@@ -83187,6 +83187,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14807.png",
       "sha256": "f260f6f4e36efd880b15039acee482ec8900b29bd83ab465a3def7ef4b8de9ca"
+    },
+    {
+      "message_id": 14800,
+      "filename": "s퀄 화2 @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14800_s.2.%40yubin_MPGA.pdf",
+      "size_bytes": 14804730,
+      "telegram_date": "2025-09-19T09:26:50+00:00",
+      "title": "화2 QUEL 모의고사 S 1회, 2회",
+      "year": "2025",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/14800.png",
+      "sha256": "918565c5819532accd3fc5f4264a4d2e6fddae27fe2e90f91c1abb09d71bec95"
     }
   ],
   "duplicate_message_ids": [
