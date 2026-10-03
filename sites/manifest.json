@@ -78763,6 +78763,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15797.png",
       "sha256": "531842aa94a8339ba7ed6b3d8c774cf19c37a1eaf8e88e31ca3df6e40f7a70e7"
+    },
+    {
+      "message_id": 15796,
+      "filename": "[2026][시대인재][최지욱] 크랙(Crack) 2회_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15796_.2026.Crack.2._.pdf",
+      "size_bytes": 11485191,
+      "telegram_date": "2025-09-28T11:50:49+00:00",
+      "title": "수학 시대인재 최지욱 Crack 모의고사 1,2회",
+      "year": "2026",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15796.png",
+      "sha256": "b0cc27dab7ceb4e563a635dd6f88ad5e0789f8f4010aa7be0a477e75846820af"
     }
   ],
   "duplicate_message_ids": [
