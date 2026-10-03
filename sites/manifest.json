@@ -85273,6 +85273,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/14560.png",
       "sha256": "f495b2ccf0f7e355f7108a150c14be015694f077d4e65228b874cdc25095437f"
+    },
+    {
+      "message_id": 14558,
+      "filename": "킬쿼모_복습교재.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14558_._.pdf",
+      "size_bytes": 1111957,
+      "telegram_date": "2025-09-16T14:28:59+00:00",
+      "title": "생윤 킬쿼모 복습교재",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/14558.png",
+      "sha256": "b174ad03676bc7907ec3abec5714be40a77879cca8402b58799611f0555fa7d2"
     }
   ],
   "duplicate_message_ids": [
