@@ -70587,6 +70587,20 @@
       "subject": null,
       "thumbnail": "thumbnails/16589.png",
       "sha256": "7330fce101c1c32504e96188a91c6c4d3d497e82abae8e68df7b1bf20028f219"
+    },
+    {
+      "message_id": 16588,
+      "filename": "A26_복테S2_7주차해설_250529_1730.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16588_A26_.S2_7._250529_1730.pdf",
+      "size_bytes": 164837,
+      "telegram_date": "2025-10-13T15:04:28+00:00",
+      "title": "지1 시대인재 시즌2 7~8주차 복습 테스트",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16588.png",
+      "sha256": "b1a27ae41c2d126fac6fd298737874baa2d69bbf519d494c990fe6cfc12ed355"
     }
   ],
   "duplicate_message_ids": [
