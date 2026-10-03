@@ -74297,6 +74297,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16282.png",
       "sha256": "2e76276cd942dce19dce0c64c738b538076c18c10899a747259cfed252f75546"
+    },
+    {
+      "message_id": 16281,
+      "filename": "강K 2회차 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16281_.K.2.pdf",
+      "size_bytes": 31439888,
+      "telegram_date": "2025-10-08T13:07:44+00:00",
+      "title": "수학 강대모의고사K 2회 (해설지) #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16281.png",
+      "sha256": "c99b90754b9f95d77dbf4430193650b2478214c94196408c6a7e0b8f2ca8bfcf"
     }
   ],
   "duplicate_message_ids": [
