@@ -76803,6 +76803,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16010.png",
       "sha256": "728b01e31f48cafb78e60372bb5f5fca9e69c9c05788fd3558c96de3a62d9172"
+    },
+    {
+      "message_id": 16008,
+      "filename": "홍준용_Cok_9월호♡.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16008_._Cok_9.pdf",
+      "size_bytes": 24011274,
+      "telegram_date": "2025-10-02T00:28:40+00:00",
+      "title": "생1 9평 분석서",
+      "year": "2026",
+      "instructor": "홍준용",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/16008.png",
+      "sha256": "5e8dd507198341c33919c72bc367846d17163e9004fbaa6bc5cba35678a8964d"
     }
   ],
   "duplicate_message_ids": [
