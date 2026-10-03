@@ -80919,6 +80919,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15601.png",
       "sha256": "aee51af064477bbfe531aa28f65352f4edd55ca35c62b75eada3398346aaa2ce"
+    },
+    {
+      "message_id": 15598,
+      "filename": "엄기은 csat S2 1회-페이지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15598_.csat.S2.1.-.pdf",
+      "size_bytes": 3031767,
+      "telegram_date": "2025-09-26T15:05:24+00:00",
+      "title": "지1 CSAT S2 2회",
+      "year": "2026",
+      "instructor": "엄기은",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/15598.png",
+      "sha256": "fb392d459ad0808aa9ebcb500b4fe082a3167bd423c9773c12fd03a1082b90ac"
     }
   ],
   "duplicate_message_ids": [
