@@ -73177,6 +73177,20 @@
       "subject": "한국사",
       "thumbnail": "thumbnails/16380.png",
       "sha256": "725547e944aecf1c2d397c3354e7c7afa9e3e90ad463c16c752c48905e34d24a"
+    },
+    {
+      "message_id": 16379,
+      "filename": "시대인재_2026학년도_10월_전국_모의평가_4교시_한국사_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16379_._2026._10._._._4._._.pdf",
+      "size_bytes": 3139034,
+      "telegram_date": "2025-10-10T14:02:17+00:00",
+      "title": "한국사 시대인재 10월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "한국사",
+      "thumbnail": "thumbnails/16379.png",
+      "sha256": "102a3634d866d733c015ca3a8a1bd998aa711d5314d67cf8355dd9fbed863e34"
     }
   ],
   "duplicate_message_ids": [
