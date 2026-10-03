@@ -85343,6 +85343,20 @@
       "subject": "세계사",
       "thumbnail": "thumbnails/14551.png",
       "sha256": "f4def01dfa3d64ed12ab7c5405fa4db74b2615607daae3112fe9a8a616cefd8d"
+    },
+    {
+      "message_id": 14549,
+      "filename": "오즈 모고 시즌3 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14549_.3.1.pdf",
+      "size_bytes": 15951862,
+      "telegram_date": "2025-09-16T14:16:28+00:00",
+      "title": "지1 OZ 모의고사 시즌3 제1회",
+      "year": "2026",
+      "instructor": "오지훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14549.png",
+      "sha256": "75a529aacd13dc6aa932d1f5823d3b223c0ea9cb917ac6c8d9a1fc4a1da057b0"
     }
   ],
   "duplicate_message_ids": [
