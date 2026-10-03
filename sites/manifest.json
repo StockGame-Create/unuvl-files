@@ -72631,6 +72631,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/16426.png",
       "sha256": "8c4fe9657ac5f80aa737a17f337953313846457c73f34873f0852c6d447e8b12"
+    },
+    {
+      "message_id": 16425,
+      "filename": "2026_강대모의고사K+_물리학_2회_문제_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16425_2026_.K%2B_._2._._%40yubin_MPGA.pdf",
+      "size_bytes": 2795167,
+      "telegram_date": "2025-10-11T00:18:06+00:00",
+      "title": "물1 강대모의고사K+ 1,2회 #강케플",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/16425.png",
+      "sha256": "f1ced9a3ef91a028c169420288271d8f5bb72b54a9cb7d4ad1fc455ce1d1bb5b"
     }
   ],
   "duplicate_message_ids": [
