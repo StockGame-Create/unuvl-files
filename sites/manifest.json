@@ -78483,6 +78483,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15824.png",
       "sha256": "1802350d2348e67c5a7c3fefda11df97669434b07ea8764f97fbcb81c85e0b33"
+    },
+    {
+      "message_id": 15823,
+      "filename": "꿀모 시즌2 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15823_.2.pdf",
+      "size_bytes": 63285146,
+      "telegram_date": "2025-09-28T14:42:44+00:00",
+      "title": "수학 꿀모 시즌2 1회 ~ 3회",
+      "year": "2026",
+      "instructor": "장영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15823.png",
+      "sha256": "f68e2f61533a38ecef952e3957519776d430033f82806e5e7f43295cc24a9845"
     }
   ],
   "duplicate_message_ids": [
