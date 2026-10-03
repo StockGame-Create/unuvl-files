@@ -81899,6 +81899,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/15489.png",
       "sha256": "9db7144542dadc58beaebf8132eeed87e6a0b9805dbb51bd9f61e9096d34407c"
+    },
+    {
+      "message_id": 15488,
+      "filename": "26 BRIDGE 3회차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15488_26.BRIDGE.3.pdf",
+      "size_bytes": 6720690,
+      "telegram_date": "2025-09-25T13:15:06+00:00",
+      "title": "생윤 시대인재 브릿지 전국 모의고사 3회 #브릿지전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과 윤리",
+      "thumbnail": "thumbnails/15488.png",
+      "sha256": "8414be6eb4f35a0b4b611a44c2b311e21841ef2efb6b16732f112afa399bebc6"
     }
   ],
   "duplicate_message_ids": [
