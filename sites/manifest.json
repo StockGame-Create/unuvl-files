@@ -83481,6 +83481,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14771.png",
       "sha256": "5770bb2504dfadcb7a627e5f0e3dfc5aca82a13b97689f9f22729e1713468690"
+    },
+    {
+      "message_id": 14770,
+      "filename": "2024 화2 서바 1-36회 @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14770_2024.2.1-36.%40yubin_MPGA.pdf",
+      "size_bytes": 68357205,
+      "telegram_date": "2025-09-19T03:44:42+00:00",
+      "title": "화2 시대인재 서바이벌 1회 ~ 36회 합본 #서바",
+      "year": "2024",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/14770.png",
+      "sha256": "947f5e1f3a81d82114794198b65344a96418de526fc44a004fe81b9062ffda98"
     }
   ],
   "duplicate_message_ids": [
