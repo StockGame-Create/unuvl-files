@@ -69817,6 +69817,20 @@
       "subject": null,
       "thumbnail": "thumbnails/16651.png",
       "sha256": "7f7c1f9e620307930317832cf7098f3451a5cae850132ecd258ed189b1cb25a6"
+    },
+    {
+      "message_id": 16650,
+      "filename": "2026 강대모의고사K 물리학 2회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16650_2026.K.2.pdf",
+      "size_bytes": 11709348,
+      "telegram_date": "2025-10-14T11:52:24+00:00",
+      "title": "2026 강대모의고사K 물리학 2회 문제",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/16650.png",
+      "sha256": "bfba3c58fe8a5aeb78d9612037ec63815fe9e1534b5d171aa325fbb8ca7d68c5"
     }
   ],
   "duplicate_message_ids": [
