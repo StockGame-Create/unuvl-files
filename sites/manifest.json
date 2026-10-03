@@ -69943,6 +69943,20 @@
       "subject": null,
       "thumbnail": "thumbnails/16640.png",
       "sha256": "dea14b7ca83adc84f2f5bde9ea896d9beffbc2e5958322314ba76fd20ad04c4f"
+    },
+    {
+      "message_id": 16638,
+      "filename": "2026_장성문_FULL_MOON_고급자료_화학1_모의고사_시즌0_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16638_2026_._FULL_MOON_._.1_._.0_1.pdf",
+      "size_bytes": 1334484,
+      "telegram_date": "2025-10-14T03:24:11+00:00",
+      "title": "화1 장성문 FULL MOON 모의고사 시즌0 1회",
+      "year": "2026",
+      "instructor": "장성문",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/16638.png",
+      "sha256": "afc415d6c40a982168f501c1d37f665af7fdfd2c471cd64bd3d9e5c4c36de1c1"
     }
   ],
   "duplicate_message_ids": [
