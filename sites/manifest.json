@@ -79267,6 +79267,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15756.png",
       "sha256": "b9ae871a304910fb9385b0f5afba239e0cc422ad39d2fe0a4823eb86be65238c"
+    },
+    {
+      "message_id": 15754,
+      "filename": "이감 시즌6 6차 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15754_.6.6.pdf",
+      "size_bytes": 45362945,
+      "telegram_date": "2025-09-28T03:02:38+00:00",
+      "title": "국어 파이널2 제6차 모의고사 #이감",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/15754.png",
+      "sha256": "c64feac93c0d2218b3718b4963b399bf4dfae019b4e703b198267bc2f9698083"
     }
   ],
   "duplicate_message_ids": [
