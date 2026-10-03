@@ -81465,6 +81465,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/15536.png",
       "sha256": "7b7bc2992369807973037e82f6025d19fce9a8c105f7c49341ce926af21e3559"
+    },
+    {
+      "message_id": 15534,
+      "filename": "수학_박종민_Limit_Y_03_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15534_._._Limit_Y_03_.pdf",
+      "size_bytes": 13125540,
+      "telegram_date": "2025-09-25T15:18:58+00:00",
+      "title": "수학 Limit Y 모의고사 3회",
+      "year": "2026",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15534.png",
+      "sha256": "5d26e63e61656f74abdf49c36771ef7238c71b7631b06f27111acf3911959665"
     }
   ],
   "duplicate_message_ids": [
