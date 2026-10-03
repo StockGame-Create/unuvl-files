@@ -78413,6 +78413,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15829.png",
       "sha256": "1e77b6c57f96f09ed9042c9c459c4a7375fb55bfeec6bd32c66e93c624bd4d48"
+    },
+    {
+      "message_id": 15828,
+      "filename": "벌크업꿀모_시즌2_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15828_._.2_2.pdf",
+      "size_bytes": 14524695,
+      "telegram_date": "2025-09-28T14:42:44+00:00",
+      "title": "수학 꿀모 시즌2 1회 ~ 3회",
+      "year": "2026",
+      "instructor": "장영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15828.png",
+      "sha256": "9a571e258c02e10e73ec08623f111d226a4cb4b742e6c1560c815610b9454eee"
     }
   ],
   "duplicate_message_ids": [
