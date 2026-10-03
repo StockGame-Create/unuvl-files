@@ -67269,6 +67269,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16921.png",
       "sha256": "de9f19e871833bee5feef53fb7c6bc13bfd4a2bebac09afb08a08149f052d583"
+    },
+    {
+      "message_id": 16920,
+      "filename": "2026시대인재최지욱_디자인Design_몰딩Molding_3주차_본문.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16920_2026._.Design_.Molding_3._.pdf",
+      "size_bytes": 12780051,
+      "telegram_date": "2025-10-18T15:04:05+00:00",
+      "title": "수학 DESIGN 3~5주차",
+      "year": "2026",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16920.png",
+      "sha256": "2252aeb152d0d391ed1e698745b08557cda9eefa45e3591dd32fb1b619d1e243"
     }
   ],
   "duplicate_message_ids": [
