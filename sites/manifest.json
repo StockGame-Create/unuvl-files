@@ -82949,6 +82949,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14831.png",
       "sha256": "72b1152ee6f03d9eea9f9cc4da96c0aedb353a67c143609836664682374153b7"
+    },
+    {
+      "message_id": 14830,
+      "filename": "박선 DAYBREAK 시즌2 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14830_.DAYBREAK.2.2.pdf",
+      "size_bytes": 4181220,
+      "telegram_date": "2025-09-19T12:53:44+00:00",
+      "title": "지1 DAYBREAK 시즌2 1회 ~ 4회 #데이브레이크",
+      "year": "2026",
+      "instructor": "박선",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14830.png",
+      "sha256": "05b9188e0355ce57f3a32ca667a29c9cccc6bd66979c00eeb83f1370c80b4054"
     }
   ],
   "duplicate_message_ids": [
