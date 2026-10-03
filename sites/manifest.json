@@ -74913,6 +74913,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/16212.png",
       "sha256": "4207556aa10d58415d203a51598d36a789e694a2500068f4d22c30f226f5dace"
+    },
+    {
+      "message_id": 16211,
+      "filename": "2022 브릿지 9, 10, 11, 12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16211_2022.9.10.11.12.pdf",
+      "size_bytes": 10656896,
+      "telegram_date": "2025-10-05T23:26:12+00:00",
+      "title": "생2 시대인재 브릿지 모의고사 9~20회 #브릿지",
+      "year": "2022",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/16211.png",
+      "sha256": "2c25291daca2ba3b36ad63f65f4d3c78b97276bfe93ca08a307b1b547eb1e8ae"
     }
   ],
   "duplicate_message_ids": [
