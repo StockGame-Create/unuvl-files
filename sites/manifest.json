@@ -68921,6 +68921,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16756.png",
       "sha256": "f4904d1e2390020893c372dcf8c0d358eef583f3886281290491be98430834f3"
+    },
+    {
+      "message_id": 16755,
+      "filename": "화1 트라이얼 모의고사 시즌3 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16755_.1.3.pdf",
+      "size_bytes": 10511191,
+      "telegram_date": "2025-10-16T14:32:30+00:00",
+      "title": "화1 ORION : TRIAL 모의고사 시즌3 9회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/16755.png",
+      "sha256": "676430892b94a78ea9db870cd640c84b1cd8563ab942f202e85bfda6280f619c"
     }
   ],
   "duplicate_message_ids": [
