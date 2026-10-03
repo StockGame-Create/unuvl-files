@@ -68053,6 +68053,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16838.png",
       "sha256": "79991952510768455656c81658d1d30de9b6dee4ee89b0b75851528e34c2e4cc"
+    },
+    {
+      "message_id": 16837,
+      "filename": "1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16837_1.pdf",
+      "size_bytes": 17082360,
+      "telegram_date": "2025-10-17T15:33:08+00:00",
+      "title": "지1 강대모의고사K 1회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16837.png",
+      "sha256": "9dbbd82a555c5e4e6317bff91b48edc217f018b4509e6981288d612861887a8c"
     }
   ],
   "duplicate_message_ids": [
