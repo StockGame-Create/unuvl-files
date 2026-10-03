@@ -85231,6 +85231,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14569.png",
       "sha256": "705eb770a56f9a9e6bf766706c854e4b5c57d58d61666728f48a087714415ba8"
+    },
+    {
+      "message_id": 14566,
+      "filename": "K+ 화학 8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14566_K%2B.8.pdf",
+      "size_bytes": 2269236,
+      "telegram_date": "2025-09-17T00:07:40+00:00",
+      "title": "화1 강대모의고사K+ 8회 #강케플",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/14566.png",
+      "sha256": "131026e40b94ac24ae2b8fe46fd5edc2440666414644f15ebbac772dd83797ec"
     }
   ],
   "duplicate_message_ids": [
