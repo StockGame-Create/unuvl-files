@@ -70741,6 +70741,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16576.png",
       "sha256": "dae39587de886abd7a5b187c471ebae6fa05a511c855b381c7f1de94281d6df6"
+    },
+    {
+      "message_id": 16574,
+      "filename": "온셋_시즌2_2회_문제+답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16574_._.2_2._.%2B.pdf",
+      "size_bytes": 7399978,
+      "telegram_date": "2025-10-13T14:15:08+00:00",
+      "title": "수학 ONSET 모의고사 파이널 시즌2 2회",
+      "year": "2026",
+      "instructor": "강영찬",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16574.png",
+      "sha256": "db7ec0a4b3fbff0fab1c0f4e1a341c60e20e4ee783b8a2fa4c37c1c68d4d332e"
     }
   ],
   "duplicate_message_ids": [
