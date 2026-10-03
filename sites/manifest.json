@@ -74339,6 +74339,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16276.png",
       "sha256": "c675f0f9ed2f1e6de3b5f8a12ffe336594a5a07628c8ccc9569fed0d7557f057"
+    },
+    {
+      "message_id": 16274,
+      "filename": "CSM17_N_STEP_공통,미적_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16274_CSM17_N_STEP_._.pdf",
+      "size_bytes": 28950520,
+      "telegram_date": "2025-10-07T15:08:49+00:00",
+      "title": "수학 N-STEP 씨에스엠17 수학1 + 수학2 + 미적분",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16274.png",
+      "sha256": "c09468c26b6540d4ac9a647207b70f281728269c469771ad8bcf75322bbc5148"
     }
   ],
   "duplicate_message_ids": [
