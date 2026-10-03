@@ -67563,6 +67563,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16900.png",
       "sha256": "916d689726974c9b69693734e77eb595a0168355d3a4f3815819db1a49cf2f09"
+    },
+    {
+      "message_id": 16899,
+      "filename": "2026 지구 전국 서바 10회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16899_2026.10.pdf",
+      "size_bytes": 13659245,
+      "telegram_date": "2025-10-18T14:46:31+00:00",
+      "title": "지1 시대인재 서바이벌 전국 모의고사 10,11회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16899.png",
+      "sha256": "25c91e18a2fc4c954c89fd3d2cbf9f873082261b5895f6938bf5c43fc3312c8b"
     }
   ],
   "duplicate_message_ids": [
