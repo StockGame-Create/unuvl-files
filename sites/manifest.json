@@ -76047,6 +76047,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16094.png",
       "sha256": "54acda156b57cf8c453bad0adf7093eac033498a895126b2c5de291a588176df"
+    },
+    {
+      "message_id": 16093,
+      "filename": "2026_수학_최지욱_EXTENSION_7회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16093_2026_._._EXTENSION_7._.pdf",
+      "size_bytes": 16754914,
+      "telegram_date": "2025-10-03T15:15:40+00:00",
+      "title": "수학 시대인재 최지욱 Extension 7회",
+      "year": "2026",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16093.png",
+      "sha256": "22cb2163200c6317a64b97de062fe09f155321fdbb3b7cc719432e278dd919ef"
     }
   ],
   "duplicate_message_ids": [
