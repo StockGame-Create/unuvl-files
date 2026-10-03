@@ -82823,6 +82823,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14847.png",
       "sha256": "a5c422b30e8645217ad2a303b10ae407d124a987fd09929b9095cafb374c2b10"
+    },
+    {
+      "message_id": 14846,
+      "filename": "2026_수학_박종민_Limit_X_23회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14846_2026_._._Limit_X_23.pdf",
+      "size_bytes": 4142132,
+      "telegram_date": "2025-09-19T15:07:58+00:00",
+      "title": "수학 Limit X 모의고사 23회",
+      "year": "2026",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14846.png",
+      "sha256": "d3eb8b2aa86d59ac030b4f7b12ac7db8c093dc0052ec71c9eb5e97a236615962"
     }
   ],
   "duplicate_message_ids": [
