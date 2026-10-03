@@ -70181,6 +70181,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16621.png",
       "sha256": "ba5a3f9c51a5b44712dcf2fc7c7329c46841e749949f9bc0cc5152ea3442b691"
+    },
+    {
+      "message_id": 16620,
+      "filename": "이신혁_3주차_복테S2_3주차해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16620_._3._.S2_3.pdf",
+      "size_bytes": 372375,
+      "telegram_date": "2025-10-13T22:17:06+00:00",
+      "title": "지1 시대인재 시즌2 3~5주차 복습 테스트",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16620.png",
+      "sha256": "fcd674365d1869beaaf370ef58b514a1b264446e3c2bc509e3020583bb2b1521"
     }
   ],
   "duplicate_message_ids": [
