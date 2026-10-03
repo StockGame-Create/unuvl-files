@@ -84181,6 +84181,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14686.png",
       "sha256": "6790a15530d405bf0bce842e6ed7aded189396512bf23b896bbe5b2e91325cd4"
+    },
+    {
+      "message_id": 14685,
+      "filename": "Adobe Scan 2025년 9월 18일 (2).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14685_Adobe.Scan.2025.9.18.2.pdf",
+      "size_bytes": 436060,
+      "telegram_date": "2025-09-17T23:27:05+00:00",
+      "title": "지1 시대인재 서바이벌 모의고사 13회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14685.png",
+      "sha256": "9e7e7b10f54f77b5fefc58ad7c1c2516ba1d1ac82d77cc255a0c0cb715d6d4be"
     }
   ],
   "duplicate_message_ids": [
