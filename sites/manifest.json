@@ -79113,6 +79113,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15771.png",
       "sha256": "4a79ab773f638dbf7b79dbba415a6c9e2f0ab4710d22a23352ffceaa889db7a3"
+    },
+    {
+      "message_id": 15770,
+      "filename": "2026 수학 김범준 강대K Anatomy 21,22회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15770_2026.K.Anatomy.21.22.pdf",
+      "size_bytes": 13143096,
+      "telegram_date": "2025-09-28T09:32:00+00:00",
+      "title": "수학 강대모의고사K Anatomy 21회, 22회",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15770.png",
+      "sha256": "e420a061535e6f2fb3addcd87e3da570578d9712e7c6b24dcebdba31fa38ab39"
     }
   ],
   "duplicate_message_ids": [
