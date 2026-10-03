@@ -71679,6 +71679,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16474.png",
       "sha256": "4db7c82d180d21c3a88da9d0c9896dc74626084e5b59cb3ad4f657498e30389e"
+    },
+    {
+      "message_id": 16473,
+      "filename": "지1 서바 전국 13회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16473_.1.13.pdf",
+      "size_bytes": 14097706,
+      "telegram_date": "2025-10-11T15:15:15+00:00",
+      "title": "지1 시대인재 서바이벌 전국 모의고사 13회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16473.png",
+      "sha256": "5a708aef2873971760b8a55b9c570d58aa6997461281a05902198bf440a9be91"
     }
   ],
   "duplicate_message_ids": [
