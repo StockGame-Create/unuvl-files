@@ -70237,6 +70237,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16617.png",
       "sha256": "164ed7ea8d063617b11488668ef4f1c77b0622406e92cc04431305bd920bedb0"
+    },
+    {
+      "message_id": 16615,
+      "filename": "국어서바14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16615_.14.pdf",
+      "size_bytes": 18802335,
+      "telegram_date": "2025-10-13T15:36:46+00:00",
+      "title": "국어 시대인재 서바이벌 모의고사 14회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16615.png",
+      "sha256": "e25bc231e28a2d00672e765a5e2edba73d1bf82fe688884c95f046d4ea1eb7c6"
     }
   ],
   "duplicate_message_ids": [
