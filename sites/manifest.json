@@ -85609,6 +85609,20 @@
       "subject": "한국사",
       "thumbnail": "thumbnails/14521.png",
       "sha256": "6440ee394b55407018fbdc00d66c80df9c0f9d4cc1871f8c13e463212171ba98"
+    },
+    {
+      "message_id": 14519,
+      "filename": "2024 지2 서바 1_14회 빠답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14519_2024.2.1_14.pdf",
+      "size_bytes": 2331272,
+      "telegram_date": "2025-09-16T13:42:10+00:00",
+      "title": "지2 시대인재 서바이벌 모의고사 1회 ~ 14회 합본 #서바",
+      "year": "2024",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/14519.png",
+      "sha256": "67b898056ac751c581e43f231884dbaa7524982aa418458d05137586af2fab4b"
     }
   ],
   "duplicate_message_ids": [
