@@ -70293,6 +70293,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/16610.png",
       "sha256": "19eb807293be42e549c75ae320e30ee0c5d2d365d37a4988957a717ef8bd64ec"
+    },
+    {
+      "message_id": 16609,
+      "filename": "2026_생2_이서준_INTRON_7주_유전자의_발현1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16609_2026_.2_._INTRON_7._._.1.pdf",
+      "size_bytes": 57937139,
+      "telegram_date": "2025-10-13T15:06:23+00:00",
+      "title": "생2 INTRON 1~8주차",
+      "year": "2026",
+      "instructor": "이서준",
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/16609.png",
+      "sha256": "afa70440abde3d246bdc809475fd192f4172fa185c63c0646b32024cf895e26f"
     }
   ],
   "duplicate_message_ids": [
