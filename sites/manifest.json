@@ -69467,6 +69467,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16687.png",
       "sha256": "8acb0d7497e2ee5fc8548a893da7e6f157cf9d635691c977188a3c719b3c40b3"
+    },
+    {
+      "message_id": 16686,
+      "filename": "26 서바 수학 20회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16686_26.20.pdf",
+      "size_bytes": 4948021,
+      "telegram_date": "2025-10-14T15:05:49+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 20회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16686.png",
+      "sha256": "0ff1e9cbf80a18bdc295db240332583411283e747bd04967f35caa4b6aa14252"
     }
   ],
   "duplicate_message_ids": [
