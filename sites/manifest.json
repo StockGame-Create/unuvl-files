@@ -76761,6 +76761,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16013.png",
       "sha256": "9ff6ce6e352604c8fe0fc36d30387e2c374be86e5fe454b8a34894be4baa0aab"
+    },
+    {
+      "message_id": 16012,
+      "filename": "한수_파이널Ⅰ_1차_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16012_._._1._.pdf",
+      "size_bytes": 13386199,
+      "telegram_date": "2025-10-02T03:12:42+00:00",
+      "title": "국어 한수 파이널1 1~5차 #한수",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16012.png",
+      "sha256": "e5ff93bbf8438ec6ddc6780350fd7eac83a827621f095364ddb220d14c3723c7"
     }
   ],
   "duplicate_message_ids": [
