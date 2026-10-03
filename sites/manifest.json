@@ -74675,6 +74675,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16239.png",
       "sha256": "3d5db2bf93590a13b80f5fc074befca0db995606c3cb57f40b56a60c3eabe074"
+    },
+    {
+      "message_id": 16236,
+      "filename": "2026화년도_시대인재_세바이벌_전국_모의고사_12회_….pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16236_2026._._._._._12._.pdf",
+      "size_bytes": 17129743,
+      "telegram_date": "2025-10-06T12:47:13+00:00",
+      "title": "정법 시대인재 서바이벌 전국 모의고사 12회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/16236.png",
+      "sha256": "13d8040cdbfe60a7235f8e584283684754015008ce7d403144e7e7eed4abd131"
     }
   ],
   "duplicate_message_ids": [
