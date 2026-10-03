@@ -83215,6 +83215,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/14799.png",
       "sha256": "8e5a1eb371e516aa504c00efcc445d4b0666b16664061b348713e413b8b40db8"
+    },
+    {
+      "message_id": 14798,
+      "filename": "2025 화2 강k 1-18회 @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14798_2025.2.k.1-18.%40yubin_MPGA.pdf",
+      "size_bytes": 36645093,
+      "telegram_date": "2025-09-19T09:26:46+00:00",
+      "title": "화2 강대모의고사K 1회 ~ 18회 합본 #강k",
+      "year": "2024",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/14798.png",
+      "sha256": "532376684eeea168e42756f803c6b02c784e20a4e49f6587c5d0978bfb736898"
     }
   ],
   "duplicate_message_ids": [
