@@ -75445,6 +75445,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16163.png",
       "sha256": "289ae330d94da2711173341dfde03f00df3cd3d2a5b935754af6a028ab7cc47a"
+    },
+    {
+      "message_id": 16161,
+      "filename": "제니사탐_사회문화_모의고사_PRE9배포_시험지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16161_._._._PRE9._.pdf",
+      "size_bytes": 2665592,
+      "telegram_date": "2025-10-05T12:57:03+00:00",
+      "title": "사문 NEXT Pre-9",
+      "year": "2026",
+      "instructor": "김제니",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/16161.png",
+      "sha256": "4c19fcf69f2db6763ac72e273731c4e1733a7f6aef16c58e9fb6adec60a2ab44"
     }
   ],
   "duplicate_message_ids": [
