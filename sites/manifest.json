@@ -225,6 +225,20 @@
       "sha256": "9cf5b4272f03b184f5099114b2c2d99d6021b2a4f325a7bf7b55bc900a24f5ee"
     },
     {
+      "message_id": 24842,
+      "filename": "2027 폴라리스 모의고사 지구과학1 Finale 1~4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24842_2027.1.Finale.1.4.pdf",
+      "size_bytes": 14095768,
+      "telegram_date": "2026-10-03T05:22:38+00:00",
+      "title": "지1 폴라리스 모의고사 Finale 1~4회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24842.png",
+      "sha256": "b0fd2966a7c26b3e314c7dd00a245e19a09cdcb47a7b6385afddefac17b3a20c"
+    },
+    {
       "message_id": 24836,
       "filename": "강K 생1 16회.pdf",
       "stored_as": null,
