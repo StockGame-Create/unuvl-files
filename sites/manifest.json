@@ -69649,6 +69649,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/16664.png",
       "sha256": "754012878eafb5cc4123fd5428247f02ffb066dca2773594c20c0005b161799c"
+    },
+    {
+      "message_id": 16663,
+      "filename": "2026 강대모의고사K 물리학 9회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16663_2026.K.9.pdf",
+      "size_bytes": 4808540,
+      "telegram_date": "2025-10-14T11:52:24+00:00",
+      "title": "물1 강대모의고사K 1~10회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/16663.png",
+      "sha256": "2ead1ca5f5d44a29b9bec94aeb37f3ae5164b415ab6840fdeb398786446a14da"
     }
   ],
   "duplicate_message_ids": [
