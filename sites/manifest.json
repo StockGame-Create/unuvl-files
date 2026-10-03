@@ -82711,6 +82711,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/14859.png",
       "sha256": "b0d4f9ceb89a4bfe6d8c308656dc358103f155a2b0d6604736ec58652fc8f1dc"
+    },
+    {
+      "message_id": 14857,
+      "filename": "2026_한종철_만점시퀀스_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14857_2026_._._.pdf",
+      "size_bytes": 33166560,
+      "telegram_date": "2025-09-19T15:52:28+00:00",
+      "title": "생1 만점시퀀스 핵심문항 모의고사",
+      "year": "2026",
+      "instructor": "한종철",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/14857.png",
+      "sha256": "4c0b5301476be74398c8d24e4e4c44f5fd1bb210ad011e9eb61b2a09535d69a0"
     }
   ],
   "duplicate_message_ids": [
