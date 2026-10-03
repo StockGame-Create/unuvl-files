@@ -84825,6 +84825,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/14620.png",
       "sha256": "8d7e787d89ef932a08107b3ef78b12c6ca1920ff3f1ead86f01f2d2810571ac5"
+    },
+    {
+      "message_id": 14618,
+      "filename": "2026_KISSTART_구문편_Review_및_복기_자료_as_of_12_10_24.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14618_2026_KISSTART_._Review_._._._as_of_12_10_24.pdf",
+      "size_bytes": 3854592,
+      "telegram_date": "2025-09-17T11:46:08+00:00",
+      "title": "영어 KISSTART 구문편",
+      "year": "2026",
+      "instructor": "션티",
+      "subject": "영어",
+      "thumbnail": "thumbnails/14618.png",
+      "sha256": "af660b4cdd9145b5869172a5b6b8844d1c95ac2f6275443fe4fc9768ad6d50ff"
     }
   ],
   "duplicate_message_ids": [
