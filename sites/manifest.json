@@ -76915,6 +76915,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/15998.png",
       "sha256": "b1aa418e457d6ef45f8ba85eb5c5f53fbe8cfab96c41ccd29b2294b5bac90aab"
+    },
+    {
+      "message_id": 15996,
+      "filename": "문실정_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15996_._._._.pdf",
+      "size_bytes": 49461383,
+      "telegram_date": "2025-10-01T14:57:36+00:00",
+      "title": "국어 정석 문학 모의고사 6~10회",
+      "year": "2026",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/15996.png",
+      "sha256": "f1b4edd27115b68176dc7add8d857cb267dd100c32b5812598d6da43ebb2edee"
     }
   ],
   "duplicate_message_ids": [
