@@ -78665,6 +78665,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15807.png",
       "sha256": "64d0fb5694debe1df6cfeba23e31b31a75c4af03d76b483a8abc570875340d46"
+    },
+    {
+      "message_id": 15806,
+      "filename": "이해원_모의고사_시즌_3_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15806_._._._3_.pdf",
+      "size_bytes": 50095983,
+      "telegram_date": "2025-09-28T13:18:00+00:00",
+      "title": "수학 이해원 모의고사 시즌3 0회, 1회 (공통 + 미적분)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15806.png",
+      "sha256": "04e181bab3967439ee566ff9df6a0f3da0934554f12bd4ade90517cb8b38d8ea"
     }
   ],
   "duplicate_message_ids": [
