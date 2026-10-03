@@ -80219,6 +80219,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/15657.png",
       "sha256": "810b3591d83b22e4c9ce3fb375b33db8d826825d4993506a315f849c250f6dc6"
+    },
+    {
+      "message_id": 15656,
+      "filename": "2026학년도_실전주의_모의평가_1회_문제지정치와_법.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15656_2026._._._1._._.pdf",
+      "size_bytes": 389983,
+      "telegram_date": "2025-09-27T02:33:11+00:00",
+      "title": "정법 실전주의 모의평가 1회",
+      "year": "2026",
+      "instructor": "윤준수",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/15656.png",
+      "sha256": "4e3ac8320f37257ec017a98f4d35f9d3daae00e7ed76db4930e8a7694691b7b0"
     }
   ],
   "duplicate_message_ids": [
