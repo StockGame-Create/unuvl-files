@@ -67185,6 +67185,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16927.png",
       "sha256": "0afc107d457b00542d5f5bb6e60be6b802f75aedc6b75d71e742b673791edd05"
+    },
+    {
+      "message_id": 16926,
+      "filename": "아폴로 시즌4 2권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16926_.4.2.pdf",
+      "size_bytes": 214555506,
+      "telegram_date": "2025-10-18T15:07:46+00:00",
+      "title": "지1 Apollo.n 시즌4 2,3호 #아폴로",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16926.png",
+      "sha256": "2df60e382ee54a8ad9d11da3aa17fc818f16e6d2c6f4f7e20bd8cae8fc30bebe"
     }
   ],
   "duplicate_message_ids": [
