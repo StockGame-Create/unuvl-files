@@ -86211,6 +86211,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/14448.png",
       "sha256": "0ada3c379e22ca024fbafb219dcc8affbbe53c4835deaff100e3bad0b3d3b87c"
+    },
+    {
+      "message_id": 14447,
+      "filename": "박선 지2 모의고사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14447_.2.pdf",
+      "size_bytes": 13552342,
+      "telegram_date": "2025-09-15T13:50:11+00:00",
+      "title": "지2 너만의 모의고사 시즌1 1회 ~ 4회",
+      "year": "2021",
+      "instructor": "박선",
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/14447.png",
+      "sha256": "f1ac959d1183f6f3c911c4bb3e1940b41b2c22d4d51638d5f38311b9ebb4cade"
     }
   ],
   "duplicate_message_ids": [
