@@ -85497,6 +85497,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14531.png",
       "sha256": "bb22439e228e8f33e394bf80445f9ecc0639968923258d289e3aa46bce86d46d"
+    },
+    {
+      "message_id": 14529,
+      "filename": "2026_서바이벌_프로_9월_과학탐구_정답과_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14529_2026_._._9._._._.pdf",
+      "size_bytes": 4104034,
+      "telegram_date": "2025-09-16T13:56:55+00:00",
+      "title": "과탐 시대인재 9월 전국모의평가 (해설지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "과학탐구",
+      "thumbnail": "thumbnails/14529.png",
+      "sha256": "e4b9e0385694e273f28d59b0ff8358f3c14e29d03e4e5006934e6b94997bccca"
     }
   ],
   "duplicate_message_ids": [
