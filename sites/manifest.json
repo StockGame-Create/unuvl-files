@@ -70097,6 +70097,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16627.png",
       "sha256": "88c18e90d5372763543d23fe29d2a7fba749c12fba49bb851aadffb19c31e893"
+    },
+    {
+      "message_id": 16626,
+      "filename": "2026_화학_강준호_fast_track_8주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16626_2026_._._fast_track_8.pdf",
+      "size_bytes": 34805605,
+      "telegram_date": "2025-10-13T22:22:52+00:00",
+      "title": "화1 시대인대 FAST TRACK 6~11주차",
+      "year": "2026",
+      "instructor": "강준호",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/16626.png",
+      "sha256": "64d4e93eeed9365ecdca6163869b34bd12ec69f53321389e9edd2e9adfd2b161"
     }
   ],
   "duplicate_message_ids": [
