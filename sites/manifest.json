@@ -80807,6 +80807,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/15609.png",
       "sha256": "c5f693bedea54628e871778af5cff1c070ba934438e1c1932a72a1f4a47ad34b"
+    },
+    {
+      "message_id": 15608,
+      "filename": "사만다 사문 시즌2 .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15608_.2.pdf",
+      "size_bytes": 56235373,
+      "telegram_date": "2025-09-26T15:43:09+00:00",
+      "title": "사문 사만다 모의고사 시즌2 1회 ~ 3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/15608.png",
+      "sha256": "7fcfd8bb64b32d2bda5a189f962891d8607af26ff9e9fcd05a90fd477d85082b"
     }
   ],
   "duplicate_message_ids": [
