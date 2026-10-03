@@ -72911,6 +72911,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16399.png",
       "sha256": "90f6e7a53204749f0adb56a368f7f99492b1f937a41c4e7b0b09f5776212e361"
+    },
+    {
+      "message_id": 16398,
+      "filename": "시대인재_2026학년도_10월_전국_모의평가_4교시_사회탐구_전체.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16398_._2026._10._._._4._._.pdf",
+      "size_bytes": 9257126,
+      "telegram_date": "2025-10-10T14:36:23+00:00",
+      "title": "사탐 시대인재 10월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리, 윤리와사상, 한국지리, 세계지리, 동아시아사, 세계사, 경제, 정치와법, 사회문화",
+      "thumbnail": "thumbnails/16398.png",
+      "sha256": "096d4e411a4621dcb2926e226609f38fc1ae94ea62eb9a170a596956c97d366d"
     }
   ],
   "duplicate_message_ids": [
