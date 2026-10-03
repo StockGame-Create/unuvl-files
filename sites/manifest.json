@@ -70223,6 +70223,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16618.png",
       "sha256": "82866ec15b62801ee416b363c07d3eb1a38e444160e3ebfe0f01f1bb2723f718"
+    },
+    {
+      "message_id": 16617,
+      "filename": "A26_복테S2_5주차문제_250515_1948.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16617_A26_.S2_5._250515_1948.pdf",
+      "size_bytes": 1022342,
+      "telegram_date": "2025-10-13T22:17:06+00:00",
+      "title": "지1 시대인재 시즌2 3~5주차 복습 테스트",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16617.png",
+      "sha256": "164ed7ea8d063617b11488668ef4f1c77b0622406e92cc04431305bd920bedb0"
     }
   ],
   "duplicate_message_ids": [
