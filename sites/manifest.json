@@ -29,6 +29,20 @@
       "sha256": "46a8141ae2e766c5d29266131dc0bdfd8cc17dd0f7e153e5cedc9d50525094d4"
     },
     {
+      "message_id": 24872,
+      "filename": "김성은_불꽃모의고사_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24872_._._1.pdf",
+      "size_bytes": 3229107,
+      "telegram_date": "2026-10-03T05:58:38+00:00",
+      "title": "수학 김성은 불꽃 모의고사 1회",
+      "year": "2027",
+      "instructor": "김성은",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24872.png",
+      "sha256": "7c1815eec5b7ce57c60fff9cfb39e1c6fb8f65fdd0d5e68e289dd010b30c72c7"
+    },
+    {
       "message_id": 24870,
       "filename": "솔의눈_강K 9회.pdf",
       "stored_as": null,
