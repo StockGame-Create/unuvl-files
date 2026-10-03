@@ -71707,6 +71707,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16472.png",
       "sha256": "44c2a8bac301f78a87a392cc0e27107038e3dacfb3056b34b1a44ce9457a0c12"
+    },
+    {
+      "message_id": 16471,
+      "filename": "지1 서바 18회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16471_.1.18.pdf",
+      "size_bytes": 13770367,
+      "telegram_date": "2025-10-11T15:15:15+00:00",
+      "title": "지1 시대인재 서바이벌 모의고사 17,18회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16471.png",
+      "sha256": "cbd927b6bc9bd67443a23173745129d9e766b4d59514bd670e07be56395eb06f"
     }
   ],
   "duplicate_message_ids": [
