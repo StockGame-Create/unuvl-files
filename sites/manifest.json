@@ -84013,6 +84013,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14709.png",
       "sha256": "bac1fee6ef7281be191df15765e6568a5f1423ad4e83e9005106ea31dc4e4135"
+    },
+    {
+      "message_id": 14705,
+      "filename": "강e분_수특_현대시_250613_105842.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14705_.e._._._250613_105842.pdf",
+      "size_bytes": 65196353,
+      "telegram_date": "2025-09-18T13:52:52+00:00",
+      "title": "강E분 문학 정리집 현대시, 현대산문 #강이분",
+      "year": "2026",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/14705.png",
+      "sha256": "fb8ee4b4e6ed9ca3a30388b142283769e21e39780b4498d5645d1f15a25772d5"
     }
   ],
   "duplicate_message_ids": [
