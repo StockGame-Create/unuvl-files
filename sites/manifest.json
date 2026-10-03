@@ -86071,6 +86071,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/14467.png",
       "sha256": "04098867c9e84fb5cf78bd8b6a8b0a51f13c12b47ea0cb66f95522fa167e6b1e"
+    },
+    {
+      "message_id": 14465,
+      "filename": "9월 서프 경제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14465_9.pdf",
+      "size_bytes": 8988164,
+      "telegram_date": "2025-09-15T23:18:45+00:00",
+      "title": "경제 시대인재 9월 전국모의평가 (문제지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "경제",
+      "thumbnail": "thumbnails/14465.png",
+      "sha256": "47dfdfa1a5dc794c307cfd86ffdd36418dfafa20e0709668ba7ff0d41f13fe08"
     }
   ],
   "duplicate_message_ids": [
