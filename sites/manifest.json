@@ -67731,6 +67731,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16880.png",
       "sha256": "7c62d48fb18c14b13bf0c8575c153c6e1aeb9283cba9896475c126190c1192e8"
+    },
+    {
+      "message_id": 16878,
+      "filename": "강 30회 소퀄.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16878_.30.pdf",
+      "size_bytes": 39464605,
+      "telegram_date": "2025-10-18T13:21:19+00:00",
+      "title": "수학 강대모의고사K 30회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16878.png",
+      "sha256": "a1b5e42264d80921c2383d84ad60ac35500ebf14e9d7b3f8bf5d8cbaaa4d298c"
     }
   ],
   "duplicate_message_ids": [
