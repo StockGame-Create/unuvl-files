@@ -84545,6 +84545,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/14647.png",
       "sha256": "efe04cf888d40a62cc623ee0259e51ee89bf272bf3103188aa235b22ae2ab037"
+    },
+    {
+      "message_id": 14646,
+      "filename": "2024 물2 CRUX 6권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14646_2024.2.CRUX.6.pdf",
+      "size_bytes": 43273202,
+      "telegram_date": "2025-09-17T14:05:38+00:00",
+      "title": "물2 CRUX 1권 ~ 8권",
+      "year": "2024",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/14646.png",
+      "sha256": "594ddd235cf666b0d6fc583c697c89dbd36cc29706fd3cbd22499ca7b380fb89"
     }
   ],
   "duplicate_message_ids": [
