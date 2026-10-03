@@ -81605,6 +81605,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15525.png",
       "sha256": "5cdd4849fc63199266639dccf2e0a0af78e830b54c35b527f735fe591687e84a"
+    },
+    {
+      "message_id": 15523,
+      "filename": "내신_고쟁이_확률과_통계_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15523_._._._._.pdf",
+      "size_bytes": 7100969,
+      "telegram_date": "2025-09-25T15:12:10+00:00",
+      "title": "수학 유형 + 내신 고쟁이 확률과 통계",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15523.png",
+      "sha256": "8d754b6473618d906265365cffa99ca21714264f07517e962ba99faf8940cc17"
     }
   ],
   "duplicate_message_ids": [
