@@ -84321,6 +84321,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/14671.png",
       "sha256": "8fb8979cf2979841a48956db4906cae889293ca4c60b2181b75f6e53af30a689"
+    },
+    {
+      "message_id": 14669,
+      "filename": "한지 빠답 @yubin_MPGA 10482020.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14669_.%40yubin_MPGA.10482020.pdf",
+      "size_bytes": 258349,
+      "telegram_date": "2025-09-17T14:28:20+00:00",
+      "title": "한지 이것이 모의고사다 3회 ~ 20회 #이모다",
+      "year": "2026",
+      "instructor": "이기상",
+      "subject": "한국지리",
+      "thumbnail": "thumbnails/14669.png",
+      "sha256": "b94fafae3b09083305a07d2a595c5f60b6f2645656de3191b400b4441544a24a"
     }
   ],
   "duplicate_message_ids": [
