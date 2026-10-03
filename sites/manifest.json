@@ -84671,6 +84671,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/14638.png",
       "sha256": "050800660128f4460a73a0098c40c0e0f473c60197d4b6099a7ea44b1a899d41"
+    },
+    {
+      "message_id": 14637,
+      "filename": "물2 리바 3권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14637_.2.3.pdf",
+      "size_bytes": 115642293,
+      "telegram_date": "2025-09-17T14:05:30+00:00",
+      "title": "물2 시대인재 REVIVAL 1권 ~ 6권 #리바",
+      "year": null,
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/14637.png",
+      "sha256": "86631329bd346d7e8c6fc3d431d46dc3064b539353b9cfc5159221c7a2c7835d"
     }
   ],
   "duplicate_message_ids": [
