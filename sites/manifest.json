@@ -85,6 +85,20 @@
       "sha256": "ba9cc050e213094c9290a1de700a8e804d4d342af4c2f38d8cec89c8110ece39"
     },
     {
+      "message_id": 24895,
+      "filename": "27 서바 생2 15회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24895_27.2.15.pdf",
+      "size_bytes": 2849435,
+      "telegram_date": "2026-10-03T07:27:53+00:00",
+      "title": "생2 시대인재 서바이벌 모의고사 15회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/24895.png",
+      "sha256": "415c1ed5db22a9ecf065fa09bb62884c0a02b10b66644efaa85a5249d8d27fb0"
+    },
+    {
       "message_id": 24878,
       "filename": "27 강k 물리 10회.pdf",
       "stored_as": null,
