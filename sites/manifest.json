@@ -76341,6 +76341,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16055.png",
       "sha256": "dbbedac93939c0c373d1f662d554174ba0a46685711a69dcd79d1175df1b0689"
+    },
+    {
+      "message_id": 16050,
+      "filename": "현자의돌_시즌1_화질개선_.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16050_._.1_._.pdf",
+      "size_bytes": 7014750,
+      "telegram_date": "2025-10-02T15:11:53+00:00",
+      "title": "생윤 현자의 돌 모의고사 시즌1 1~20회 (OCR) #현돌모",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/16050.png",
+      "sha256": "044ff24e34db871bbfe161e21d224538c4fb968ceee1fb0dd13a0088b3deef7f"
     }
   ],
   "duplicate_message_ids": [
