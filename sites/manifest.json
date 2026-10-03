@@ -85651,6 +85651,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14516.png",
       "sha256": "5e0446c8dd0470b181431985a10e1c9c9b574bf1a340e3696eb8f3ad94098a99"
+    },
+    {
+      "message_id": 14514,
+      "filename": "2026 서바이벌 프로 9월 국수영한 정답과 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14514_2026.9.pdf",
+      "size_bytes": 6709468,
+      "telegram_date": "2025-09-16T13:15:34+00:00",
+      "title": "국어, 수학, 영어, 한국사 시대인재 9월 전국모의평가 (해설지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어, 수학, 영어, 한국사",
+      "thumbnail": "thumbnails/14514.png",
+      "sha256": "01d47488f89d5674e22c7dd7226d60eb9192b15415d7b67cdc7f7405b35cf325"
     }
   ],
   "duplicate_message_ids": [
