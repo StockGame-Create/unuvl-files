@@ -99,6 +99,20 @@
       "sha256": "fd9306fe96427ca5af968e51404b5b23fdd1932bf008944ec75dacc3b05ff0b5"
     },
     {
+      "message_id": 24854,
+      "filename": "손해설_2027_SSG_Poiler_모의고사_2회_손해설_신성규T.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24854_._2027_SSG_Poiler_._2._._.T.pdf",
+      "size_bytes": 10140151,
+      "telegram_date": "2026-10-03T05:22:50+00:00",
+      "title": "수학 SSG_Poiler 모의고사 2, 3회",
+      "year": "2027",
+      "instructor": "신성규",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24854.png",
+      "sha256": "4ab70c5660c07ebd49d6f821b92037f1394b2570e77a48ee9875b6f1bf8c1c2d"
+    },
+    {
       "message_id": 24836,
       "filename": "강K 생1 16회.pdf",
       "stored_as": null,
