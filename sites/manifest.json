@@ -76061,6 +76061,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16093.png",
       "sha256": "22cb2163200c6317a64b97de062fe09f155321fdbb3b7cc719432e278dd919ef"
+    },
+    {
+      "message_id": 16091,
+      "filename": "2026학년도_강민철_강평업_문학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16091_2026._._._.pdf",
+      "size_bytes": 95501405,
+      "telegram_date": "2025-10-03T15:09:55+00:00",
+      "title": "국어 강평 UP 문학 #강평업",
+      "year": "2026",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/16091.png",
+      "sha256": "747c0070feffa809c2e58aab2968c4a0a33d334f2256138f450c09fcdf088233"
     }
   ],
   "duplicate_message_ids": [
