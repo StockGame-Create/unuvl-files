@@ -75585,6 +75585,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/16145.png",
       "sha256": "8ad22727b02e25e2e61b66787b0823f4a84f2ebebcb2a7d7ec112c50e6b59d3e"
+    },
+    {
+      "message_id": 16144,
+      "filename": "적생모_파이널_9회_답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16144_._._9._.pdf",
+      "size_bytes": 9570988,
+      "telegram_date": "2025-10-04T14:37:00+00:00",
+      "title": "정법 적자생존 모의고사 시즌3 9회",
+      "year": "2026",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/16144.png",
+      "sha256": "76cdd7e00826fbd87fd805694030310c34db53a16389dd3ded16a05216e4967d"
     }
   ],
   "duplicate_message_ids": [
