@@ -74325,6 +74325,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16277.png",
       "sha256": "cb87cdf47ccd7a07f411963b5ba06cc3e8d48fc1a4746012a863f133e148266a"
+    },
+    {
+      "message_id": 16276,
+      "filename": "미꾸라지보다_큰것은_미꾸_X라지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16276_._._._X.pdf",
+      "size_bytes": 2242755,
+      "telegram_date": "2025-10-08T13:06:47+00:00",
+      "title": "지1 시대인재 서바이벌 모의고사 19,20회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16276.png",
+      "sha256": "c675f0f9ed2f1e6de3b5f8a12ffe336594a5a07628c8ccc9569fed0d7557f057"
     }
   ],
   "duplicate_message_ids": [
