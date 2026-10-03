@@ -68095,6 +68095,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16835.png",
       "sha256": "27e95d38be71e5e4b5376fa514a7879dacdff9830011e5124758f9b584aa359e"
+    },
+    {
+      "message_id": 16834,
+      "filename": "2026 어텐션 프로.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16834_2026.pdf",
+      "size_bytes": 1531290,
+      "telegram_date": "2025-10-17T15:27:03+00:00",
+      "title": "수학 ATTENT!ON PRO",
+      "year": "2026",
+      "instructor": "어피셜",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16834.png",
+      "sha256": "bc79db5399ee26d8b6c7464739b66b460b61371e352cc57f7e53930b8b1a90ca"
     }
   ],
   "duplicate_message_ids": [
