@@ -82333,6 +82333,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14898.png",
       "sha256": "33f35a633b1e51e82db2b9e401970b6e16d04df82cc0eca8951ce6414dc82828"
+    },
+    {
+      "message_id": 14897,
+      "filename": "2026_강대모의고사K_물리학_19회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14897_2026_.K_._19._.pdf",
+      "size_bytes": 2097844,
+      "telegram_date": "2025-09-20T11:38:19+00:00",
+      "title": "물1 강대모의고사K 19회, 20회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/14897.png",
+      "sha256": "47e42a002e882bab4645d618d30b87d1da03214327a332fcf9c26f2b382fecc6"
     }
   ],
   "duplicate_message_ids": [
