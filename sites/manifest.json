@@ -81143,6 +81143,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15574.png",
       "sha256": "df0976ca2a90bba4eba831525777359ede91b28f5633dcae5e24f7cb3c3ee686"
+    },
+    {
+      "message_id": 15573,
+      "filename": "2026_범모_시즌1_인강_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15573_2026_._.1_._.pdf",
+      "size_bytes": 78658472,
+      "telegram_date": "2025-09-26T14:19:09+00:00",
+      "title": "수학 김범준 모의평가 1회",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15573.png",
+      "sha256": "92431ffdfe1fd68cb95a6e02ebff4c440a890ba9632d8c1d71af9cd79a05929f"
     }
   ],
   "duplicate_message_ids": [
