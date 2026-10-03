@@ -74395,6 +74395,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16271.png",
       "sha256": "4e1a89ff8578582f5f0249db7ae7da3260cce6ba7844ff0e7afaa9181612afc1"
+    },
+    {
+      "message_id": 16270,
+      "filename": "2026 수학 숏컷 미적분 2권 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16270_2026.2.pdf",
+      "size_bytes": 24828367,
+      "telegram_date": "2025-10-07T15:04:34+00:00",
+      "title": "수학 시대인재 SHORTCUT 미적분 2권",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16270.png",
+      "sha256": "9a31a8fdac40036ec44fe00e06cd93769ccb424a88bae43187b9e01820fff078"
     }
   ],
   "duplicate_message_ids": [
