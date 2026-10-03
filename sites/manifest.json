@@ -79309,6 +79309,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/15752.png",
       "sha256": "f6c0e360111497bc28458875be88a5065e9b3e3a76c27ce017abb7c51920b1df"
+    },
+    {
+      "message_id": 15751,
+      "filename": "사문브릿지전국8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15751_.8.pdf",
+      "size_bytes": 4268201,
+      "telegram_date": "2025-09-28T02:55:10+00:00",
+      "title": "사문 시대인재 브릿지 전국 모의고사 8회 #브릿지전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/15751.png",
+      "sha256": "811e422144933a36122da6fe01e761bde7b807437f74e28e0fb8ae7bbbd4a5ae"
     }
   ],
   "duplicate_message_ids": [
