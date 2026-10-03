@@ -69159,6 +69159,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16725.png",
       "sha256": "ee07befd3925b529975520569c0559a34f409494a0f8b9fd570d60bc3fbe1277"
+    },
+    {
+      "message_id": 16724,
+      "filename": "[시험지] 4주차 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16724_.4.2.pdf",
+      "size_bytes": 1211972,
+      "telegram_date": "2025-10-16T14:10:27+00:00",
+      "title": "생윤 현자의 돌 현장 강의 시즌3 모의고사 4주차 1,2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/16724.png",
+      "sha256": "6d9cc6ed91545d0fd28842a530ab26965d4588878b1e043c3a215740e89839cc"
     }
   ],
   "duplicate_message_ids": [
