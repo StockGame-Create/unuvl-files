@@ -79071,6 +79071,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15774.png",
       "sha256": "5140477ad04e425ebdf466e3cd351df2fc27ec153bab314d5a48b13239b32215"
+    },
+    {
+      "message_id": 15773,
+      "filename": "2026 시대인재 트러스 사문 11.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15773_2026.11.pdf",
+      "size_bytes": 21108234,
+      "telegram_date": "2025-09-28T09:32:00+00:00",
+      "title": "사문 시대인재 트러스 모의고사 11회 #트러스",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/15773.png",
+      "sha256": "670f6a9fad17ec8424282f8cfe791dcd2f45798c78c97ed31b5bcc755c07d059"
     }
   ],
   "duplicate_message_ids": [
