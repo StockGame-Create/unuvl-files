@@ -73261,6 +73261,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16373.png",
       "sha256": "717ab6cbbf4255e71db18efa2ad0da0ca3e5d242a7ae2467cb23e51de51a735b"
+    },
+    {
+      "message_id": 16372,
+      "filename": "시대인재_2026학년도_10월_전국_모의평가_1교시_국어_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16372_._2026._10._._._1._._.pdf",
+      "size_bytes": 6105802,
+      "telegram_date": "2025-10-10T13:57:51+00:00",
+      "title": "국어 시대인재 10월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16372.png",
+      "sha256": "6b2d5b8aa9baee7495ba1bb58545d14045fd371d17f35d632c3dafd4251df29a"
     }
   ],
   "duplicate_message_ids": [
