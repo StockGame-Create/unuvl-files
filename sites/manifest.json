@@ -69761,6 +69761,20 @@
       "subject": null,
       "thumbnail": "thumbnails/16656.png",
       "sha256": "3eccdbaa76de42bd302169616edb965301de1ba25a24fdea7f5dff18b8a49427"
+    },
+    {
+      "message_id": 16655,
+      "filename": "2026 강대모의고사K 물리학 4회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16655_2026.K.4.pdf",
+      "size_bytes": 518699,
+      "telegram_date": "2025-10-14T11:52:24+00:00",
+      "title": "2026 강대모의고사K 물리학 4회 해설",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/16655.png",
+      "sha256": "c90ac8f212f07662856af4cbe4108f71040dc0538da96dc49405a67e2b595033"
     }
   ],
   "duplicate_message_ids": [
