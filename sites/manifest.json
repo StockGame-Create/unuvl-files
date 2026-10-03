@@ -78945,6 +78945,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15783.png",
       "sha256": "7f58992deda0bb0b588dc92c2635b606a79a379b646213a9c611c637024aff70"
+    },
+    {
+      "message_id": 15782,
+      "filename": "2026_수학_오르비북스_랑데뷰_N제;_킬러극킬_기하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15782_2026_._._._N._._.pdf",
+      "size_bytes": 121865801,
+      "telegram_date": "2025-09-28T09:32:01+00:00",
+      "title": "수학 오르비북스 랑데뷰 N제 킬러극킬 기하",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15782.png",
+      "sha256": "b00d7d102ce26fe9fe7c4151ae98b97c8d83a78f3f53b7be857869b74c2441a7"
     }
   ],
   "duplicate_message_ids": [
