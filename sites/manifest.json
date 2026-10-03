@@ -84951,6 +84951,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14606.png",
       "sha256": "9b947649fde0d2e0b2f9a5acdc02be8c20a192e0d5b2d51e269b56893bf7702a"
+    },
+    {
+      "message_id": 14604,
+      "filename": "2026_상상_모의고사_리마스터링_2회_250809_235749_250917_181823.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14604_2026_._._._2._250809_235749_250917_181823.pdf",
+      "size_bytes": 28658245,
+      "telegram_date": "2025-09-17T09:24:17+00:00",
+      "title": "국어 상상국어 리마스터링 모의고사 2회 #상상",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14604.png",
+      "sha256": "5d1555e585ef0091d57e633e5ced14eacc24e41d205ed4d0ad1ab5446c2be2f0"
     }
   ],
   "duplicate_message_ids": [
