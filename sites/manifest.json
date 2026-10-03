@@ -80051,6 +80051,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/15678.png",
       "sha256": "dcae69329727377a0e8da2a9ba719d134feaee8b8230788cd5b257b2623a0837"
+    },
+    {
+      "message_id": 15675,
+      "filename": "2026_잘푸모_시즌2_3회_문제지_250925_204420.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15675_2026_._.2_3._._250925_204420.pdf",
+      "size_bytes": 3000597,
+      "telegram_date": "2025-09-27T04:44:35+00:00",
+      "title": "생윤 잘 푸는 모의고사 시즌2 3회 #잘푸모",
+      "year": "2026",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/15675.png",
+      "sha256": "972ce3578b8f27464d815f60b838efe3761204953d7b6f37105b3a307c6a875c"
     }
   ],
   "duplicate_message_ids": [
