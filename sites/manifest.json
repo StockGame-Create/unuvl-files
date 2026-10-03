@@ -67955,6 +67955,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16851.png",
       "sha256": "bbf574279952f1a7341be20ac98814719adf86f2877c7b4bc7fb757597d9a956"
+    },
+    {
+      "message_id": 16846,
+      "filename": "2026_샤인미_모의고사_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16846_2026_._._.pdf",
+      "size_bytes": 29240449,
+      "telegram_date": "2025-10-18T01:35:02+00:00",
+      "title": "수학 샤인미 모의고사 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16846.png",
+      "sha256": "7e4daee45020732f2e00c8e6c4bb2ecf0afa0440223f0aaa69697938f0414785"
     }
   ],
   "duplicate_message_ids": [
