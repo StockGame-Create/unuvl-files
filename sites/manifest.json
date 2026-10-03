@@ -77419,6 +77419,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15938.png",
       "sha256": "8723c828ec07e3faadc3b3f80581ab392aefa9455e8e0e8712f6f87d2ea6a74e"
+    },
+    {
+      "message_id": 15937,
+      "filename": "국어,_김재훈,_특강반,_주간지2_2021_3월,_2021_4월.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15937_._._._.2_2021_3._2021_4.pdf",
+      "size_bytes": 1750250,
+      "telegram_date": "2025-09-30T14:15:25+00:00",
+      "title": "국어 시대인재 김재훈 여름특강 8주차",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/15937.png",
+      "sha256": "e6ed83e3cf3aba2a659cb45a7a334027790393d39c59f24f8c95bb6cffcfdc7d"
     }
   ],
   "duplicate_message_ids": [
