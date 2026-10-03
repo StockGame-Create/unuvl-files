@@ -76537,6 +76537,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16033.png",
       "sha256": "0054181659cb3f580ea21bacd99ef56d4149071a32b5aa13548c7a55946d3f09"
+    },
+    {
+      "message_id": 16032,
+      "filename": "종로 핵파 01-06회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16032_.01-06.pdf",
+      "size_bytes": 79365838,
+      "telegram_date": "2025-10-02T14:20:08+00:00",
+      "title": "윤사 종로 핵심체크 파이널 모의고사 1~6회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "윤리와사상",
+      "thumbnail": "thumbnails/16032.png",
+      "sha256": "8e7c3fe76cf77c964aed9be7b839e1dbcee437f02adc0e1d3b5914f892343323"
     }
   ],
   "duplicate_message_ids": [
