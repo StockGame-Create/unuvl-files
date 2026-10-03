@@ -73065,6 +73065,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/16388.png",
       "sha256": "d7fb3d50ad764f47e3a770015a8dbc86eccf6c04d6a15dbcbc0bc6ac8f10d97d"
+    },
+    {
+      "message_id": 16387,
+      "filename": "시대인재_2026학년도_10월_전국_모의평가_4교시_과학탐구_화학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16387_._2026._10._._._4._._.2.pdf",
+      "size_bytes": 5472613,
+      "telegram_date": "2025-10-10T14:17:15+00:00",
+      "title": "화2 시대인재 10월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/16387.png",
+      "sha256": "8cd3ab78c61438775a941a21b92c1d0ab0b2420a88df4cbd5c19f505c988885e"
     }
   ],
   "duplicate_message_ids": [
