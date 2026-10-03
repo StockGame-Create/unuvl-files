@@ -80457,6 +80457,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/15635.png",
       "sha256": "a8cc381299f564580d4369e3e987e18f2973d77cffd3a38e15a5496792bc850a"
+    },
+    {
+      "message_id": 15633,
+      "filename": "2026 생명과학1 LCS CE 11회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15633_2026.1.LCS.CE.11.pdf",
+      "size_bytes": 13571915,
+      "telegram_date": "2025-09-26T16:12:00+00:00",
+      "title": "생1 LCS CUTTING EDGE 11회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15633.png",
+      "sha256": "6d3a4f7b6f51bcdfdc1a843fc9dd160c95da3611f20e58aa70cb7a0dc40d08d2"
     }
   ],
   "duplicate_message_ids": [
