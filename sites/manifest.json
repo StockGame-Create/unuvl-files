@@ -84405,6 +84405,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14660.png",
       "sha256": "1452c4f68c45dcfac0c5ee8314c21b68415087a4fbfe097fc828f6a11ae0e7a2"
+    },
+    {
+      "message_id": 14657,
+      "filename": "2026_규토_라이트_N제_수2_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14657_2026_._._N._.2_.pdf",
+      "size_bytes": 49593793,
+      "telegram_date": "2025-09-17T14:16:51+00:00",
+      "title": "수학 규토 라이트 N제 수학1, 수학2",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14657.png",
+      "sha256": "4ce049011e1e41da00f5a57fb9e53d1de6c7740b5f732bfce47610606e7fce2a"
     }
   ],
   "duplicate_message_ids": [
