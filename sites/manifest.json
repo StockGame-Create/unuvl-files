@@ -68963,6 +68963,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16749.png",
       "sha256": "f7fd7f491c92711532c2251b7f72d3081101101c4cba04b0224b5d45a0621da4"
+    },
+    {
+      "message_id": 16747,
+      "filename": "생명1 전국 서바 14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16747_.1.14.pdf",
+      "size_bytes": 9631895,
+      "telegram_date": "2025-10-16T14:28:52+00:00",
+      "title": "생1 시대인재 서바이벌 전국 모의고사 14회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/16747.png",
+      "sha256": "c7eac1444e51aa331e42592c0065d441632bc4c79521d677b4a7009c134a7974"
     }
   ],
   "duplicate_message_ids": [
