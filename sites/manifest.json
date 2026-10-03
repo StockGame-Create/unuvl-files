@@ -80065,6 +80065,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/15675.png",
       "sha256": "972ce3578b8f27464d815f60b838efe3761204953d7b6f37105b3a307c6a875c"
+    },
+    {
+      "message_id": 15673,
+      "filename": "2026 적중예감 파이널.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15673_2026.pdf",
+      "size_bytes": 248158011,
+      "telegram_date": "2025-09-27T04:39:56+00:00",
+      "title": "사문 적중예감 Final 실전 모의고사 1회 ~ 13회 (인쇄소퀄)",
+      "year": "2026",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/15673.png",
+      "sha256": "0241924b5b16fdce4b1a05162580b15380953dc4d5686d8c1d3b079447183496"
     }
   ],
   "duplicate_message_ids": [
