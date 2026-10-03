@@ -77685,6 +77685,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15909.png",
       "sha256": "d26c479f76578ef53132c67e0c563af4c267a90eb1c1ca2ccf8f78d26bd563ea"
+    },
+    {
+      "message_id": 15907,
+      "filename": "박선midday.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15907_.midday.pdf",
+      "size_bytes": 4129548,
+      "telegram_date": "2025-09-30T01:09:17+00:00",
+      "title": "지1 MIDDAY 1회",
+      "year": "2026",
+      "instructor": "박선",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/15907.png",
+      "sha256": "e16946eaafe407cc989140d491fc7971ba2052e60d4022878a4015e827063622"
     }
   ],
   "duplicate_message_ids": [
