@@ -82151,6 +82151,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/14917.png",
       "sha256": "2f789af92aea8f9a69e8c6d2e8ffc9e80bfdf7a0ef2c06c0c7fdbc1de763f3af"
+    },
+    {
+      "message_id": 14916,
+      "filename": "강 k 사문 11회 5회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14916_.k.11.5.pdf",
+      "size_bytes": 4684032,
+      "telegram_date": "2025-09-20T11:55:25+00:00",
+      "title": "사문 강대모의고사K 11회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14916.png",
+      "sha256": "3095e88d6602ea8c93fc6be6f1bc94db43d7b34a88ecc2ca66170edc7c233beb"
     }
   ],
   "duplicate_message_ids": [
