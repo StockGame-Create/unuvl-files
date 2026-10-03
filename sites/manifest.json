@@ -70993,6 +70993,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16548.png",
       "sha256": "f3a79802fda061e96e53d0df86f251d49f674f7e08235b9b70e8191d000341f6"
+    },
+    {
+      "message_id": 16546,
+      "filename": "수학_서바이벌_전국_14회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16546_._._._14.pdf",
+      "size_bytes": 25466249,
+      "telegram_date": "2025-10-12T15:37:06+00:00",
+      "title": "수학 시대인재 서바이벌 전국 모의고사 14회 (문제지) #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16546.png",
+      "sha256": "7f4930c291b72f91e74df052ad0a24a03e49c5562d07bf25024e2ea7a430203e"
     }
   ],
   "duplicate_message_ids": [
