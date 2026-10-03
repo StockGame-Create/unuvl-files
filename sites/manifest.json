@@ -85707,6 +85707,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/14510.png",
       "sha256": "e1b9f6dd4ced80d76625ead2017b0546f526da58d8472451f15800eaa472fc22"
+    },
+    {
+      "message_id": 14509,
+      "filename": "9월_서프_생윤_9월_서프_윤사_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14509_9._._._9._._._%40yubin_MPGA.pdf",
+      "size_bytes": 9842586,
+      "telegram_date": "2025-09-16T12:55:35+00:00",
+      "title": "생윤 시대인재 9월 전국모의평가 (문제지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/14509.png",
+      "sha256": "731dffb2b4f60e62ac0843cdaf0a3faed74d66b10b5dcc71af288b23faeffed7"
     }
   ],
   "duplicate_message_ids": [
