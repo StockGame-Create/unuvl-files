@@ -81661,6 +81661,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15519.png",
       "sha256": "bc1b56e20977826c76436d463e602703ab5241ba8a3a7552dd92bd029fba5266"
+    },
+    {
+      "message_id": 15514,
+      "filename": "지1 17회 답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15514_.1.17.pdf",
+      "size_bytes": 160210,
+      "telegram_date": "2025-09-25T14:31:02+00:00",
+      "title": "지1 시대인재 서바이벌 모의고사 17회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/15514.png",
+      "sha256": "e7b70e2f9a38a4b42722356fae18ff8676f8c21f35cb9429b70b86651625d6fc"
     }
   ],
   "duplicate_message_ids": [
