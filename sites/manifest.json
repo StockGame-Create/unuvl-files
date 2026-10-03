@@ -84111,6 +84111,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/14696.png",
       "sha256": "4976d3e1a564a6db578f75401ab7fb1fcdb5242fd6a884d2d857e5e22567cf26"
+    },
+    {
+      "message_id": 14695,
+      "filename": "종로_핵파_모의고사_1회_생윤.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14695_._._._1._.pdf",
+      "size_bytes": 9934892,
+      "telegram_date": "2025-09-18T03:29:46+00:00",
+      "title": "생윤 종로 핵심체크 파이널 모의고사 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/14695.png",
+      "sha256": "9d2610428ed90842a546795babdaee442e929417101a3ae7c004548a9afe12d6"
     }
   ],
   "duplicate_message_ids": [
