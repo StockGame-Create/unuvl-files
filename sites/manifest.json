@@ -85203,6 +85203,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14573.png",
       "sha256": "9b811d719f76260d34b47805f25342020e0f5673b05432073af145671783fafa"
+    },
+    {
+      "message_id": 14571,
+      "filename": "2026_한완수_한권으로_완성하는_수학_미적분_상_2025년.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14571_2026_._._._._._._2025.pdf",
+      "size_bytes": 168558044,
+      "telegram_date": "2025-09-17T03:07:50+00:00",
+      "title": "수학 한완수 미적분 (상)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14571.png",
+      "sha256": "f57c954a0d3402dcca18e4be4f96497a2de00bae919879b866fdc021af9e55e6"
     }
   ],
   "duplicate_message_ids": [
