@@ -77531,6 +77531,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15924.png",
       "sha256": "87cd3ce1fd04f39664b9d7092717a33bd9eb01d1bdc85e7cbb818d7069c8a8e0"
+    },
+    {
+      "message_id": 15923,
+      "filename": "22개정완자_지구과학_정답친해.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15923_22._._.pdf",
+      "size_bytes": 28081710,
+      "telegram_date": "2025-09-30T14:06:23+00:00",
+      "title": "지1 완자 지구과학",
+      "year": null,
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/15923.png",
+      "sha256": "9b2ca471561aec25c53c6cc996fb7fb9aefd3ff05eac1c379f1005ef7e9ad65d"
     }
   ],
   "duplicate_message_ids": [
