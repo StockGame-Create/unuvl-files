@@ -78147,6 +78147,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15853.png",
       "sha256": "a7e4a0872069bed9f97b2a9890082e2a2372e9bb946ff8815fa18dde5ee2dab6"
+    },
+    {
+      "message_id": 15852,
+      "filename": "2026 지구과학1 김진영 모의고사 5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15852_2026.1.5.pdf",
+      "size_bytes": 31826158,
+      "telegram_date": "2025-09-29T11:48:31+00:00",
+      "title": "지1 김진영 모의고사 5회 (문제지)",
+      "year": "2026",
+      "instructor": "김진영",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/15852.png",
+      "sha256": "7cb947cf77fbaaea7726bb333868087714d1d35411bf31724fe7862605cdc413"
     }
   ],
   "duplicate_message_ids": [
