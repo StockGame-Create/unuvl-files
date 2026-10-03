@@ -86015,6 +86015,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/14473.png",
       "sha256": "cce4076d8efa1fe213db3ff82a2bb310048515c3f7a5d8c13ee28d7e80a409a7"
+    },
+    {
+      "message_id": 14472,
+      "filename": "9월 물1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14472_9.1.pdf",
+      "size_bytes": 433711,
+      "telegram_date": "2025-09-16T01:02:20+00:00",
+      "title": "물1 시대인재 9월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/14472.png",
+      "sha256": "3e969197e4a3efe6deeff628f403f2abc5b3f38ba942cc86665432be5beef249"
     }
   ],
   "duplicate_message_ids": [
