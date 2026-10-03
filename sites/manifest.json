@@ -75501,6 +75501,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16156.png",
       "sha256": "6f8cb62ed91d610a666617b49244de30d6d55cce898241662b748a6842bf9271"
+    },
+    {
+      "message_id": 16155,
+      "filename": "EBS_2026_수능_직전보강_클리어_봉투모의고사_수학영역_정답과해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16155_EBS_2026_._._._._._.pdf",
+      "size_bytes": 743585,
+      "telegram_date": "2025-10-05T00:25:39+00:00",
+      "title": "수학 수능 직전보강 클리어 Clear 봉투모의고사 공통 + 미적분 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16155.png",
+      "sha256": "ef5568094239a80bce5970ec9c48f5a43d0b126304f2822f89f3d93d530b8031"
     }
   ],
   "duplicate_message_ids": [
