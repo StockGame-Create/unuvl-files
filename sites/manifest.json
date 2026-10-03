@@ -71049,6 +71049,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16540.png",
       "sha256": "4c84ee5815d8593ecd141068b6d86a354d365c635c0e24a81cc8cf2426b64bdd"
+    },
+    {
+      "message_id": 16537,
+      "filename": "2026_양승진_파이널코드_일부주제_5번까지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16537_2026_._._._5.pdf",
+      "size_bytes": 15348553,
+      "telegram_date": "2025-10-12T14:20:56+00:00",
+      "title": "수학 양승진 파이널 코드",
+      "year": "2026",
+      "instructor": "양승진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16537.png",
+      "sha256": "9864a87916a1e84eee95e558c8f6ff6476f009967756fccd772e9e7eb2500e82"
     }
   ],
   "duplicate_message_ids": [
