@@ -73205,6 +73205,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/16378.png",
       "sha256": "908f7ddc3b73f29d498fd82d60a8b07bdbe3851f1f1d2c4bfa0b3ce7d69f69de"
+    },
+    {
+      "message_id": 16377,
+      "filename": "시대인재_2026학년도_10월_전국_모의평가_3교시_영어_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16377_._2026._10._._._3._._.pdf",
+      "size_bytes": 3875034,
+      "telegram_date": "2025-10-10T14:01:13+00:00",
+      "title": "영어 시대인재 10월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/16377.png",
+      "sha256": "8f4257cabf8d3869477b0d28fa4040775c87100d2f1130bcb997ff278e12c1c4"
     }
   ],
   "duplicate_message_ids": [
