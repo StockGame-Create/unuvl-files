@@ -75207,6 +75207,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16184.png",
       "sha256": "8e72f52227b43d71dbac0eea2849c67880e93346bc1d5651385f60c4dc69ce30"
+    },
+    {
+      "message_id": 16183,
+      "filename": "2026학년도_도핑_EBS_수학2_해설_내지_색변환전_2025_10_05.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16183_2026._._EBS_.2_._._._2025_10_05.pdf",
+      "size_bytes": 10756827,
+      "telegram_date": "2025-10-05T13:45:24+00:00",
+      "title": "수학 DOPING",
+      "year": "2026",
+      "instructor": "황지현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16183.png",
+      "sha256": "8c2fc83197a69a347968f79fa338728e0cb3a6b7b225c5f2a4d74be4df0f16f6"
     }
   ],
   "duplicate_message_ids": [
