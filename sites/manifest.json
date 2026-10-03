@@ -70797,6 +70797,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/16568.png",
       "sha256": "ba2d0bc869b8e5235d0b4cd5da7bc3480da3f471a9a1c4a19ddc7d401c63445b"
+    },
+    {
+      "message_id": 16567,
+      "filename": "배기범_모의고사_시즌_4_3_8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16567_._._._4_3_8.pdf",
+      "size_bytes": 11668322,
+      "telegram_date": "2025-10-13T14:04:06+00:00",
+      "title": "물1 배기범 모의고사 시즌4 1~8회",
+      "year": "2026",
+      "instructor": "배기범",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/16567.png",
+      "sha256": "476f43b459235fc6412ddc4929a9ef1cab1814f172979cf8c0a39fb7d60e7bbf"
     }
   ],
   "duplicate_message_ids": [
