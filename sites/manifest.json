@@ -81731,6 +81731,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15508.png",
       "sha256": "a8c49de1a4f7bafaafed6ef44701c8251b01243421ec237a22cadb7f579283fc"
+    },
+    {
+      "message_id": 15506,
+      "filename": "이비애수_EBS_문학_해제2주차_내지22_4_250925_125421.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15506_._EBS_._.2._.22_4_250925_125421.pdf",
+      "size_bytes": 38748663,
+      "telegram_date": "2025-09-25T14:03:24+00:00",
+      "title": "국어 이비애수 2주차",
+      "year": "2026",
+      "instructor": "장의순",
+      "subject": "국어",
+      "thumbnail": "thumbnails/15506.png",
+      "sha256": "7b8f843dbd229396107329e1e56bf1aef0fcfe9effc728ce15862f09e3df62e4"
     }
   ],
   "duplicate_message_ids": [
