@@ -68753,6 +68753,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16775.png",
       "sha256": "bac6b621f3ea314375d4c781ceb9a8c1e3463a9b14407f65cd9d7b66597f1046"
+    },
+    {
+      "message_id": 16774,
+      "filename": "[3주차] 해설편_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16774_.3._2.pdf",
+      "size_bytes": 1794152,
+      "telegram_date": "2025-10-17T09:23:24+00:00",
+      "title": "생윤 현자의 돌 현장 강의 시즌3 모의고사 2주차 1회, 3주차 1~2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/16774.png",
+      "sha256": "750ea929d59ffc4bb0e57d748b2a4ec2f1f4b520965b2037b2cac00629b22624"
     }
   ],
   "duplicate_message_ids": [
