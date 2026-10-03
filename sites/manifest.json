@@ -81815,6 +81815,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15497.png",
       "sha256": "37aaea03c9fa475f659d1639c560e99aa210f7bd91f8fd967a8129c99360b30d"
+    },
+    {
+      "message_id": 15495,
+      "filename": "OZ 모의고사 시즌 2 1~4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15495_OZ.2.1.4.pdf",
+      "size_bytes": 15242419,
+      "telegram_date": "2025-09-25T13:42:53+00:00",
+      "title": "지1 OZ 모의고사 시즌2 1회 ~ 4회",
+      "year": "2026",
+      "instructor": "오지훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/15495.png",
+      "sha256": "333bf8de29d7ed258eecaf2fce2cd763ceba0ef4c395ac863ba63f1106b3ca7f"
     }
   ],
   "duplicate_message_ids": [
