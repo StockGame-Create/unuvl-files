@@ -15,6 +15,20 @@
       "sha256": "eaa725d118846de622f7678c1ecda22cee6ab8863d2026ade7fff3adc2dddca5"
     },
     {
+      "message_id": 24868,
+      "filename": "2027학년도_시대인재_서바이벌_17회_미적분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24868_2027._._._17._.pdf",
+      "size_bytes": 3084151,
+      "telegram_date": "2026-10-03T05:23:06+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 17회 #서바",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24868.png",
+      "sha256": "77d9ec4d142049fed5bf0fee4c5a584c65a1c263eb4a658456c59298c9e44392"
+    },
+    {
       "message_id": 24865,
       "filename": "디파인_파이널_사문1회.pdf",
       "stored_as": null,
