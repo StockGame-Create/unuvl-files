@@ -70027,6 +70027,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16632.png",
       "sha256": "5852120b9b410fc0cfff173353281407ff31c65fba1576def961756db2b21c04"
+    },
+    {
+      "message_id": 16631,
+      "filename": "2026_화학1_강준호_하드트랙_5_8.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16631_2026_.1_._._5_8.pdf",
+      "size_bytes": 19371014,
+      "telegram_date": "2025-10-13T22:23:49+00:00",
+      "title": "화1 시대인대 HARD TRACK 5~8회",
+      "year": "2026",
+      "instructor": "강준호",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/16631.png",
+      "sha256": "bfe187749fc0678c43d6bf4ea5fc2b230179d0adae7d514ebdbf21eb071c8930"
     }
   ],
   "duplicate_message_ids": [
