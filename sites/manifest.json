@@ -83425,6 +83425,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/14777.png",
       "sha256": "9cb34f84e49c32f9b8f77793228947a47e99d51537c712fd9a04dda71c2bd51e"
+    },
+    {
+      "message_id": 14776,
+      "filename": "물2 오메가 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14776_.2.1.pdf",
+      "size_bytes": 5251249,
+      "telegram_date": "2025-09-19T08:11:13+00:00",
+      "title": "물2 OMEGA 모의고사 1회 #오메가",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/14776.png",
+      "sha256": "4f6c2bbeab36f040c43d391925de4c3b441d29dd4ae8bde1e3eaff0df94b0a34"
     }
   ],
   "duplicate_message_ids": [
