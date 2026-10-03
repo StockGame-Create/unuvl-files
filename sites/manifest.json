@@ -67801,6 +67801,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16868.png",
       "sha256": "9f23361e7a19aafa11b6e2fe45c52609c1502775ff7353f2a2f59f20ba475743"
+    },
+    {
+      "message_id": 16866,
+      "filename": "2026 수학 서바이벌 21회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16866_2026.21.pdf",
+      "size_bytes": 17669023,
+      "telegram_date": "2025-10-18T03:20:41+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 21회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16866.png",
+      "sha256": "c8cb0f0db3be04f641c9c99b3341d80835d061f895db1abe457a11d1286669d1"
     }
   ],
   "duplicate_message_ids": [
