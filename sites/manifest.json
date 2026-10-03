@@ -86183,6 +86183,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14452.png",
       "sha256": "76933b33e25689188185f6bef7874dd786df95d6f5172657b24fbbd5230037e1"
+    },
+    {
+      "message_id": 14450,
+      "filename": "9월 서프 정법.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14450_9.pdf",
+      "size_bytes": 10197401,
+      "telegram_date": "2025-09-15T13:58:32+00:00",
+      "title": "정법 시대인재 9월 전국모의평가 (문제지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/14450.png",
+      "sha256": "eab0332c969f72e47fce88a1ff25485487f30d9b525e78ffd34d32ec5e950ddb"
     }
   ],
   "duplicate_message_ids": [
