@@ -67899,6 +67899,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/16858.png",
       "sha256": "74e5353c3d03ae26106e3109b860acfd7ad012658c1ea75ae0a3e805f0af3876"
+    },
+    {
+      "message_id": 16857,
+      "filename": "더데유데 2.0 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16857_.2.0.1.pdf",
+      "size_bytes": 14161993,
+      "telegram_date": "2025-10-18T01:44:26+00:00",
+      "title": "영어 The Day is Your Day! 시즌2 정식 모의고사 1회 #더데유데",
+      "year": "2026",
+      "instructor": "조정식",
+      "subject": "영어",
+      "thumbnail": "thumbnails/16857.png",
+      "sha256": "ec61d91f660622883566d1eced3c0ddd00f53b869a379d9032714ccc5beb9b20"
     }
   ],
   "duplicate_message_ids": [
