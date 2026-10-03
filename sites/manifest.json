@@ -79743,6 +79743,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/15702.png",
       "sha256": "0f6257974d047d54714601eb25f6543bbf64355631485bb038f81ae121e60141"
+    },
+    {
+      "message_id": 15701,
+      "filename": "김기훈_천일문_완성_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15701_._._._.pdf",
+      "size_bytes": 36818919,
+      "telegram_date": "2025-09-27T08:57:55+00:00",
+      "title": "영어 천일문 완성",
+      "year": null,
+      "instructor": "김기훈",
+      "subject": "영어",
+      "thumbnail": "thumbnails/15701.png",
+      "sha256": "b18902b295553ba8455b86a3af55fe28aa7149a3d8b31b2ead74b1aefd34e18f"
     }
   ],
   "duplicate_message_ids": [
