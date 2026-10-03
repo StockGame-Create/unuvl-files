@@ -84503,6 +84503,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/14650.png",
       "sha256": "cdce460d53b530e701dcfecec68a1724d4a2251ae286b7da1a7095932bbdb5fd"
+    },
+    {
+      "message_id": 14649,
+      "filename": "2023 시대인재 브릿지 물리학2 1-22회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14649_2023.2.1-22.pdf",
+      "size_bytes": 246381105,
+      "telegram_date": "2025-09-17T14:05:56+00:00",
+      "title": "물2 시대인재 브릿지 모의고사 1회  ~ 22회 합본 #브릿지",
+      "year": "2023",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/14649.png",
+      "sha256": "b4f515dcd4baf6e07c7c6bd24f277ddcc147ca45209ffc1e5c092cfdd34e02e7"
     }
   ],
   "duplicate_message_ids": [
