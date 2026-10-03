@@ -75977,6 +75977,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16100.png",
       "sha256": "b872d97c82d75c92c66c8f448b9f444c6865a021f08ef696d9cda53b33926edb"
+    },
+    {
+      "message_id": 16099,
+      "filename": "핔 필노 8 신유형_250924_223042.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16099_.8._250924_223042.pdf",
+      "size_bytes": 2153011,
+      "telegram_date": "2025-10-03T15:57:37+00:00",
+      "title": "지1 PEAK",
+      "year": "2026",
+      "instructor": "엄기은",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16099.png",
+      "sha256": "406acb0ff9c616ffcbe623f6be08a5fd9db987bd71125a77829ac96a54f7e6cf"
     }
   ],
   "duplicate_message_ids": [
