@@ -68221,6 +68221,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16826.png",
       "sha256": "00a3a4a637acc97deabe572ed4522c34563cb202df0557ad576cd0923786e102"
+    },
+    {
+      "message_id": 16824,
+      "filename": "13회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16824_13.pdf",
+      "size_bytes": 12381940,
+      "telegram_date": "2025-10-17T15:15:27+00:00",
+      "title": "지1 강대모의고사K+ 11~13회 #강케플",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16824.png",
+      "sha256": "a5b0a3a408ec63ae1964ffddd5b6887987da444dd4835036dd3e218490de7b83"
     }
   ],
   "duplicate_message_ids": [
