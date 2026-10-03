@@ -69313,6 +69313,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16703.png",
       "sha256": "ef0dfe276f308c338780b0aa54623447490255406c74e64089ae59224c8181e1"
+    },
+    {
+      "message_id": 16701,
+      "filename": "계모임 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16701_.1.pdf",
+      "size_bytes": 152445,
+      "telegram_date": "2025-10-15T09:03:58+00:00",
+      "title": "수학 계모임 1~4회",
+      "year": "2026",
+      "instructor": "한성은",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16701.png",
+      "sha256": "6989fd4e565a8325399548c25afa1ad98a63d7bda40b3459bf5b254779d42baa"
     }
   ],
   "duplicate_message_ids": [
