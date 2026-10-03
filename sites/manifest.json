@@ -74255,6 +74255,20 @@
       "subject": "사화문화",
       "thumbnail": "thumbnails/16286.png",
       "sha256": "7a0a71efcb60641c4085d4ffb4e73ad72e4c3d1521a0c04ac12ce2c0371a7dda"
+    },
+    {
+      "message_id": 16285,
+      "filename": "2026_사문_전국_서바이벌_13회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16285_2026_._._._13.pdf",
+      "size_bytes": 6297045,
+      "telegram_date": "2025-10-08T13:09:34+00:00",
+      "title": "사문 시대인재 서바이벌 전국 모의고사 13회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/16285.png",
+      "sha256": "b80ad76ed0a40caf4da5bd97f9ddcd10989bc5d37e416f2fdb5466a18083c173"
     }
   ],
   "duplicate_message_ids": [
