@@ -84391,6 +84391,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14661.png",
       "sha256": "6cdf0c6e9523566392aa8022670a6ac13915f88e3b24a4954fb285e17501cb44"
+    },
+    {
+      "message_id": 14660,
+      "filename": "2026_지구과학1_강대K_17회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14660_2026_.1_.K_17._.pdf",
+      "size_bytes": 499407,
+      "telegram_date": "2025-09-17T14:18:25+00:00",
+      "title": "지1 강대모의고사K 17회 #강k",
+      "year": "2024",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14660.png",
+      "sha256": "1452c4f68c45dcfac0c5ee8314c21b68415087a4fbfe097fc828f6a11ae0e7a2"
     }
   ],
   "duplicate_message_ids": [
