@@ -77083,6 +77083,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15976.png",
       "sha256": "dec42819e05f3dde1eebf453660dc8b603ba6ae00d9415e190a8fb44def8daa2"
+    },
+    {
+      "message_id": 15975,
+      "filename": "강_k_2026년_물_1_해설_23_24회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15975_._k_2026._._1_._23_24.pdf",
+      "size_bytes": 7595317,
+      "telegram_date": "2025-10-01T14:17:34+00:00",
+      "title": "물1 강대모의고사K 23,24회 (해설지) #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/15975.png",
+      "sha256": "20ea518866cd23b4ea6d56fd8238ca7160c02db87ceaa0986992e2679cbd6abc"
     }
   ],
   "duplicate_message_ids": [
