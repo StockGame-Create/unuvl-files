@@ -79575,6 +79575,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15721.png",
       "sha256": "42f038095e8144dae7d0145cb332c7de70dc8ea66767d95b49c3dc5d667600f4"
+    },
+    {
+      "message_id": 15719,
+      "filename": "이명학_공감영어_어법1_0.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15719_._._.1_0.pdf",
+      "size_bytes": 133618673,
+      "telegram_date": "2025-09-27T13:19:40+00:00",
+      "title": "영어 공감 어법 1.0",
+      "year": "2026",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/15719.png",
+      "sha256": "2c582e67d3c102fd2f0030df2a33d0815293789e6b8cb7c7e9d3cc1b8496f498"
     }
   ],
   "duplicate_message_ids": [
