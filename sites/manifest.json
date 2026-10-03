@@ -127,6 +127,20 @@
       "sha256": "1ffcd3fe571927526eb8920dcfd0f77f5d7ed40ef2b7556a318a9b438e9b80ee"
     },
     {
+      "message_id": 24851,
+      "filename": "서바 전국 수학 12 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24851_.12.pdf",
+      "size_bytes": 3906992,
+      "telegram_date": "2026-10-03T05:22:48+00:00",
+      "title": "수학 시대인재 서바이벌 전국 모의고사 12회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24851.png",
+      "sha256": "4b0cfeb4325478936890da75f896a55e729d044ba9f6db445eef3d18f4d4e28b"
+    },
+    {
       "message_id": 24836,
       "filename": "강K 생1 16회.pdf",
       "stored_as": null,
