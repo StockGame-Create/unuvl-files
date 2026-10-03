@@ -70475,6 +70475,20 @@
       "subject": null,
       "thumbnail": "thumbnails/16597.png",
       "sha256": "d503a5138c736ffe7e09d65cb64cc897cbd67f94043b75db7c30a7c709e57c51"
+    },
+    {
+      "message_id": 16596,
+      "filename": "2026_생2_이서준_EXON_8주_유전자의_발현2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16596_2026_.2_._EXON_8._._.2.pdf",
+      "size_bytes": 72145377,
+      "telegram_date": "2025-10-13T15:05:19+00:00",
+      "title": "2026_생2_이서준_EXON_8주_유전자의_발현2",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/16596.png",
+      "sha256": "055c57097e4be406edd9d983ab27b681cd49bdb81fc71467039e5a1aef2c5193"
     }
   ],
   "duplicate_message_ids": [
