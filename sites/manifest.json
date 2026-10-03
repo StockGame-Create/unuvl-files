@@ -75893,6 +75893,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16112.png",
       "sha256": "3707783a56c0ab50e47b11de6952231d5ea20c2a2de4a59c6631b9a56eb6620a"
+    },
+    {
+      "message_id": 16110,
+      "filename": "2026_시대인재_생명과학1_전국_서바이벌_5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16110_2026_._.1_._._5.pdf",
+      "size_bytes": 17126229,
+      "telegram_date": "2025-10-03T16:28:02+00:00",
+      "title": "생1 시대인재 서바이벌 전국 모의고사 10회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/16110.png",
+      "sha256": "ac7f0ee2b5cf0bfab5eb6b98e3547a6d181ca5a29e825fbc250b016f3cb47eb3"
     }
   ],
   "duplicate_message_ids": [
