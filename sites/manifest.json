@@ -77307,6 +77307,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15952.png",
       "sha256": "b0c7a1ce81c5d602fc37f5439412a2e96b61b7272b5c21da7d47ca5db61647ce"
+    },
+    {
+      "message_id": 15950,
+      "filename": "무제 폴더.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15950_.pdf",
+      "size_bytes": 6573589,
+      "telegram_date": "2025-09-30T14:33:37+00:00",
+      "title": "지1 DAYBREAK 시즌3 1,2회 #데이브레이크",
+      "year": "2026",
+      "instructor": "박선",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/15950.png",
+      "sha256": "7a38073aa97cba2cd9d82b58a558664e1bbf5017f779f544f0a002e7e16b3b6a"
     }
   ],
   "duplicate_message_ids": [
