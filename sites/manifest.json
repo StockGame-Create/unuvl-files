@@ -68165,6 +68165,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16830.png",
       "sha256": "cc9ab3cf70585c75ba0a7f053a2cd2964adce2adfd7ff927831abef6c334ce90"
+    },
+    {
+      "message_id": 16829,
+      "filename": "2026 강영찬T 온셋모의고사 시즌1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16829_2026.T.1.pdf",
+      "size_bytes": 50424023,
+      "telegram_date": "2025-10-17T15:26:12+00:00",
+      "title": "수학 ONSET 모의고사 Final 시즌1 시즌2 1~3회",
+      "year": "2026",
+      "instructor": "강영찬",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16829.png",
+      "sha256": "c0b4826fb11daa542f562bacd1343b9f1129b08554937f177a1b3acc9d4e718b"
     }
   ],
   "duplicate_message_ids": [
