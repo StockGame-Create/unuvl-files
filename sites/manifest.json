@@ -79141,6 +79141,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15769.png",
       "sha256": "3c1c0523c5fee4322917ce9f5091551c9d70d30dbd96a4696cb03a7b0a7468c2"
+    },
+    {
+      "message_id": 15768,
+      "filename": "2026 국어 큐레이션 47회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15768_2026.47.pdf",
+      "size_bytes": 12081158,
+      "telegram_date": "2025-09-28T07:25:15+00:00",
+      "title": "국어 큐레이션 47회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/15768.png",
+      "sha256": "b28c44c7139b36af890f205b50d9559bffe7fbaa0937314ab8d9b6701892af84"
     }
   ],
   "duplicate_message_ids": [
