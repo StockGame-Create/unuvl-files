@@ -68375,6 +68375,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16810.png",
       "sha256": "dbdb4f50b89814576e61cc6565243af4c2dd51192b7e88e76ff65fd2443c1799"
+    },
+    {
+      "message_id": 16809,
+      "filename": "23빠사 6회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16809_23.6.pdf",
+      "size_bytes": 3149721,
+      "telegram_date": "2025-10-17T15:02:57+00:00",
+      "title": "수학 김성은의 23빠사 모의고사 1~6회",
+      "year": "2026",
+      "instructor": "김성은",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16809.png",
+      "sha256": "8ad8a8cb2b07d177b9bf3697e82f6c85acae3d8a7253d94e2df1f29f1f4c7af7"
     }
   ],
   "duplicate_message_ids": [
