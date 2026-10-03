@@ -76145,6 +76145,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16082.png",
       "sha256": "0709786ffd12cbb40392530d031803f670475fe7a5e8a88f2800c1fb3a925a3c"
+    },
+    {
+      "message_id": 16080,
+      "filename": "개념완성_화학I_250811_084828.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16080_._.I_250811_084828.pdf",
+      "size_bytes": 40192454,
+      "telegram_date": "2025-10-03T15:01:27+00:00",
+      "title": "화1 EBS 개념완성",
+      "year": null,
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/16080.png",
+      "sha256": "38c21d23bb6ef801144e758f99dde29067e1b488b77dfb9281769899978863c6"
     }
   ],
   "duplicate_message_ids": [
