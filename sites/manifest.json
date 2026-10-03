@@ -75151,6 +75151,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16188.png",
       "sha256": "3871371971341ab7bd7311dbfdea16025c6fe4daecd60ee0a02dea10f227b68c"
+    },
+    {
+      "message_id": 16187,
+      "filename": "2026학년도_도핑_EBS_미적분_&_확률과_통계_해설_내지_색변환전.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16187_2026._._EBS_._._._._._._.pdf",
+      "size_bytes": 10071322,
+      "telegram_date": "2025-10-05T13:45:25+00:00",
+      "title": "수학 DOPING",
+      "year": "2026",
+      "instructor": "황지현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16187.png",
+      "sha256": "da282cef93662f5a8c6ed8d285c756258ab1c0e9ba14c850a75d33bba6dd20ef"
     }
   ],
   "duplicate_message_ids": [
