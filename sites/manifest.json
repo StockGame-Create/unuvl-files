@@ -71371,6 +71371,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16508.png",
       "sha256": "ecfe1c7651b78db773384ac12beab9a6d44327d7da7c22f4ffec22834b1340a4"
+    },
+    {
+      "message_id": 16506,
+      "filename": "중앙_수능완승_탑씨크릿_봉투모의고사_정답및해설_@yubin.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16506_._._._._._%40yubin.pdf",
+      "size_bytes": 30905782,
+      "telegram_date": "2025-10-12T02:49:16+00:00",
+      "title": "영어 중앙 수능완승 탑씨크릿 봉투모의고사 1~3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/16506.png",
+      "sha256": "0ce89d2cab5e419a4910eafb3094ee1e017838c395a8ea45467ba72302e7d249"
     }
   ],
   "duplicate_message_ids": [
