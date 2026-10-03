@@ -83271,6 +83271,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/14795.png",
       "sha256": "16f035c0172bb36b4ad602a40c54c6100c261897a330cb251a7fc085ee426b4c"
+    },
+    {
+      "message_id": 14794,
+      "filename": "2025 화2 강준호 1-6회 @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14794_2025.2.1-6.%40yubin_MPGA.pdf",
+      "size_bytes": 10931600,
+      "telegram_date": "2025-09-19T09:26:21+00:00",
+      "title": "화2 강준호 모의고사 1회 ~ 6회 합본",
+      "year": "2025",
+      "instructor": "강준호",
+      "subject": "화학2",
+      "thumbnail": "thumbnails/14794.png",
+      "sha256": "47189ffbace47dc0a5b43147b7a7fd076ad4a2245437dcdb88ad100515885b34"
     }
   ],
   "duplicate_message_ids": [
