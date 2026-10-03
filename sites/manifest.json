@@ -77615,6 +77615,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/15918.png",
       "sha256": "9779f3801fcd4d2b144f415dffac06c8ac8c651478c95dc9fd98ab755ec18637"
+    },
+    {
+      "message_id": 15916,
+      "filename": "2026 생명과학1 강대 서킷  10회 해설_250930_181645.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15916_2026.1.10._250930_181645.pdf",
+      "size_bytes": 771237,
+      "telegram_date": "2025-09-30T09:20:08+00:00",
+      "title": "생1 강대 CIRCUIT 10회 #서킷",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15916.png",
+      "sha256": "b74769f6d0889edeaa9951a79d597b24a97dc4aa77b223a13e3d8e727d1068a2"
     }
   ],
   "duplicate_message_ids": [
