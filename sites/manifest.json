@@ -82809,6 +82809,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/14848.png",
       "sha256": "a9156951a66dde4132f5e0b93f60aff09598892f434bcbac10b85e3577ee38ae"
+    },
+    {
+      "message_id": 14847,
+      "filename": "2026_수학_박종민_Limit_X_23회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14847_2026_._._Limit_X_23._.pdf",
+      "size_bytes": 5036588,
+      "telegram_date": "2025-09-19T15:07:58+00:00",
+      "title": "수학 Limit X 모의고사 23회",
+      "year": "2026",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14847.png",
+      "sha256": "a5c422b30e8645217ad2a303b10ae407d124a987fd09929b9095cafb374c2b10"
     }
   ],
   "duplicate_message_ids": [
