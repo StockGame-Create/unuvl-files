@@ -68711,6 +68711,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16779.png",
       "sha256": "0b4f4867ba7de7409d21deb5de3398bcba2cae11c23d57e49256e9e63b630911"
+    },
+    {
+      "message_id": 16777,
+      "filename": "이감 6-9 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16777_.6-9.pdf",
+      "size_bytes": 28361921,
+      "telegram_date": "2025-10-17T09:24:26+00:00",
+      "title": "국어 이감 파이널2 9차 예비평가 (공통 + 언어와 매체) #이감",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16777.png",
+      "sha256": "c17f320b30736a9daf27f13129b64575ff98d6306d1d56e6938ffe35a3dd2b78"
     }
   ],
   "duplicate_message_ids": [
