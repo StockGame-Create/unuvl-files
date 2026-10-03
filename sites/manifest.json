@@ -85721,6 +85721,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/14509.png",
       "sha256": "731dffb2b4f60e62ac0843cdaf0a3faed74d66b10b5dcc71af288b23faeffed7"
+    },
+    {
+      "message_id": 14507,
+      "filename": "박선 데브s-10.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14507_.s-10.pdf",
+      "size_bytes": 6096486,
+      "telegram_date": "2025-09-16T09:31:24+00:00",
+      "title": "지1 DAYBREAK-S 10회",
+      "year": "2026",
+      "instructor": "박선",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14507.png",
+      "sha256": "cfae84c0874ae02ce67b4e7e5aefe50729495e1ee031f88657db6997fcb88fce"
     }
   ],
   "duplicate_message_ids": [
