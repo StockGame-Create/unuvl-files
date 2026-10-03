@@ -68277,6 +68277,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/16820.png",
       "sha256": "171d763d8bbd1e508407956d5e5f190cd4d1b686e78649f167750c294a79c7cb"
+    },
+    {
+      "message_id": 16819,
+      "filename": "25 물2 서바 24,35회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16819_25.2.24.35.pdf",
+      "size_bytes": 18952540,
+      "telegram_date": "2025-10-17T15:09:03+00:00",
+      "title": "물2 시대인재 서바이벌 모의고사 24,35회 #서바",
+      "year": "2025",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/16819.png",
+      "sha256": "8770a5f59e8577b110793c555a9c581a7856ab4cb22b275b171bcdebf2f4746f"
     }
   ],
   "duplicate_message_ids": [
