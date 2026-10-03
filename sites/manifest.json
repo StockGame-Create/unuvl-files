@@ -78217,6 +78217,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/15847.png",
       "sha256": "6679ad623163ba879c15590dd88fe8d7ce7ba75b51896ef944cf362e7ffbb6f6"
+    },
+    {
+      "message_id": 15846,
+      "filename": "2026 LCS EE EDGE 생명과학1 4회_250929_093907.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15846_2026.LCS.EE.EDGE.1.4._250929_093907.pdf",
+      "size_bytes": 7686779,
+      "telegram_date": "2025-09-29T03:13:33+00:00",
+      "title": "생1 LCS EE EDGE 3~6회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15846.png",
+      "sha256": "77039b22251e7dd500b6864df321a148ff97dced6d4ed848e758a1fece8c96c1"
     }
   ],
   "duplicate_message_ids": [
