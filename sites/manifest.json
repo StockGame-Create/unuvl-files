@@ -82221,6 +82221,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14910.png",
       "sha256": "0898a6ca04f2460178c3c316a1a466ca5881c178e2978e388c616e23af7d5ee8"
+    },
+    {
+      "message_id": 14909,
+      "filename": "서킷 16회_손해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14909_.16._.pdf",
+      "size_bytes": 2215128,
+      "telegram_date": "2025-09-20T11:51:05+00:00",
+      "title": "수학 CIRCUIT 손필기 해설 14회 ~ 15회",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14909.png",
+      "sha256": "29a921f9ce6647fb9af74c298db113276bd1688a0020c19e190702955bc64058"
     }
   ],
   "duplicate_message_ids": [
