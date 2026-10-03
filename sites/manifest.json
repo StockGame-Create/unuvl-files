@@ -82417,6 +82417,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/14890.png",
       "sha256": "2cb1379350b78c360843728bdc5cb277693d6ad69898a094914e593af22dfec6"
+    },
+    {
+      "message_id": 14889,
+      "filename": "ZA모의고사_상세_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14889_ZA._._.pdf",
+      "size_bytes": 242706,
+      "telegram_date": "2025-09-20T11:30:40+00:00",
+      "title": "물2 Z-A 모의고사",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/14889.png",
+      "sha256": "334691e51eecc47f2d5dcdb143642ac69ad8433fad96747b58613f30a09da87e"
     }
   ],
   "duplicate_message_ids": [
