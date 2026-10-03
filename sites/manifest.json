@@ -79169,6 +79169,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15765.png",
       "sha256": "8a1a7b209adfcbbae0a99db975d5b9b558d8b24865401a4272abc274c25650cc"
+    },
+    {
+      "message_id": 15764,
+      "filename": "2026년도 숏컷 수학1_1권_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15764_2026.1_1._.pdf",
+      "size_bytes": 10491624,
+      "telegram_date": "2025-09-28T07:21:41+00:00",
+      "title": "수학 시대인재 SHORTCUT 수학1",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15764.png",
+      "sha256": "21880626a4b522ecbd333d750df84fb22438e3f1cec3087249474fac7b15eaa3"
     }
   ],
   "duplicate_message_ids": [
