@@ -75809,6 +75809,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16121.png",
       "sha256": "bc62fa86f2e3a6bbbf647e46f54f999cafd610361d5bb8ab698717ecd63249b1"
+    },
+    {
+      "message_id": 16120,
+      "filename": "JOLKKU 1주차_2025_10_04_10_15_24.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16120_JOLKKU.1._2025_10_04_10_15_24.pdf",
+      "size_bytes": 570325,
+      "telegram_date": "2025-10-04T01:26:19+00:00",
+      "title": "수학 JOLKKU 1~3주차",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16120.png",
+      "sha256": "560e81c628487a79aa5b4dba717d1b955f43a35e6d2ca58b769355cad2a7a787"
     }
   ],
   "duplicate_message_ids": [
