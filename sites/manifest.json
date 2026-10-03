@@ -83943,6 +83943,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/14717.png",
       "sha256": "c5f296734d8d2afeed01c5b74d39ee2f045ef4c84c33383f9bf355040104e375"
+    },
+    {
+      "message_id": 14714,
+      "filename": "종로_핵파_모고_2회_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14714_._._._2._.pdf",
+      "size_bytes": 3079587,
+      "telegram_date": "2025-09-18T13:57:29+00:00",
+      "title": "생윤 종로 핵심체크 파이널 모의고사 2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/14714.png",
+      "sha256": "989813cec05a0071da2084a89af506aecbc1ee28a7b9484e7022ec3905d6b569"
     }
   ],
   "duplicate_message_ids": [
