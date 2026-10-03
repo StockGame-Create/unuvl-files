@@ -67199,6 +67199,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16926.png",
       "sha256": "2df60e382ee54a8ad9d11da3aa17fc818f16e6d2c6f4f7e20bd8cae8fc30bebe"
+    },
+    {
+      "message_id": 16925,
+      "filename": "2026시대인재최지욱_디자인Design_몰딩Molding_5주차_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16925_2026._.Design_.Molding_5._.pdf",
+      "size_bytes": 15446743,
+      "telegram_date": "2025-10-18T15:04:05+00:00",
+      "title": "수학 DESIGN 3~5주차",
+      "year": "2026",
+      "instructor": "최지욱",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16925.png",
+      "sha256": "c1f468c7e70951b0aac856b6cef9d9d737dea57b9e8d443ee73d45204b368418"
     }
   ],
   "duplicate_message_ids": [
