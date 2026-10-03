@@ -80233,6 +80233,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/15656.png",
       "sha256": "4e3ac8320f37257ec017a98f4d35f9d3daae00e7ed76db4930e8a7694691b7b0"
+    },
+    {
+      "message_id": 15655,
+      "filename": "2026_강대모의고사X_시즌3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15655_2026_.X_.3.pdf",
+      "size_bytes": 121353739,
+      "telegram_date": "2025-09-27T02:33:08+00:00",
+      "title": "수학 강대모의고사X 시즌1, 시즌2, 시즌3 (합본) #강X",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15655.png",
+      "sha256": "7d4f8249b45d157569e01567c96f9d100e6b3664ae2d04e1460c52ae895cfd88"
     }
   ],
   "duplicate_message_ids": [
