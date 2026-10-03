@@ -70867,6 +70867,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16562.png",
       "sha256": "53aac5bc4ac12d19af7bfdda85d33831d06f51dae9f52d5cc52aa54e31b98311"
+    },
+    {
+      "message_id": 16561,
+      "filename": "JMT 시즌4 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16561_JMT.4.2.pdf",
+      "size_bytes": 30066373,
+      "telegram_date": "2025-10-13T13:59:43+00:00",
+      "title": "수학 한석원 X 한석만 모의고사 JUST MOCK TEST 4th 1~3회 #JMT",
+      "year": "2026",
+      "instructor": "한석원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16561.png",
+      "sha256": "c292b141a5912dff521290de4c71f2cc380fb66997ffeb46a1a0ccabe1a1bca8"
     }
   ],
   "duplicate_message_ids": [
