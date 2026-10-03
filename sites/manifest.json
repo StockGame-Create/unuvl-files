@@ -67675,6 +67675,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16887.png",
       "sha256": "418c4f19c9262ac3196e6eefbfc4da192f8d497fe156f07cbd8fb2d136cc094c"
+    },
+    {
+      "message_id": 16885,
+      "filename": "2026_수학_김범준_러너스하이_12주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16885_2026_._._._12.pdf",
+      "size_bytes": 90291042,
+      "telegram_date": "2025-10-18T13:27:57+00:00",
+      "title": "수학 김범준 러너스하이 12주차",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16885.png",
+      "sha256": "8fa5d09b21a6165371853c48cb4c65d9d1e22d9e414b08b9afeca4e532943f20"
     }
   ],
   "duplicate_message_ids": [
