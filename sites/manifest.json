@@ -74731,6 +74731,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16231.png",
       "sha256": "dbb88643fe2de06da2f193aeb4e6bc9bb66ddb07e9b08097cb655532f5f7bc66"
+    },
+    {
+      "message_id": 16230,
+      "filename": "2026생활과윤리_서바이벌_3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16230_2026._._3.pdf",
+      "size_bytes": 15869728,
+      "telegram_date": "2025-10-06T12:39:42+00:00",
+      "title": "생윤 시대인재 서바이벌 모의고사 3,4회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/16230.png",
+      "sha256": "5e049a468d8df0c1d02f4a5a8daa91a91843fd1a9fcede3744047f82a622b576"
     }
   ],
   "duplicate_message_ids": [
