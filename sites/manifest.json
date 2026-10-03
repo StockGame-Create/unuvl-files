@@ -69747,6 +69747,20 @@
       "subject": null,
       "thumbnail": "thumbnails/16657.png",
       "sha256": "3314be6e0c32172d5a8254d628f2d57774a0ebb5f3e8ac38c7408fc68babc7a3"
+    },
+    {
+      "message_id": 16656,
+      "filename": "2026 강대모의고사K 물리학 5회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16656_2026.K.5.pdf",
+      "size_bytes": 1170338,
+      "telegram_date": "2025-10-14T11:52:24+00:00",
+      "title": "2026 강대모의고사K 물리학 5회 문제",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/16656.png",
+      "sha256": "3eccdbaa76de42bd302169616edb965301de1ba25a24fdea7f5dff18b8a49427"
     }
   ],
   "duplicate_message_ids": [
