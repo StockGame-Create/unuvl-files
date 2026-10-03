@@ -79729,6 +79729,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/15704.png",
       "sha256": "33f8e887e1154fbb52620ceb04b690324dc13dc5b150548bf1770697f0e42212"
+    },
+    {
+      "message_id": 15702,
+      "filename": "김기훈_천일문_완성.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15702_._._.pdf",
+      "size_bytes": 38767674,
+      "telegram_date": "2025-09-27T08:57:55+00:00",
+      "title": "영어 천일문 완성",
+      "year": null,
+      "instructor": "김기훈",
+      "subject": "영어",
+      "thumbnail": "thumbnails/15702.png",
+      "sha256": "0f6257974d047d54714601eb25f6543bbf64355631485bb038f81ae121e60141"
     }
   ],
   "duplicate_message_ids": [
