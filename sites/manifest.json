@@ -77755,6 +77755,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15895.png",
       "sha256": "229c5b6edd0b30e4f01e32feedb52e71a474cce7b0631d08e27f418a4e9095e7"
+    },
+    {
+      "message_id": 15893,
+      "filename": "박종민_서바이벌_11회_필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15893_._._11._.pdf",
+      "size_bytes": 18619993,
+      "telegram_date": "2025-09-29T14:54:12+00:00",
+      "title": "수학 서바이벌 모의고사 Review 11,13회",
+      "year": "2026",
+      "instructor": "박종민",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15893.png",
+      "sha256": "ec8b9f8fedb45727d989edf4c411d479f287a07b5f30fc9dc971c7784dfcf81a"
     }
   ],
   "duplicate_message_ids": [
