@@ -86043,6 +86043,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14471.png",
       "sha256": "3ed471123dc21d28367054d08d90847b3f510ee901464c1818f4d4dee3e4b482"
+    },
+    {
+      "message_id": 14469,
+      "filename": "9월 경제 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14469_9.pdf",
+      "size_bytes": 364064,
+      "telegram_date": "2025-09-15T23:26:39+00:00",
+      "title": "경제 시대인재 9월 전국모의평가 (해설지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "경제",
+      "thumbnail": "thumbnails/14469.png",
+      "sha256": "647d3a9970f2098234bac1978ec6664c3f147b6d4856d2d7f2fc3196e5345e0e"
     }
   ],
   "duplicate_message_ids": [
