@@ -85413,6 +85413,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/14543.png",
       "sha256": "892121e128c7dcd2dd207621377ece36a40beec3c049e5380ce4623f357eca9a"
+    },
+    {
+      "message_id": 14541,
+      "filename": "2021_시대인재_11월월례=직전_수능모의평가_지구과학2_문제,해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14541_2021_._11._._.2_.pdf",
+      "size_bytes": 3706722,
+      "telegram_date": "2025-09-16T14:06:20+00:00",
+      "title": "지2 시대인재 N 서바이벌 11월 수능 모의평가",
+      "year": "2021",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/14541.png",
+      "sha256": "280087403fa34730b62fc3f4ff46c24d59db982223b77d55f74fb517493c9d06"
     }
   ],
   "duplicate_message_ids": [
