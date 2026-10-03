@@ -68333,6 +68333,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16813.png",
       "sha256": "ec6688d90b1605239add1446b8a661d9112f7d7d08d0049c60a5dfce5630c5bb"
+    },
+    {
+      "message_id": 16812,
+      "filename": "23빡사 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16812_23.2.pdf",
+      "size_bytes": 5145560,
+      "telegram_date": "2025-10-17T15:05:12+00:00",
+      "title": "수학 김성은의 23빡사 모의고사 1~3회",
+      "year": "2026",
+      "instructor": "김성은",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16812.png",
+      "sha256": "6202098ddc467901d8a479674d112c26839c60c8e68d8a83c15a41c0d7d6ae1b"
     }
   ],
   "duplicate_message_ids": [
