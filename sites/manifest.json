@@ -75319,6 +75319,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16173.png",
       "sha256": "c708ed36c3b574df9cecf6182673efe4bd1d4176ce7a47011e1a53a8c2f03ca8"
+    },
+    {
+      "message_id": 16172,
+      "filename": "2026_화학1_강준호_Ex_tract_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16172_2026_.1_._Ex_tract_2.pdf",
+      "size_bytes": 9677965,
+      "telegram_date": "2025-10-05T13:19:42+00:00",
+      "title": "화1 Ex-track 2회",
+      "year": "2026",
+      "instructor": "강준호",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/16172.png",
+      "sha256": "c2ea5b1f6c68ad7b683c3a2be4d7e2b88b0c7a76622103164df669add125c428"
     }
   ],
   "duplicate_message_ids": [
