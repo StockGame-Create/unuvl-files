@@ -81773,6 +81773,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15501.png",
       "sha256": "7b7f40e4a70cae5baa18e21b7c9b25eb8bad6285cae351e174de0c429c6d2ed6"
+    },
+    {
+      "message_id": 15500,
+      "filename": "2025년_1학기_교재_수학1_OK웹용_250621_132208.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15500_2025._1._._.1_OK._250621_132208.pdf",
+      "size_bytes": 13026988,
+      "telegram_date": "2025-09-25T13:53:22+00:00",
+      "title": "수학 종로교재 시리즈 수학1",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15500.png",
+      "sha256": "6208b287f8f53f6c2edaf16fbd4645ddd8f98f4bd8989f0cb668563f2d0dd3a6"
     }
   ],
   "duplicate_message_ids": [
