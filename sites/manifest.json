@@ -69425,6 +69425,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16690.png",
       "sha256": "381cf3c5b565950a06f1bc239e585cdd938c7fbaf24f1114a30cd7d2dff306d6"
+    },
+    {
+      "message_id": 16689,
+      "filename": "해설_강_케이_2026_25_26회_물_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16689_._._._2026_25_26._._1.pdf",
+      "size_bytes": 6100384,
+      "telegram_date": "2025-10-14T15:07:48+00:00",
+      "title": "물1 강대모의고사K 26,27회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/16689.png",
+      "sha256": "8784a06998b2825cc592174ecff3165ba2613424a6ce447855de3c7b38e7c09c"
     }
   ],
   "duplicate_message_ids": [
