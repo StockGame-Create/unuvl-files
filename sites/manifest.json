@@ -73471,6 +73471,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/16344.png",
       "sha256": "8e32512f74fd293be1d82ce0695064a339ba73c4f538b8d4d40ca43d738f796f"
+    },
+    {
+      "message_id": 16343,
+      "filename": "오메가 물2 3,2,4회 @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16343_.2.3.2.4.%40yubin_MPGA.pdf",
+      "size_bytes": 19232955,
+      "telegram_date": "2025-10-09T14:40:50+00:00",
+      "title": "물2 OMEGA 모의고사 2~3회 #오메가",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/16343.png",
+      "sha256": "e00f45cfea0cf0e76fb331b55dca739588a3be14948621f38a905129b402d043"
     }
   ],
   "duplicate_message_ids": [
