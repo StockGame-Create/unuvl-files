@@ -79631,6 +79631,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/15714.png",
       "sha256": "630c072a69f1e40951b580ea4e1028bebcbbd34118e62a619dded53b4cda193e"
+    },
+    {
+      "message_id": 15713,
+      "filename": "v모고 시즌2 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15713_v.2.1.pdf",
+      "size_bytes": 11907809,
+      "telegram_date": "2025-09-27T09:17:10+00:00",
+      "title": "영어 김지영 V모의고사 1회, 2회",
+      "year": "2026",
+      "instructor": "김지영",
+      "subject": "영어",
+      "thumbnail": "thumbnails/15713.png",
+      "sha256": "04790b4089dbf1a8f77698382dbfc60dc0f0dfaec2d8f787df670e72136f78b0"
     }
   ],
   "duplicate_message_ids": [
