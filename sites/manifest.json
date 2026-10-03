@@ -76635,6 +76635,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16024.png",
       "sha256": "116b4732f84cd20c233215e78a1851cbfce5c2682d5def696eead8dd55c7b4e3"
+    },
+    {
+      "message_id": 16023,
+      "filename": "변기_고난도_국어_모의고사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16023_._._._.pdf",
+      "size_bytes": 1659134,
+      "telegram_date": "2025-10-02T14:15:26+00:00",
+      "title": "국어 변기 고난도 모의고사",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16023.png",
+      "sha256": "2614b9114f1c12c661bc4e553a796edc34d769d110cf96855f72eb934236fdeb"
     }
   ],
   "duplicate_message_ids": [
