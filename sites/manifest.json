@@ -75599,6 +75599,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/16144.png",
       "sha256": "76cdd7e00826fbd87fd805694030310c34db53a16389dd3ded16a05216e4967d"
+    },
+    {
+      "message_id": 16142,
+      "filename": "서바 17회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16142_.17.pdf",
+      "size_bytes": 17506736,
+      "telegram_date": "2025-10-04T14:34:04+00:00",
+      "title": "수학 시대인재 서바이벌 모의고사 17,18회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16142.png",
+      "sha256": "24f7bd2d880684ba2a6e260d50c5254f42835166311655c4d27f45cfd352c659"
     }
   ],
   "duplicate_message_ids": [
