@@ -78931,6 +78931,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15784.png",
       "sha256": "91542c02faa9c4241a07a7b496fa450b9072c8419c36559475ac6932e94e9c97"
+    },
+    {
+      "message_id": 15783,
+      "filename": "2026 국어 강민철 무제 5주.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15783_2026.5.pdf",
+      "size_bytes": 91691873,
+      "telegram_date": "2025-09-28T09:32:01+00:00",
+      "title": "국어 강민철 무제 5주차 ~ 8주차",
+      "year": "2026",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/15783.png",
+      "sha256": "7f58992deda0bb0b588dc92c2635b606a79a379b646213a9c611c637024aff70"
     }
   ],
   "duplicate_message_ids": [
