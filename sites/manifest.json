@@ -74955,6 +74955,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/16209.png",
       "sha256": "1404fc7fa429c5293baa04bc43f804b570bd2b15af208adeaa316662689ae87b"
+    },
+    {
+      "message_id": 16208,
+      "filename": "2022 브릿지 21, 22회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16208_2022.21.22.pdf",
+      "size_bytes": 5375619,
+      "telegram_date": "2025-10-05T23:25:10+00:00",
+      "title": "생2 시대인재 브릿지 모의고사 21,22회 #브릿지",
+      "year": "2022",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/16208.png",
+      "sha256": "6bfae863d9c6aac55108d6991e1fc4c4eae80b2179465d2c9972a21fbf422f38"
     }
   ],
   "duplicate_message_ids": [
