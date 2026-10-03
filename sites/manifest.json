@@ -77447,6 +77447,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15936.png",
       "sha256": "0ef1513ff9cd33964a3d86e78d481a3ba64ea69a1ca83b6cc5f012b82dde8036"
+    },
+    {
+      "message_id": 15934,
+      "filename": "2025년_이감_모의고사_시즌6_8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15934_2025._._._.6_8.pdf",
+      "size_bytes": 15920264,
+      "telegram_date": "2025-09-30T14:13:30+00:00",
+      "title": "국어 파이널2 제8차 모의고사 #이감",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/15934.png",
+      "sha256": "1b1c4d886ad1772c053fef5a9e04d9f04a60c8d8c338e5e5df7d8d4a88902908"
     }
   ],
   "duplicate_message_ids": [
