@@ -85441,6 +85441,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/14537.png",
       "sha256": "e62243ff4e5896f5cecd308d135c691de438bafe61909ba47d060ae77506eaee"
+    },
+    {
+      "message_id": 14536,
+      "filename": "강k 15 16회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14536_.k.15.16.pdf",
+      "size_bytes": 4314057,
+      "telegram_date": "2025-09-16T14:05:48+00:00",
+      "title": "지2 강대모의고사K 15회, 16회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/14536.png",
+      "sha256": "bd6dd8ef8e92b77dece2391cc6a1342049258512fdeb715ac09f3ac67dc42b62"
     }
   ],
   "duplicate_message_ids": [
