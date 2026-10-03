@@ -69957,6 +69957,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16638.png",
       "sha256": "afc415d6c40a982168f501c1d37f665af7fdfd2c471cd64bd3d9e5c4c36de1c1"
+    },
+    {
+      "message_id": 16636,
+      "filename": "2026학년도 설레임 모의고사 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16636_2026.1.pdf",
+      "size_bytes": 3374264,
+      "telegram_date": "2025-10-13T22:25:28+00:00",
+      "title": "수학 시대인재 설레임 모의고사 1~3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16636.png",
+      "sha256": "abdc6048950dcbc8431dc4343dea21da42b1c33ed95708e774b9c38fd69ba5dc"
     }
   ],
   "duplicate_message_ids": [
