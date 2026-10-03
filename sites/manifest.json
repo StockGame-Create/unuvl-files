@@ -68529,6 +68529,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16796.png",
       "sha256": "0297712a176e5d0113ac21e01f6902785cfac5e728e8da55132496f4ff9c7410"
+    },
+    {
+      "message_id": 16794,
+      "filename": "2026_이동준_저스트_모의고사_시즌2_4회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16794_2026_._._._.2_4.pdf",
+      "size_bytes": 26334542,
+      "telegram_date": "2025-10-17T14:49:23+00:00",
+      "title": "수학 저스트 모의고사 FINAL 시즌2 1~4회",
+      "year": "2026",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16794.png",
+      "sha256": "419662b4c19087d4a8e99a4c55b84688e324adda796fd1cc90e8706eb6a93274"
     }
   ],
   "duplicate_message_ids": [
