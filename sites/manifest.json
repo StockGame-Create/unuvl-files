@@ -57,6 +57,20 @@
       "sha256": "c7a5652a34d93de4d6de78a1c612dd6d5db28955b13824c247c86d7d55536008"
     },
     {
+      "message_id": 24900,
+      "filename": "사만다 시즌3 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24900_.3.3.pdf",
+      "size_bytes": 6159916,
+      "telegram_date": "2026-10-03T07:27:59+00:00",
+      "title": "사문 사만다 모의고사 시즌3 3회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/24900.png",
+      "sha256": "e1b818586a0eaf0c50a5fdde50fdbc8ec7a92d23e056f26b81d46bff02006b33"
+    },
+    {
       "message_id": 24878,
       "filename": "27 강k 물리 10회.pdf",
       "stored_as": null,
