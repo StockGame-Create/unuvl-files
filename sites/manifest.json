@@ -69229,6 +69229,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16720.png",
       "sha256": "a9c28ceac2f40052d04a0f138860e56bfe9aac439d5b6f0c9bc9d3189064b14e"
+    },
+    {
+      "message_id": 16719,
+      "filename": "지트 세지 시즌2합본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16719_.2.pdf",
+      "size_bytes": 30974262,
+      "telegram_date": "2025-10-15T22:38:12+00:00",
+      "title": "세지 JIT 시즌2 모의고사 1~3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/16719.png",
+      "sha256": "020e9bc85aa466d9e0a7b5d0a4f7adc74865c068a646c5b92bff194cb8174427"
     }
   ],
   "duplicate_message_ids": [
