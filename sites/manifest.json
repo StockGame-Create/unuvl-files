@@ -69033,6 +69033,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16742.png",
       "sha256": "af6a865e62d3aadfb679c968fdcd78b785278df7eacf44a82de9ce07a27b1e09"
+    },
+    {
+      "message_id": 16739,
+      "filename": "코드원 모의고사 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16739_.1.pdf",
+      "size_bytes": 7422935,
+      "telegram_date": "2025-10-16T14:22:32+00:00",
+      "title": "생윤 코드원 모의고사 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/16739.png",
+      "sha256": "aabd3f35e8808982919e23343590e2e71786004a01acb07f85f50b891c3cfc61"
     }
   ],
   "duplicate_message_ids": [
