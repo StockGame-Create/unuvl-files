@@ -85735,6 +85735,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14507.png",
       "sha256": "cfae84c0874ae02ce67b4e7e5aefe50729495e1ee031f88657db6997fcb88fce"
+    },
+    {
+      "message_id": 14504,
+      "filename": "2026 사문 N서바 11회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14504_2026.N.11.pdf",
+      "size_bytes": 2956667,
+      "telegram_date": "2025-09-16T09:11:28+00:00",
+      "title": "사문 시대인재 서바이벌 N전용 모의고사 11회 #서바N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14504.png",
+      "sha256": "1a1528eae4681f9ccc394ef26ce554d9fb4c13e470ee672458e1f53014991f8c"
     }
   ],
   "duplicate_message_ids": [
