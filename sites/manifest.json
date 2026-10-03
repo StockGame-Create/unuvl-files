@@ -82767,6 +82767,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/14853.png",
       "sha256": "f17a4a050c005086a68161e2d2a5137e5e4960acfd56e5db21da1da96ca741c3"
+    },
+    {
+      "message_id": 14851,
+      "filename": "이감 6-6.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14851_.6-6.pdf",
+      "size_bytes": 24396928,
+      "telegram_date": "2025-09-19T15:26:14+00:00",
+      "title": "국어 파이널2 제6차 예비평가 #이감",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14851.png",
+      "sha256": "902497a4e6bd7535d02fdbf6af9f47e8daeeb1e54db6aeb2e5e200cb016da40a"
     }
   ],
   "duplicate_message_ids": [
