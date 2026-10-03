@@ -79029,6 +79029,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15777.png",
       "sha256": "71bde08e5991763620c26ca64102b6aecf692ad253e9e71bdc36321a97437467"
+    },
+    {
+      "message_id": 15776,
+      "filename": "26 여상진T 모의논술 21회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15776_26.T.21.pdf",
+      "size_bytes": 5422485,
+      "telegram_date": "2025-09-28T09:32:01+00:00",
+      "title": "2026 여상진 모의논술 19회 ~ 23회",
+      "year": "2026",
+      "instructor": "여상진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15776.png",
+      "sha256": "e7fc2ce8189ebd55bb89047a4ca2788a00970cf5885064adaf74f38b17a4701a"
     }
   ],
   "duplicate_message_ids": [
