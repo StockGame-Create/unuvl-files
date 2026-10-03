@@ -71063,6 +71063,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16537.png",
       "sha256": "9864a87916a1e84eee95e558c8f6ff6476f009967756fccd772e9e7eb2500e82"
+    },
+    {
+      "message_id": 16535,
+      "filename": "김재훈,_여름특강_수업자료6.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16535_._._.6.pdf",
+      "size_bytes": 20154494,
+      "telegram_date": "2025-10-12T14:19:30+00:00",
+      "title": "국어 시대인재 김재훈 여름특강 4~6",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16535.png",
+      "sha256": "705f43fdd94a5fbfb09e81461e09c7073d93e44562f7319fbb95260c6826eb6c"
     }
   ],
   "duplicate_message_ids": [
