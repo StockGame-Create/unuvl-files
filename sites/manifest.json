@@ -73961,6 +73961,20 @@
       "subject": "사화문화",
       "thumbnail": "thumbnails/16315.png",
       "sha256": "ec413235e55067b99917d187028b10b4465679cf148735ffaa39e57d076d2d21"
+    },
+    {
+      "message_id": 16314,
+      "filename": "26_사문_서바이벌_10회_해설_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16314_26_._._10._._%40yubin_MPGA.pdf",
+      "size_bytes": 8169931,
+      "telegram_date": "2025-10-08T15:13:06+00:00",
+      "title": "사문 시대인재 서바이벌 전국 모의고사 10회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/16314.png",
+      "sha256": "83ec6d90bbd7873b5f85538b558bdd9323a1f38bfbc80f6a088686f7936bf001"
     }
   ],
   "duplicate_message_ids": [
