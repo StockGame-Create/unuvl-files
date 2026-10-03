@@ -80387,6 +80387,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15645.png",
       "sha256": "1966ffc4169caf6370ec78678ead0d97315115cfba52ccbf06f251208f45c1e3"
+    },
+    {
+      "message_id": 15644,
+      "filename": "2026 CIRCUIT X 시즌1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15644_2026.CIRCUIT.X.1.pdf",
+      "size_bytes": 120084164,
+      "telegram_date": "2025-09-27T02:24:21+00:00",
+      "title": "수학 강대 CIRCUIT X 시즌1, 시즌2, 시즌3 (합본) #서킷",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15644.png",
+      "sha256": "e1acb3046f959260c77547bb643766a6d185d180e4b1d3b8f97510571bca9a9e"
     }
   ],
   "duplicate_message_ids": [
