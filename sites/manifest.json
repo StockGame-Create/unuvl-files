@@ -68865,6 +68865,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/16766.png",
       "sha256": "137dfb9a075dab4b001719dac80c0257bbecea020e3e2b83740d3c2dbfb1ca60"
+    },
+    {
+      "message_id": 16765,
+      "filename": "2026학년도_EBS_만점_마무리_봉투모의고사_시즌1_시험지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16765_2026._EBS_._._._.1_.pdf",
+      "size_bytes": 11936749,
+      "telegram_date": "2025-10-16T22:13:02+00:00",
+      "title": "영어 EBS 만점 마무리 봉투 모의고사 시즌1 1~3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/16765.png",
+      "sha256": "91df15f7e070d64da43cf3128c6ac9ce7d1aa35a7c69fdd4c6a93998744294b6"
     }
   ],
   "duplicate_message_ids": [
