@@ -68893,6 +68893,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/16763.png",
       "sha256": "1f42761ed2684a28b2c4ff9bdf3ce6981445d74062f28e4be6292289ec5a26d3"
+    },
+    {
+      "message_id": 16760,
+      "filename": "ㅇㄱㅇㄷㅅㅌ.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16760_.pdf",
+      "size_bytes": 2320727,
+      "telegram_date": "2025-10-16T22:07:58+00:00",
+      "title": "지1 시대인재 서바이벌 모의고사 22회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16760.png",
+      "sha256": "9b2ce9413d49739d629502fa0bbc3a7b6ed10f5affe53cad3666ee9b7b5102fd"
     }
   ],
   "duplicate_message_ids": [
