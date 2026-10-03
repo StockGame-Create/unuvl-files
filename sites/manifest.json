@@ -82263,6 +82263,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/14906.png",
       "sha256": "874136ec1cde7e97e35f505d4d6dd9000e19183443f364aa9624aa5155f9a0b6"
+    },
+    {
+      "message_id": 14904,
+      "filename": "이신혁T_시즌4_1호_다지선다해설_최종본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14904_.T_.4_1._._.pdf",
+      "size_bytes": 781666,
+      "telegram_date": "2025-09-20T11:45:38+00:00",
+      "title": "지1 전범위 다지선다 시즌4 1호",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14904.png",
+      "sha256": "400e4485bcdd499d58677a8688ba8782b937920818cfd35332a6095cfa7f0617"
     }
   ],
   "duplicate_message_ids": [
