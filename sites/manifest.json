@@ -85105,6 +85105,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14589.png",
       "sha256": "a17942eb1522bacf1161a89755373b54774f19f6d12eae9e44cb47c442d065bb"
+    },
+    {
+      "message_id": 14581,
+      "filename": "2026_시대인재_9월_서바이벌_프로_사회탐구_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14581_2026_._9._._._._.pdf",
+      "size_bytes": 5032173,
+      "telegram_date": "2025-09-17T04:07:58+00:00",
+      "title": "사탐 시대인재 9월 전국모의평가 (해설지 원본) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/14581.png",
+      "sha256": "ee5b9dd7d14edb47ba8ad60e3cef09d3cf4672996c73d12fa1de5e0c07eaafaf"
     }
   ],
   "duplicate_message_ids": [
