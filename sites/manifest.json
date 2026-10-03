@@ -69677,6 +69677,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/16662.png",
       "sha256": "0157940650e4c8fa5df7e2fadd3eaebce90560448bc76c4eb619f872b9351cec"
+    },
+    {
+      "message_id": 16661,
+      "filename": "2026 강대모의고사K 물리학 7회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16661_2026.K.7.pdf",
+      "size_bytes": 2495908,
+      "telegram_date": "2025-10-14T11:52:24+00:00",
+      "title": "물1 강대모의고사K 1~10회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/16661.png",
+      "sha256": "bff81ff0551da8a721561345b87245d8f16360b8ce14fc51093e796aeb669123"
     }
   ],
   "duplicate_message_ids": [
