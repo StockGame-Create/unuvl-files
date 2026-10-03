@@ -74227,6 +74227,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16289.png",
       "sha256": "562a2526902f3428f9793759f7ee72cc34e616d39e7fc86a3e2201d20b8eddcc"
+    },
+    {
+      "message_id": 16287,
+      "filename": "2026_사문_전국_파브_13회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16287_2026_._._._13.pdf",
+      "size_bytes": 5877800,
+      "telegram_date": "2025-10-08T13:10:35+00:00",
+      "title": "사문 시대인재 Final 브릿지 전국 모의고사 13회 #파브전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사화문화",
+      "thumbnail": "thumbnails/16287.png",
+      "sha256": "d6381c37ef8217f93628e4505bc02240daa27d405a21a1086a0f9a0c90f3efb9"
     }
   ],
   "duplicate_message_ids": [
