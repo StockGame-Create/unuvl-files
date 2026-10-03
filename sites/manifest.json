@@ -79211,6 +79211,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/15761.png",
       "sha256": "93c3530ac0c6d75eba91f09c6e71545a279ed987ad8161bbae2385d7e74b0ff9"
+    },
+    {
+      "message_id": 15760,
+      "filename": "lcs core 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15760_lcs.core.9.pdf",
+      "size_bytes": 6716397,
+      "telegram_date": "2025-09-28T03:14:46+00:00",
+      "title": "생1 LCS EE CORE 9회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15760.png",
+      "sha256": "1f43d9aa4769eda4165b081abe10d8093898688df62f061f5dcae755d15b3acf"
     }
   ],
   "duplicate_message_ids": [
