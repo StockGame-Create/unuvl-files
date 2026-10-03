@@ -57,6 +57,20 @@
       "sha256": "358b0c82805f3d442cf9e25498f0e229dd2e1e8d98d7b59baf1ea67e203c1ee0"
     },
     {
+      "message_id": 24857,
+      "filename": "쓱포일러3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24857_.3.pdf",
+      "size_bytes": 7453144,
+      "telegram_date": "2026-10-03T05:22:51+00:00",
+      "title": "수학 SSG_Poiler 모의고사 2, 3회",
+      "year": "2027",
+      "instructor": "신성규",
+      "subject": "수학",
+      "thumbnail": "thumbnails/24857.png",
+      "sha256": "d33bb30ce540ef3a20f54851cfdd0ed7c2d0787ad357b2c01981b6562bd013dc"
+    },
+    {
       "message_id": 24836,
       "filename": "강K 생1 16회.pdf",
       "stored_as": null,
