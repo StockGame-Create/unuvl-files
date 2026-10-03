@@ -69537,6 +69537,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16677.png",
       "sha256": "df84774c33758da90b66bd45c32994a72c78b99b153db3eb8f1c64145115c4f0"
+    },
+    {
+      "message_id": 16676,
+      "filename": "이감8차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16676_.8.pdf",
+      "size_bytes": 14198803,
+      "telegram_date": "2025-10-14T14:06:01+00:00",
+      "title": "국어 이감 7,8차 예비평가 문제지 #이감",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16676.png",
+      "sha256": "82c8b1646dd81e378c75a7fa28e8ebec06aa1173788d370915d7332eddebad11"
     }
   ],
   "duplicate_message_ids": [
