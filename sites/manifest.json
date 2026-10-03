@@ -77881,6 +77881,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/15883.png",
       "sha256": "2c8695f31e9641d4cfe14e92e65bf9981ac096ee2fe1bc6a0ef9bd06e2b40e00"
+    },
+    {
+      "message_id": 15880,
+      "filename": "2026_수학_시대인재_N전용_Bridge_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15880_2026_._._N._Bridge_1.pdf",
+      "size_bytes": 16740941,
+      "telegram_date": "2025-09-29T14:31:14+00:00",
+      "title": "수학 시대인재 브릿지 N전용 모의고사 1회 #브릿지N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15880.png",
+      "sha256": "877a8b4e863e65c60f44e873d71bb67a8bf1f35e25c87eb8b3834b98e1a179e6"
     }
   ],
   "duplicate_message_ids": [
