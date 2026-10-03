@@ -68081,6 +68081,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16836.png",
       "sha256": "947f5c16309c4c66203d0debe8ff15a3c3657632c477ba5752777053f32ce268"
+    },
+    {
+      "message_id": 16835,
+      "filename": "_22예비수능_28예비수능_26기출_필기노트.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16835__22._28._26._.pdf",
+      "size_bytes": 27635418,
+      "telegram_date": "2025-10-17T15:28:01+00:00",
+      "title": "수학 추석 특강 올해 기출 손필기해설",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16835.png",
+      "sha256": "27e95d38be71e5e4b5376fa514a7879dacdff9830011e5124758f9b584aa359e"
     }
   ],
   "duplicate_message_ids": [
