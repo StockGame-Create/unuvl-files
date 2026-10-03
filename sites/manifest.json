@@ -85511,6 +85511,20 @@
       "subject": "과학탐구",
       "thumbnail": "thumbnails/14529.png",
       "sha256": "e4b9e0385694e273f28d59b0ff8358f3c14e29d03e4e5006934e6b94997bccca"
+    },
+    {
+      "message_id": 14528,
+      "filename": "2026_서바이벌_프로_9월_화학_ΙΙ.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14528_2026_._._9._._.pdf",
+      "size_bytes": 683230,
+      "telegram_date": "2025-09-16T13:56:29+00:00",
+      "title": "화2 시대인재 9월 전국모의평가 (문제지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/14528.png",
+      "sha256": "ae8fd4c7cf6e38fa3ea28f960595f330e8c72f226a5283eb8ab1ccb77570526d"
     }
   ],
   "duplicate_message_ids": [
