@@ -83915,6 +83915,20 @@
       "subject": "수리논술",
       "thumbnail": "thumbnails/14720.png",
       "sha256": "8a662c27d41593de38971ef729eb650a04c6698fd6c811c622bcacf612678cc1"
+    },
+    {
+      "message_id": 14718,
+      "filename": "화1 김준 시그모 7~8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14718_.1.7.8.pdf",
+      "size_bytes": 9429838,
+      "telegram_date": "2025-09-18T13:59:39+00:00",
+      "title": "화1 시그니처 모의고사 7회, 8회 #시그모",
+      "year": "2026",
+      "instructor": "김준",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/14718.png",
+      "sha256": "e534adb19a29a5d32d3710c3d3a8c4f2fade972eb4e326331673a9db143a465c"
     }
   ],
   "duplicate_message_ids": [
