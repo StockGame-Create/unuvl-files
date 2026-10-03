@@ -73443,6 +73443,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/16348.png",
       "sha256": "b487d79824707af3e4d28b7d7373eb611f68e1da7786b7608d2e6f98778d9bf8"
+    },
+    {
+      "message_id": 16346,
+      "filename": "강대N제 수학I @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16346_.N.I.%40yubin_MPGA.pdf",
+      "size_bytes": 7626452,
+      "telegram_date": "2025-10-09T14:42:54+00:00",
+      "title": "수학 강대N제 수학1",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16346.png",
+      "sha256": "497cc7c722020b8f166da2c2aa4a3d78d8bced3020e7a943858b7750fc1d88c7"
     }
   ],
   "duplicate_message_ids": [
