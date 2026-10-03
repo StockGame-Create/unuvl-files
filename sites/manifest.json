@@ -83509,6 +83509,20 @@
       "subject": "화학2",
       "thumbnail": "thumbnails/14767.png",
       "sha256": "9bd5df9778f81e68d4fe88efcdc93f6dae52f7e9727d60eeb648f073b321ed5d"
+    },
+    {
+      "message_id": 14766,
+      "filename": "2025 화2 강대 crux 3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14766_2025.2.crux.3.pdf",
+      "size_bytes": 23328476,
+      "telegram_date": "2025-09-19T03:42:27+00:00",
+      "title": "화2 시그니처 CRUX 1권 ~ 5권",
+      "year": "2025",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/14766.png",
+      "sha256": "469e0fab503d7dbfdec1696dbcaeb3e88f3c353b0552edde1b796311bd3f34f0"
     }
   ],
   "duplicate_message_ids": [
