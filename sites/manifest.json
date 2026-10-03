@@ -77489,6 +77489,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/15930.png",
       "sha256": "3ee587e448565cbb79d84ed281b59819f8e2a19c2c8e9ad4bc588ba13d27d33b"
+    },
+    {
+      "message_id": 15929,
+      "filename": "Untitled_20250924_230757.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15929_Untitled_20250924_230757.pdf",
+      "size_bytes": 39858927,
+      "telegram_date": "2025-09-30T14:09:25+00:00",
+      "title": "사문 FULLEST 시즌1 1~4회",
+      "year": "2026",
+      "instructor": "우영호",
+      "subject": "경제",
+      "thumbnail": "thumbnails/15929.png",
+      "sha256": "26259f501e7553071d25c5dd09baa26a92678d0b2b131da6251bcd97a81f538c"
     }
   ],
   "duplicate_message_ids": [
