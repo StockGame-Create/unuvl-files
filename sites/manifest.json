@@ -77811,6 +77811,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15890.png",
       "sha256": "365608d282b74f6fd8f03771e9e812b30c6eba369e9437189bc620d6c7841b33"
+    },
+    {
+      "message_id": 15889,
+      "filename": "시대인재_서바이벌_리부트_모의고사_10회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15889_._._._._10.pdf",
+      "size_bytes": 8752721,
+      "telegram_date": "2025-09-29T14:53:01+00:00",
+      "title": "수학 시대인재 서바이벌 리부트 모의고사 10,13회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15889.png",
+      "sha256": "5c5066c013899e9cb3830febd3d072a64e0b775de424eab551e727c0f63efd87"
     }
   ],
   "duplicate_message_ids": [
