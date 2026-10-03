@@ -69369,6 +69369,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16698.png",
       "sha256": "ec44d4874793de81f1b7d080b08901ddaa443fac10c66d2b8d195ee64a220aa9"
+    },
+    {
+      "message_id": 16696,
+      "filename": "2026_혜윰_국어_모의고사_시즌3_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16696_2026_._._._.3_1.pdf",
+      "size_bytes": 7390771,
+      "telegram_date": "2025-10-15T03:04:43+00:00",
+      "title": "국어 혜윰 모의고사 시즌3 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16696.png",
+      "sha256": "bb75c57a3ab9f24e81abf6b2d4e1cbb4f85be4f49b0cd188e50cc5dc44f86c2f"
     }
   ],
   "duplicate_message_ids": [
