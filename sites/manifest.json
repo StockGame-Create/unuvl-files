@@ -67507,6 +67507,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16904.png",
       "sha256": "6d3b4600c6aa692388e011f055cd7339998c811f522cc5278f21d9c7ebe3259d"
+    },
+    {
+      "message_id": 16903,
+      "filename": "2026_시대인재_지구_전국_서바_12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16903_2026_._._._._12.pdf",
+      "size_bytes": 17513757,
+      "telegram_date": "2025-10-18T14:47:46+00:00",
+      "title": "지1 시대인재 서바이벌 전국 모의고사 12회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16903.png",
+      "sha256": "16fcede75c4d0333b7383fd0060b33fcc65e497d19aec9a9d4398dccf5cbf15e"
     }
   ],
   "duplicate_message_ids": [
