@@ -79953,6 +79953,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/15685.png",
       "sha256": "cf84aa236d36f01e34e89b95bb4e3049e63aae000697a9e376be7c1011e72838"
+    },
+    {
+      "message_id": 15684,
+      "filename": "잘노기 빈칸.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15684_.pdf",
+      "size_bytes": 5949190,
+      "telegram_date": "2025-09-27T08:44:25+00:00",
+      "title": "생윤 잘 노는 기출 #잘노기",
+      "year": "2026",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/15684.png",
+      "sha256": "5b09aa01dd167fed611dcbfdb4c1a37821ad1c8e9961768abb5fa8c026758baf"
     }
   ],
   "duplicate_message_ids": [
