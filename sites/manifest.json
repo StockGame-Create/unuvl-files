@@ -72883,6 +72883,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16403.png",
       "sha256": "14f76c5863c82d54db8d48a406fc30cb50018978b770879cba0c06aaf1860547"
+    },
+    {
+      "message_id": 16401,
+      "filename": "한수 파이널 2 12차 @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16401_.2.12.%40yubin_MPGA.pdf",
+      "size_bytes": 17051038,
+      "telegram_date": "2025-10-11T00:00:52+00:00",
+      "title": "국어 한수 파이널2 12차 #한수",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16401.png",
+      "sha256": "207b0b796a452ae4ab97ebf96eb144d1ce6f9411f33f8de52a527373b7ee4a53"
     }
   ],
   "duplicate_message_ids": [
