@@ -78035,6 +78035,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15865.png",
       "sha256": "764ea167d98ae4cf67bc691a66a4adaf5cba9a79f54c2c8697ef3e77a9446cd7"
+    },
+    {
+      "message_id": 15864,
+      "filename": "Killar_모의고사_season2_2회차_정답_및_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15864_Killar_._season2_2._._._.pdf",
+      "size_bytes": 240178,
+      "telegram_date": "2025-09-29T14:18:20+00:00",
+      "title": "수학 KILLAR 모의고사 미적분 시즌2 2회",
+      "year": "2026",
+      "instructor": "김성호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15864.png",
+      "sha256": "81eaeaa650f638bc1c7cf43ed2e9897b6f35174bd8b120008854816a790f4d93"
     }
   ],
   "duplicate_message_ids": [
