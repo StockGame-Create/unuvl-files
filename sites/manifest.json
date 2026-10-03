@@ -85007,6 +85007,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14600.png",
       "sha256": "ed26a1088943fc635a344b7b9816637cad72f3acf7e51fba6ffc8e8f446df592"
+    },
+    {
+      "message_id": 14598,
+      "filename": "서바 사문 10회_250917_162929.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14598_.10._250917_162929.pdf",
+      "size_bytes": 29466300,
+      "telegram_date": "2025-09-17T09:10:39+00:00",
+      "title": "사문 시대인재 서바이벌 모의고사 10회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14598.png",
+      "sha256": "e74738001e26d45379d329f24d1ab7036c769ef271746e826735ff32b9d173b4"
     }
   ],
   "duplicate_message_ids": [
