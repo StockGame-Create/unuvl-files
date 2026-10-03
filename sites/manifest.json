@@ -72897,6 +72897,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16401.png",
       "sha256": "207b0b796a452ae4ab97ebf96eb144d1ce6f9411f33f8de52a527373b7ee4a53"
+    },
+    {
+      "message_id": 16399,
+      "filename": "김성은확통복습_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16399_._%40yubin_MPGA.pdf",
+      "size_bytes": 57365825,
+      "telegram_date": "2025-10-10T14:41:42+00:00",
+      "title": "수학 기출 100제 RESTART 확률과 통계",
+      "year": "2026",
+      "instructor": "김성은",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16399.png",
+      "sha256": "90f6e7a53204749f0adb56a368f7f99492b1f937a41c4e7b0b09f5776212e361"
     }
   ],
   "duplicate_message_ids": [
