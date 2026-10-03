@@ -85217,6 +85217,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14571.png",
       "sha256": "f57c954a0d3402dcca18e4be4f96497a2de00bae919879b866fdc021af9e55e6"
+    },
+    {
+      "message_id": 14569,
+      "filename": "김승리의_선택_언매_32025.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14569_._._._32025.pdf",
+      "size_bytes": 177364994,
+      "telegram_date": "2025-09-17T03:06:32+00:00",
+      "title": "국어 김승리의 선택 언어와 매체",
+      "year": "2025",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14569.png",
+      "sha256": "705eb770a56f9a9e6bf766706c854e4b5c57d58d61666728f48a087714415ba8"
     }
   ],
   "duplicate_message_ids": [
