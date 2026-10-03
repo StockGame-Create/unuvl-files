@@ -77153,6 +77153,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15969.png",
       "sha256": "d55734b2cc3c364a89e7495b8fece6b1f455167c5efc9b71bb520d6245854f64"
+    },
+    {
+      "message_id": 15966,
+      "filename": "데브 20,21회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15966_.20.21.pdf",
+      "size_bytes": 7013842,
+      "telegram_date": "2025-10-01T14:11:44+00:00",
+      "title": "지1 DAYBREAK 20,21회 #데이브레이크",
+      "year": "2026",
+      "instructor": "박선",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/15966.png",
+      "sha256": "5d441f54f4864cc1836d36bd151316d9b36f0034eeca3ea66f5da936e66350e4"
     }
   ],
   "duplicate_message_ids": [
