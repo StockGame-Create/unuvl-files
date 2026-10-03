@@ -67829,6 +67829,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16865.png",
       "sha256": "ca2628af5d66fe8d139360570a983c57e0f827799fabc79bc35eeb869b130e20"
+    },
+    {
+      "message_id": 16863,
+      "filename": "스러너 파이널1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16863_.1.pdf",
+      "size_bytes": 5043355,
+      "telegram_date": "2025-10-18T02:40:58+00:00",
+      "title": "수학 스피드러너 모의고사 FINAL 시즌1 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16863.png",
+      "sha256": "9dd34d66a417aecd0c2609704a5389ec3ce84bc95b70411cfd31b19e2a545044"
     }
   ],
   "duplicate_message_ids": [
