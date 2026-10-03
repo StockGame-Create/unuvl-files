@@ -84307,6 +84307,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/14672.png",
       "sha256": "ee80b70bd904617cccd9822c4c2978115f245cd4b9be521fbc8d68b29345ac7b"
+    },
+    {
+      "message_id": 14671,
+      "filename": "세계지리_1등급만들기답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14671_._1.pdf",
+      "size_bytes": 72877665,
+      "telegram_date": "2025-09-17T14:30:19+00:00",
+      "title": "세지 1등급 만들기 세계지리",
+      "year": "2026",
+      "instructor": null,
+      "subject": "세계지리",
+      "thumbnail": "thumbnails/14671.png",
+      "sha256": "8fb8979cf2979841a48956db4906cae889293ca4c60b2181b75f6e53af30a689"
     }
   ],
   "duplicate_message_ids": [
