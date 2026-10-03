@@ -70937,6 +70937,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16555.png",
       "sha256": "99744005915e67949d2134a452c93dd9aef651b99fe6dc6f669e495c6ed3dc19"
+    },
+    {
+      "message_id": 16553,
+      "filename": "어삼쉬사_수학Ⅱ.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16553_._.pdf",
+      "size_bytes": 13729476,
+      "telegram_date": "2025-10-13T13:42:45+00:00",
+      "title": "수학 어삼쉬사 수학2",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16553.png",
+      "sha256": "b20499b79c45c8716443f3ff88651a2230b4b377cd279ebe2463fa3150490b55"
     }
   ],
   "duplicate_message_ids": [
