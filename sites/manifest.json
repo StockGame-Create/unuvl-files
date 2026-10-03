@@ -76355,6 +76355,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16050.png",
       "sha256": "044ff24e34db871bbfe161e21d224538c4fb968ceee1fb0dd13a0088b3deef7f"
+    },
+    {
+      "message_id": 16048,
+      "filename": "2026_최적_적생모_시즌3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16048_2026_._._.3.pdf",
+      "size_bytes": 26531172,
+      "telegram_date": "2025-10-02T15:09:21+00:00",
+      "title": "정법 적자생존 모의고사 시즌3 7,8회",
+      "year": "2026",
+      "instructor": "최적",
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/16048.png",
+      "sha256": "99f2d851b50810bee792fcc9d7e3c0c15fcd9e85a22009f93ab69a688b2d66e2"
     }
   ],
   "duplicate_message_ids": [
