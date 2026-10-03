@@ -76425,6 +76425,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16043.png",
       "sha256": "6ea157f7aa12f1266671430c8ff90ce05f3d5d0450dc111fcdb2b1c4009f1bbb"
+    },
+    {
+      "message_id": 16041,
+      "filename": "2026_김진영_지구_강대모의고사k_분석서_7,_8.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16041_2026_._._.k_._7._8.pdf",
+      "size_bytes": 102142120,
+      "telegram_date": "2025-10-02T14:24:11+00:00",
+      "title": "지1 강대모의고사K 7,8회 분석서",
+      "year": "2026",
+      "instructor": "김진영",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16041.png",
+      "sha256": "89806b23975b0ab3848e10b7f9247d428b795982d7373832c8afc96ad0458f16"
     }
   ],
   "duplicate_message_ids": [
