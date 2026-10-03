@@ -73877,6 +73877,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16327.png",
       "sha256": "da70e373accff4e73018a07049c9495d98c7f991f73d304f01467306480ad7a6"
+    },
+    {
+      "message_id": 16325,
+      "filename": "2026_장재원_모의반_로비스트_12주차_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16325_2026_._._._12._%40yubin_MPGA.pdf",
+      "size_bytes": 3220890,
+      "telegram_date": "2025-10-09T14:27:15+00:00",
+      "title": "수학 THE LOBBYIST #로비스트",
+      "year": "2026",
+      "instructor": "장재원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16325.png",
+      "sha256": "a9fd1fa76f3160921ac13447165d20a787dc7c0e3c3ee35912c02337303670ae"
     }
   ],
   "duplicate_message_ids": [
