@@ -82599,6 +82599,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14872.png",
       "sha256": "49b09bc3a3339e30fabad8db70959cad0c9e41679c48701d5c1eb26459eb09e9"
+    },
+    {
+      "message_id": 14870,
+      "filename": "2024_생2_서바이벌_1_22답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14870_2024_.2_._1_22.pdf",
+      "size_bytes": 4044741,
+      "telegram_date": "2025-09-20T03:03:08+00:00",
+      "title": "생2 시대인재 서바이벌 3회 ~ 10회 #서바",
+      "year": "2024",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/14870.png",
+      "sha256": "d6945c0e8114dda76b4dad3c0fb5b009ffa8a2f342fb5ec2ecab1e3349c48251"
     }
   ],
   "duplicate_message_ids": [
