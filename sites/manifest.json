@@ -73429,6 +73429,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/16349.png",
       "sha256": "701ed941f3554d84888f03a556474e98cffb763f6342c255810047a0fc4cd5dd"
+    },
+    {
+      "message_id": 16348,
+      "filename": "시대인재_10모_한국지리_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16348_._10._._%40yubin_MPGA.pdf",
+      "size_bytes": 9224259,
+      "telegram_date": "2025-10-09T14:45:09+00:00",
+      "title": "한지 시대인재 10월 전국모의평가 (문제지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "한국지리",
+      "thumbnail": "thumbnails/16348.png",
+      "sha256": "b487d79824707af3e4d28b7d7373eb611f68e1da7786b7608d2e6f98778d9bf8"
     }
   ],
   "duplicate_message_ids": [
