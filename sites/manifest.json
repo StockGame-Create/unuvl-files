@@ -77867,6 +77867,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/15884.png",
       "sha256": "681c2f791aaf4d0050579dd3d45a095c30ad690ed8adeec31b72c34f6cfa7e78"
+    },
+    {
+      "message_id": 15883,
+      "filename": "2026학년도_대학수학능력시험_생명1_시대인재_킬러N_하_정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15883_2026._._.1_._.N_._.pdf",
+      "size_bytes": 60265115,
+      "telegram_date": "2025-09-29T14:34:48+00:00",
+      "title": "생1 KILLER N 하",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15883.png",
+      "sha256": "2c8695f31e9641d4cfe14e92e65bf9981ac096ee2fe1bc6a0ef9bd06e2b40e00"
     }
   ],
   "duplicate_message_ids": [
