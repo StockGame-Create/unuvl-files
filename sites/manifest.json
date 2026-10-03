@@ -82879,6 +82879,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14843.png",
       "sha256": "9fb0936bb6258695c2be41d8cd7708f70d9ad296269271dfd921cd4747fd9813"
+    },
+    {
+      "message_id": 14841,
+      "filename": "적중예감_파이널실모_02회08회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14841_._._02.08.pdf",
+      "size_bytes": 63368751,
+      "telegram_date": "2025-09-19T14:59:39+00:00",
+      "title": "사문 적중예감 Final 실전 모의고사 2회 ~ 4회 + 답지, 5회 ~ 8회",
+      "year": "2026",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14841.png",
+      "sha256": "4b9831676bbb041ec150e3e4f12f88c0e4ad8292cfb1987eb94a048b7619379a"
     }
   ],
   "duplicate_message_ids": [
