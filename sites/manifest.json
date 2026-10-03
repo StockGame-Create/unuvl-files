@@ -79673,6 +79673,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15710.png",
       "sha256": "2b67da9947182cd574ff403f7058ae5a56f9dba7130ff851e4efb7f2810521d5"
+    },
+    {
+      "message_id": 15708,
+      "filename": "김성호_시즌2_실전모의고사_정답_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15708_._.2_._._.pdf",
+      "size_bytes": 14184895,
+      "telegram_date": "2025-09-27T09:12:12+00:00",
+      "title": "수학 김성호 실전 모의고사 시즌2-2회",
+      "year": "2026",
+      "instructor": "김성호",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15708.png",
+      "sha256": "a48bde362ba5f6a1a226001fede69c1a4fc7eaeaa3e6ded720b4b0658ed9c6ce"
     }
   ],
   "duplicate_message_ids": [
