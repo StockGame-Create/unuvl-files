@@ -81311,6 +81311,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15554.png",
       "sha256": "fd1042164597b171f12776588d61774af3700078e47a8e248178e460490dbae7"
+    },
+    {
+      "message_id": 15553,
+      "filename": "김범준_강K_아나토미_1,2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15553_._.K_._1.2.pdf",
+      "size_bytes": 33636228,
+      "telegram_date": "2025-09-26T14:01:52+00:00",
+      "title": "수학 강대모의고사K Anatomy 1회 ~ 20회",
+      "year": "2026",
+      "instructor": "김범준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15553.png",
+      "sha256": "896ee257da4f8d30b73c32c1748f7eebebb43c05974e7507e508bbb6d33799b9"
     }
   ],
   "duplicate_message_ids": [
