@@ -77321,6 +77321,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15950.png",
       "sha256": "7a38073aa97cba2cd9d82b58a558664e1bbf5017f779f544f0a002e7e16b3b6a"
+    },
+    {
+      "message_id": 15948,
+      "filename": "2026 LCS EE CORE 생명과학1 12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15948_2026.LCS.EE.CORE.1.12.pdf",
+      "size_bytes": 9638338,
+      "telegram_date": "2025-09-30T14:29:03+00:00",
+      "title": "생1 LCS CUTTING EDGE 12회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15948.png",
+      "sha256": "4d05fc81ef169016839c5135aa2645eb97dfb3306768e571626f515b0b573e35"
     }
   ],
   "duplicate_message_ids": [
