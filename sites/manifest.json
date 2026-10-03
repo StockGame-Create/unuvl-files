@@ -81997,6 +81997,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15479.png",
       "sha256": "dd4a39b20f0b2c5f0a9250bb47c7db3c3e1e50d14229bfeb1ab928fd600ba22d"
+    },
+    {
+      "message_id": 15478,
+      "filename": "2025_김종익_파이널_윤사_1_12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15478_2025_._._._1_12.pdf",
+      "size_bytes": 31039047,
+      "telegram_date": "2025-09-25T09:19:44+00:00",
+      "title": "윤사 파이널 김종익 모의고사 1회 ~ 12회 합본",
+      "year": "2025",
+      "instructor": "김종익",
+      "subject": "윤리와사상",
+      "thumbnail": "thumbnails/15478.png",
+      "sha256": "5d0efb7e203fe00d03c6c11dfa7020cd4d47b65dfcf3dae827d9d36a816ac0a4"
     }
   ],
   "duplicate_message_ids": [
