@@ -80023,6 +80023,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/15680.png",
       "sha256": "a565c172a69787429217f3dc2e725c59f321b1605c31c9c73a640c558d9f0ef2"
+    },
+    {
+      "message_id": 15679,
+      "filename": "2026_잘푸모_시즌2_4회12회_문제지_250921_213409_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15679_2026_._.2_4.12._._250921_213409_1.pdf",
+      "size_bytes": 21206519,
+      "telegram_date": "2025-09-27T04:51:55+00:00",
+      "title": "생윤 잘 푸는 모의고사 시즌2 4회 ~ 12회 #잘푸모",
+      "year": "2026",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/15679.png",
+      "sha256": "696ff2fc808ef83832af81650136fbb2b2e14f4f5e92d2428f55ab1b45a78574"
     }
   ],
   "duplicate_message_ids": [
