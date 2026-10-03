@@ -76481,6 +76481,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16037.png",
       "sha256": "b1586f18d38c5ff5caaa87977b6c1877131a2fd3f00b43f356a796202a93b62d"
+    },
+    {
+      "message_id": 16036,
+      "filename": "EBS_CLEAR_봉투_모의고사_1,2회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16036_EBS_CLEAR_._._1.2._.pdf",
+      "size_bytes": 18257459,
+      "telegram_date": "2025-10-02T14:21:46+00:00",
+      "title": "생윤 수능 직전보강 클리어 Clear 봉투모의고사 1,2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/16036.png",
+      "sha256": "4e2828d7367a8fd259472fed63343d923b1ad6dda847baf98696531f93c4f0f8"
     }
   ],
   "duplicate_message_ids": [
