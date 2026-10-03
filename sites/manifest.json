@@ -70321,6 +70321,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/16608.png",
       "sha256": "5ccf59038514c7f09af9aa91a68e8d7af8d8fd4693c15f48f615c1e29ab32457"
+    },
+    {
+      "message_id": 16607,
+      "filename": "진화와_증거원리_5주차_1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16607_._._5._1.pdf",
+      "size_bytes": 25838790,
+      "telegram_date": "2025-10-13T15:06:22+00:00",
+      "title": "생2 INTRON 1~8주차",
+      "year": "2026",
+      "instructor": "이서준",
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/16607.png",
+      "sha256": "b091d75f8a1fd79292e525ef66f13a27944880f953098cc10b492d50d8cdb298"
     }
   ],
   "duplicate_message_ids": [
