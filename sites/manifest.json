@@ -78553,6 +78553,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15818.png",
       "sha256": "3add7008d0d6a4a829450fef57930b52f56ba202d9ce1c99f2b91c07cb225bf7"
+    },
+    {
+      "message_id": 15817,
+      "filename": "시그모 12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15817_.12.pdf",
+      "size_bytes": 4383672,
+      "telegram_date": "2025-09-28T13:54:22+00:00",
+      "title": "화1 시그니처 모의고사 9~12회 #시그모",
+      "year": "2026",
+      "instructor": "김준",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/15817.png",
+      "sha256": "019d1553a3d0251ce3ef5e5c5008a257e78fd1e9990fb9c0b6bfa75429348797"
     }
   ],
   "duplicate_message_ids": [
