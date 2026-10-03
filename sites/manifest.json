@@ -71917,6 +71917,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/16455.png",
       "sha256": "df8281d6516d3404c9072e655402f49dae6f87d2e3d5972658e8b151eacbfd77"
+    },
+    {
+      "message_id": 16454,
+      "filename": "수학_강_케이_2026_27회_28회1_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16454_._._._2026_27._28.1_%40yubin_MPGA.pdf",
+      "size_bytes": 72773997,
+      "telegram_date": "2025-10-11T02:56:50+00:00",
+      "title": "수학 강대모의고사K 27,28회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16454.png",
+      "sha256": "78722f17c79820318c238cbb5817c439ace159f844d68930a6b3ba6da73b5da3"
     }
   ],
   "duplicate_message_ids": [
