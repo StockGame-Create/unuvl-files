@@ -75361,6 +75361,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16170.png",
       "sha256": "441be4ec9e80c1c0e5ca05a854cc41e244392947b692b7d46e26453878898419"
+    },
+    {
+      "message_id": 16169,
+      "filename": "2026_화학1_강준호_모의고사_17회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16169_2026_.1_._._17._.pdf",
+      "size_bytes": 6442060,
+      "telegram_date": "2025-10-05T13:17:48+00:00",
+      "title": "화1 강준호 모의고사 17회",
+      "year": "2026",
+      "instructor": "강준호",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/16169.png",
+      "sha256": "f53f025f751eacaf8efdf697009d3e6fc8fdd88f84a96801ff4560a5f55e9f2c"
     }
   ],
   "duplicate_message_ids": [
