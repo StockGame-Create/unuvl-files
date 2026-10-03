@@ -78889,6 +78889,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15788.png",
       "sha256": "b2bfffefa42afd335a1740cdf1c6be569bfea7c90ebe55bb4cf9cdaa94a00e32"
+    },
+    {
+      "message_id": 15786,
+      "filename": "2026 국어 강민철 무제 7주.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15786_2026.7.pdf",
+      "size_bytes": 86830843,
+      "telegram_date": "2025-09-28T09:32:01+00:00",
+      "title": "국어 강민철 무제 5주차 ~ 8주차",
+      "year": "2026",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/15786.png",
+      "sha256": "eb5b126c53beaacb981ecce0318dce495fcb72c5b89f3dd44ee09b420a981db7"
     }
   ],
   "duplicate_message_ids": [
