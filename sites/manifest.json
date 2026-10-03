@@ -84279,6 +84279,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/14675.png",
       "sha256": "81485523a5bc05100d8c7a163eb71ee7a87dd531a96759ea84d6b31c98f90769"
+    },
+    {
+      "message_id": 14674,
+      "filename": "시대인재_jit_모의고사_한국지리_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14674_._jit_._._1.pdf",
+      "size_bytes": 5441738,
+      "telegram_date": "2025-09-17T14:31:04+00:00",
+      "title": "한지 JIT Season 1 모의고사 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "한국지리",
+      "thumbnail": "thumbnails/14674.png",
+      "sha256": "bd664796bdcee4a85b589260c2ac4147aff15b491b9a54b356eadb5bf0806a0a"
     }
   ],
   "duplicate_message_ids": [
