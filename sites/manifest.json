@@ -70447,6 +70447,20 @@
       "subject": "생명과학2",
       "thumbnail": "thumbnails/16599.png",
       "sha256": "37d97b4a9d397d1f4dd6a6c505528ecdcd2d0b0373c2334fbfd377ad4d421073"
+    },
+    {
+      "message_id": 16598,
+      "filename": "엑손 10주차_250330_152859.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16598_.10._250330_152859.pdf",
+      "size_bytes": 36847456,
+      "telegram_date": "2025-10-13T15:05:19+00:00",
+      "title": "엑손 10주차_250330_152859",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/16598.png",
+      "sha256": "7fd610b3204b92181385a83c60aebdb4771c9ec312d761a514f0988e03f395bf"
     }
   ],
   "duplicate_message_ids": [
