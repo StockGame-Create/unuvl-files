@@ -77195,6 +77195,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15960.png",
       "sha256": "cea6d9ebfec145e32749b93c3faa51bd8d4286ef95c7bbbcee1516a6dace3d69"
+    },
+    {
+      "message_id": 15959,
+      "filename": "한수_파이널Ⅱ_9차_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15959_._._9._.pdf",
+      "size_bytes": 2055145,
+      "telegram_date": "2025-09-30T14:57:30+00:00",
+      "title": "국어 한수 파이널2 8,9차 #한수",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/15959.png",
+      "sha256": "997fe2e4977524bcd63881733c40371910b98676b3e1aca0a236f3a05a4d7d82"
     }
   ],
   "duplicate_message_ids": [
