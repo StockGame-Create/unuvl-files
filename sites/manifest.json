@@ -76943,6 +76943,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15995.png",
       "sha256": "9e9e98af1e7616207e361fba11e1be3173311c4b3ad1b527ceaf37989d95ff7d"
+    },
+    {
+      "message_id": 15994,
+      "filename": "문실정 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15994_.9.pdf",
+      "size_bytes": 21887717,
+      "telegram_date": "2025-10-01T14:57:36+00:00",
+      "title": "국어 정석 문학 모의고사 6~10회",
+      "year": "2026",
+      "instructor": "정석민",
+      "subject": "국어",
+      "thumbnail": "thumbnails/15994.png",
+      "sha256": "b5abf9b641c126d2044b14d9ab24b593875923e95a7fc74013cb87ad9bb99f68"
     }
   ],
   "duplicate_message_ids": [
