@@ -71021,6 +71021,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16545.png",
       "sha256": "ad96e893a5edd5d46a7ad6efe358c0d3b0de09b73764d6f8a9de6585f23ccaa5"
+    },
+    {
+      "message_id": 16542,
+      "filename": "지구 서바 20.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16542_.20.pdf",
+      "size_bytes": 2292015,
+      "telegram_date": "2025-10-12T15:34:30+00:00",
+      "title": "지1 시대인재 서바이벌 20회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16542.png",
+      "sha256": "b447a42261d6fee280ae03234b3d8549e65994ab8d1bbcfe439759a174dd6e22"
     }
   ],
   "duplicate_message_ids": [
