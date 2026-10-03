@@ -77573,6 +77573,20 @@
       "subject": "생활과 윤리",
       "thumbnail": "thumbnails/15921.png",
       "sha256": "77a093a1d16cf5246a5a718295a797b6262aef97f81b5ee42d5d2e983285a278"
+    },
+    {
+      "message_id": 15920,
+      "filename": "물2 포물선 N제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15920_.2.N.pdf",
+      "size_bytes": 837000,
+      "telegram_date": "2025-09-30T13:47:17+00:00",
+      "title": "물2 포물선 N제",
+      "year": "2017",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/15920.png",
+      "sha256": "bcceb73a75cf8e7d8123979928fc631fe3074aaa5c42882c12ac07a1097d95eb"
     }
   ],
   "duplicate_message_ids": [
