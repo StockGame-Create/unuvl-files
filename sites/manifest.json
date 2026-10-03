@@ -71147,6 +71147,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16527.png",
       "sha256": "34f5063bd0cb697c6a24c40e79615b24f5042ef67051692ba83a5247f6163570"
+    },
+    {
+      "message_id": 16525,
+      "filename": "쏸 모의고사 3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16525_.3.pdf",
+      "size_bytes": 4974498,
+      "telegram_date": "2025-10-12T14:14:26+00:00",
+      "title": "지1 쏸 모의고사 3회",
+      "year": "2026",
+      "instructor": "유시훈",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16525.png",
+      "sha256": "8529eaea10239be2cce13b065ef5184f1a775be7c36d0dce097413f531c1d6f9"
     }
   ],
   "duplicate_message_ids": [
