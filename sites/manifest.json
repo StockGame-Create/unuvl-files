@@ -74801,6 +74801,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16223.png",
       "sha256": "72bf9c1f2d197a59e597cb95cb46a2f50f3076fd1e078a8017cca9afbb24d828"
+    },
+    {
+      "message_id": 16222,
+      "filename": "김준 STARTING POINT 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16222_.STARTING.POINT.pdf",
+      "size_bytes": 82515589,
+      "telegram_date": "2025-10-06T09:04:18+00:00",
+      "title": "화1 STARTING POINT",
+      "year": "2026",
+      "instructor": "김준",
+      "subject": "화학1",
+      "thumbnail": "thumbnails/16222.png",
+      "sha256": "d483517812e4da75c93d328243640fbed8557950a071a86156dcfd5e2a367e66"
     }
   ],
   "duplicate_message_ids": [
