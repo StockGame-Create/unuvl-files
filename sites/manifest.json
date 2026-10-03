@@ -69901,6 +69901,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/16645.png",
       "sha256": "a5607d928e839f558c2871b99c99571131e8ce60de63c6c127faadb6adbda204"
+    },
+    {
+      "message_id": 16644,
+      "filename": "2026 물2 서바이벌 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16644_2026.2.1.pdf",
+      "size_bytes": 35365198,
+      "telegram_date": "2025-10-14T11:52:15+00:00",
+      "title": "물2 시대인재 서바이벌 1~5회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/16644.png",
+      "sha256": "d4dac55577fc6caa73b1fa1db255cfe2ee06bd61f508712c69ea24d1d0af3199"
     }
   ],
   "duplicate_message_ids": [
