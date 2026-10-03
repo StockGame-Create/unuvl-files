@@ -73233,6 +73233,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16375.png",
       "sha256": "03398403c401c38e292363c42cee1544c98bc10941ee8dc5ed51f28737b857f5"
+    },
+    {
+      "message_id": 16374,
+      "filename": "시대인재_2026학년도_10월_전국_모의평가_2교시_수학_문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16374_._2026._10._._._2._._.pdf",
+      "size_bytes": 2541827,
+      "telegram_date": "2025-10-10T13:58:56+00:00",
+      "title": "수학 시대인재 10월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16374.png",
+      "sha256": "148e880af40f9ed93e09c6dac00418891a0570cf8feeabc05475ffa4862fe13d"
     }
   ],
   "duplicate_message_ids": [
