@@ -80261,6 +80261,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15654.png",
       "sha256": "427693e56247cc022dc14a090929d365d956cc711b796dc49a91bc3b7647a6d6"
+    },
+    {
+      "message_id": 15653,
+      "filename": "2026_강대모의고사X_시즌2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15653_2026_.X_.2.pdf",
+      "size_bytes": 76180012,
+      "telegram_date": "2025-09-27T02:33:08+00:00",
+      "title": "수학 강대모의고사X 시즌1, 시즌2, 시즌3 (합본) #강X",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15653.png",
+      "sha256": "245984b0bc3463b5ddff4fe4e2a76c50633ab2181ab06fd1c9e62c64467e619a"
     }
   ],
   "duplicate_message_ids": [
