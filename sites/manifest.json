@@ -71427,6 +71427,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/16503.png",
       "sha256": "603be880b66d33c91871f7bd2dda628fcb4ea24f2d4cda7833336b24652f849e"
+    },
+    {
+      "message_id": 16499,
+      "filename": "대치북스_리얼리티_봉투모의고사_정답및해설_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16499_._._._._%40yubin_MPGA.pdf",
+      "size_bytes": 36412900,
+      "telegram_date": "2025-10-12T02:46:25+00:00",
+      "title": "영어 대치북스 리얼리티 봉투모의고사 1~3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/16499.png",
+      "sha256": "535e778a3aa8edb4eb26641034a15c9fa993baba0a774bf7f0c07cb4b31f0f73"
     }
   ],
   "duplicate_message_ids": [
