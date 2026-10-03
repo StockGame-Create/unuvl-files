@@ -80639,6 +80639,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/15621.png",
       "sha256": "1fd6e2f84ed7a98dbcdb28d12441009d063ef18ec5dff7407754aa4546b3af28"
+    },
+    {
+      "message_id": 15620,
+      "filename": "생명 LCS BR 7회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15620_.LCS.BR.7.pdf",
+      "size_bytes": 9589174,
+      "telegram_date": "2025-09-26T16:08:10+00:00",
+      "title": "생1 LCS BLADE RUNNER 6회 ~ 10회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15620.png",
+      "sha256": "3dbf7c0017d0baa432e028b7874572d2254324103a805dfe440845fcf1dd736c"
     }
   ],
   "duplicate_message_ids": [
