@@ -86267,6 +86267,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/14444.png",
       "sha256": "c3f1e7eeee76d5faa8a9bd0f4c36179d440022cfbcac736887c1b0ad8211041b"
+    },
+    {
+      "message_id": 14441,
+      "filename": "2026 한국지리 이승헌 REAL E.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14441_2026.REAL.E.pdf",
+      "size_bytes": 102606571,
+      "telegram_date": "2025-09-15T13:43:38+00:00",
+      "title": "한지 REAL E",
+      "year": "2026",
+      "instructor": "이승헌",
+      "subject": "한국지리",
+      "thumbnail": "thumbnails/14441.png",
+      "sha256": "46a95da4d766806cf0b5bfc0c75fdf389e3ded661d503ee35c8cf9c41f1ee1a8"
     }
   ],
   "duplicate_message_ids": [
