@@ -70573,6 +70573,20 @@
       "subject": null,
       "thumbnail": "thumbnails/16590.png",
       "sha256": "1f4adf126aebe6d453c01815e725d76aed50cfdd0c6aa22ac3383338e597cdb7"
+    },
+    {
+      "message_id": 16589,
+      "filename": "EXON 1주차.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16589_EXON.1.pdf",
+      "size_bytes": 55324188,
+      "telegram_date": "2025-10-13T15:05:18+00:00",
+      "title": "EXON 1주차",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/16589.png",
+      "sha256": "7330fce101c1c32504e96188a91c6c4d3d497e82abae8e68df7b1bf20028f219"
     }
   ],
   "duplicate_message_ids": [
