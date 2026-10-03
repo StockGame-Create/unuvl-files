@@ -15,6 +15,20 @@
       "sha256": "be8a504955fa372247c5713b52e2c8dc1ad4c131c8d8e449673757637d5dbecd"
     },
     {
+      "message_id": 24875,
+      "filename": "TalkFile_Scan_20261002_193852.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24875_TalkFile_Scan_20261002_193852.pdf",
+      "size_bytes": 7072082,
+      "telegram_date": "2026-10-03T05:58:40+00:00",
+      "title": "수학 시대인재 파이널 브릿지 전국 모의고사 26회",
+      "year": "2027",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/24875.png",
+      "sha256": "46a8141ae2e766c5d29266131dc0bdfd8cc17dd0f7e153e5cedc9d50525094d4"
+    },
+    {
       "message_id": 24870,
       "filename": "솔의눈_강K 9회.pdf",
       "stored_as": null,
