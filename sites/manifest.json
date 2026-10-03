@@ -81563,6 +81563,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15528.png",
       "sha256": "3a0f838f94ce8c9a81adcea4ed391861c1bda766ab3b158a5d44b8512f61a032"
+    },
+    {
+      "message_id": 15527,
+      "filename": "수학_김현우_스탠다드서브_5회_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15527_._._._5._.pdf",
+      "size_bytes": 7553440,
+      "telegram_date": "2025-09-25T15:16:12+00:00",
+      "title": "수학 김현우 스탠다드 서브 모의고사 5회",
+      "year": "2026",
+      "instructor": "김현우",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15527.png",
+      "sha256": "e0fc81696cc82aa53e3435cf7cae1ef23d469cc6ff74012adbd51aebaa9300c3"
     }
   ],
   "duplicate_message_ids": [
