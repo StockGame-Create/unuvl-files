@@ -79715,6 +79715,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/15705.png",
       "sha256": "092b842d1968fbb86f66bfa6e780e1f2388bea766f0eff5c1769f601bc468259"
+    },
+    {
+      "message_id": 15704,
+      "filename": "홍준용_BLITZ_season4_#17-19(16x).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15704_._BLITZ_season4_.17-19.16x.pdf",
+      "size_bytes": 10017109,
+      "telegram_date": "2025-09-27T09:11:15+00:00",
+      "title": "생1 BLITZ 시즌4 SCENARIO 17회 ~ 19회",
+      "year": "2026",
+      "instructor": "홍준용",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15704.png",
+      "sha256": "33f8e887e1154fbb52620ceb04b690324dc13dc5b150548bf1770697f0e42212"
     }
   ],
   "duplicate_message_ids": [
