@@ -80499,6 +80499,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/15631.png",
       "sha256": "e46a413ea7bca8ff69d36f46c666ba1f5273caa18b7b884c887649619f1232fe"
+    },
+    {
+      "message_id": 15630,
+      "filename": "생명 LCS CE 7회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15630_.LCS.CE.7.pdf",
+      "size_bytes": 9740977,
+      "telegram_date": "2025-09-26T16:11:14+00:00",
+      "title": "생1 LCS CUTTING EDGE 6회 ~ 9회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15630.png",
+      "sha256": "a9c8ff7bd5cd92404d4bb0b0faed743f2f85d45bdcac33ecc18171dd96d18bc4"
     }
   ],
   "duplicate_message_ids": [
