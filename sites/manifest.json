@@ -67619,6 +67619,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/16895.png",
       "sha256": "464f4d28e4c95443c19f43a996012d733efca48d7c9c88517994446fc26ee29d"
+    },
+    {
+      "message_id": 16894,
+      "filename": "추석특강 정오표.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16894_.pdf",
+      "size_bytes": 28441,
+      "telegram_date": "2025-10-18T14:35:14+00:00",
+      "title": "생1 추석특강 연계요소 가이드북, N제",
+      "year": "2026",
+      "instructor": "정석준",
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/16894.png",
+      "sha256": "bc4664af5b4a27e001391b3be51205f966447b707fe4e8c655e64c75d9ebf436"
     }
   ],
   "duplicate_message_ids": [
