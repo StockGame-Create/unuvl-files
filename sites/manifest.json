@@ -83971,6 +83971,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/14713.png",
       "sha256": "138f3c240ea7052e33ba0881938e862d1751ac3d0915ea1486026da68ed3794b"
+    },
+    {
+      "message_id": 14711,
+      "filename": "26 물리 서바이벌 9,10회 정답.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14711_26.9.10.pdf",
+      "size_bytes": 113748,
+      "telegram_date": "2025-09-18T13:55:04+00:00",
+      "title": "물1 시대인재 서바이벌 모의고사 9회, 10회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/14711.png",
+      "sha256": "514289b6984726833928fb02e5abbc1d499fe5105cb2b57ec1617d581e45c985"
     }
   ],
   "duplicate_message_ids": [
