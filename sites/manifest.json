@@ -85399,6 +85399,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/14544.png",
       "sha256": "1acfed53bf9210cecc00ce175c8f17f5da07d0e425a7b02153656cce5f2c63f4"
+    },
+    {
+      "message_id": 14543,
+      "filename": "지2 리바이벌 3권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14543_.2.3.pdf",
+      "size_bytes": 14371164,
+      "telegram_date": "2025-09-16T14:06:46+00:00",
+      "title": "지2 시대인재 REVIVAL 1권 ~ 4권 #리바",
+      "year": "2021",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/14543.png",
+      "sha256": "892121e128c7dcd2dd207621377ece36a40beec3c049e5380ce4623f357eca9a"
     }
   ],
   "duplicate_message_ids": [
