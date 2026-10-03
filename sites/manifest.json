@@ -82683,6 +82683,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/14862.png",
       "sha256": "9f8055839c010501c1fa185d84f4f1b43792a91542b56b9e206aad6499da305a"
+    },
+    {
+      "message_id": 14860,
+      "filename": "2026_생명과학1_강대_서킷_7회_250919_183627.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14860_2026_.1_._._7._250919_183627.pdf",
+      "size_bytes": 3332809,
+      "telegram_date": "2025-09-20T01:19:48+00:00",
+      "title": "생1 강대 CIRCUIT 7회 #서킷",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/14860.png",
+      "sha256": "77a4b22e17d3e008a94ae6c78bde73ee1df211d75588666501d3e2763bd74c89"
     }
   ],
   "duplicate_message_ids": [
