@@ -239,6 +239,20 @@
       "sha256": "4e5027a8f04a091694605a0cf18a3989e2613a6cdae9ce94d6cc9e715a03f79e"
     },
     {
+      "message_id": 24880,
+      "filename": "무제7.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24880_.7.pdf",
+      "size_bytes": 123595303,
+      "telegram_date": "2026-10-03T07:27:39+00:00",
+      "title": "국어 강민철의 무제 7, 8주차",
+      "year": "2027",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/24880.png",
+      "sha256": "64ee24ed5b89bd94162a13fe196e225ead91f099ec13d0109d76f6d5e9479396"
+    },
+    {
       "message_id": 24878,
       "filename": "27 강k 물리 10회.pdf",
       "stored_as": null,
