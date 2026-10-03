@@ -83439,6 +83439,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/14776.png",
       "sha256": "4f6c2bbeab36f040c43d391925de4c3b441d29dd4ae8bde1e3eaff0df94b0a34"
+    },
+    {
+      "message_id": 14774,
+      "filename": "스캔_문서,_2025_9_19_오후_5_05_32_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14774_._._2025_9_19_._5_05_32_2.pdf",
+      "size_bytes": 5769833,
+      "telegram_date": "2025-09-19T08:07:39+00:00",
+      "title": "THE PREMIUM 9월 모의고사 (답지) #더프",
+      "year": "2026",
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/14774.png",
+      "sha256": "2c1041af0f6f133ae0b240af0153ee96b2eed6db86c456804cb2784f6eb01c34"
     }
   ],
   "duplicate_message_ids": [
