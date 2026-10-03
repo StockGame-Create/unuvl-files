@@ -73135,6 +73135,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/16383.png",
       "sha256": "011bbd091dcbd671eb6385838eae9289cdb319a7cec2b65023969ba8602e2e6c"
+    },
+    {
+      "message_id": 16382,
+      "filename": "시대인재_2026학년도_10월_전국_모의평가_4교시_과학탐구_물리1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16382_._2026._10._._._4._._.1.pdf",
+      "size_bytes": 4599735,
+      "telegram_date": "2025-10-10T14:05:30+00:00",
+      "title": "물1 시대인재 10월 전국모의평가 #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/16382.png",
+      "sha256": "7483d50f932ba82fb993cb0a79a21f54a4f9bab1004289c67d3f2ed8445d424e"
     }
   ],
   "duplicate_message_ids": [
