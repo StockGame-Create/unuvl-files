@@ -82123,6 +82123,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/14919.png",
       "sha256": "eacb9165fc4203836558ceded278bd995d7fa056d02112f2d521ae350eaf6aa4"
+    },
+    {
+      "message_id": 14918,
+      "filename": "강 k 11회 영어 해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14918_.k.11.pdf",
+      "size_bytes": 4803385,
+      "telegram_date": "2025-09-20T11:56:18+00:00",
+      "title": "영어 강대모의고사K 11회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "영어",
+      "thumbnail": "thumbnails/14918.png",
+      "sha256": "fb1b00c39b4327ec43a0cf98270894c1fe75c8c32de61b77d15ef809da93c037"
     }
   ],
   "duplicate_message_ids": [
