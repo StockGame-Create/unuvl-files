@@ -29,6 +29,20 @@
       "sha256": "fbdc55079993d6274ea0b5e32416f03ae807a703748f8427c73bd63401dc377f"
     },
     {
+      "message_id": 24903,
+      "filename": "정법_서바이벌_전국_2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24903_._._._2.pdf",
+      "size_bytes": 3310008,
+      "telegram_date": "2026-10-03T07:28:01+00:00",
+      "title": "정법 시대인재 서바이벌 전국 모의고사 1, 2회 #서바전국",
+      "year": "2027",
+      "instructor": null,
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/24903.png",
+      "sha256": "9a7431362ac4d30efbc24a4a949e69b933bf4e2aad0e30e6b1ca4d10e2857126"
+    },
+    {
       "message_id": 24878,
       "filename": "27 강k 물리 10회.pdf",
       "stored_as": null,
