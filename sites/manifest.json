@@ -72561,6 +72561,20 @@
       "subject": "정치와법",
       "thumbnail": "thumbnails/16435.png",
       "sha256": "03ac3e3fe839a5b39c36b44a11fb96b7bb326f841f75605c755ef0350710666f"
+    },
+    {
+      "message_id": 16434,
+      "filename": "블자 월간지 2회 @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16434_.2.%40yubin_MPGA.pdf",
+      "size_bytes": 827982,
+      "telegram_date": "2025-10-11T00:49:48+00:00",
+      "title": "정법 BLZA SUMMER 월간지 1~3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "정치와법",
+      "thumbnail": "thumbnails/16434.png",
+      "sha256": "9bb6f02afeab244f39045a1395ffe568a090baa71f37a5db6651519febdac9e3"
     }
   ],
   "duplicate_message_ids": [
