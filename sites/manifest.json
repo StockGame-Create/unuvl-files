@@ -82067,6 +82067,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15474.png",
       "sha256": "ba1322af68b05121ac756c4005fdf3252c78ba8235d2a2f33e6759f2163cfe33"
+    },
+    {
+      "message_id": 15473,
+      "filename": "이신혁_모의고사_시즌3_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15473_._._.3_1.pdf",
+      "size_bytes": 4097414,
+      "telegram_date": "2025-09-25T09:19:30+00:00",
+      "title": "지1 이신혁 Final 모의평가 1회",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/15473.png",
+      "sha256": "5e08e7c83fa886ddfcf2ae21a1bf07cc7f306307421b6b85cfc15f6c78298969"
     }
   ],
   "duplicate_message_ids": [
