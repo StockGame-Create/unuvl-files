@@ -78273,6 +78273,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15840.png",
       "sha256": "fdbd49bf64c319e4a48502ffc996b99b8b135bff761472dbcf913d25b9c369f4"
+    },
+    {
+      "message_id": 15839,
+      "filename": "2026 이동준 Just 5회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15839_2026.Just.5.pdf",
+      "size_bytes": 17581797,
+      "telegram_date": "2025-09-28T15:02:20+00:00",
+      "title": "수학 저스트 모의고사 FINAL 1회 ~ 5회",
+      "year": "2026",
+      "instructor": "이동준",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15839.png",
+      "sha256": "1712b03c9a6c87b7580a2a9f67079a4b470b24bfa14d5230201bb829e163d076"
     }
   ],
   "duplicate_message_ids": [
