@@ -68109,6 +68109,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16834.png",
       "sha256": "bc79db5399ee26d8b6c7464739b66b460b61371e352cc57f7e53930b8b1a90ca"
+    },
+    {
+      "message_id": 16833,
+      "filename": "2026 ONSET 모의고사 파이널 시즌2_3회문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16833_2026.ONSET.2_3.pdf",
+      "size_bytes": 24047213,
+      "telegram_date": "2025-10-17T15:26:13+00:00",
+      "title": "수학 ONSET 모의고사 Final 시즌1 시즌2 1~3회",
+      "year": "2026",
+      "instructor": "강영찬",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16833.png",
+      "sha256": "4a01efb762fd838ad5fe36a24303d18dc37ae48bb8a978f103f3a8c1e3fbc416"
     }
   ],
   "duplicate_message_ids": [
