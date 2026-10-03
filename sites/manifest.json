@@ -78959,6 +78959,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15782.png",
       "sha256": "b00d7d102ce26fe9fe7c4151ae98b97c8d83a78f3f53b7be857869b74c2441a7"
+    },
+    {
+      "message_id": 15781,
+      "filename": "26 여상진T 수리논술 정규반 23회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15781_26.T.23.pdf",
+      "size_bytes": 40934851,
+      "telegram_date": "2025-09-28T09:32:01+00:00",
+      "title": "2026 여상진 모의논술 19회 ~ 23회",
+      "year": "2026",
+      "instructor": "여상진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15781.png",
+      "sha256": "5dbaaa430203143f002f85d9c8eda87f9819f54060201c9f40a192123d515462"
     }
   ],
   "duplicate_message_ids": [
