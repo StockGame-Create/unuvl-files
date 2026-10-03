@@ -84251,6 +84251,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/14680.png",
       "sha256": "a441aa96fc5ecba0fe808ea290b12f10e5b41f35dfff33ba35a9c64352d5f1c6"
+    },
+    {
+      "message_id": 14677,
+      "filename": "2026_시대인재_9월_전국모의평가_사회_탐구_영역.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14677_2026_._9._._._._.pdf",
+      "size_bytes": 9121558,
+      "telegram_date": "2025-09-17T14:52:30+00:00",
+      "title": "사탐 시대인재 9월 전국모의평가 (문제지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회탐구",
+      "thumbnail": "thumbnails/14677.png",
+      "sha256": "c4cbb1b7c53917481f7225c447a522298cfcfdbc1b8d3bdd113148a1f09c9320"
     }
   ],
   "duplicate_message_ids": [
