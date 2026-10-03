@@ -79183,6 +79183,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15764.png",
       "sha256": "21880626a4b522ecbd333d750df84fb22438e3f1cec3087249474fac7b15eaa3"
+    },
+    {
+      "message_id": 15762,
+      "filename": "lcs edge 9회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15762_lcs.edge.9.pdf",
+      "size_bytes": 7284258,
+      "telegram_date": "2025-09-28T03:15:59+00:00",
+      "title": "생1 LCS EE EDGE 9회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/15762.png",
+      "sha256": "903d1707e8db19cf60c7b831408cdce8be7fbaa4fddf748be066db9706b37462"
     }
   ],
   "duplicate_message_ids": [
