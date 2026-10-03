@@ -69019,6 +69019,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16743.png",
       "sha256": "c2da4249a6d036bdafb6ba0be0e56d54a33de3dcdfcbeec399a68aa9cf95d6e0"
+    },
+    {
+      "message_id": 16742,
+      "filename": "2026 강대k 26회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16742_2026.k.26.pdf",
+      "size_bytes": 36611764,
+      "telegram_date": "2025-10-16T14:25:21+00:00",
+      "title": "수학 강대모의고사K 25,26회 (인쇄소퀄) #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/16742.png",
+      "sha256": "af6a865e62d3aadfb679c968fdcd78b785278df7eacf44a82de9ce07a27b1e09"
     }
   ],
   "duplicate_message_ids": [
