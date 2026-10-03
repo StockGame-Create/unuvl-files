@@ -77167,6 +77167,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15966.png",
       "sha256": "5d441f54f4864cc1836d36bd151316d9b36f0034eeca3ea66f5da936e66350e4"
+    },
+    {
+      "message_id": 15964,
+      "filename": "무제 폴더.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15964_.pdf",
+      "size_bytes": 8084107,
+      "telegram_date": "2025-10-01T14:10:30+00:00",
+      "title": "지1 DAYBREAK 시즌3 3,4회 #데이브레이크",
+      "year": "2026",
+      "instructor": "박선",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/15964.png",
+      "sha256": "d6b465648565b8cba4c021722480fe1c94bf968c58ef49f57a6efcced30361b0"
     }
   ],
   "duplicate_message_ids": [
