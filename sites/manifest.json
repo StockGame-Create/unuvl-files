@@ -71539,6 +71539,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/16488.png",
       "sha256": "a34280af33b4244a07b7eececafee0e91c873d71ee2ae228e6eafa45301d9c75"
+    },
+    {
+      "message_id": 16487,
+      "filename": "신혁모_파이널_6회_해설_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16487_._._6._._%40yubin_MPGA.pdf",
+      "size_bytes": 15412254,
+      "telegram_date": "2025-10-11T15:36:53+00:00",
+      "title": "지1 이신혁 Final 모의평가 6회",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16487.png",
+      "sha256": "5bcd9c5bad30dddb864a8e6e2558b152609e88a54c4ab935eaf2cab706f524eb"
     }
   ],
   "duplicate_message_ids": [
