@@ -83579,6 +83579,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14760.png",
       "sha256": "55a7bc25d9c6f820dd3db38681b9ffd0f81db660ac6f1f2c2490303b55b1244d"
+    },
+    {
+      "message_id": 14758,
+      "filename": "24 브릿지R 1회,2회,4회~8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14758_24.R.1.2.4.8.pdf",
+      "size_bytes": 25706650,
+      "telegram_date": "2025-09-19T02:08:22+00:00",
+      "title": "생2 시대인재 리부트 브릿지 모의고사 1회, 2회, 4회 ~ 8회 합본 #브릿지",
+      "year": "2024",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/14758.png",
+      "sha256": "b3cca68c6dc989f952ff150453dbd9b556e3f72dcb14db268df5e8d93a6aad17"
     }
   ],
   "duplicate_message_ids": [
