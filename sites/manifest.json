@@ -69439,6 +69439,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/16689.png",
       "sha256": "8784a06998b2825cc592174ecff3165ba2613424a6ce447855de3c7b38e7c09c"
+    },
+    {
+      "message_id": 16688,
+      "filename": "강_k_2026년_물리_26_27회_13회_+_문제_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16688_._k_2026._._26_27._13._%2B_._.pdf",
+      "size_bytes": 3893014,
+      "telegram_date": "2025-10-14T15:07:48+00:00",
+      "title": "물1 강대모의고사K 26,27회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/16688.png",
+      "sha256": "f6267664b260c314913a5c799a417971a8de44067e2a9a3c47fce5927ef983b7"
     }
   ],
   "duplicate_message_ids": [
