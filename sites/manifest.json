@@ -141,6 +141,20 @@
       "sha256": "4b0cfeb4325478936890da75f896a55e729d044ba9f6db445eef3d18f4d4e28b"
     },
     {
+      "message_id": 24849,
+      "filename": "2027학년도_대학수학능력시험_D_FINE_FINAL_제1회와_제2회_지구과학I.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/24849_2027._._D_FINE_FINAL_.1._.2._.I.pdf",
+      "size_bytes": 6013145,
+      "telegram_date": "2026-10-03T05:22:42+00:00",
+      "title": "지1 D.Fine Final 1, 2회 #디파인",
+      "year": "2027",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/24849.png",
+      "sha256": "82ecae4efc980d8a919d93a617240f8d63dc7d9d76f36fb016a20f1fbab1845e"
+    },
+    {
       "message_id": 24836,
       "filename": "강K 생1 16회.pdf",
       "stored_as": null,
