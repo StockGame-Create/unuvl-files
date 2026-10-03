@@ -83047,6 +83047,20 @@
       "subject": "동아시아사",
       "thumbnail": "thumbnails/14823.png",
       "sha256": "21412b408cfd20d4a38b4ac9a1fbc7be1769bbc427493db8db03abc6bcd9c945"
+    },
+    {
+      "message_id": 14822,
+      "filename": "오메가_블랙_사문_@yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/14822_._._._%40yubin_MPGA.pdf",
+      "size_bytes": 2227893,
+      "telegram_date": "2025-09-19T12:29:01+00:00",
+      "title": "사문 OMEGA black 모의고사 9회 #오메가",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14822.png",
+      "sha256": "7150ad6f34950b7d1bdd65932e1ac19e53134e49728fdbcd385b5ff46d53f7df"
     }
   ],
   "duplicate_message_ids": [
