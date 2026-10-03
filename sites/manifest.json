@@ -70503,6 +70503,20 @@
       "subject": null,
       "thumbnail": "thumbnails/16595.png",
       "sha256": "6bce9b171223ceb6d666af71cd96082616ee4d962a81b9df9572a7a2666a6bfa"
+    },
+    {
+      "message_id": 16594,
+      "filename": "엑손,_인트론_6주차002.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16594_._._6.002.pdf",
+      "size_bytes": 43454781,
+      "telegram_date": "2025-10-13T15:05:19+00:00",
+      "title": "엑손,_인트론_6주차002",
+      "year": null,
+      "instructor": null,
+      "subject": null,
+      "thumbnail": "thumbnails/16594.png",
+      "sha256": "4b388e0ad5ff94f248f4a74f51f9cd9e27761e2544f61d2faad9f43019d678d8"
     }
   ],
   "duplicate_message_ids": [
