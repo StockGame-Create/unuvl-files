@@ -83719,6 +83719,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/14746.png",
       "sha256": "90e075f446294eb9f3d48b7bbfbb78d588ad737b78438e65bd0356053b9078ca"
+    },
+    {
+      "message_id": 14745,
+      "filename": "2026 강대K+ 생1 08회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14745_2026.K%2B.1.08.pdf",
+      "size_bytes": 5578404,
+      "telegram_date": "2025-09-18T15:29:04+00:00",
+      "title": "생1 강대모의고사K+ 1회 ~ 8회 #강케플",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/14745.png",
+      "sha256": "83691e0b6c1f6322ca117ce476fb6245911c3b0d897dddc94c3663e4ea40fc84"
     }
   ],
   "duplicate_message_ids": [
