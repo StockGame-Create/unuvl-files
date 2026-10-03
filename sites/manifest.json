@@ -69215,6 +69215,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16721.png",
       "sha256": "c7e09e9509e6ed96871e4d590b1458fe7366b9996ca167998887855f19682119"
+    },
+    {
+      "message_id": 16720,
+      "filename": "2026 국어 강은양 e 4권.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-5/16720_2026.e.4.pdf",
+      "size_bytes": 92436956,
+      "telegram_date": "2025-10-15T22:51:02+00:00",
+      "title": "국어 강은양 e 4권",
+      "year": "2026",
+      "instructor": "강은양",
+      "subject": "국어",
+      "thumbnail": "thumbnails/16720.png",
+      "sha256": "a9c28ceac2f40052d04a0f138860e56bfe9aac439d5b6f0c9bc9d3189064b14e"
     }
   ],
   "duplicate_message_ids": [
