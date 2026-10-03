@@ -79883,6 +79883,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/15691.png",
       "sha256": "3ebdc869e273dd85355af12d0cb36de7cd99b5d7f30ca46ab94e9a99319025f7"
+    },
+    {
+      "message_id": 15690,
+      "filename": "2026_국어_이감_시즌6_2회_문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15690_2026_._._.6_2._.pdf",
+      "size_bytes": 35927617,
+      "telegram_date": "2025-09-27T08:55:28+00:00",
+      "title": "국어 파이널2 제1차 ~ 제5차 예비평가 (인쇄소퀄) #이감",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/15690.png",
+      "sha256": "2c0a187a75826230f6301c31cd6eec37ae55d3c4a440dcce80441e23b1f8c1bc"
     }
   ],
   "duplicate_message_ids": [
