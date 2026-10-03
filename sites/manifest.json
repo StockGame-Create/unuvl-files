@@ -74745,6 +74745,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/16230.png",
       "sha256": "5e049a468d8df0c1d02f4a5a8daa91a91843fd1a9fcede3744047f82a622b576"
+    },
+    {
+      "message_id": 16228,
+      "filename": "26 강k 지구 13회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16228_26.k.13.pdf",
+      "size_bytes": 6550346,
+      "telegram_date": "2025-10-06T12:38:02+00:00",
+      "title": "지1 강대모의고사K 13회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/16228.png",
+      "sha256": "c0ee9a80f889c8adb833090aa993a93ba4aafb7bd349f331b9cee6141e89f174"
     }
   ],
   "duplicate_message_ids": [
