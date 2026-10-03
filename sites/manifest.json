@@ -76397,6 +76397,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/16046.png",
       "sha256": "da88eb44e0017e2808094151ebc40f40f8d33609741a780829f8feeba478c05f"
+    },
+    {
+      "message_id": 16044,
+      "filename": "국어 서바 12회 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16044_.12.pdf",
+      "size_bytes": 25975005,
+      "telegram_date": "2025-10-02T14:25:48+00:00",
+      "title": "국어 시대인재 서바이벌 모의고사 12회 #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/16044.png",
+      "sha256": "5810263a71982d7380f5b8aaa5becf0ffbeeffb290e4a89028438496a2d67532"
     }
   ],
   "duplicate_message_ids": [
