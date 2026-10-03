@@ -83607,6 +83607,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/14756.png",
       "sha256": "ea651eb8bb5e4ce20df05e67af6723c5eac37576566e2a1703f05593d22d729b"
+    },
+    {
+      "message_id": 14755,
+      "filename": "2026_헬리오스_화학1_실전모의고사_SEASON1_3회분.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14755_2026_._.1_._SEASON1_3.pdf",
+      "size_bytes": 19049859,
+      "telegram_date": "2025-09-19T00:01:46+00:00",
+      "title": "화1 HeLiOS 실전 모의고사 시즌1 1회 ~ 3회 #헬리오스",
+      "year": "2022",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/14755.png",
+      "sha256": "746d604a07f43d0d09092b953cfdc95a9d399646d528c69a90bae7e6b350c3fb"
     }
   ],
   "duplicate_message_ids": [
