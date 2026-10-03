@@ -81843,6 +81843,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/15494.png",
       "sha256": "ac82436d04c4a5b5b4f454f5dca8e19e84d6c8758f6b803955534a6feb12065e"
+    },
+    {
+      "message_id": 15492,
+      "filename": "기초부터_잘알려주는_김종익_모고_답지_250827_161345.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15492_._._._._._250827_161345.pdf",
+      "size_bytes": 7847950,
+      "telegram_date": "2025-09-25T13:31:24+00:00",
+      "title": "생윤 기초부터 잘 알려주는 김종익 모의고사 1회 ~ 4회",
+      "year": "2026",
+      "instructor": "김종익",
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/15492.png",
+      "sha256": "5fcd43399d5dd8050141e1ab6bf4ff4c9ec4b9319dddc555e0045d4d83deb48c"
     }
   ],
   "duplicate_message_ids": [
