@@ -74521,6 +74521,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/16258.png",
       "sha256": "8ffa2c5bc46eab51f9725464c85e1cdb7886db1c7d45dcfe349dd7d43093f186"
+    },
+    {
+      "message_id": 16257,
+      "filename": "2026_화학1_파이널_브릿지_전국_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16257_2026_.1_._._._1.pdf",
+      "size_bytes": 4614838,
+      "telegram_date": "2025-10-07T13:59:26+00:00",
+      "title": "화1 시대인재 Final 브릿지 전국 모의고사 1회 #파브전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/16257.png",
+      "sha256": "ef42732aa316b41b7eb02a5f18c4f832fcd7b06a1cd5ac5d2c9c9f8a8dca6411"
     }
   ],
   "duplicate_message_ids": [
