@@ -75921,6 +75921,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/16108.png",
       "sha256": "81463c2a9e86e9a7715d4093b402e63f842d06002d8580593c7dde2160a92143"
+    },
+    {
+      "message_id": 16107,
+      "filename": "2020_현우진_콘크리트2130_나형.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16107_2020_._.2130_.pdf",
+      "size_bytes": 53540089,
+      "telegram_date": "2025-10-03T16:22:41+00:00",
+      "title": "수학 콘크리트 가형, 나형",
+      "year": "2020",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/16107.png",
+      "sha256": "6e74ad7ac09fcc1c8a6abe9209d4d3e2e90fc2c6e82d64d00befc5d5485c7181"
     }
   ],
   "duplicate_message_ids": [
