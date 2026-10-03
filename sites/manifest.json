@@ -85791,6 +85791,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14500.png",
       "sha256": "245f8e444450d2a575ff83650740e71837ec8ea999d36fa30f7db1787260066c"
+    },
+    {
+      "message_id": 14498,
+      "filename": "2026 9월 서프 물2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14498_2026.9.2.pdf",
+      "size_bytes": 2628818,
+      "telegram_date": "2025-09-16T09:03:54+00:00",
+      "title": "물2 시대인재 9월 전국모의평가 (문제지) #서프",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/14498.png",
+      "sha256": "e9d0d4534242ceaddee10090d8d71968d1e152f20d7f5d303e5da4b4f2993403"
     }
   ],
   "duplicate_message_ids": [
