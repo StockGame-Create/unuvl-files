@@ -71889,6 +71889,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/16457.png",
       "sha256": "30db71a992541ffa55a140ba0326a074314d8facc42b38cdf4b5ff51d59095af"
+    },
+    {
+      "message_id": 16456,
+      "filename": "풀씨 파 10회 해설-1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/16456_.10.-1.pdf",
+      "size_bytes": 17610216,
+      "telegram_date": "2025-10-11T02:57:32+00:00",
+      "title": "영어 FULL SEA FAR 9,10회",
+      "year": "2026",
+      "instructor": "고연승",
+      "subject": "영어",
+      "thumbnail": "thumbnails/16456.png",
+      "sha256": "5bb70af76b3c6b75424e88f268d3d52e6cc679052768b94511a7cdb5a67cea59"
     }
   ],
   "duplicate_message_ids": [
