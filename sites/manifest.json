@@ -77041,6 +77041,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15981.png",
       "sha256": "66e0a9b481319041dd46258093bc7c24fe20352740b1929ad32adbe3d1edd881"
+    },
+    {
+      "message_id": 15978,
+      "filename": "26 전국서바이벌 12회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15978_26.12.pdf",
+      "size_bytes": 9627081,
+      "telegram_date": "2025-10-01T14:19:49+00:00",
+      "title": "수학 시대인재 서바이벌 전국 모의고사 12회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/15978.png",
+      "sha256": "811a849e7f91e85a7feb28e6b2f9dce3af8e6cf01f1ef9422916154fb5425ddf"
     }
   ],
   "duplicate_message_ids": [
