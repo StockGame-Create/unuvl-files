@@ -78637,6 +78637,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/15809.png",
       "sha256": "3b71f23fde3f27664422d52515057af75bf6f2119a38dd020e94e1a4ead5cd20"
+    },
+    {
+      "message_id": 15808,
+      "filename": "26_장영진_꿀모_벌크업_시즌3.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15808_26_._._._.3.pdf",
+      "size_bytes": 12246704,
+      "telegram_date": "2025-09-28T13:20:59+00:00",
+      "title": "수학 꿀모 시즌3 1회 ~ 3회",
+      "year": "2026",
+      "instructor": "장영진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15808.png",
+      "sha256": "3ac01ab2d32c801d437a1e70ae4d9fec1abd93b1528deca910bca3a3427bd93a"
     }
   ],
   "duplicate_message_ids": [
