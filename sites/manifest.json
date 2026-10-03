@@ -81983,6 +81983,20 @@
       "subject": "세계지리",
       "thumbnail": "thumbnails/15482.png",
       "sha256": "688368576afec98fd3d9e5ec7a2206b53e0685802654e715e1d7d115c4651922"
+    },
+    {
+      "message_id": 15479,
+      "filename": "2026_킬링캠프_시즌2_답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-6/15479_2026_._.2_.pdf",
+      "size_bytes": 57571845,
+      "telegram_date": "2025-09-25T09:48:08+00:00",
+      "title": "수학 현우진의 Killing Camp 시즌2 1회 ~ 3회 #킬캠",
+      "year": "2026",
+      "instructor": "현우진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/15479.png",
+      "sha256": "dd4a39b20f0b2c5f0a9250bb47c7db3c3e1e50d14229bfeb1ab928fd600ba22d"
     }
   ],
   "duplicate_message_ids": [
