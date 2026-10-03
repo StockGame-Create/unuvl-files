@@ -85861,6 +85861,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14491.png",
       "sha256": "7457fd97170397db2c3111ec4edbb613f320244cd9e86cb1a1ae8a747cbd8e77"
+    },
+    {
+      "message_id": 14489,
+      "filename": "2026 N서바 사문 17회 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14489_2026.N.17.pdf",
+      "size_bytes": 4659946,
+      "telegram_date": "2025-09-16T01:13:12+00:00",
+      "title": "사문 시대인재 서바이벌 N전용 모의고사 15회 ~ 17회 #서바N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14489.png",
+      "sha256": "bb3eb501d1dbc256828615df303227db7ce5623bdae0519d9cc94f9c28fefea0"
     }
   ],
   "duplicate_message_ids": [
