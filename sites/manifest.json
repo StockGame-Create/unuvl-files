@@ -87443,6 +87443,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14316.png",
       "sha256": "91ba76b228823c2b1df8747247199f8ba421aa44cbd426a32cad6b624bf6cffa"
+    },
+    {
+      "message_id": 14315,
+      "filename": "최종분석_hot7_특별판_모의고사_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14315_._hot7_._._.pdf",
+      "size_bytes": 9599047,
+      "telegram_date": "2025-09-13T03:22:16+00:00",
+      "title": "사문 HOT7 핫세븐 특별판 모의고사 (해설지)",
+      "year": "2026",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14315.png",
+      "sha256": "b3408cab4bb285bf767b80e741ff2f492459d3753fb230ee13a3ac87e831030a"
     }
   ],
   "duplicate_message_ids": [
