@@ -88101,6 +88101,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14243.png",
       "sha256": "5ec83c9dd2f0c005b129e2c24bd922b8119527f672b0716af586adf9028ed77f"
+    },
+    {
+      "message_id": 14242,
+      "filename": "사문_사회문화_강대_강_k_9회_3회_+.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14242_._._._._k_9._3._%2B.pdf",
+      "size_bytes": 14113649,
+      "telegram_date": "2025-09-12T09:12:17+00:00",
+      "title": "사문 강대모의고사K 9회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14242.png",
+      "sha256": "4235e1b742c5096bd75ecded1bfc9216b74c8f6fd92c59e74d8c4bb4beedb93a"
     }
   ],
   "duplicate_message_ids": [
