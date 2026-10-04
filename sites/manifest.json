@@ -86967,6 +86967,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14373.png",
       "sha256": "a4b2a26161d5bec9de0bd0fedd0189009dabafad162d9696d2ee7678b686ba10"
+    },
+    {
+      "message_id": 14371,
+      "filename": "서바 국어 컷 @yubin_MPGA.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14371_.%40yubin_MPGA.pdf",
+      "size_bytes": 96479,
+      "telegram_date": "2025-09-14T03:49:42+00:00",
+      "title": "국어 시대인재 서바이벌 모의고사 9회, 10회 (등급컷) #서바",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14371.png",
+      "sha256": "3d282e7a2e786d57bd41458d5e933f7ea795086d7f0a956030d678843da544dc"
     }
   ],
   "duplicate_message_ids": [
