@@ -87247,6 +87247,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14337.png",
       "sha256": "cd74535e9c818e00e6365faf8476f838b61ca75e186396cfea3f5525c78d6ab5"
+    },
+    {
+      "message_id": 14336,
+      "filename": "배기범 모의고사 시즌3 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14336_.3.pdf",
+      "size_bytes": 19461283,
+      "telegram_date": "2025-09-13T12:34:21+00:00",
+      "title": "물1 배기범 모의고사 시즌3 1회 ~ 5회",
+      "year": "2026",
+      "instructor": "배기범",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/14336.png",
+      "sha256": "8e59e4d90f1f9d8ac590e4fe65ac9d1831de0c213f3a3082d3982984250032b5"
     }
   ],
   "duplicate_message_ids": [
