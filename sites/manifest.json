@@ -86351,6 +86351,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14437.png",
       "sha256": "1d23bab0fcedb7d5984eeb0c3aecca86cb0b859a431c76ee2ee3e03832a05c5f"
+    },
+    {
+      "message_id": 14433,
+      "filename": "2026학년 EBS 만점 마무리 시즌2 1~3회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14433_2026.EBS.2.1.3.pdf",
+      "size_bytes": 24443732,
+      "telegram_date": "2025-09-15T13:29:51+00:00",
+      "title": "수학 EBS 만점 마무리 봉투 모의고사 시즌2 1회 ~ 3회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14433.png",
+      "sha256": "1f43ead102a3360104c1b64f51cff504db027388ae0c9ab54b302999e74399b5"
     }
   ],
   "duplicate_message_ids": [
