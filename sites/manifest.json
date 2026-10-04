@@ -87723,6 +87723,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14291.png",
       "sha256": "39ea23f8ceb309e4fa7565bfa15602458c0060f9b73c69aaee6655d17563559b"
+    },
+    {
+      "message_id": 14289,
+      "filename": "물리1 배기범 모의고사 시즌 2 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14289_.1.2.2.pdf",
+      "size_bytes": 13346881,
+      "telegram_date": "2025-09-12T15:58:48+00:00",
+      "title": "물1 배기범 모의고사 시즌2 1회, 2회",
+      "year": "2026",
+      "instructor": "배기범",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/14289.png",
+      "sha256": "7aff8c2a6e7db1122b8429653fdc2ccc02750840b772d18e7d0c127c93ef176a"
     }
   ],
   "duplicate_message_ids": [
