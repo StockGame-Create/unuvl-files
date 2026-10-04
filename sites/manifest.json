@@ -88759,6 +88759,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14170.png",
       "sha256": "9c077eb2202ba6d75bd610ea8ef9dac16f2aa39ffc5f9780b00898e7769c6c78"
+    },
+    {
+      "message_id": 14169,
+      "filename": "2026_강대_CIRCUIT_수학_142회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14169_2026_._CIRCUIT_._142._.pdf",
+      "size_bytes": 181046495,
+      "telegram_date": "2025-09-11T03:51:16+00:00",
+      "title": "수학 강대 CIRCUIT 1회 ~ 42회 합본 #서킷",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14169.png",
+      "sha256": "a261a4de055732d3bd9ff5320a2aa0d2b5b5dbf66e549e47bc32db4165c07088"
     }
   ],
   "duplicate_message_ids": [
