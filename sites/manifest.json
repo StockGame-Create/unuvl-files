@@ -86519,6 +86519,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/14417.png",
       "sha256": "107f0fb87fc02f3c68cf27dac8165d5a64aeca3915c58d1b0a934f58ddf8e806"
+    },
+    {
+      "message_id": 14415,
+      "filename": "HESCO_모의고사_해설지_250908_175748.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14415_HESCO_._._250908_175748.pdf",
+      "size_bytes": 7600153,
+      "telegram_date": "2025-09-15T09:50:42+00:00",
+      "title": "사문 HESCO 수능 대비 모의고사 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14415.png",
+      "sha256": "dd7d05494d544ccdb35704a740a0bd0ebf42725eb703463d9817987cd31d9b1c"
     }
   ],
   "duplicate_message_ids": [
