@@ -87471,6 +87471,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/14313.png",
       "sha256": "d97e370aa94c74a5322a986b6737d52f0e29057f732a51c864925dd2c973d9f5"
+    },
+    {
+      "message_id": 14311,
+      "filename": "강기본 문학2 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14311_.2.pdf",
+      "size_bytes": 144081327,
+      "telegram_date": "2025-09-13T01:31:08+00:00",
+      "title": "국어 강민철의 기출분석 문학2 (해설지)",
+      "year": "2026",
+      "instructor": "강민철",
+      "subject": "국어",
+      "thumbnail": "thumbnails/14311.png",
+      "sha256": "d3415c7098cbb0b409685c32001b39454b8ac4dd706ca2f6ade864c6fec36b10"
     }
   ],
   "duplicate_message_ids": [
