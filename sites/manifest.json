@@ -86393,6 +86393,20 @@
       "subject": "생활과윤리",
       "thumbnail": "thumbnails/14430.png",
       "sha256": "ff7a9dfcf1a7659ce891d20581ad862b8542be2a6c151acd5f19edc23de7896a"
+    },
+    {
+      "message_id": 14427,
+      "filename": "2026 상상 모의고사 리마스터링 1회 문제지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14427_2026.1.pdf",
+      "size_bytes": 28616426,
+      "telegram_date": "2025-09-15T12:59:15+00:00",
+      "title": "국어 상상국어 리마스터링 모의고사 1회 #상상",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14427.png",
+      "sha256": "f9714e81abb5681bab2bd894368960b60863005baacc86d9eab3db3cf17d5b46"
     }
   ],
   "duplicate_message_ids": [
