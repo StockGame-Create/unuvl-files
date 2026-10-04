@@ -88283,6 +88283,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14220.png",
       "sha256": "e639ab9787bbc5cfd86bf4971ed3397a33110e7b465daa1a9e398978ed36044b"
+    },
+    {
+      "message_id": 14218,
+      "filename": "이미지 시즌1 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14218_.1.pdf",
+      "size_bytes": 25861913,
+      "telegram_date": "2025-09-11T14:49:08+00:00",
+      "title": "수학 TheIMAGE 모의고사 시즌1 1회 ~ 3회 공통 + 확통",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14218.png",
+      "sha256": "4c53d3b4fce2d72b3e179aa57db28fb56b45c3223d7d694cbfeccef286ac320c"
     }
   ],
   "duplicate_message_ids": [
