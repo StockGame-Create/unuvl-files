@@ -87023,6 +87023,20 @@
       "subject": "윤리와사상",
       "thumbnail": "thumbnails/14365.png",
       "sha256": "b6adc9e7510ae1eae57b0af93764cd90e539e711d4998e7cf4bddc0533a00f9f"
+    },
+    {
+      "message_id": 14363,
+      "filename": "jmt 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14363_jmt.pdf",
+      "size_bytes": 8526142,
+      "telegram_date": "2025-09-13T16:28:47+00:00",
+      "title": "수학 한석원 X 한석만 모의고사 3rd 1회 ~ 3회 #JMT",
+      "year": "2026",
+      "instructor": "한석원",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14363.png",
+      "sha256": "564b25b55b43b17940cae6a90357d3ae086536705a215de22d0a8fa457b00a08"
     }
   ],
   "duplicate_message_ids": [
