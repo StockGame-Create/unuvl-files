@@ -86743,6 +86743,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14394.png",
       "sha256": "6cc776ddfd11edb9e278b610a424b1e186cfe8b8488f770b074afa69d1f0dd9b"
+    },
+    {
+      "message_id": 14393,
+      "filename": "CamScanner 2025. 09. 15. 01.31.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14393_CamScanner.2025.09.15.01.31.pdf",
+      "size_bytes": 9776798,
+      "telegram_date": "2025-09-14T23:28:43+00:00",
+      "title": "물1 Clear 17 모의고사 시즌2 1회 ~ 4회",
+      "year": "2026",
+      "instructor": "방인혁",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/14393.png",
+      "sha256": "051178755fc55b4a9aaa026b64dd9e4ee810549d97b6a2755edb2869ad6d73e2"
     }
   ],
   "duplicate_message_ids": [
