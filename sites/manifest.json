@@ -88843,6 +88843,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14158.png",
       "sha256": "bdab3d1a22b86e543d6907a4e74a5399c124d90763dadaa92d30e190b97eb0cf"
+    },
+    {
+      "message_id": 14157,
+      "filename": "2026 P.I.R.A.M 국어 생각의 전개 언어(문법).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14157_2026.P.I.R.A.M.pdf",
+      "size_bytes": 2908773,
+      "telegram_date": "2025-09-10T23:27:07+00:00",
+      "title": "국어 P.I.R.A.M 국어 언어(문법)편 #피렘",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14157.png",
+      "sha256": "155ec92277cd5768d6f8dec27c770ba9f5e16512041877127d6f2ad617065fc6"
     }
   ],
   "duplicate_message_ids": [
