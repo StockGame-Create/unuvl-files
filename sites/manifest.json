@@ -86981,6 +86981,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14371.png",
       "sha256": "3d282e7a2e786d57bd41458d5e933f7ea795086d7f0a956030d678843da544dc"
+    },
+    {
+      "message_id": 14369,
+      "filename": "2026 생2 시놉시스 1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14369_2026.2.1.pdf",
+      "size_bytes": 3639277,
+      "telegram_date": "2025-09-14T03:03:23+00:00",
+      "title": "생2 UAA 시놉시스 모의고사 1회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학2",
+      "thumbnail": "thumbnails/14369.png",
+      "sha256": "451bca36dc7e00e4b4298144befa0d4c063103f058f3c976f1c8dbb9b247833e"
     }
   ],
   "duplicate_message_ids": [
