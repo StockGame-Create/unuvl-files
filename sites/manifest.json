@@ -88241,6 +88241,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14227.png",
       "sha256": "283a3b84f3ff43481ce4d8e39480040ae16e3aa4cd6644291443f114805f5a80"
+    },
+    {
+      "message_id": 14223,
+      "filename": "2026학년도_킬러_모의고사_1회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14223_2026._._._1.pdf",
+      "size_bytes": 2076024,
+      "telegram_date": "2025-09-11T15:03:18+00:00",
+      "title": "수학 킬러 모의고사 1회",
+      "year": "2026",
+      "instructor": "김범찬",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14223.png",
+      "sha256": "47ff83e0c174a356bceb2bdfac368a0ead3e810d7bfe3bac01c5a2108498fb67"
     }
   ],
   "duplicate_message_ids": [
