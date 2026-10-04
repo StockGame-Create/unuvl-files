@@ -86631,6 +86631,20 @@
       "subject": "경제",
       "thumbnail": "thumbnails/14404.png",
       "sha256": "b0630bef09e8edb2a12102fea59154fec67efe863c6d70067eb95f14e46e3748"
+    },
+    {
+      "message_id": 14403,
+      "filename": "스캔_문서,_2025_9_15_오전_9_57_24.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14403_._._2025_9_15_._9_57_24.pdf",
+      "size_bytes": 10685153,
+      "telegram_date": "2025-09-15T03:28:13+00:00",
+      "title": "경제 시대인재 Final 브릿지 전국 모의고사 6회 #파브전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "경제",
+      "thumbnail": "thumbnails/14403.png",
+      "sha256": "0b4a3c28fd0087a4415a4611704fd9e5a9ac5081e2647ac21d96a48fd4c182d0"
     }
   ],
   "duplicate_message_ids": [
