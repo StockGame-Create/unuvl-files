@@ -87653,6 +87653,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14296.png",
       "sha256": "320c4b9358387750bb98e3938a560faddaa5cb9de009808d755dcdc051f16030"
+    },
+    {
+      "message_id": 14295,
+      "filename": "2025 러쉬 스팀팩 7권_250214_233142.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14295_2025.7._250214_233142.pdf",
+      "size_bytes": 92581080,
+      "telegram_date": "2025-09-12T16:06:39+00:00",
+      "title": "물1 Stimpack Season 02 1권 ~ 10권",
+      "year": "2025",
+      "instructor": "현정훈",
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/14295.png",
+      "sha256": "aa04fc136b9b3279a73e444cf6bedab45963bdbb5930ba02f8400eec8ee6317d"
     }
   ],
   "duplicate_message_ids": [
