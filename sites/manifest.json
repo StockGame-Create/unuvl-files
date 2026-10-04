@@ -88829,6 +88829,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14160.png",
       "sha256": "a9a44ab46090a2e33a0b935ca33822cc93b41c058f24733c6c70a9a5750a2e3f"
+    },
+    {
+      "message_id": 14158,
+      "filename": "2026_P_I_R_A_M_국어_생각의_전개_언어문법_해설지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14158_2026_P_I_R_A_M_._._._._.pdf",
+      "size_bytes": 940837,
+      "telegram_date": "2025-09-10T23:27:07+00:00",
+      "title": "국어 P.I.R.A.M 국어 언어(문법)편 #피렘",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14158.png",
+      "sha256": "bdab3d1a22b86e543d6907a4e74a5399c124d90763dadaa92d30e190b97eb0cf"
     }
   ],
   "duplicate_message_ids": [
