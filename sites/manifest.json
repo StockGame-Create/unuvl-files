@@ -88633,6 +88633,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14185.png",
       "sha256": "39ea5e794a24167081629c727e1dc5251c7d54a247348554914ad32623b53fd2"
+    },
+    {
+      "message_id": 14184,
+      "filename": "블랙라벨 독서.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14184_.pdf",
+      "size_bytes": 223898909,
+      "telegram_date": "2025-09-11T09:31:23+00:00",
+      "title": "국어 블랙라벨 독서",
+      "year": null,
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14184.png",
+      "sha256": "df4d1e68a51558bd5495e755ab166c673abdd941cbbce18309a7a70375b2ec69"
     }
   ],
   "duplicate_message_ids": [
