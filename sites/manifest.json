@@ -87079,6 +87079,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14360.png",
       "sha256": "f72f53546fbfd7df03aa2a4df900cc21b4e8723228d7a44566b8755cfa219af1"
+    },
+    {
+      "message_id": 14358,
+      "filename": "26 신혁모 9회 ✔️ .pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14358_26.9.pdf",
+      "size_bytes": 8536660,
+      "telegram_date": "2025-09-13T16:22:29+00:00",
+      "title": "지1 이신혁 모의평가 시즌2 9회",
+      "year": "2026",
+      "instructor": "이신혁",
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14358.png",
+      "sha256": "c38a04f5cc3f787b16d0abd83fcbbd6896a52a7901a02823a7269b1f5e4151e0"
     }
   ],
   "duplicate_message_ids": [
