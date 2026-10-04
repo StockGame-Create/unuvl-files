@@ -88591,6 +88591,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14190.png",
       "sha256": "3fbad50091e6243d9f1b605b7876fb395d01fdc204e648abc1ce1a5e6ab6b2c3"
+    },
+    {
+      "message_id": 14188,
+      "filename": "수1 개념원리.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14188_.1.pdf",
+      "size_bytes": 20924957,
+      "telegram_date": "2025-09-11T09:50:57+00:00",
+      "title": "수학 개념원리 수학1",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14188.png",
+      "sha256": "f095002af146e312a5282731f48d370a1af41bab378b7bef4b753f4fab042e3d"
     }
   ],
   "duplicate_message_ids": [
