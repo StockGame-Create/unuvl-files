@@ -87835,6 +87835,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14270.png",
       "sha256": "d871c323144dd7ef9b6afd0626262a0120f2832e2a08837f6861153e49026117"
+    },
+    {
+      "message_id": 14268,
+      "filename": "2026 DCAF KILLER 상.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14268_2026.DCAF.KILLER.pdf",
+      "size_bytes": 114128183,
+      "telegram_date": "2025-09-12T13:47:41+00:00",
+      "title": "생1 시대인재 DCAF KILLER N제 완성 150제 (상)",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/14268.png",
+      "sha256": "6871f0ee7c40cc4db9d1348985e7f3936276dc50ef9e4ad99892cad9c6964710"
     }
   ],
   "duplicate_message_ids": [
