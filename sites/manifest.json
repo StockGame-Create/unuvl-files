@@ -88003,6 +88003,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/14256.png",
       "sha256": "4d78381d90f4f6f6c649842d4c1df8b82f4a8556df971939260d4273be205c68"
+    },
+    {
+      "message_id": 14251,
+      "filename": "9k + 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14251_9k.%2B.pdf",
+      "size_bytes": 3485774,
+      "telegram_date": "2025-09-12T13:01:17+00:00",
+      "title": "물리 강대모의고사K+ 9회 (해설지) #강케플",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/14251.png",
+      "sha256": "08ee6d3d4df71f294515afc595107e088314a62fb7fd9c34824dd838bd36d13d"
     }
   ],
   "duplicate_message_ids": [
