@@ -88857,6 +88857,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14157.png",
       "sha256": "155ec92277cd5768d6f8dec27c770ba9f5e16512041877127d6f2ad617065fc6"
+    },
+    {
+      "message_id": 14154,
+      "filename": "26 파이널프릿지 기하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14154_26.pdf",
+      "size_bytes": 9728460,
+      "telegram_date": "2025-09-10T16:23:28+00:00",
+      "title": "수학 시대인재 Final 브릿지 모의고사 1회 ~ 9회 공통 + 기하 합본 #파브",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14154.png",
+      "sha256": "1e98f9fae75fac5d345de20201ad58684586cf012aa48ece704f576b48cc571b"
     }
   ],
   "duplicate_message_ids": [
