@@ -88577,6 +88577,20 @@
       "subject": "생명과학1",
       "thumbnail": "thumbnails/14192.png",
       "sha256": "60084e4641d0986333c6055321f77f0c1420ada80d5e4833fd755875b865ca11"
+    },
+    {
+      "message_id": 14190,
+      "filename": "C25DB56773ED001_RAPR.PDF",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14190_C25DB56773ED001_RAPR.PDF",
+      "size_bytes": 1643230,
+      "telegram_date": "2025-09-11T12:53:41+00:00",
+      "title": "수학 28 수능 예시 문항 총정리",
+      "year": "2026",
+      "instructor": "김성은",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14190.png",
+      "sha256": "3fbad50091e6243d9f1b605b7876fb395d01fdc204e648abc1ce1a5e6ab6b2c3"
     }
   ],
   "duplicate_message_ids": [
