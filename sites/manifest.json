@@ -88297,6 +88297,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14218.png",
       "sha256": "4c53d3b4fce2d72b3e179aa57db28fb56b45c3223d7d694cbfeccef286ac320c"
+    },
+    {
+      "message_id": 14217,
+      "filename": "이미지 시즌1 미적은 당연히 없어.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14217_.1.pdf",
+      "size_bytes": 26273184,
+      "telegram_date": "2025-09-11T14:49:07+00:00",
+      "title": "수학 TheIMAGE 모의고사 시즌1 1회 ~ 3회 공통 + 확통",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14217.png",
+      "sha256": "46cd8e881e9cb543aaa7c98d0fab68d23244a2174c1ae259a2631a4c8d9a4938"
     }
   ],
   "duplicate_message_ids": [
