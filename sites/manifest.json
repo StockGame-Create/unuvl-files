@@ -88171,6 +88171,20 @@
       "subject": "지구과학2",
       "thumbnail": "thumbnails/14236.png",
       "sha256": "600caf5341f2307d3ad51a5f624f3ecd3bb5d800b2ac33b56b30e7d45d705e44"
+    },
+    {
+      "message_id": 14234,
+      "filename": "2026_N전용_서바이벌_물리학ll.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14234_2026_N._._.ll.pdf",
+      "size_bytes": 1153322,
+      "telegram_date": "2025-09-12T09:07:02+00:00",
+      "title": "물2 서바이벌 N전용 모의고사 1회 #서바N",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/14234.png",
+      "sha256": "d5cb10a1abaedb4479d30dd15874dad0e3a229b95543ac06bd97e67284672e9c"
     }
   ],
   "duplicate_message_ids": [
