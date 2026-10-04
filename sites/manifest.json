@@ -88549,6 +88549,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14195.png",
       "sha256": "844e47249d5dbe7a3dd0a7abd923561f380be3f9ceb133055d016a669171cd8c"
+    },
+    {
+      "message_id": 14193,
+      "filename": "기출픽 생명 답지.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14193_.pdf",
+      "size_bytes": 8008269,
+      "telegram_date": "2025-09-11T13:00:25+00:00",
+      "title": "생1 기출 PICK",
+      "year": null,
+      "instructor": null,
+      "subject": "생명과학1",
+      "thumbnail": "thumbnails/14193.png",
+      "sha256": "af0ae689e15556b6913c512e622b2a85049545e083b80e2e5f891e3a24f6f784"
     }
   ],
   "duplicate_message_ids": [
