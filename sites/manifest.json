@@ -87905,6 +87905,20 @@
       "subject": "화학1",
       "thumbnail": "thumbnails/14263.png",
       "sha256": "6c7070ccd7b3e1a07d3e6f90002a5d2baecd14e45bda16c877e53b692a2e1aeb"
+    },
+    {
+      "message_id": 14262,
+      "filename": "화1 전바1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14262_.1.1.pdf",
+      "size_bytes": 5940081,
+      "telegram_date": "2025-09-12T13:44:32+00:00",
+      "title": "화1 시대인재 서바이벌 전국 모의고사 1회 ~ 8회 #서바전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "화학1",
+      "thumbnail": "thumbnails/14262.png",
+      "sha256": "40ba666a09e4f1a692e2a4ec4d29e1280429f2ca38ff420da211b0ab9a35638f"
     }
   ],
   "duplicate_message_ids": [
