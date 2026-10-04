@@ -88031,6 +88031,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14249.png",
       "sha256": "0c9bd5c6f89412a74c6c58880ae61bb04c2a571159bb34a633b95057c2e5fae1"
+    },
+    {
+      "message_id": 14248,
+      "filename": "19 20회 강 k 강대 k 수학.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14248_19.20.k.k.pdf",
+      "size_bytes": 23307711,
+      "telegram_date": "2025-09-12T12:59:12+00:00",
+      "title": "수학 강대모의고사K 19회, 20회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14248.png",
+      "sha256": "ddd0c63166a617444ca95cd2630aad25ae998bdf79f2768bf25154b3249316ad"
     }
   ],
   "duplicate_message_ids": [
