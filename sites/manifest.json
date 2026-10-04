@@ -86379,6 +86379,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/14432.png",
       "sha256": "6c6d8c5cb4e15826f3f93c26237a92fcb04327faa6bceecf4e4a1b8a79ada52c"
+    },
+    {
+      "message_id": 14430,
+      "filename": "CamScanner 2025. 9. 15. 20.24.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14430_CamScanner.2025.9.15.20.24.pdf",
+      "size_bytes": 16321586,
+      "telegram_date": "2025-09-15T13:14:22+00:00",
+      "title": "생윤 OMEGA 모의고사 13회 #오메가",
+      "year": "2026",
+      "instructor": null,
+      "subject": "생활과윤리",
+      "thumbnail": "thumbnails/14430.png",
+      "sha256": "ff7a9dfcf1a7659ce891d20581ad862b8542be2a6c151acd5f19edc23de7896a"
     }
   ],
   "duplicate_message_ids": [
