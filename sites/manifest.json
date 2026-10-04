@@ -86869,6 +86869,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14382.png",
       "sha256": "fa51748c927489375c90ca25548c2b8a7d093dfea10ad901c3e1be731102f00a"
+    },
+    {
+      "message_id": 14381,
+      "filename": "파이널1-5회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14381_.1-5.pdf",
+      "size_bytes": 34051363,
+      "telegram_date": "2025-09-14T11:32:30+00:00",
+      "title": "국어 파이널1 예비평가 문제지 4회 ~ 7회 #한수",
+      "year": "2026",
+      "instructor": null,
+      "subject": "국어",
+      "thumbnail": "thumbnails/14381.png",
+      "sha256": "e86415964bec6a07f205cfc61ad3b0d5588116f6e9b83f414c0e631ec7abdd17"
     }
   ],
   "duplicate_message_ids": [
