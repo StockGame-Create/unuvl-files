@@ -87093,6 +87093,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14358.png",
       "sha256": "c38a04f5cc3f787b16d0abd83fcbbd6896a52a7901a02823a7269b1f5e4151e0"
+    },
+    {
+      "message_id": 14355,
+      "filename": "수학의정석기본_수학2수정본.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14355_._.2.pdf",
+      "size_bytes": 9663444,
+      "telegram_date": "2025-09-13T15:54:57+00:00",
+      "title": "수학 수학의 정석 수학2",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14355.png",
+      "sha256": "c2acc14ac47e416c839440820a9f82f8125fd936dedfa88d00222bef897e1e6f"
     }
   ],
   "duplicate_message_ids": [
