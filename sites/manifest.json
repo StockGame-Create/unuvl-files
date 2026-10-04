@@ -86295,6 +86295,20 @@
       "subject": "한국지리",
       "thumbnail": "thumbnails/14441.png",
       "sha256": "46a95da4d766806cf0b5bfc0c75fdf389e3ded661d503ee35c8cf9c41f1ee1a8"
+    },
+    {
+      "message_id": 14440,
+      "filename": "사회문화 4STEP 워크북.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14440_.4STEP.pdf",
+      "size_bytes": 15915993,
+      "telegram_date": "2025-09-15T13:41:57+00:00",
+      "title": "사문 4STEP 문제풀이",
+      "year": "2026",
+      "instructor": "이지영",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14440.png",
+      "sha256": "24951cf5f3dbae711136574f24fd133841881bed13d18f88df85d9b78267ecfa"
     }
   ],
   "duplicate_message_ids": [
