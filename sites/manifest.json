@@ -87107,6 +87107,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14355.png",
       "sha256": "c2acc14ac47e416c839440820a9f82f8125fd936dedfa88d00222bef897e1e6f"
+    },
+    {
+      "message_id": 14353,
+      "filename": "이명학 실모 전체해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14353_.pdf",
+      "size_bytes": 81843042,
+      "telegram_date": "2025-09-13T15:43:35+00:00",
+      "title": "영어 이명학 실전 모의고사 1회 ~ 7회 (해설지)",
+      "year": "2026",
+      "instructor": "이명학",
+      "subject": "영어",
+      "thumbnail": "thumbnails/14353.png",
+      "sha256": "c31534e8a2fe356e51b1361de73c96857399185476acbb2046af2979fa798435"
     }
   ],
   "duplicate_message_ids": [
