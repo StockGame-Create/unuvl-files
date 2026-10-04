@@ -86309,6 +86309,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/14440.png",
       "sha256": "24951cf5f3dbae711136574f24fd133841881bed13d18f88df85d9b78267ecfa"
+    },
+    {
+      "message_id": 14439,
+      "filename": "사회문화 4STEP 본책.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14439_.4STEP.pdf",
+      "size_bytes": 55601204,
+      "telegram_date": "2025-09-15T13:41:57+00:00",
+      "title": "사문 4STEP 문제풀이",
+      "year": "2026",
+      "instructor": "이지영",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14439.png",
+      "sha256": "215f63f7a0e37e4ecf7ccedb3f48693f68354dd40e0a9783e59aec91a1b1f004"
     }
   ],
   "duplicate_message_ids": [
