@@ -86365,6 +86365,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14433.png",
       "sha256": "1f43ead102a3360104c1b64f51cff504db027388ae0c9ab54b302999e74399b5"
+    },
+    {
+      "message_id": 14432,
+      "filename": "2026_사회문화_전국_브릿지_5회_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14432_2026_._._._5._.pdf",
+      "size_bytes": 13176304,
+      "telegram_date": "2025-09-15T13:28:19+00:00",
+      "title": "사문 시대인재 브릿지 전국 모의고사 5회 (해설지) #브릿지전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14432.png",
+      "sha256": "6c6d8c5cb4e15826f3f93c26237a92fcb04327faa6bceecf4e4a1b8a79ada52c"
     }
   ],
   "duplicate_message_ids": [
