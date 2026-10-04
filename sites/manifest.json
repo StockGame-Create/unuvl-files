@@ -88045,6 +88045,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14248.png",
       "sha256": "ddd0c63166a617444ca95cd2630aad25ae998bdf79f2768bf25154b3249316ad"
+    },
+    {
+      "message_id": 14246,
+      "filename": "19회_20회_호형훈제_스피드러너.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14246_19._20._._.pdf",
+      "size_bytes": 24266653,
+      "telegram_date": "2025-09-12T09:14:42+00:00",
+      "title": "수학 호형훈제 스피드러너 모의고사 FINAL 19회, 20회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14246.png",
+      "sha256": "e087a869c26f062bb2b60ab816b76d9bbf1def5e7e19e7b2ebba1d244911daca"
     }
   ],
   "duplicate_message_ids": [
