@@ -87541,6 +87541,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14306.png",
       "sha256": "f4f2dc59fef0ba4a71dba89f666580808697fdcac07491eef8cda2628128f072"
+    },
+    {
+      "message_id": 14305,
+      "filename": "이해원 모의고사 시즌2 정답 및 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14305_.2.pdf",
+      "size_bytes": 141210435,
+      "telegram_date": "2025-09-12T16:14:10+00:00",
+      "title": "수학 이해원 모의고사 시즌2 0회 ~ 2회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14305.png",
+      "sha256": "ef4b475645c5a2162e45667acf438d526490194b24cdcd0159bb8d2a00ec91db"
     }
   ],
   "duplicate_message_ids": [
