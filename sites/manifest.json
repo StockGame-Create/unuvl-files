@@ -88437,6 +88437,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14204.png",
       "sha256": "b7e4f92ceb0d012a05647c2fa8b4934c2e18a6a505b3edfdbf911028a932ffcc"
+    },
+    {
+      "message_id": 14203,
+      "filename": "ANALOG_수리논술_기하_손글씨해설편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14203_ANALOG_._._.pdf",
+      "size_bytes": 13357479,
+      "telegram_date": "2025-09-11T14:12:47+00:00",
+      "title": "수학 ANALOG 수리논술 기하",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14203.png",
+      "sha256": "dd3bed969c7858a887983dd4ddf25cf7bc21297fd22aa593eaead0ffdb3b99ce"
     }
   ],
   "duplicate_message_ids": [
