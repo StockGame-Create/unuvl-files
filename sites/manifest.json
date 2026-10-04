@@ -86337,6 +86337,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14438.png",
       "sha256": "438273babe223dfeb982ec9fbe83a1d6b7f9526f2fcc6684a64e2ea4f20c9874"
+    },
+    {
+      "message_id": 14437,
+      "filename": "2026 김기현 기출생각집 미적분 4점.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14437_2026.4.pdf",
+      "size_bytes": 93231315,
+      "telegram_date": "2025-09-15T13:36:39+00:00",
+      "title": "수학 김기현 기출생각집 4점 미적분 #기생집",
+      "year": "2026",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14437.png",
+      "sha256": "1d23bab0fcedb7d5984eeb0c3aecca86cb0b859a431c76ee2ee3e03832a05c5f"
     }
   ],
   "duplicate_message_ids": [
