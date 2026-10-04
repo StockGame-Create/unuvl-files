@@ -87387,6 +87387,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14323.png",
       "sha256": "21885a4db058ddd706d6066a53cc83e596eb175f6948ca8851782bd863eac20b"
+    },
+    {
+      "message_id": 14320,
+      "filename": "빅뱅모 시즌1.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14320_.1.pdf",
+      "size_bytes": 75969392,
+      "telegram_date": "2025-09-13T09:28:12+00:00",
+      "title": "물1 Big Bang 모의고사 시즌1 1회 ~ 4회",
+      "year": "2026",
+      "instructor": null,
+      "subject": "물리학1",
+      "thumbnail": "thumbnails/14320.png",
+      "sha256": "12f5d9dfa9604ee69852191cf7cb9b576845d52808af1df0a30d55c596641314"
     }
   ],
   "duplicate_message_ids": [
