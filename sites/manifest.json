@@ -87121,6 +87121,20 @@
       "subject": "영어",
       "thumbnail": "thumbnails/14353.png",
       "sha256": "c31534e8a2fe356e51b1361de73c96857399185476acbb2046af2979fa798435"
+    },
+    {
+      "message_id": 14351,
+      "filename": "_2021학년도_물리학2_성능좋은_모의고사_1회_2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14351__2021._.2_._._1._2.pdf",
+      "size_bytes": 774299,
+      "telegram_date": "2025-09-13T15:24:38+00:00",
+      "title": "물2 노무현식 성능좋은 실전 모의고사 1회",
+      "year": "2021",
+      "instructor": null,
+      "subject": "물리학2",
+      "thumbnail": "thumbnails/14351.png",
+      "sha256": "979f4e3665ced275c41e69bdc9b9f85f92860776042181027a1dcb7f921065ca"
     }
   ],
   "duplicate_message_ids": [
