@@ -88157,6 +88157,20 @@
       "subject": "지구과학1",
       "thumbnail": "thumbnails/14238.png",
       "sha256": "166652f65578d1b6d7e36e069797dd0d86dd27d69469af9659a2e37e0e972780"
+    },
+    {
+      "message_id": 14236,
+      "filename": "26 강k 지2 2회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14236_26.k.2.2.pdf",
+      "size_bytes": 12950567,
+      "telegram_date": "2025-09-12T09:08:07+00:00",
+      "title": "지2 강대모의고사K 2회 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학2",
+      "thumbnail": "thumbnails/14236.png",
+      "sha256": "600caf5341f2307d3ad51a5f624f3ecd3bb5d800b2ac33b56b30e7d45d705e44"
     }
   ],
   "duplicate_message_ids": [
