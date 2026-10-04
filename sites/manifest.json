@@ -88255,6 +88255,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14223.png",
       "sha256": "47ff83e0c174a356bceb2bdfac368a0ead3e810d7bfe3bac01c5a2108498fb67"
+    },
+    {
+      "message_id": 14221,
+      "filename": "2025_Survival_Note_합본_250725_062951 (2).pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14221_2025_Survival_Note_._250725_062951.2.pdf",
+      "size_bytes": 813549209,
+      "telegram_date": "2025-09-11T14:57:01+00:00",
+      "title": "지1 Survival Note 1회 ~ 28회 합본",
+      "year": "2026",
+      "instructor": null,
+      "subject": "지구과학1",
+      "thumbnail": "thumbnails/14221.png",
+      "sha256": "9b7ec09fa50695f460433ba0e6aefbf3e89b34b2a00ff6df3a1ef57f77ab2efc"
     }
   ],
   "duplicate_message_ids": [
