@@ -87807,6 +87807,20 @@
       "subject": "국어",
       "thumbnail": "thumbnails/14275.png",
       "sha256": "b52ef0fc31d1162a54c97959f42bb4a5791d66f1e88a43931dc09d2acd64adaa"
+    },
+    {
+      "message_id": 14271,
+      "filename": "2026_기출코드_수1_문제편.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14271_2026_._.1_.pdf",
+      "size_bytes": 80626303,
+      "telegram_date": "2025-09-12T13:51:11+00:00",
+      "title": "수학 양승진의 기출코드 수학1",
+      "year": "2026",
+      "instructor": "양승진",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14271.png",
+      "sha256": "9a2abf2639b8161c582bb5120696386dd21554c74ae83e4c8770e0f23ebbf64b"
     }
   ],
   "duplicate_message_ids": [
