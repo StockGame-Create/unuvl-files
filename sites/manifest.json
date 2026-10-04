@@ -88689,6 +88689,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14178.png",
       "sha256": "fbb8dcb8d41f43ff865cb21a8bd6679f2c5287c421de246c1666b9238f505f19"
+    },
+    {
+      "message_id": 14177,
+      "filename": "26 강대 사문 1~8회.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14177_26.1.8.pdf",
+      "size_bytes": 117803363,
+      "telegram_date": "2025-09-11T09:15:09+00:00",
+      "title": "사문 강대모의고사K 1회 ~ 8회 합본 #강k",
+      "year": "2026",
+      "instructor": null,
+      "subject": "사화문화",
+      "thumbnail": "thumbnails/14177.png",
+      "sha256": "564e5db0daa59a2709b76eaa8275f3881515675eafaa5940526b5ef39478f4c7"
     }
   ],
   "duplicate_message_ids": [
