@@ -86323,6 +86323,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/14439.png",
       "sha256": "215f63f7a0e37e4ecf7ccedb3f48693f68354dd40e0a9783e59aec91a1b1f004"
+    },
+    {
+      "message_id": 14438,
+      "filename": "2026_김기현_기출생각집_미적분_4점_정답과_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14438_2026_._._._4._._.pdf",
+      "size_bytes": 59919057,
+      "telegram_date": "2025-09-15T13:36:39+00:00",
+      "title": "수학 김기현 기출생각집 4점 미적분 #기생집",
+      "year": "2026",
+      "instructor": "김기현",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14438.png",
+      "sha256": "438273babe223dfeb982ec9fbe83a1d6b7f9526f2fcc6684a64e2ea4f20c9874"
     }
   ],
   "duplicate_message_ids": [
