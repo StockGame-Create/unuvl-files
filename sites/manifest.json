@@ -88521,6 +88521,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14197.png",
       "sha256": "70073eccd3875fb854bd6ec6f8d407df18db7c1db45dbfc7c72dcc7d4cd8160b"
+    },
+    {
+      "message_id": 14196,
+      "filename": "2026 지인선 모의고사 해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14196_2026.pdf",
+      "size_bytes": 41390061,
+      "telegram_date": "2025-09-11T13:46:49+00:00",
+      "title": "수학 지인선 실전 모의고사 1회 ~ 3회",
+      "year": "2026",
+      "instructor": "지인선",
+      "subject": "수학",
+      "thumbnail": "thumbnails/14196.png",
+      "sha256": "23b41dd6931c7d78e517a3fc037888aa7de065d46e20da302c8681bb01d0ccba"
     }
   ],
   "duplicate_message_ids": [
