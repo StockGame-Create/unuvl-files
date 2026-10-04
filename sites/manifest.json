@@ -86589,6 +86589,20 @@
       "subject": "물리학1",
       "thumbnail": "thumbnails/14409.png",
       "sha256": "cf32911f473e300561b89d2ff2183fd7a4fb476b02b00e790eb7a98a47a434ac"
+    },
+    {
+      "message_id": 14407,
+      "filename": "UTF_8''마플교과서_미적분_해설.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14407_UTF_8._._.pdf",
+      "size_bytes": 41718504,
+      "telegram_date": "2025-09-15T03:29:35+00:00",
+      "title": "수학 마플 교과서 미적분",
+      "year": null,
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14407.png",
+      "sha256": "1b8d54508b0978189c7e42daae80577b29c8022a1eb735226df30aeed03543a6"
     }
   ],
   "duplicate_message_ids": [
