@@ -87219,6 +87219,20 @@
       "subject": "물리학2",
       "thumbnail": "thumbnails/14341.png",
       "sha256": "9e93b8f18fc1382d47278e7e272d203e854893e45de8bf789a894c071badb76d"
+    },
+    {
+      "message_id": 14339,
+      "filename": "2023 강대K 화학2.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14339_2023.K.2.pdf",
+      "size_bytes": 95154266,
+      "telegram_date": "2025-09-13T12:38:50+00:00",
+      "title": "화2 강대모의고사K 1회 #강k",
+      "year": "2023",
+      "instructor": null,
+      "subject": "화학2",
+      "thumbnail": "thumbnails/14339.png",
+      "sha256": "6e4639de0e5c0edf1a5cb142cd7079e133ee0054647929366846d8cd42407f7f"
     }
   ],
   "duplicate_message_ids": [
