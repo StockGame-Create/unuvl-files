@@ -88773,6 +88773,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14169.png",
       "sha256": "a261a4de055732d3bd9ff5320a2aa0d2b5b5dbf66e549e47bc32db4165c07088"
+    },
+    {
+      "message_id": 14167,
+      "filename": "2026_김젬마_실전하프모의고사_독서_2회_문학1,2회_독서1회는_공공재방에_있습니당_250911_122204.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14167_2026_._._._2._.1.2._.1._._._250911_122204.pdf",
+      "size_bytes": 1298773,
+      "telegram_date": "2025-09-11T03:49:05+00:00",
+      "title": "국어 실전 미니 모의고사 2회",
+      "year": "2026",
+      "instructor": "김젬마",
+      "subject": "국어",
+      "thumbnail": "thumbnails/14167.png",
+      "sha256": "04564724b78432bab209a037f1327d6cf9a8118caea15eb354f6485de558df05"
     }
   ],
   "duplicate_message_ids": [
