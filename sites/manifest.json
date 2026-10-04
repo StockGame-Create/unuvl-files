@@ -87457,6 +87457,20 @@
       "subject": "사회문화",
       "thumbnail": "thumbnails/14315.png",
       "sha256": "b3408cab4bb285bf767b80e741ff2f492459d3753fb230ee13a3ac87e831030a"
+    },
+    {
+      "message_id": 14313,
+      "filename": "최종분석_hot7_특별판_모의고사.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14313_._hot7_._.pdf",
+      "size_bytes": 5933964,
+      "telegram_date": "2025-09-13T01:32:19+00:00",
+      "title": "사문 HOT7 핫세븐 특별판 모의고사 (문제지)",
+      "year": "2026",
+      "instructor": "윤성훈",
+      "subject": "사회문화",
+      "thumbnail": "thumbnails/14313.png",
+      "sha256": "d97e370aa94c74a5322a986b6737d52f0e29057f732a51c864925dd2c973d9f5"
     }
   ],
   "duplicate_message_ids": [
