@@ -87527,6 +87527,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14307.png",
       "sha256": "c648b4bb40841c1b9d17d3c0dadc81dce73715d57cb604223856ec0c53fd8e2e"
+    },
+    {
+      "message_id": 14306,
+      "filename": "2026 이로운 모의고사 시즌1 문제.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14306_2026.1.pdf",
+      "size_bytes": 38177112,
+      "telegram_date": "2025-09-12T16:35:17+00:00",
+      "title": "수학 이로운 모의고사 시즌1, 시즌2",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14306.png",
+      "sha256": "f4f2dc59fef0ba4a71dba89f666580808697fdcac07491eef8cda2628128f072"
     }
   ],
   "duplicate_message_ids": [
