@@ -88899,6 +88899,20 @@
       "subject": "수학",
       "thumbnail": "thumbnails/14152.png",
       "sha256": "d9cccca028cea39b5d328aa3bfae03f598725bd34dcbfa064e4238b204652a3d"
+    },
+    {
+      "message_id": 14151,
+      "filename": "26 전국 파이널브릿지 기하.pdf",
+      "stored_as": null,
+      "download_url": "https://github.com/StockGame-Create/unvul-files/releases/download/large-files-7/14151_26.pdf",
+      "size_bytes": 9154804,
+      "telegram_date": "2025-09-10T16:23:10+00:00",
+      "title": "수학 시대인재 Final 브릿지 전국 모의고사 1회 ~ 9회 공통 + 기하 합본 #파브전국",
+      "year": "2026",
+      "instructor": null,
+      "subject": "수학",
+      "thumbnail": "thumbnails/14151.png",
+      "sha256": "890043bb1cd612a4e2725ec694fb31705167fa22feb987cf293da17c610542f7"
     }
   ],
   "duplicate_message_ids": [
